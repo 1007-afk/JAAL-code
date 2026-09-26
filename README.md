@@ -23,6 +23,7 @@ JAAL-10k-code/
 │
 ├── human_validation/                      # Human annotation validation study
 │   └── annotation_analysis.ipynb          # Jupyter notebook for IAA, Kappa, realism, and confidence
+|   |--- results                           # contains the annotations
 │
 ├── models/                                # Model training, baselines, and evaluation
 │   ├── baselines.py                       # TF-IDF + Logistic Regression / Linear SVM baselines
@@ -36,6 +37,7 @@ JAAL-10k-code/
 │   ├── modernbert_weight.py               # Class-weighted ModernBERT classifier
 │   ├── zero_shot.py                       # LLM zero-shot classification evaluation
 │   ├── jev_eval.py                        # Joint Evaluation & Verification (LLM-as-a-judge)
+|   |--- hingbert.py
 │   └── requirements.txt                   # Modeling dependencies (PyTorch, Transformers, etc.)
 │
 ├── scripts/                               # Data engineering, auditing, and analysis
