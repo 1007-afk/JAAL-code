@@ -1,0 +1,7 @@
+caller: Namaste! Main Akash Verma, FastTrack Logistics se baat kar raha hoon. Aapke Amazon order number 789-456-123 ko deliver karne mein ek chhoti si problem aa gayi hai.
+receiver: Kya problem hai? Mujhe to delivery ka koi message nahi aaya.
+caller: Haan ji, delivery address mein kuch confusion hai. System mein dikh raha hai ki aapka flat number sahi nahi hai. Isko clear karne ke liye, aapko ek OTP mil sakta hai. Aap OTP share karenge to main deliver kar paunga.
+receiver: OTP? Amazon kabhi OTP maangta hai delivery ke liye?
+caller: Ji haan, security ke liye, sir. Agar OTP share nahi karenge toh order hold ho jayega. Aapko inconvenience hogi. Abhi sirf 2 hours mein deliver kar paunga agar aap OTP share karein.
+receiver: Thoda wait karo, main Amazon app check karta hoon. Mujhe doubt ho raha hai.
+caller: Sir, time barbaad mat karein. Order hold ho jayega aur aapko phir se pay karna padega. Just OTP share karein. Is offer pe chal rahe hain, toh delay nahi kar sakte.

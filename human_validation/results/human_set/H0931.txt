@@ -1,0 +1,25 @@
+caller: Namaste! Aapko pata hai kya, humara naya smart watch launch karne wale hain, aur humein aapki madad chahiye!
+receiver: Haan, boliye! Mein sun rahi hoon. Kaise meri madad le sakti hoon?
+caller: Sir, humari company ne ek special offer diya hai - ek smart watch free mil jayegi jab aap ek simple online form fill karenge. Toh aapko sirf registration karna hai, aur aapko ek surprise waiting hai!
+receiver: Wow, smart watch free? Amazing! Registration kaise hoga? Aur form kahan hai?
+caller: Form internet par available hai, sir. Just type "techdeals4u.com" google mein, aur aapko form pata chalega. Aur yeh offer limited time ke liye hi chalega, so aapko jaldi karna hai!
+receiver: Techdeals4u.com… okay, I’ll check that out. Par mujhe yeh bhi malum hona chahiye ki yeh safe hai kya? Koi fraud nahi hai?
+caller: Relax, sir! Hamari company ek reputed brand hai. Aur hamare all servers secure hain. Form fill karte samay aapko sirf required information puchne wale hain, koi unnecessary questions nahi puneinge.
+receiver: Okay, good to know.  Aur yeh smart watch kaunsi brand ki hai? Ismein kaunse features hain?
+caller: Woh, sir, yeh ek Indian brand ki hai, "NovaTech". Ismein heart rate monitor, sleep tracker, GPS, aur vibration alerts sab kuch hai!  Iska design bhi bahut attractive hai.  Agar aap register hone mein delay karte hain, toh yeh offer poora miss ho jayega! Jaldi register karein!
+receiver: Heart rate monitor aur GPS?  Okay, interesting.  Mujhe registration karne mein time lag sakta hai.  To, agar main baad mein register karta hoon, toh kya hota hai?
+caller: An ji, agar aap baad mein register karte hain, toh aapko offer poora nahi milenga. But don't worry, humara team aapko encourage karega register karne ke liye!  Aap isi number par call kar sakte hain, 09876543210, aur hum aapki help karenge.  Abhi aapka registration complete karwa dijiye taaki aapko yeh amazing deal mile!
+receiver:  Arre yaar, itni hurry kyun hai?  Okay, fine. Mera address hai 456, Patel Nagar, Mumbai.  Aur phone number 9876543210, correct?  Just one more thing – yeh smart watch warranty ke saath aata hai?
+caller: Absolutely! Smart watch ko 1 year ka warranty hai.  Aur aapko delivery mein bhi free accessories mil jayenge!  Jaldi karin, sir! Offer poora ho gaya toh poora ho jayega!
+caller: Namaste sir, aapko dekha to laga ki aapko ek new mobile plan chahiye, isliye humein thought ki aapse baat kare.
+receiver:Haan, boliye. Main sun rahi hoon.
+caller: Sir, humari company ne ek new plan launch kiya hai jismein aapko 300 GB data milega aur unlimited calling bhi hogi.
+receiver: 300 GB data aur unlimited calling? Thoda expensive hoga na?
+caller: Nahi sir, yeh plan bahut affordable hai. Aur ismein extra benefit hai ki aapko free OTT subscription bhi milega, like Netflix aur Amazon Prime.
+receiver: OTT subscription bhi?  Interesting.  Kab tak valid rahega yeh plan?
+caller: Sir, yeh plan sirf ek maeesh ke liye valid hai, lekin aapko assurance hai ki aapko kabhi bhi data aur calling ka kamzori nahi hogi.
+receiver:  Okay, good to know.  Aur yeh plan kismein include nahi hai?  Koi hidden charges hain kya?
+caller: Sir, yeh plan sirf 4G networks ke liye hai. Aur ismein roaming charges apply honge.  Par trust me, yeh plan aapke liye bahut beneficial hai.
+receiver:  Roaming charges?  Theek hai.  Mujhe yeh bhi malum hona chahiye ki yeh plan activate karne ke liye kya karna padega?
+caller: Sir, aap apne existing account par login kar lenge aur plan upgrade option select karenge.  Ya phir aap humare website par bhi register kar sakte hain.
+receiver: Website ka address bata

@@ -1,0 +1,8 @@
+caller: Namaste! Mai Tata Aadhar Services se Rahul Sharma bol raha hoon. Aapka Aadhar card information update hone ke zarurat hai, government ke new guidelines ke according. Iske liye kuch details verify karne hai.
+receiver: Tata Aadhar Services? Update? Yeh kya hai? Mai Priya Verma hoon. Mujhe kuch samajh nahi aa raha hai.
+caller: Haan ji, Priya Verma! Government ne Aadhar card ko secure banane ke liye, sabke details update karne ko kaha hai. Iske liye aapko bas kuch basic details doongi – aapka Aadhar card number ka last 4 digits aur ek OTP jo aapko SMS se milega.
+receiver: OTP? Mujhe OTP dene se kuch chinta ho rahi hai. Tumhare paas meri details kaise hain? Aur mujhe toh koi message nahi aaya hai.
+caller: Priya ji, OTP security ke liye hai. Woh sirf verify karne ke liye hai ki aap sahi bol rahe hain. OTP ka message check kijiye, kabhi kabhi delay ho jaata hai. Agar aap update nahi karayengi, toh aapke Aadhar card se linked government schemes band ho sakti hai.
+receiver: Schemes band ho jayengi? Main toh Pension scheme use karti hoon. Chalo, ek minute rukti hoon, dekhti hoon message. (pause) Arre, mujhe koi OTP nahi mila!
+caller: Thoda wait kijiye, Priya ji. System mein kuch problem ho sakta hai. Iske liye aapko ek alternate verification process follow karna hoga. Aapko apne bank account number ka last 3 digits bataiye, taaki hum account verify kar sakein.
+receiver: Bank account number? Abhi ruk jao! Tum log toh scammer ho! Mai police mein report karti hoon.

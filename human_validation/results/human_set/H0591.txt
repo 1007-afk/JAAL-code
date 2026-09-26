@@ -1,0 +1,10 @@
+caller: Namaste, sir. Is this Mr. Rajesh Sharma? This is Inspector Singh from the Delhi Customs Department.
+receiver: Haan, bolhiye. Rajesh Sharma hu main. Kya hua?
+caller: Sir, a package registered under your name has been flagged at the Indira Gandhi International Airport. It contains suspected contraband – illegal currency.
+receiver: Illegal currency? Yeh kya keh rahe hain aap? Main toh kabhi koi package nahi bheja.
+caller: Sir, we have the tracking details. The reference number is DGC-7842. To clear this immediately and avoid legal repercussions, you need to pay a processing fee of ₹12,500.
+receiver: ₹12,500? Lekin main toh kuch nahi bheja! Ye galat baat hai.
+caller: Sir, delaying this will only complicate matters. We need to verify your identity and clear the package quickly. You can make the payment through UPI to this number: 8989898989.
+receiver: UPI? Nahi, nahi, main nahi karunga. Main police station mein report karunga.
+caller: Sir, please don’t do that. This is a sensitive matter, and we are handling it discreetly. If you report it, it will attract unnecessary attention and delay the process. The deadline to pay is in one hour.
+receiver: Ek ghanta? Theek hai, ek minute ruko, mai dekhta hu.

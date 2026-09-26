@@ -1,0 +1,16 @@
+caller: calling from DigiConnect Support. We’ve seen you’re using our Premium Data Plan and we want to give you a limited-time upgrade opportunity. You have 2 remaining data boosts. Would you like to activate them?
+receiver: Haan sir, DigiConnect support se? Premium data plan? Boosts? Okay, bolna kya karna hai.
+caller: Haan sir, exactly! DigiConnect support ke naam par. Aapke paas premium data plan hai, itna acha! Par ab, system me ek small glitch hai. Now you only have 1 boost left. Just one single data boost. Are you interested in activating that one boost right away?
+receiver: Arre yaar, just one boost? Fir pehle do bata rahe the! Kya chal raha hai yahan? Isme koi bakwas nahi chahiye.
+caller: Nahin, nahin, no bakwas nahi. System update hone ki wajhse, count change ho gaya tha. Actually, initially, aapke paas 3 boosts the, but then due to the update, it has reduced to 1. It’s a technical issue, trust me. Now you can still get that one boost activated, and it will instantly increase your data limit.
+receiver: Technical issue? Seriously? Then why didn’t you tell me about this before? And how much does this one boost cost? If it's not free, I don't want it.
+caller: Free hai sir! Completely free. No charges involved. Just a simple activation process. We just need you to confirm that you want to use this one remaining boost. So, are you ready to activate that single boost now?
+receiver: Arey yaar, so now only 1 boost is left? This is getting confusing. If you say it’s free, then tell me exactly how I can get it. Otherwise, I am ending the call.
+caller: calling from DigiConnect Support. We’ve seen you’re using our Premium Data Plan and we want to give you a limited-time upgrade opportunity. You have 2 remaining data boosts. Would you like to activate them?
+receiver: Haan sir, DigiConnect support se? Premium data plan? Boosts? Okay, bolna kya karna hai.
+caller: Haan sir, exactly! DigiConnect support ke naam par. Aapke paas premium data plan hai, itna acha! Par ab, system me ek small glitch hai. Now you only have 1 boost left. Just one single data boost. Are you interested in activating that one boost right away?
+receiver: Arre yaar, just one boost? Fir pehle do bata rahe the! Kya chal raha hai yahan? Isme koi bakwas nahi chahiye.
+caller: Nahin, nahin, no bakwas nahi. System update hone ki wajhse, count change ho gaya tha. Actually, initially, aapke paas 3 boosts the, but then due to the update, it has reduced to 1. It’s a technical issue, trust me. Now you can still get that one boost activated, and it will instantly increase your data limit.
+receiver: Technical issue? Seriously? Then why didn’t you tell me about this before? And how much does this one boost cost? If it’s not free, I don't want it.
+caller: Free hai sir! Completely free. No charges involved. Just a simple activation process. We just need you to confirm that you want to use this one remaining boost. So, are you ready to activate that single boost now?
+receiver: Arey yaar, so now only 1 boost is left? This is getting confusing. If you say it’s free, then tell me exactly how I can get it. Otherwise, I am ending the call.

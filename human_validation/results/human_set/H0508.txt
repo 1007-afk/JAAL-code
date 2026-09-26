@@ -1,0 +1,12 @@
+caller: Airtel customer service pehla hua hai. Aapka number internet connection ke liye register kiya gaya hai, isliye aapko ek six-digit OTP mila hoga. Kya aap mujhe yeh OTP bata sakte hain?
+receiver: Ji, maine OTP mila hai. Main check kar raha hoon… Oh, yeh toh 789065 hai. Aapko yeh number chahiye tha na?
+caller: Haan ji, 789065 correct hai. Dhanyavaad, ji. Aapka number verify ho gaya hai. Parantu, humein aapke account mein ek small transaction dekha ja raha hai.  Aapne recently online shopping ki thi kya?
+receiver:  Nahi, maine abhi tak koi shopping nahi ki hai.  Mai sirf internet use karta hoon.
+caller: Okay, okay.  Dekh rahe hain...  Aapke account se ₹500 ka transaction dekha gaya hai.  Yeh probably technical error hoga, lekin humein ismein doubt hai. Aapko yeh transaction cancel karne ke liye kuch information dena padega.  Aapka bank name aur account number bataiye.
+receiver:  Ji, meri bank ka naam Axis Bank hai aur account number 123456789012 hota hai. Lekin main itna information share karne mein comfortable nahi hun. Yeh kitni serious matter hai?
+caller:  Sir, yeh bahut important hai. Humare system mein technical problem hai.  Agar aap yeh transaction cancel nahi karenge, to aapko ₹500 ka penalty jo daalna padega.  Aapko apne debit card ka CVV code bhi dena hoga.
+receiver:  CVV code mat dedo!  Yeh dukaan hai ya scam hai?  Aapka identity disclose karna shuru kar diya hai.
+caller:  (Long pause) ... Sir, humein maaf kijiye. Humein pata chala hai ki humari website hacker hone wali thi.  Aapko disturb karne ke liye sorry.  Aapka number secure hai.  Thank you.
+receiver:  Koi baat nahi.  Main ab samajh gaya.  Aapka apology accept hai.  Main kisi bhi transaction ke liye ready nahi hun.
+caller:  Dhanyavaad, sir.  Aapki help ke liye thank you.  Ape aachi suno!
+receiver:  Aapko bhi aachi suno!

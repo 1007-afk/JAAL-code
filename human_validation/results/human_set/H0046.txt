@@ -1,0 +1,13 @@
+caller:  Is a recorded message from ‘Speedy Parcel’ services. We attempted a delivery to your residence at Sector 12, Noida, but faced some difficulties. Please call us immediately at 09876543210 and mention reference ID KLR8794 to reschedule your shipment. We apologize for any inconvenience.
+receiver: Hello? Haanji, woh parcel ka message aaya tha? Haath mein number hai 09876543210, right? Aur reference ID KLR8794? Okay, main call karta hoon abhi. Thank you.
+caller:  Haanji, thanks for calling back. Ji, there was a minor complication regarding your package – we require verification of a security code. Could you please provide the last four digits of your Aadhar card? It's essential for processing the re-delivery.
+receiver: Haanji, zaroor. Last four digits of my Aadhar card are 1234. Kya yeh code delivery schedule karne ke liye zaroori hai? Aur aap ne kaha tha sector 12, Noida?
+caller:  Haanji, yes, that’s correct. The security code helps us ensure the package reaches the intended recipient safely. Now, could you also tell me the name of the person who usually receives deliveries at your address?
+receiver:  Main pehle hi delivery leta hoon. Name is Rohan Sharma. And this Aadhar code, is it really important for rescheduling just one delivery?
+caller:  Haanji, absolutely! It’s standard procedure for all re-scheduled deliveries. For your peace of mind, we want to verify everything before dispatching again. One moment, let me check the status…
+receiver:  Okay, fine. Just checking. Can I ask what kind of item was delivered previously? Maybe that will give me an idea about the sender.
+caller:  That information isn’t readily available to me at this time. However, the tracking details show it was a small electronics device.  We need to proceed with the re-scheduling now. Please confirm your availability tomorrow between 2 PM and 5 PM.
+receiver:  Tomorrow 2 to 5 PM?  Okay, I think that works. But can you assure me that this Aadhar code thing is genuinely needed, and not just a way to get my details?
+caller:  Haanji, completely genuine. This is simply to prevent any potential issues during the new delivery attempt.  Please provide your email address so we can send you a confirmation of the rescheduled delivery.
+receiver:  My email is rohan.sharma@email.com. Send me the confirmation, please.  Thank you.
+caller:  Wonderful!  Confirmation sent.  The rescheduled delivery will be attempted tomorrow between 2 PM and 5 PM.  Do not forget to mention reference ID KLR8794 when the courier arrives.  Thank you for your cooperation.

@@ -1,0 +1,11 @@
+caller: Namaste! Main Akash, Paytm se calling kar raha hoon. Aapko ek bahut hi achchi khushi mili hai!
+receiver: Khushi? Kya khushi?
+caller: Ji, aap Paytm ke loyal customer hain, isliye aapko ek scratch card gift mila hai. Is scratch card mein ₹1500 cashback jeetne ka mauka hai!
+receiver: ₹1500? Really? Mujhe scratch card kahaan mila?
+caller: Scratch card aapke Paytm wallet mein add kar diya gaya hai. Ab aapko sirf scratch card ko redeem karna hai. Iske liye aapko ek verification fee bharvani padegi, sirf ₹50.
+receiver: ₹50 fee? Kahan bharu? Koi link bhejo. Aur ₹1500 cashback kaise milega?
+caller: Haan, ek link hai. Paytm.scratchcardverify.com. Wahan per aapko fee bhar deni hai, aur cashback automatically aapke wallet mein add ho jayega. Jaldi karo, offer sirf aaj ke liye hai!
+receiver: Wait, yeh site Paytm ki dikhti nahi hai. Aur ₹50 fee? Kitna suspicious hai!
+caller: Madam, suspicion mein kuch galat nahi hai. Yeh offer sirf select customers ke liye hai aur verification fee security ke liye hai. Aapka loss nahi hoga, promise!
+receiver: Nahin, mujhe nahi chahiye. Yeh scam lag raha hai. Main report karungi.
+caller: Madam, aap galat kar rahe hain! Aapko ₹1500 ka nuksan hoga! Aapka time barbaad ho raha hai!

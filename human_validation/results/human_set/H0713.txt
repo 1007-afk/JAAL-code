@@ -1,0 +1,10 @@
+caller: Hello, is this Ms. Verma? I'm calling from the Directorate of Revenue Intelligence, DRI.
+receiver: Haan, main hi Ms. Verma. Bolo, kya baat hai?
+caller: Ma’am, we have intercepted a suspicious parcel linked to your address containing suspected contraband. It's a serious matter involving international drug trafficking.
+receiver: Kya? Mere address pe? Main toh kabhi parcel accept nahi kiya. Yeh kaise ho sakta hai?
+caller: Ma'am, we need to verify your details to ensure this hasn't been intercepted by the actual perpetrators. We'll need to put you on a video call with our investigating officer for identification purposes. And to clear things, you’ll need to pay a small processing fee of ₹15,000 to cover the investigation costs and ensure the parcel is cleared.
+receiver: ₹15,000? Kaise? Aur video call se kya farak padega? Main toh kuch samjh nahi rahi.
+caller: Ma'am, the fee is non-negotiable. This is standard procedure. The video call is vital to verify your identity and prevent further complications. We’ll also need your bank details to facilitate the payment and clear the parcel swiftly. Failure to cooperate could lead to legal action.
+receiver: Dekhiye, mujhe yeh thoda suspicious lag raha hai. Main police station mein report karungi agar aap log fake nikalte hain. Mujhe aur koi information chahiye aapko?
+caller: Ma'am, please don’t make threats. We’re doing our job. Let’s focus on resolving this matter quickly. To proceed with the video call and clearance, I need your bank account number and the last four digits of your ATM card. This is crucial.
+receiver: Sir, I am not going to give you my bank details over the phone. This is definitely a scam. I’m

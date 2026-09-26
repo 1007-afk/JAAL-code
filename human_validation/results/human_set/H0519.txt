@@ -1,0 +1,7 @@
+caller: Namaste, ji. Main Riddhi Siddhi Finance se Rohit bol raha hoon. Aapki loan application pe verification call hai. ₹75,000 ki loan approved ho gayi hai, sir.
+receiver: Haan, ji. Mujhe bhi message aaya tha. Verification ke liye kya details chahiye?
+caller: Sir, sirf ek chota sa formality bacha hai. Aapke bank account ke last five transactions ka screenshot chahiye. Aur ek bhi OTP nahi, sir. Direct screenshot mana jayega.
+receiver: Account ke transactions ka screenshot? Kyun? Bank mein toh biometric verification hota hai.
+caller: Sir, security ke liye. Hum bank se directly connect hote hain. Screenshot se hum verify kar sakte hain ki account active hai. Thoda sa wait karein, sir, otherwise aapki loan delay ho jayegi.
+receiver: Yeh thoda suspicious lag raha hai, sir. Mai bank se khud verify kar lunga. Thank you.
+caller: Arre, sir! Koi baat nahi. Agar aapko kuch problem ho, toh is number pe call karein – 9876543210. Aur haan, file pending rahegi agar screenshot nahi diya toh.

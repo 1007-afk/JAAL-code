@@ -1,0 +1,7 @@
+caller: Namaste! Suno ji, mai Axis Bank se Rahul bol raha huun. Aapke naam par ek transaction hua hai ₹5,000 ka, jo aapne kiya nahi.
+receiver: ₹5,000? Mujhe toh koi transaction yaad nahi aa raha. Kya hua hai?
+caller: Haan ji, ek online gaming app se hua hai. Security ke liye, aapko apne account ko verify karna hoga, warna account freeze ho jayega.
+receiver: Verify karna hai? Main account freeze hone nahi chahta. Verify kaise karunga?
+caller: Aapko ek link mil sakta hai, us par click karke apna OTP number dena hai. OTP aayega aapke registered phone number par.
+receiver: OTP number? Woh link sahi hai kya? Mujhe thoda dar lag raha hai.
+caller: Haan ji, bilkul sahi hai! Axis Bank ka hi hai. Jaldi karo, 2 ghante mein account freeze ho jayega. Aapka loss ho jayega!

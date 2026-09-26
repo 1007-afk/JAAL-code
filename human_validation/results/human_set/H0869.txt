@@ -1,0 +1,8 @@
+caller: Namaste! Main Flipkart se Rohan bol raha hoon. Aapke naam par ek parcel aaya hai, lekin address verification ke chakkar mein thoda ruk gaya hai.
+receiver: Oh, Flipkart se? Mujhe toh koi order yaad nahi aa raha. Kya parcel ka koi reference number hai?
+caller: Haan ji, reference number FLP7890123 hai. Yeh ek smart watch ka parcel hai. Isko deliver karne se pehle, hum sirf aapki security ke liye ek OTP verify karna chahte hain.
+receiver: OTP? Par mujhe toh koi message aaya nahi. Aur mujhe smart watch ka order bhi nahi mila hai.
+caller: Ho sakta hai message late aaya ho. Yeh security process bahut important hai, sir. OTP check hone ke baad, hum parcel deliver kar denge. Kuch seconds mein message aayega. Please share the OTP with me when you receive it.
+receiver: Okay, wait kar raha hoon. (pause) Mujhe OTP mila hai - 456789.
+caller: Thank you! Abhi mujhe system se ek confirmation required hai. Aapke account mein Rs. 500 ke charge ka ek temporary hold lagana padega, security ke liye. Aapko ek payment link mil sakta hai.
+receiver: Rs 500? Wait a minute! Yeh toh scam lag raha hai. Main Flipkart customer care se baat karta hoon.

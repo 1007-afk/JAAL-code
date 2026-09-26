@@ -1,0 +1,8 @@
+caller: Namaste! Mera naam Rohan hai, Axis Finance se. Aapko urgent loan chahiye tha na? Hum approve kar diye hain, ₹15,000, bahut achchi offer hai.
+receiver: Haan, mujhe loan chahiye tha. Lekin Axis Finance ne mujhe koi call nahi kiya tha.
+caller: Sir, security ke liye ek small verification process hai. Aapko ek OTP milega, woh mujhe batao. Aur ek bhi small processing fee ₹2,500, ek online transaction ke zariye deposit karna hai, tabhi loan account activate ho jayega.
+receiver: ₹2,500 fee? Loan ke pehle?
+caller: Ji haan sir, government regulation hai. Bina processing fee ke koi bhi loan nahi milta. Jab loan activate ho jayega, aapko ₹15,000 milenge, aur aap aasani se repay kar sakte hain. Thoda interest hoga, lekin hum best rates provide karte hain.
+receiver: Mujhe yeh zyada suspicious lag raha hai. Main nahi karunga.
+caller: Sir, agar aap nahi karna chahte, toh chalega. Lekin, agar aapko yeh offer miss karna hai, toh aapko nuksaan hoga. Aur agar aap ne money transfer nahi kiya, toh hum aapki credit report ko negative mark karenge.
+receiver: Negative mark? Yeh fraud hai! Main police mein report karunga.

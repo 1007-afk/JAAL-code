@@ -1,0 +1,16 @@
+caller: Hello? Is this Rohan? This is Priya, I’m 24 and recently moved to Mumbai. I'm trying to find someone to spend some evenings with. If you’re interested, send a message to ‘ChatNow’ to 78900. The first three messages are free, after that it’s ₹10 per message. Let's see if we can chat!
+receiver: Oh, hello? No, this isn't Rohan. Sorry, you've got the wrong number, I think. I’m not into that sort of thing at all.
+caller: Oh, sorry, my mistake! Just getting used to this new phone. Please accept my apologies. I’m still learning how to use these things. Have a pleasant day!
+receiver: Nahi problem, aisa hota hai. It’s okay, happens sometimes. You’re new to Mumbai, so it takes time to get familiar with everything. If you need anything, just let me know, I can try to assist. Be well!
+caller: Thanks a lot! That’s very kind of you. Haan, Mumbai mein naya hoon toh thoda confused rehta hoon. But listen, I am also hoping to find someone who likes to explore the city, especially the local markets. Kya pata, maybe we could go together sometime? By the way, what’s your name?
+receiver: My name is Vikram. And honestly, I'm not looking for anything beyond friendly conversations, you know? But yes, if you need guidance on where to find authentic vada pav, I’d be happy to share some recommendations.
+caller: Okay, friendly conversations are great! Vada pav sounds delicious. Thanks for the suggestion. But regarding that exploring thing, I’m really just looking for someone to hang out with and enjoy the nightlife. You know, just a little bit of excitement. Can you suggest any good places?
+receiver: Well, I’m just a normal guy, working a regular job. I can’t exactly recommend secret spots or anything. I mainly focus on my family and daily routines. Hope you understand. But if you need help understanding train schedules or finding a decent place for chai, I’m always willing to help.
+caller: Hello? Is this Amit? This is Shraddha, I’m 25 and just arrived in Chennai. Looking for company for evenings. Send 'MeetUp' to 88000. First two messages are free, then ₹5 each. Let’s talk!
+receiver: Oh, hello? Not Amit. Wrong number, I think. Not interested, sorry.
+caller: Oops, sorry! New phone, still learning. Apologies! Still figuring things out. Have a good day!
+receiver: Koi baat nahin. Ok. New to Chennai, takes time to learn. Ask if you need help, I can try. Bye!
+caller: Thanks! Mumbai mein bhi tha. Thoda confuse hoon. I'm hoping to find someone who likes exploring temples and beaches. Any suggestions? By the way, what's your name?
+receiver: I’m Karthik. Only friendly chats, nothing more. But if you need help finding South Indian food, I can tell you some places.
+caller: Friendly chats are fine! South Indian food sounds good. Suggestions please? Where are some good beaches nearby?
+receiver: Just a regular guy, working. Can't recommend anything special. Mostly family and work. Help with trains or buses, sure.

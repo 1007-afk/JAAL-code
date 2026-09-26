@@ -1,0 +1,7 @@
+caller: Namaste, sir? Mein Amazon se Pawan bolta hoon. Aapke Amazon account mein ek transaction fail ho gaya hai aur security check karne ke liye hume aapka account verify karna hai.
+receiver: Amazon ka call hai? Koi transaction fail hua? Mujhe toh kuch pata nahi. Mein abhi ghar par nahi hoon, abhi busy hoon.
+caller: Theek hai, sir. Koi baat nahi. Par ye urgent hai. Agar aapka account verify nahi kiya toh woh suspend ho sakta hai. Humko sirf ek OTP chahiye, sir. Woh aapke registered mobile number par aayega.
+receiver: OTP? Amazon kabhi OTP maangta hai? Mein toh sunne mein aaya hai ki OTP kabhi bhi share nahi karna chahiye. Ye fraud sakta hai.
+caller: Sir, please mat daro. Ye standard procedure hai. Aapka account safe rakhne ke liye hi verify karna padega. OTP number batao, sir. Main yahan aapke saath hoon, help karunga.
+receiver: Okay, theek hai. OTP aaya hai... 458721.
+caller: Thank you, sir. OTP verified. Ab hum aapke bank account details verify karenge. Aapka last four digits wala account number bataiye, sir.

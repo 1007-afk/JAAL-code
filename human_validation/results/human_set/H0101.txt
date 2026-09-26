@@ -1,0 +1,7 @@
+caller: Namaste, sir? Main baat kar raha hoon Customs Department se. Aapka ek parcel Ahmedabad airport par roka gaya hai.
+receiver: Customs? Parcel? Mujhe toh koi parcel bheja hi nahin. Kya baat kar rahe ho?
+caller: Sir, parcel mein illegal items mile hain. Hai woh cryptocurrency mining hardware. Yeh legal nahi hai, aur isse aap par case register hoga.
+receiver: Cryptocurrency mining? Maine toh kabhi mining nahi ki! Mere naam par parcel kaun ne bheja? Yeh koi galti hogi.
+caller: Sir, aapko is matter ko serious lena chahiye. Case ko settle karne ke liye, aapko ₹50,000 ka fine bharvana padega. Aapko video call par aana padega, otherwise arrest warrant nikalna padega.
+receiver: ₹50,000? Arrest warrant? Maar diya aapne! Main police station mein jaunga, main report karunga. Aap log scammer hain!
+caller: Sir, aapko samajh nahi aa raha hai. Yeh bahut serious matter hai. Fine bhar den, sab theek ho jayega. Video call par aa jao, otherwise hum logon ko arrest karne ke liye warrrant aana padega.

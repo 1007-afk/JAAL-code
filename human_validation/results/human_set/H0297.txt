@@ -1,0 +1,16 @@
+caller: Namaste, is this Mr. Sharma? Hello, this is Priya from Romance Rewards! How’s your day going, especially with Diwali coming up?
+receiver: Namaste Priya! I am doing well, thank you. Diwali is making everything festive! Tell me, what exactly is Romance Rewards?
+caller: Arey yaar, Mr. Sharma! Perfect time to join! Romance Rewards is a fantastic Diwali special contest – imagine winning ₹5000 plus! You can buy beautiful gifts for your family, decorate your home, make it extra special this year!
+receiver: ₹5000? That's amazing! How do we enter this contest? Is there any kind of questionnaire or anything?
+caller: Arey, Mr. Sharma! It’s all about sharing your love stories! We ask about memorable moments with your wife, funny anecdotes, little traditions you have. Just heartwarming stuff! And the winner gets announced on Diwali night itself!
+receiver: Interesting… So, I just tell you some stories then? What’s the next step? Do I need to download an app or something?
+caller: Absolutely, Mr. Sharma! It’s incredibly easy. Just reply ‘JOIN’ to 74890. This small step will get you closer to that ₹5000 prize and those lovely Diwali celebrations! Think of it as a chance to relive your best memories. A reminder, 50 paise/SMS received, but consider the reward!
+receiver: Okay, Priya. ‘JOIN’ to 74890, understood. 50 paise per SMS, okay, let's try. Let's hope my stories are good enough to win! Sent the ‘JOIN’.
+caller: Hello, is this Ms. Patel? Hi, this is Rohan from Fortune Finder! How are you doing today, especially with Holi just around the corner?
+receiver: Hello Rohan! I’m fine, thank you. Holi is bringing lots of colour and excitement! What exactly is Fortune Finder?
+caller: Arey yaar, Ms. Patel! Timing is perfect! Fortune Finder is a very exciting Holi special game - you could potentially win ₹20,000! Imagine buying new clothes, sweets, decorating your house for the festival - all thanks to your luck!
+receiver: ₹20,000? Wow! How does this game work? Do we need to solve puzzles or something?
+caller: Arey, Ms. Patel! It’s based on lucky numbers and predictions! We ask you about your favorite colours, your plans for Holi, even your dreams for the future. Simple questions, really! And the person with the most accurate prediction wins!
+receiver: Hmm, sounds like predicting the future! What's the next step? Do I need to sign up for anything?
+caller: Completely, Ms. Patel! It's super simple. Just type ‘PLAY’ to 98765. This quick action will bring you closer to that ₹20,000 prize and a colourful Holi celebration! Remember, 25 paise/SMS received, but think about the potential winnings!
+receiver: Okay, Rohan. ‘PLAY’ to 98765, got it. 25 paise per SMS, alright. Let's see if my predictions are lucky enough to win! Sent the ‘PLAY’.

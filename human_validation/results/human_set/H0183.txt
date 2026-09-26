@@ -1,0 +1,8 @@
+caller: Namaste, this is Priya calling from Axis Bank’s KYC department. We've noticed some unusual activity on your savings account, linked to your mobile number 9876543210. It appears someone might be trying to access it fraudulently.
+receiver: Oh really? Unusual activity? What kind of activity? I haven’t done anything different.
+caller: Sir, we've detected a few attempted online transfers originating from an unknown IP address. To secure your funds and prevent any unauthorized transactions, we need to quickly verify your details. Can you please provide the last four digits of your PAN card? It’s a standard security measure.
+receiver: Last four digits of my PAN? Isn't that a little risky to give over the phone? Why can’t I just go to the branch?
+caller: Sir, due to the urgent nature of the situation and the potential for immediate financial loss, visiting the branch might be too slow. These fraudsters are very quick. Providing the last four digits here will instantly lock your account and prevent further access. It’s just a quick verification process. Also, can you confirm your date of birth for further verification?
+receiver: Okay, the last four digits are 4587. But I’m still not comfortable. This feels a bit…off. Why didn’t you just send an SMS?
+caller: Sir, SMS systems can be compromised. This direct verification is a much more secure process. Now, to fully secure your account, we need a one-time password sent to your registered mobile number to confirm everything. Please share that OTP with me immediately.
+receiver: Wait a minute... OTP? I think I need to call Axis Bank directly using the number on their official website.

@@ -1,0 +1,8 @@
+caller: Hello, is this Mr. Sharma? I’m calling from Swiggy Customer Care regarding an unusual charge of ₹799 on your account.
+receiver: Haan, suniye. ₹799? Mujhe toh koi order yaad nahi aa raha.
+caller: Yes sir, it appears there was an accidental duplicate order placed through your account. To reverse this charge and prevent further issues, we need to verify your payment details. Please visit secure-swiggy-verify.com and enter the OTP we're about to send you.
+receiver: Secure-swiggy-verify.com? I don’t remember seeing this website before. And why can’t you just cancel the order from your end?
+caller: Sir, our system requires your confirmation due to security protocols. It’s a standard procedure. Just quickly visit the website and enter the OTP. We only have 3 attempts left to process the refund.
+receiver: Three attempts? That's a bit strange. Okay, let me see the website. Wait a second… this looks very fishy. It’s asking for my card details too.
+caller: Sir, please do not hesitate! This is the only way to process your refund quickly. Don’t let this opportunity pass you by! Just enter your card details and the OTP, sir. Only 2 attempts remaining.
+receiver: No, I’m not doing this. This is clearly a scam. I’m ending this call right now.

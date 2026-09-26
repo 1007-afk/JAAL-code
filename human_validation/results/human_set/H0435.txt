@@ -1,0 +1,9 @@
+caller: Namaste! Main Inspector Sharma, Delhi NCB se bol raha hoon. Aapke naam par ek parcel aaya hai, jo drug trafficking se related hai.
+receiver: Kya? Mere naam par? Main toh kabhi parcel order nahi kiya. Yeh kaise ho sakta hai?
+caller: Seedhe baat karein, saab. Information ke according, parcel mein illegal substance mila hai. Aapko jankari deni hogi aur fine bhar payega, warna arrest warrant nikalna padega.
+receiver: Arrest warrant? Yeh kahan ki baat ho rahi hai? Main toh bilkul innocent hoon. Aapko kaise pata chala ki parcel mere naam se aaya hai?
+caller: Records mein clear hai. Aapko Rs. 15,000 fine bhar payega, tabhi case close hoga.  Apne bank account number do taaki hum payment verify kar sakein.  Isi number pe call karte rahein, aur koi bhi police station mein call mat karein.
+receiver:  Rs. 15,000? Yeh bahut zyada hai! Aur bank account number phone pe dena safe nahi hai.  Yeh toh scam lag raha hai.  Main abhi apne khate se koi payment nahi karunga aur main abhi police station mein report karunga.
+caller:  Aap abhi report karne se pehle sochna! Arrest warrant nikal jayega aur aapki reputation kharab ho jayegi.  Rs. 15,000 seedhe humare specified UPI ID pe pay karein: NCB_Delhi_SecurePay@xyz. Urgent hai, saab.
+receiver: Yeh UPI ID toh fake hi hoga! Mai kisi bhi id se payment nahi karunga aur main abhi call record kar raha hoon. Main tumhe report karunga.
+caller:  Aapko pata bhi nahi hai ki kya ho raha hai! Time tick kar raha hai, saab

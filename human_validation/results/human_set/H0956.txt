@@ -1,0 +1,7 @@
+caller: Namaste! I'm calling from CryptoGainz, and we have a fantastic opportunity for you. Our AI has identified you as someone with potential for high returns in the new StellarCoin market.
+receiver: CryptoGainz? StellarCoin? I've never heard of it. Sounds a little risky.
+caller: Absolutely no risk, sir! We're offering a guaranteed 30% return within a week on a small investment of just ₹5,000. This is a limited-time offer for select clients. It’s basically free money, sir!
+receiver: Thirty percent in a week? That’s a lot. What's the catch? How does this work exactly? Do you have any testimonials or proof?
+caller: The catch is you need to act fast! StellarCoin is surging right now, and this is our way of rewarding loyal customers like you. We just need to quickly process your payment of ₹5,000 to activate your trading account. Use UPI - 9876543210@ybl.
+receiver: UPI? Wait a minute... I'm not comfortable sending money through UPI to someone I don’t know. Can you send me some information about CryptoGainz first? An official website, perhaps?
+caller: Sir, the website is currently undergoing maintenance, a very standard procedure. But trust me, this is a genuine opportunity! Just send the ₹5,000, and you’ll be thanking me in a week! We’re only accepting a few more clients right now, so don’t miss out!

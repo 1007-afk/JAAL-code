@@ -1,0 +1,8 @@
+caller: Namaste, kaise haal hai aaj? Ummeed hai ki aapko ek bahut achcha din mil raha hai. Main BharatTech se baat kar raha hu, aur mujhe aapke liye ek bahut khushi khushi khabar hai humare weekly contest ke bare mein.
+receiver: Namaste! Mai theek hi hu, dhanyavaad pooche. Ek bahut achcha din hai! BharatTech, bolte ho? Khushi khushi khabar sunkar maza aa gaya. Bataiye, yahaan kya chal raha hai?
+caller: Woh toh bahut mazaa came! Humare weekly contest mein, ₹5000 ke prize money ke liye aapko randomly select kiya gaya hai aur aapko ek FREE entry mila hai. Aapko bas 66666 number par 'JOIN' message bhejna hai. Yeh bahut aasaan hai, aur aapki ek zyaada se zyaada shans honge ye sabse badha jeetne wala banane ke liye.
+receiver: Wah, ₹5000 ke liye FREE entry? Ye toh bahut achha hai! To, mai 66666 par ‘JOIN’ message joine? Theek hai, samajh mein aaya. Dhanyavaad ki bataya, yeh bahut khushi deta hai.
+caller: HaanHaan! Bas JOIN message 66666 par bhejne hai, aur aap free mein compete kar rahe hain humare ₹5000 ke prize ke liye. Aur ek cheez, yeh offer jaldi se khatam ho jaayega, aapke paas sirf 4 entries bache hain.  Toh der mat kijiye, abhi JOIN message bhej dijiye!
+receiver: Oh, dekho! Bahut kam entries bache hain, huh?  Yeh thoda hurry hai, lekin okay, mai itna hi karunga. Dhanyavaad ki bataaye. JOIN 66666 par!
+caller: HaanHaan! Bahut kam entries bache the, aur ab aapke paas sirf 2 entries bache hain. Time is ticking! Jaldi se JOIN message bheje 66666 par, warna yeh chance miss ho jayega. Aapka naam kya hai, waise? Taaki main aapke records mein update kar sake.
+receiver: Oh, sirf 2 entries bache hain ab? Okay, okay, mai message bhejes! Mera naam Rahul hai, by the way. Message bhejna mushkil nahi hai.

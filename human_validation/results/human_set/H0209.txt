@@ -1,0 +1,11 @@
+caller: Airtel customer care pe main bol raha hoon. Aapka number jo internet ke liye register hai, usmein kuch changes karna hai. Isliye aapko ek six-digit OTP mila hoga. Kaise hai aap?
+receiver: Ji, main theek hoon. OTP mila hai, 678954 hai. Aapko number chahiye tha?
+caller: Haan, 678954 hi mila. Dhanyavaad, bhai. Aapka number verify ho gaya hai. Par humein ek small problem mili hai, aapke bill mein ek unexpected charge dikh raha hai. Ispe pata karne ke liye, aapko account details milani padengi.
+receiver: Okay, bataiye. Account details kya hain?
+caller: Aapka username "shyam.singh@email.com" aur password "Password123" hai. Yeh details sirf verification ke liye hain, please yeh share karein.
+receiver: Wait karo, yeh mai apni account par check karunga. Hmm... actually, yeh details sahi nahi hain. Aapka username "ramesh.kumar@gmail.com" hai, aur password "SecurePass".
+caller: Yaar, woh to wrong hai. Apne account par check kar lein. Aapko koi error message nahi dekhi?
+receiver: Haan, dekha. “Invalid Username” ka message aaya.
+caller: Okay, then. Humare system mein record updated ho gaya hai. Aapka bill fixed ho jayega, abhi-abhi. Aapko koi extra charge nahi dekhpana hoga. Shukriya!
+receiver: Theek hai, dhanyavaad.
+caller: Shukriya!

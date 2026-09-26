@@ -1,0 +1,8 @@
+caller: Hello, sir? This is Rohan calling from ‘LoanExpress India’. We see you applied for a personal loan on our app. Just a quick verification, can you confirm your Aadhaar number for me?
+receiver: Haan, yes. It's 123456789012. What’s this about?
+caller: Thank you. Everything looks good so far. We've pre-approved your loan for ₹50,000. Very simple process. Just need a selfie with a bank statement to complete the formalities. Can you send it to this WhatsApp number?
+receiver: ₹50,000? That’s good. Okay, sending the selfie now. How long until I get the money?
+caller: Excellent. Just received the selfie. But sir, a small processing fee of ₹7,500 is required upfront to activate the loan. It will be refunded along with your principal amount once the loan is disbursed. Pay through UPI to this number: 9876543210.
+receiver: ₹7,500 *before* getting the loan? That doesn’t sound right. Isn't there a different way to do this?
+caller: Sir, it’s a standard procedure to prevent fraud. We need to ensure you are a genuine applicant. Without this fee, we cannot process your loan. Otherwise, we'll have to cancel the application.
+receiver: Okay, fine. I’ll pay it. But I want my ₹50,000 as soon as this is done.

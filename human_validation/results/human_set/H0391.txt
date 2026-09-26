@@ -1,0 +1,6 @@
+caller: Namaste, Main IndusInd Bank se Ankit Verma bol raha hu. Aapke debit card mein kuch suspicious activity detect hui hai. Aapko confirm karna hoga.
+receiver: Kya? Suspicious activity? Aur kaunsa activity? Mein to koi transaction nahi kiya tha aajkal.
+caller: Ji, ek online transaction Gujarat se hua hai, ₹4,500 ka. Aapne kiya ya nahi? Account secure rakhne ke liye humein aapki help chahiye.
+receiver: ₹4,500? Nahin, maine toh aisa koi transaction nahi kiya! Yeh toh scam lag raha hai.
+caller: Sir, please tension mat leiye. Hum aapko ek OTP bhejege aapke registered mobile number pe. Woh OTP bata dijiye, tab hum account block kar denge aur investigation shuru karenge.
+receiver: OTP? Par why do I need to give you the OTP? Shouldn't you be investigating the transaction first? And how do I know you are really from IndusInd Bank?

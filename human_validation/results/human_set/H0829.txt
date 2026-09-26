@@ -1,0 +1,8 @@
+caller: Namaste! Main BharatPay se Rohit bolta hoon. Aapke BharatPay wallet mein ₹1000 ka cashback offer hai Flipkart pe shopping karne ke liye.
+receiver: BharatPay? Flipkart pe? ₹1000 cashback? Yeh achha hai! Batao kaise?
+caller: Sir, offer claim karne ke liye aapko ek OTP verify karna hoga. Woh aapke BharatPay wallet linked number pe aayega. Aapko woh OTP mujhe send karna hai, sirf verification ke liye.
+receiver: OTP? Mujhe phone pe OTP aayega? Aur mujhe tumko send karna hai? Yeh thoda risky lag raha hai...
+caller: Sir, bilkul safe hai! BharatPay ne hi iska process banaya hai. ₹1000 cashback miss mat karna! Aapka OTP send karein, main usko verify karunga, aur cashback automatically aapke wallet mein add ho jayega. Jaldi karein, offer limited time ke liye hi hai.
+receiver: Okay, theek hai. Par main BharatPay app mein check karta hoon, pehle. Wait, I'll see if there's a notification.
+caller: Ji ji, jald hi! Aapka cashback aapke BharatPay wallet mein ho jayega. Aur ek baat, aapko ₹50 processing fee bharne hogi, otherwise cashback transfer nahi hoga.
+receiver: ₹50 processing fee? Yeh toh ho nahi sakta! Main call cut kar raha hoon.

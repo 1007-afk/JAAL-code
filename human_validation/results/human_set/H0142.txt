@@ -1,0 +1,6 @@
+caller: Namaste! Yeh Ankit se baat ho rahi hai, Paytm Customer Care se. Aapke Paytm wallet mein ek suspicious transaction detect hua hai, ₹5000 ka. Agar aap isko confirm nahi karte, toh aapka wallet block ho jayega.
+receiver: ₹5000? Kya? Main toh koi transaction nahi kiya. Mere wallet mein kitne paise hain?
+caller: Sir, ₹12000 hain. Woh ₹5000 ek online shopping site par gaya hai. Isko reverse karne ke liye, aapko ek OTP verify karna hoga. OTP main aapke registered mobile number par aaega.
+receiver: OTP? Theek hai. Main dekh raha hoon. Thoda wait karo. (pause) Haan, mujhe OTP mila. 123456.
+caller: Thank you sir! Ab aapko ek small processing fee bhar deni hogi ₹500, taaki transaction reverse ho jaye. Aapko Paytm ke collect request option se ₹500 send kardo.
+receiver: Collect request? Sir, main toh confused ho raha hoon. Paytm support number toh hai na? Main wahaan call karta hoon. Yeh thoda suspicious lag raha hai.

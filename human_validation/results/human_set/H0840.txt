@@ -1,0 +1,6 @@
+caller: Namaste! Yeh Swiggy se Rohit bol raha hoon. Aapke recent order mein kuch problem aa gaya hai, delivery address incomplete hai.
+receiver: Swiggy? Kya problem hai? Mujhe koi notification nahi aaya.
+caller: Haan, system mein error dikh raha hai. OTP verify karna padega address confirm karne ke liye. Main aapko OTP send karta hoon, woh bataiye.
+receiver: OTP? Swiggy aise bhi karta hai? Mujhe toh kabhi nahi seekha. Aur woh OTP kis number pe send karenge?
+caller: Aapka registered mobile number pe send hoga, sir. Just bataiye, ₹185 ka order hai, delivery address verify ho jaaye, aur aapko food mil jaaye. Urgent hai, sir, 2 minutes mein OTP bataiye.
+receiver: ₹185 ka order? Mujhe toh Swiggy pe koi order nahi kiya tha. Ye scam lag raha hai.

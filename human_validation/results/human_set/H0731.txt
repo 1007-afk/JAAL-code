@@ -1,0 +1,8 @@
+caller: Hello! Congratulations, you've been selected to receive 2 VIP row A tickets for the Blu concert in November! And you also get a guaranteed Blu gift! Isn't that amazing? You just need to call 09061104276 to claim it. There are only 5 left, so hurry!
+receiver: Hello? Wow, that sounds incredible! VIP row A tickets for the Blu concert and a gift? That's amazing news!  Okay, so I just need to call 09061104276 to claim it, right?  And there are only 5 left? Got it. Thanks for letting me know!
+caller: Yes, that's right! And you know what? We just had someone else claim theirs, so now there are only 4 left! You really don't want to miss out on this. Just give that number a ring, 09061104276, and one of our representatives will sort you out. It's super quick!
+receiver: Oh wow, really? Only 4 left now?  Okay, I'm definitely going to call that number right away then.  Thanks for the heads-up and for being so helpful!  I really appreciate it. Bye for now!
+caller: Oh, that's great! You're really quick, that's good. So, now there are only THREE tickets left!  Seriously, don't wait any longer, call them ASAP. You don't want to regret missing this, eh?
+receiver: Arre wah! Only THREE left?  Arey, you're making it sound so exciting!  Theek hai, theek hai, I'm calling them now.  Thanks for pushing me, I might have taken too long otherwise!  Bye!
+caller: Exactly! Two left now!  Arey, you're on the right track, don't miss this chance!  Call that number, 09061104276, and get your tickets sorted.  You've got this!
+receiver: Arre, seriously? Only two left now?  Okay, okay, I'm literally picking up my phone right this second. Thanks for the reminder!  Bye!

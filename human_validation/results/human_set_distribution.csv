@@ -1,0 +1,9 @@
+class,full_dataset_count,human_set_count,sampling_rate
+1_banking_kyc_otp_fraud,1310,131,0.1000
+2_upi_wallet_fraud,949,95,0.1001
+3_investment_task_scam,796,80,0.1005
+4_digital_arrest_govt_impersonation,971,97,0.0999
+5_loan_credit_app_scams,928,93,0.1002
+6_delivery_customer_care_scams,854,85,0.0995
+7_dating_romance_sextortion,900,90,0.1000
+8_legacy_telecom_scams,2969,297,0.1000

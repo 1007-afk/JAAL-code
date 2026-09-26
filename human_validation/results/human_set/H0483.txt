@@ -1,0 +1,9 @@
+caller: Namaste, is this Ms. Priya Verma, associated with the mobile number ending in 789? I’m calling from ‘SwiftCash Advance’ regarding your recent loan inquiry. We’ve pre-approved you for a loan of ₹2,50,000!
+receiver: Haan, main Priya Verma hoon. Loan inquiry? Main toh abhi tak kisi bhi loan ke liye apply nahi kiya tha.
+caller: That’s perfectly alright! Sometimes our system picks up potential candidates. To process the loan, we need a small verification fee – just ₹5,000 as processing charges. This ensures your account’s security and fast tracks the loan. You can pay through UPI to this ID: 8765432109@axisbank.
+receiver: ₹5,000 verification fee? Loan process mein fee lagti hai? Ye toh alag baat hai. Aur UPI pe?
+caller: Yes, ma’am. It's a standard procedure. Once the fee is confirmed, your loan will be credited within 30 minutes. Without it, we cannot guarantee the approval. Don't worry, it’s a one-time fee. We are verifying your banking details. Think of it as security.
+receiver: Okay, fine. I'll do it. But if I pay and then the loan isn't approved, I want my money back.
+caller: Absolutely, Ms. Verma! We guarantee your approval once the fee is processed. Please send the screenshot of the payment, so we can confirm and activate your loan immediately. This is the last step!
+receiver: Just a moment, let me send the payment proof.
+caller: Excellent! I’ve received the payment proof. Your loan is now being processed. Now, for additional security, we require you to share a selfie of yourself holding a valid government ID

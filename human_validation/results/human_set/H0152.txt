@@ -1,0 +1,16 @@
+caller: Hello? Hello, Mr. Sharma? Can you hear me okay? This is Priya from SecureTrust Solutions. I’m calling with some incredibly exciting news for you today. Congratulations, Mr. Sharma! You’ve won a new Samsung Galaxy S23! Isn’t that wonderful?
+receiver: Hello? Haan, Priya? Sunai de raha hai. SecureTrust Solutions se? Wow! Samsung jeeta hoon? Sach mein? Thank you so much! Kya baat hai!
+caller: Haan, Mr. Sharma, sach mein! Absolutely fantastic news! Aapko yeh Samsung milne wala hai! Bas ek teen minute ka process hai, taaki hum yeh Samsung aap tak pahuncha saken. Kya aap abhi thoda free hain baat karne ke liye?
+receiver: Haan, Priya, bilkul free hoon. Bataiye kya karna hai? Koi paperwork hai ya kuch aur?
+caller: Bahut badhiya, Mr. Sharma! Toh bas yeh Samsung aap tak pahunchane ke liye humein aapki verification karni hogi. Yeh ek simple verification process hai, ismein aapko apna address aur kuch basic details batani hongi, taaki hum yeh prize securely deliver kar saken. Kya aap mujhe apne pura naam aur delivery address bata sakte hain?
+receiver: Haan, bilkul. Mera naam hai Vikram Sharma. Aur mera address hai… 45, Rose Garden Lane, Chandigarh.
+caller: Great, Vikram! Thank you for that. Aur aapki date of birth, please? Yeh bas security ke liye hai, taaki hum confirm kar saken ki aap hi hain winning ticket ke holder.
+receiver: Meri date of birth hai... 2nd January, 1988. Aur kuch chahiye?
+caller: Namaste, Mr. Kapoor? Is this Rajeev speaking from Global Rewards? Just wanted to share some really great news with you. You've been selected as a winner! We're thrilled to announce you’ve received a voucher worth ₹50,000 for Flipkart! Believe it or not!
+receiver: Namaste, Rajeev? Sunayega kya? Global Rewards se? Flipkart voucher? Seriously? Kaise ho? Wow! Itna paisa?
+caller: Exactly, Mr. Kapoor! That's right! You're one of our lucky winners! But before we send over your voucher, we need to quickly verify your identity. It’s a standard procedure, completely safe and secure. Are you available for a quick chat now?
+receiver: Haan, Rajeev, thode minute. Batao ye verification kaise hoga? Kuch documents lagungi ya koi account details chahiye?
+caller: Don't worry, Mr. Kapoor, it’s very easy. We just need a few details – your full name and current address. And also, could you tell me your year of birth? Just to make sure everything matches up.
+receiver: Haan, sure. Mera naam hai Sanjay Kapoor. Aur mera address hai... 78, Sunshine Terrace, Mumbai.
+caller: Wonderful, Sanjay! Thank you. Now, let's talk about your birthdate. Could you please provide that for us? It’s important for security purposes only.
+receiver: Mera janmadin hai... 10th November, 1975.  Anything else you want to know?

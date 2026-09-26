@@ -1,0 +1,6 @@
+caller: Namaste! Mai Vijay se bol raha huun, BharatPay helpline se. Aapko ek achha cashback offer mila hai - ₹7500! Aapki loyalty kehti hai.
+receiver: ₹7500? BharatPay se? Mujhe koi offer ka message nahi aaya.
+caller: Haan ji, system mein update hone mein thoda der ho sakti hai. Cashback claim karne ke liye, aapko sirf apna BharatPay wallet linked bank account number verify karna hoga.
+receiver: Bank account number? BharatPay mein toh direct wallet mein add ho jaata hai, kabhi bank account number maanga nahi.
+caller: Woh purani system tha. Ab KYC rules tight ho gaye hain, isliye bank account verification compulsory hai. Security ke liye bhi. Just share your account number, last 4 digits will do.
+receiver: Okay, let me check... My bank account ends in 4567. But I'm still not sure about this. It feels a bit fishy.

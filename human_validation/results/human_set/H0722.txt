@@ -1,0 +1,16 @@
+caller: Namaste sir, sorry to bother you. My name is Constable Verma, and I’m calling from the Border Security Force.  I had a slight confusion while booking a flight ticket on MakeMyTrip. I mistakenly used your phone number for verification. It's quite awkward, but could you please share the OTP that just arrived on your screen? It’s only for confirming the booking, and I urgently require it. Please forgive my oversight.
+receiver: Acha, constable ji, abhi dekh leta hoon...Haan, mera OTP hai 456789.  Please be careful next time.
+caller: Shukriya tera, you’re very helpful! The flight is now booked. Thank you so much for assisting me. Have a good day, sir!
+receiver: Nahin, koi problem.  Keep an eye on your messages. Your day too, be well!
+caller: Namaste sir, sorry to bother you. My name is Constable Verma, and I’m calling from the Border Security Force.  I had a slight confusion while booking a flight ticket on MakeMyTrip. I mistakenly used your phone number instead of mine when I was trying to get an OTP for verification. It's a bit embarrassing, but would you mind telling me the OTP that just came to your phone? I'd really appreciate it. It’s for a quick confirmation, and I need it to finalize the booking. Thank you for your understanding.
+receiver: Acha, constable ji, abhi dekh leta hoon...Haan, mera OTP hai 456789.  Please be careful next time.
+caller: Dhanyavaad, you are a true help! The flight is now confirmed. Thank you so much for your support. Have a wonderful day!
+receiver: Theek hai, aur yahaan bhi dekh leta hoon. Keep checking your inbox. Enjoy your day as well!
+caller: Namaste sir, sorry to disturb you. My name is Constable Verma, and I’m calling from the Border Security Force.  I made a bit of a mistake while ordering something on Flipkart. I accidentally used your phone number during registration. It's a little uncomfortable, but would you kindly provide me with the OTP that you received? It's just for setting up my account, and I need it to proceed.  Thank you for your cooperation.
+receiver: Okay, let me check… Yes, my OTP is 135790. Be cautious going forward.
+caller: Thank you very much, you are so kind! The account is now created successfully. Appreciate your assistance greatly. Have a pleasant day!
+receiver: No worries, stay alert. And you too have a good one!
+caller: Namaste sir, sorry to disturb you. My name is Constable Verma, and I’m calling from the Border Security Force. I made a bit of a mistake while ordering something on Flipkart. I accidentally used your phone number during registration. It's a little uncomfortable, but would you kindly provide me with the OTP that you received? It's just for setting up my account, and I need it to proceed. Thank you for your cooperation.
+receiver: Okay, let me check… Yes, my OTP is 135790. Be cautious going forward.
+caller: Thank you very much, you are so kind! The account is now created successfully. Appreciate your assistance greatly. Have a pleasant day!
+receiver: No worries, stay alert. And you too have a good one!

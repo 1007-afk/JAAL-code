@@ -1,0 +1,7 @@
+caller: Namaste! Mai Axis Bank se Ankit bol raha hu. Aapke Axis Bank digital wallet mein ₹5,000 ka suspicious transaction detect hua hai. Security ke liye, aapko immediately verify karna hoga.
+receiver: Kya? ₹5,000? Kaunsa transaction hai? Mujhe koi message nahi aaya.
+caller: Haan sir, ek online shopping site par attempt kiya gaya tha. Aapne kabhi bhi koi order nahi kiya tha? Phir verify karna bahut zaroori hai, warna account block ho jayega. Verify karne ke liye, aapko ek OTP send karenge, woh OTP mujhe WhatsApp par 7891234567 number par send karein.
+receiver: OTP? Par WhatsApp par? Axis Bank toh SMS karta hai. Aur mujhe woh site bhi nahi pata jahan se transaction hua hai.
+caller: Sir, yeh ek new verification process hai. SMS se security issues ho rahe the, isliye abhi WhatsApp se hi OTP send kar rahe hain. Aap tension na lein, aapka paisa safe rahega. Jaldi se OTP send karein, warna transaction revert ho jayega aur aapka account temporary block ho sakta hai.
+receiver: Theek hai, thik hai. Par mujhe suspicion aa raha hai. Koi aur verification option nahi hai? Mere bank manager se baat kar sakta hu?
+caller: Sir, is time mein bank manager se baat karne ka time nahi hai. System automatically process karta hai. Agar aap abhi verify nahi karenge, toh ₹5,000 ka transaction revert ho jayega aur aapka account 24 hours ke liye block ho jayega. Please, 7891234567 par OTP send karein.

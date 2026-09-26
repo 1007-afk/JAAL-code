@@ -1,0 +1,7 @@
+caller: Namaste! This is Inspector Verma from the Directorate of Revenue Intelligence. We've intercepted information regarding suspicious activity linked to your bank account. A large sum of money was traced originating from a foreign entity involved in illegal gold smuggling.
+receiver: Inspector Verma? Gold smuggling? My account? What’s going on? I don’t understand.
+caller: Ji, Mr. Sharma, we need to verify your involvement to prevent further legal complications. There’s a possibility you were unknowingly used as an intermediary. We need to confirm your details and ask you to remain on this call. It's vital.
+receiver: Used unknowingly? But I don’t deal with gold! This sounds very strange. Can you tell me the amount of money involved?
+caller: The amount is ₹12,50,000, Mr. Sharma. To clear this up immediately and avoid arrest, we need you to pay a small processing fee of ₹7,500. This is a security deposit to ensure the funds are properly investigated and your name is cleared. You can pay through UPI.
+receiver: ₹7,500? To clear my name? That seems like a lot. Can't I just go to my local police station and sort this out?
+caller: Absolutely not, Mr. Sharma. Going to the local police will only complicate matters. This is a federal investigation. If you cooperate now and pay the fee, we can resolve this quickly and quietly. Delaying will only make things worse. We have evidence linked to your account, and further inaction will lead to legal action. Just pay the ₹7,500 and we'll be done.

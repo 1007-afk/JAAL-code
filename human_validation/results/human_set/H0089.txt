@@ -1,0 +1,7 @@
+caller: Namaste! Mera naam Rohit hai, FastCash Solutions se. Kya aapko kuch adhoori financial requirements hain? Shayad ek medical emergency ya urgent renovation?
+receiver: Theek hai, lekin main abhi busy hoon. Kuch der baad call karenge?
+caller: Nahin, nahin! Yeh offer limited time ke liye hai. Hum sirf selected customers ko Rs. 15,000/- tak instant loan provide kar rahe hain, sirf OTP verification ke saath. Aapka OTP check karne ke liye, mujhe aapka naam bataiye.
+receiver: Main phone check karunga aur bataunga.
+caller: Tumhara naam Rahul hai?  Bohut achha! Ab OTP send kar diya hai.  Tumhara OTP sunne ke liye ready ho? Jab OTP milega, toh mujhe bata dena.
+receiver:  Rahul naam hai, lekin OTP nahi milega.  Yeh scam lagta hai! Main call cut kar raha hoon.
+caller: Arre, yehi toh process hai!  Thoda wait karo!  Agar tumhare paas OTP nahi hai, toh shayad tumhara number register nahi hai.  Tumhe Rs. 20,000 ka loan mil sakta hai, lekin tumko cooperation karna padega.

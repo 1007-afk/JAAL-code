@@ -1,0 +1,8 @@
+caller: Namaste, is this Mr. Sharma? My name is Rohan, calling from Axis Bank’s fraud prevention department. We’ve detected a suspicious login attempt on your Axis Bank account from a foreign IP address.
+receiver: Haan, main hi hoon. Fraud? Kya hua? Mein toh kisi bhi website par login nahi kiya hoon aaj tak.
+caller: Sir, it seems someone tried to access your account from Jakarta, Indonesia. We need to verify your identity immediately to secure your funds. Can you please confirm the last three digits of your PAN card for verification? This is a standard security procedure.
+receiver: PAN card ke last three digits? Why should I tell you that? Axis Bank never asks for that. Ye kuch gadbad lagi.
+caller: Sir, please understand, if we don't verify your identity, we'll have to temporarily suspend your account as a precautionary measure. We’re just trying to protect your money. For your safety, could you also tell me the last four digits of your ATM card?
+receiver: ATM card bhi? Theek hai, ab mein samjh gaya. Yeh toh clearly ek scam hai!  Mein police mein complaint karunga. Aapko kuch nahi milega mujhse.
+caller: Sir, please don't do that! We are genuinely trying to help you. One last thing, just to confirm, what is your mother’s maiden name?
+receiver: Mujhe koi information nahi deni hai aapko. Connection kat raha hoon.

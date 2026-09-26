@@ -1,0 +1,7 @@
+caller: Namaste! Main Axis Bank security department se Rahul bol raha hoon. Aapke account mein ek suspicious login attempt dekha gaya hai, Uttar Pradesh se.
+receiver: Uttar Pradesh se? Woh kaise? Maine toh koi login kiya hai.
+caller: Ji haan, sir. Woh OTP verification ke bina kiya gaya tha. Aapki account security ke liye, humein yeh verify karna hoga. Main aapko ek OTP bhejuonga, woh confirm kijiye.
+receiver: OTP? Koi OTP nahi bheja aapne mujhe.
+caller: Sir, ek minute. Mai dobara try karta hoon. OTP hai 123456. Isko confirm kijiye jald se jald. Agar aap confirm nahi karenge, toh aapka account suspend ho sakta hai.
+receiver: 123456? Yeh OTP mujhe nahi mila hai, aur account suspend karna hai? Yeh kuch toh ghalat lag raha hai. Main police mein report karunga.
+caller: Sir, please mat karna. Yeh system mein technical issue hai. OTP dobara try karta hoon, lekin pehle aapka Aadhaar card number de dijiye, verification ke liye.

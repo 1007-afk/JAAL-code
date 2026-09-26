@@ -1,0 +1,8 @@
+caller: Namaste, is this Priya Verma? I’m calling from PhonePe security department. We’ve detected unusual activity on your account – a large withdrawal attempt.
+receiver: PhonePe? Haan, main Priya Verma hoon. Kya hua? Withdrawal attempt? Mujhe toh kuch pata nahi.
+caller: Yes, ma’am. Someone tried to transfer ₹7,500 to a different UPI ID just now. To secure your funds, we need to quickly verify your identity. Can you please tell me the last four digits of your bank account linked to PhonePe?
+receiver: ₹7,500? Arre yaar, main PhonePe se itna paisa kabhi nahi transfer karti. Mera bank account ka last four digit… ek minute bataati hoon.  Kripya bank account number mat puchho.
+caller: Absolutely, ma’am. We just need those four digits for quick verification. It's a standard security protocol. Also, could you tell me the amount of your last successful transaction on PhonePe, just to confirm your recent activity?
+receiver: Okay, last four digits are 4567.  Last transaction… I think it was ₹200 for mobile recharge two days ago. But why are you asking for this information?  Yeh kuch suspicious lag raha hai.
+caller: Perfect, ma’am. To ensure the highest level of security, we’ll send a verification OTP to your registered mobile number. Please provide that OTP to me immediately, and we’ll resolve this issue right away.
+receiver: OTP?  Wait a second… I’m not comfortable giving out an OTP over the phone.  I'll call PhonePe’s official customer care number myself. Thank you.

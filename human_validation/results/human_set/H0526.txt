@@ -1,0 +1,7 @@
+caller: Hello, sir? This is Akash from QuickLoan India. We saw your application for a personal loan, and it’s almost approved. Just need to quickly verify a few details.
+receiver: Haan, theek hai. Mein toh apply kiya tha. What do you need?
+caller: Great! Sir, for security purposes, could you please share the last four digits of your bank account number and also the OTP you just received on your phone? It’s just a one-time thing.
+receiver: OTP? Why do you need an OTP? Isn't that a bit risky?
+caller: Sir, it's a standard security protocol to prevent fraud. We need to make sure you're the account holder. Without it, we can't process the loan. Look, we’re ready to give you ₹75,000 immediately. Don't miss out on this opportunity.
+receiver: Okay, fine. The OTP is 876543. But I want the money in my account today itself.
+caller: Wonderful! Thank you for your cooperation, sir. Now, to activate your loan, we need a small processing fee of ₹5,000 to be deposited into this account: [Scammer's Account Details]. This is a one-time charge, sir.

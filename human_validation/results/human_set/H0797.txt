@@ -1,0 +1,7 @@
+caller: Namaste! Suno, mai Amazon se Rohit bol raha huun. Aapke account mein ek pending transaction hai, jo fail ho gaya hai.
+receiver: Oh! Kaise? Mujhe to koi notification nahi aaya.
+caller: Haan bhai, technical issue tha. Ab aapko payment complete karne ke liye ek OTP verify karna padega. Otherwise, aapka account suspend ho sakta hai.
+receiver: OTP? Amazon toh SMS se hi OTP deta hai, na? Aur koi link bhi ata hai.
+caller: Woh system update ho gaya hai, ab WhatsApp pe OTP aa raha hai. Aapko WhatsApp pe Amazon pay se ek message milega, usmein OTP hai. Wo OTP mujhe bata do, main verify kar dunga.
+receiver: Hmm... mujhe kuch shaq ho raha hai. Main khud check karta hu WhatsApp mein.
+caller: Bhai, time barbaad mat karo. Account suspend hone se pehle jaldi karo. Just send the OTP and I’ll confirm everything for you. It’s a security measure, trust me!

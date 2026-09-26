@@ -1,0 +1,9 @@
+caller: Namaste! Main Rohan hu, Secure Transaction Services se baat kar raha hun. Mujhe apne account ke bare mein kuch confirm karna hai. Kya aapko apna number register karne ka experience hai?
+receiver: Namaste Rohan ji, Haan, maine ek mauqa par ek online course signup ki thi. Kaise madad kar sakte hain aap?
+caller: Achha, shayad woh hi ho sakti hai. Mein dekhta hun… oh, yeh payment ₹799 ka hai, ‘Creative Learning Hub’ ke liye. Kya aapne kabhi issa website pe registration kiya tha?
+receiver: Creative Learning Hub? Haan, maine usmein ek photography workshop sign up kiya tha, par ₹799 ka payment abhi tak nahi diya hai.  Mujhe abhi yaad nahi aa rhi.
+caller:  Theek hai.  Mein jaanta hoon, online courses sometimes automatic renewal ke option letaa karte hain.  Par mai apse yeh poochhna chahta hun, kya aapne bank card ka details kisi third party ko de diye hain?  Main sirf apne account ki safety check kar raha hun.
+receiver:  Bank card ka details?  Nahi, kabhi nahi.  Mai apne card ko sirf trusted websites par hi use karta hun.  Aapka naam jo bata rahe hain, voh sahi hai?  Rohan Sharma.
+caller:  Haan, Rohan Sharma.  Shabash!  Abhi aapke account mein ek extra charge dekh raha hun.  Isliye main aapko call kar raha hun.  Mujhe aapka address bhi chahiye, sirf address kyonki hum fraud transactions ko block karne waali hain.  Please bataiye, Delhi mein kahaan rehte hain aap?
+receiver: Delhi mein?  Main Lajpat Nagar mein rehta hun.  Mujhe abhi bhi yeh situation normal nahi lagta.  Aapko aisa kyun karna pad raha hai?  Aur agar aapko address chahiye hai, toh aapko data protection laws ka follow karna chahiye.
+caller:  Sir, yeh sab security protocol hai.  Humne aapke account ko protect karne ke liye yeh step liya hai.  Jaise aapko pata hai, internet par bahut saare fake accounts hote hain.  Apna address mere liye important hai, taki main aapko fraud alerts de saku.  Kahan jaise aapne photography workshop sign up kiya tha?  Uski website ka naam batao.

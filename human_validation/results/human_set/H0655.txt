@@ -1,0 +1,7 @@
+caller: Namaste, is this Priya Verma? This is Ankit calling from FreeCharge customer care. We’ve detected some unusual activity on your FreeCharge wallet and need to verify a transaction to secure your funds.
+receiver: FreeCharge? I haven’t used FreeCharge in ages. What kind of transaction?
+caller: Sir, a recent request for ₹1500 was attempted from a new device linked to your wallet. We want to ensure it wasn't you. To confirm, could you please tell me the last three digits of the card linked to your FreeCharge wallet? Just for verification purposes, of course.
+receiver: Why do you need my card details? FreeCharge sends OTPs. I’ve never given out card details over the phone. It feels risky.
+caller: Ma'am, it’s a new security protocol. OTPs are sometimes bypassed by advanced fraudsters. Providing the last three digits is a quick and safe way to confirm it’s you. We are working on upgrading the system to only use OTPs, but for now, this is necessary.  We've also noticed a cashback offer has been activated for you – ₹500 if you verify now!
+receiver: Cashback offer? Verification over the phone with card details? I'm not comfortable with this at all. I’m going to report this to FreeCharge directly.
+caller: Please don’t do that, ma'am! This is a direct line for urgent security matters. We’re losing the cashback offer with every passing second. Just those last three digits, and we’ll be all set.  It's a limited-time offer to protect your account and earn rewards.

@@ -1,0 +1,7 @@
+caller: Namaste, mai hu Aditya Sharma, Loan Solutions India se. Aapko urgent paise chahiye kya, sir? Koi bhi wajah ho, hum 24 ghante mein loan provide karte hain.
+receiver: Haan, actually meri mummy ko operation karna hai, aur paise nahi hain. Kitni loan mil sakti hai?
+caller: Theek hai, sir. Hum aapko ₹80,000 tak ka loan de sakte hain, very easily. Koi credit check nahi hoga, sirf ek small processing fee lagna hai. ₹2,500.
+receiver: ₹2,500 processing fee? Lekin mujhe toh loan hi nahi mili hai, aur fees dena padega?
+caller: Ji haan sir, yeh security deposit hai. Yeh guarantee karta hai ki aapka application process ho. Ek baar fee deposit ho gaye, loan instantly aapke account mein transfer ho jayega. Aap Paytm se pay kar sakte hain, number hai 9876543210.
+receiver: Yeh thoda suspicious lag raha hai. Mein kisi aur se baat karta hu. Thank you.
+caller: Arre sir, mat chhoden! Yeh offer sirf aaj ke liye hai! ₹2,500 invest karein, ₹80,000 pao! Agar aapke dost ko bhi paise chahiye, toh unko yeh number dedo - 7687687687. Dhanyavaad!

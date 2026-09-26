@@ -1,0 +1,7 @@
+caller: Hello, is this Mr. Rajesh Sharma? This is Akash from Bluedart Courier. We have a parcel addressed to you, but there's a slight issue with the payment.
+receiver: Bluedart? What issue? I didn’t order anything recently.
+caller: Sir, the delivery charges are showing as unpaid. It’s a small amount, just ₹385. To release the parcel, we need you to verify the payment through a secure link we’ve sent to your WhatsApp.
+receiver: Secure link? What link? I haven't received anything. And I’m sure I didn’t order anything requiring delivery charges. Can you give me a tracking number?
+caller: Sir, the link is automatically sent. Sometimes it takes a few minutes to arrive. The tracking number is BD7892345. We need to process this quickly because our warehouse is full, and parcels are being returned. Just click the link and enter your UPI ID.
+receiver: UPI ID? Wait a minute, that sounds suspicious. Why would a courier company ask for my UPI ID? Can I speak to your supervisor? I want to confirm this is legitimate.
+caller: Sir, time is running out. The parcel will be sent back to the sender if the payment isn't cleared within the next 10 minutes. To avoid this, kindly confirm the payment via the link. It's a standard procedure, sir.

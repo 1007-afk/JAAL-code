@@ -1,0 +1,7 @@
+caller: Hello, is this Priya? I’m calling from LoanExpress India. We’ve pre-approved you for a personal loan of up to ₹5 lakh with very low interest rates. Just need to confirm a few details.
+receiver: LoanExpress? I don't remember applying for any loan. Are you sure you have the right number?
+caller: Yes, Priya ji. It's definitely you. We saw your excellent credit score. To activate the loan, we just need your bank account details and a small OTP verification fee of ₹100. It’s for security purposes only.
+receiver: ₹100? That seems strange. And why do I need to give you my bank details over the phone? I thought reputable lenders didn't ask for that.
+caller: Priya, beta, time is running out. This is a limited-time offer. If you don't pay the ₹100 verification fee now, the offer will expire. We can transfer the ₹5 lakh to your account immediately after. Think of all the things you could do!
+receiver: No, thank you. This feels very suspicious. I’m going to hang up now and report this number. I’m not giving you any money or personal information.
+caller: Arre, Priya! Don't do that! You’ll regret missing out on this opportunity. Just send the ₹100 to the UPI ID I’m giving you. It's a small price to pay for financial freedom! I have proof of funds ready to be released to you.

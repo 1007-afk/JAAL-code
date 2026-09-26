@@ -1,0 +1,7 @@
+caller: Namaste, sir? Main Blue Dart Courier se baat kar raha hoon. Aapke naam par ek parcel aaya hai, lekin address mein kuch confusion hai.
+receiver: Blue Dart? Parcel? Mujhe koi order toh nahi yaad aa raha. Mera naam Rajesh Sharma hai. Kya parcel ke details bata sakte ho?
+caller: Rajesh Sharma ji, parcel number BD12345678 hai. Yeh Amazon se aaya hai, aur usmein ek smart watch hai. Lekin pin code mein mistake hai, yeh 400001 dikha raha hai, jabki aapka pin code 411001 hai.
+receiver: Smart watch? Amazon? Maine kuch din pehle ek smart watch order kiya tha! Par pin code toh sahi hai mera. 411001 hi hai. Kya tum log galti kar rahe ho?
+caller: Rajesh Sharma ji, galti nahi hai. System mein kuch technical problem hai. Parcel deliver karne ke liye, aapko ek small verification fee bharne hogi – sirf ₹299. Yeh fee sirf confirmation ke liye hai. Aap OTP de dijiye, hum verify kar lenge.
+receiver: ₹299? Verification fee? Amazon aise nahi karta! Yeh kuch toh gadbad lag rahi hai. Mein koi OTP nahi dene wala. Tumhara naam aur company ka address batao.
+caller: Sir, jaldi karein! Parcel 24 hours mein revert ho jayega. Yeh security protocol hai. Aapka time waste hone se bacha rahega. Please provide OTP for swift delivery.

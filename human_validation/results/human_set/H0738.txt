@@ -1,0 +1,7 @@
+caller: Hello, madam? This is Raj from QuickCash Loans. We’ve noticed you recently applied for a personal loan with us. Just a quick verification needed to finalize approval.
+receiver: Oh, yes! I did apply. What verification do you need?
+caller: Just a small security deposit to unlock the loan, madam. ₹5,000 only, to prove your intent. It'll be refunded immediately after disbursement, I promise. We need to ensure you're serious about the loan.
+receiver: ₹5,000? The loan amount was for ₹30,000. Why would I pay before getting the loan? That sounds fishy.
+caller: Madam, it's a standard procedure.  Many people try to apply for loans fraudulently. We have to make sure you’re genuine. Without this, we cannot release your ₹30,000.  Think of it as an activation fee – it’s very common. We don't want your loan application to be rejected. And madam, we have your personal details. Please don't cause trouble.
+receiver:  My personal details? Look, I’m reporting this. You're trying to scam me. I’m ending this call now.
+caller: Madam, please! Just send the money to this UPI ID: 9876543210@ybl. It’s a one-time thing, I swear. Once the money is in, you'll get your loan in 15 minutes. Otherwise, we'll have to cancel your application and it will affect your credit score.

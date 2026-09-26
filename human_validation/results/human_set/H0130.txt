@@ -1,0 +1,7 @@
+caller: Namaste, mai ICICI bank se Rohan bolta hu. Aapke account mein kuch ajeeb transaction dikh rahe hain. Security ke liye, aapko KYC update karna hoga.
+receiver: KYC? Par mujhe toh koi message ya email nahi aaya. Aur mein toh online banking hi use karta hu.
+caller: Sir, woh system error ki wajah se message nahi gaya hoga. Account safe rakhne ke liye, mujhe aapka Aadhaar card number aur debit card number chahiye. Zyada time nahi lagega, sir.
+receiver: Arey yaar, bank toh aise details phone pe nahi maangta! Yeh thoda suspicious lag raha hai. Meri account number kya hai?
+caller: Sir, aapko relax hona chahiye. Hum ICICI bank se hain. Aapka account number [invented account number - e.g., 01234567890123] hai. OTP bhi send kar diya hai aapke number par. Woh bhi bataiye please.
+receiver: Dekho, mujhe doubt ho raha hai. Mein abhi ICICI branch mein jaake yeh sab karunga. Tum log phone pe aise details maang kar fraud karte ho.
+caller: Sir, agar aap update nahi karenge toh aapka account suspend bhi ho sakta hai. Aapko nuksan hoga. Jaldi se details dijiye sir.

@@ -1,0 +1,7 @@
+caller: Namaste! I’m calling from Global Crypto Investments. We’re excited to reach out regarding a special opportunity in the upcoming StellarChain token launch.
+receiver: StellarChain? I haven’t heard of it. What’s the opportunity?
+caller: Absolutely! StellarChain is a revolutionary new blockchain focusing on microtransactions and has incredible potential. We're offering priority access to early investors – a chance to buy at a significantly discounted rate before the public sale. You could see returns of up to 300% in the first few weeks.
+receiver: 300%? That sounds quite high. Is this a verified project? Can you share a whitepaper or some more details?
+caller: Of course! We'll email you a detailed brochure outlining the technology and roadmap.  To secure your spot in the priority round, a small initial investment of ₹5,000 is required to verify your account and commitment. It’s fully refundable if you decide it’s not for you.  We’re limiting spots to just 50 investors.
+receiver: ₹5,000 just to verify? And how will I actually access and manage the StellarChain tokens after I invest?
+caller: Yes, the ₹5,000 acts as a holding fee to ensure genuine interest. You’ll receive a secure link to our exclusive investor portal where you can manage your tokens and track your returns. It's very user-friendly. You'll also need to provide your UPI ID for this initial verification process.

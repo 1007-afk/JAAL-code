@@ -1,0 +1,6 @@
+caller: Namaste, mai Flipkart se Rahul bolta hoon. Aapke ek order ke saath thodi dikkat aa gayi hai. Payment processing mein problem aa raha hai.
+receiver: Oh, kya hua? Order number kya hai? Mai check kar leta hoon.
+caller: Order number hai 9876543. Aapko apna OTP share karna hoga taaki hum payment process kar sakein. Iske bina, order postpone ho jayega.
+receiver: OTP? Flipkart kabhi OTP maangta hai? Yeh toh suspicious lag raha hai.
+caller: Sir, security ke liye zaroori hai. Otherwise, aapka order cancel ho sakta hai.  Aapko inconvenience hogi. Just the OTP, please.
+receiver: Theek hai, ek minute. Mai Flipkart customer care ko call karta hoon aur phir baat karte hain.

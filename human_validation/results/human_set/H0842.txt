@@ -1,0 +1,9 @@
+caller: Namaste! Mera naam Rajesh Sharma hai, CBI se. Aapke naam par ek parcel customs mein roka gaya hai, sir.
+receiver: Parcel? Mujhe koi parcel order karne ko yaad nahi. Kyon roka gaya hai?
+caller: Parcel mein illegal documents mili hai, sir. Drug trafficking se related. Aapko jail jaane se bachne ke liye ab 50,000 rupaye ka fine bhar na hoga.
+receiver: What? Drug trafficking? Yeh toh bakwaas hai! Main kabhi parcel nahi order kiya. Aur CBI wale aise phone par rupaye maangte hain?
+caller: Sir, yeh serious matter hai. Hum video call pe baat kar sakte hain taaki aapko proof dikha sakein. Agar aapne fine nahi bhara toh warrant nikalna padega, aur aapko court mein bhi jaana padega. Abhi account number de dijiye, sir.
+receiver: Account number? Wait a minute. Main apne lawyer se baat karta hoon. Yeh sab kuch fraud lag raha hai. Main police mein complaint karunga!
+caller: Sir, aapko police se zyada humse baat karni chahiye. Police ka kaam hai arrest karna, aur hamara kaam hai aapko bachana. Jaldi karein, sir, time guzar raha hai. Yeh aapke liye last chance hai.
+receiver: Sir, you are a scammer. I am reporting your number. Don’t call me again.
+caller: Sir, last warning! Jaldi karein!

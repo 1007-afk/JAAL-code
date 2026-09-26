@@ -1,0 +1,14 @@
+caller: Hello? Hello, can you hear me properly?  I’m calling from ‘Secure Solutions Helpline’. We have received an alert about potential fraudulent activity linked to your mobile number. It’s extremely vital that you respond immediately. There’s a dedicated hotline for such cases; please dial 9876543210. You have just under 6 minutes to address this critical situation. Don’t delay, it’s essential for your safety.
+receiver: Haan ji, sunta hun. Secure Solutions Helpline? Fraudulent activity? Mobile number se juda? Woh number kya tha, phir se bolde? 9876543210.  6 minutes?  Yeh toh achha hi lag raha hai, koi problem nahi hai.  Koi name bata sakte hain aapki?
+caller: Yes sir, absolutely. My name is Rohan Verma, and I am here to assist you. This alert concerns a suspicious transaction reported on your account. We need to verify your identity quickly to prevent further complications. Please call 9876543210 immediately. You have approximately 5 minutes remaining to complete this verification process. Hurry up!
+receiver: Rohan Verma ji. Suspicious transaction? Achha hai. If it’s linked to my account then obviously it’s important. And 5 minutes? Oh dear, yeh toh seriously bahurupi lag raha hai.  Tell me, is there any specific person involved?
+caller: Exactly! That’s why we’re contacting you. I am Rohan Verma.  This transaction involves a large sum transferred to an offshore account. We need to confirm if you authorized this transfer. Call 9876543210 now. Only 4 minutes left to report this. Don't waste time!
+receiver: Okay, Rohan Verma ji. Offshore account?  That sounds serious.  So, what exactly do I need to do?  Can you give me more details?  Is there any reference number?
+caller: Yes, sir. To secure your account, please call 9876543210 immediately. You have only **3 minutes** remaining. This is a high priority investigation, and your cooperation is crucial.  Don't hesitate!
+receiver: Three minutes! Achaa, okay. 9876543210. Main abhi phone lagaata hu. Thanks Rohan ji, for the quick notification.
+caller: Wonderful! Just to remind you, you have only **2 minutes** left.  Call **9876543210** instantly to resolve this issue. Your financial security depends on it! Quickly!
+receiver: Two minutes...Arrey yaar, now I am worried. But since it's about security, I will definitely call. 9876543210. Abhi phone karunga. Thank you Rohan ji!
+caller: Ji haan, bilkul! You have just **1 minute** left. Call **9876543210** without delay. This is absolutely critical for protecting your assets. Hurry!
+receiver: One minute! Seriously? Okay, okay, I am calling now. 9876543210… Thank you Rohan ji, for the warning!
+caller: Excellent! We appreciate your prompt action. Remember, your account is now secured thanks to your swift response. Have a good day!
+receiver: Okay, bye bye.

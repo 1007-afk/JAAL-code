@@ -1,0 +1,7 @@
+caller: Namaste! BharatPe se baat kar raha hoon. Aapne recently Flipkart se ₹800 ka order kiya tha, aur BharatPe cashback offer ke under, aapko ₹400 cashback milega. Confirm karne ke liye, 98765 pe 'CLAIM400' send karein. Offer sirf 2 minute ke liye valid hai!
+receiver: ₹400 cashback? Flipkart order ka? Yeh achcha hai, lekin BharatPe pehle kabhi use nahin kiya. Confirm karne ke liye 98765 pe 'CLAIM400' send karna hai?
+caller: Haan ji! Jaldi karein, sir. Offer abhi khatam hone wala hai. BharatPe system mein Flipkart order automatically register ho gaya hai. AAPKO sirf confirm karna hai. 2 minute baad offer khatam.
+receiver: Lekin Flipkart app mein toh cashback automatically milna chahiye tha. BharatPe se message kyun aa raha hai? Aur 98765 number toh BharatPe ka official number lagta nahin hai.
+caller: Sir, woh system slow chal raha hai. BharatPe mein confirm karne se cashback jaldi milega. Aapko ₹400 instant milega, Flipkart app mein wait karna padega. Sirf 30 seconds bache hain! 98765 pe 'CLAIM400' send karein.
+receiver:  Theek hai, fine. Main 98765 pe ‘CLAIM400’ send kar deta hun. Par lein, mujhe koi pressure nahin lagna chahiye.
+caller: Ji ji, sir! Aapka cashback successfully process ho gaya hai! Thank you for using BharatPe!

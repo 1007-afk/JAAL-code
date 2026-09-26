@@ -1,0 +1,8 @@
+caller: Namaste sir, main Rahul, State Bank se baat kar raha hoon. Aapne online loan apply kiya tha, isliye call karta hoon. Aapke paas bank account ka passbook ready hai kya?
+receiver: Namaste Rahul ji. Haan, passbook toh hai. Kahan jaise hai? KYC update karne ke liye chahiye.
+caller: Ji sir, passbook mein aapke naam ka address dikh raha hai. Kya main aapke loan application ID check kar sakta hoon, jo aapne loan form fill karte samay mila tha?
+receiver: Wait karo, dekhta hoon. Haan, mein mila. Woh ID hai XYZ987654321. Passbook bhi ready hai, ab bataiye fir se kaise procedure karna hai.
+caller: Very good sir! Aapka loan application ID XYZ987654321 hai, confirm ho gaya. Abhi aapke registered email id pe ek OTP ayega. Woh OTP aap mujhe bata sakte hain kya? sirf OTP verification ke liye hai, ek minute lagega.
+receiver: OTP? Okay, wait a bit. Aa gaya hai. Yeh hai 123456. Verification complete? Jaldi batao, mein bahut kaam mein hun.
+caller: Ji sir, absolutely! Aapka OTP 123456 hai, confirm ho gaya. Loan document verification complete ho gaya hai. Aapko loan amount transfer ka confirmation next week mein aa jayega.
+receiver: Haanji, okay. Thank you.

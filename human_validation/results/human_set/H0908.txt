@@ -1,0 +1,6 @@
+caller: Namaste! This is Raj from QuickCash Solutions. We noticed you recently applied for a personal loan and your application is pending verification. Please call us immediately on 9898765432 to confirm your details. Urgent!
+receiver: Hello? QuickCash Solutions? I don’t recall applying for a loan. Are you sure you have the right number?
+caller: Ji, ji! Yes, absolutely. We have your name registered as Priya Sharma. Your application ID is QC12345. There’s a small verification fee of ₹2500 to activate your loan. This is a standard procedure.
+receiver: ₹2500? But I didn't apply! And why do I need to pay before the loan is even approved? This sounds suspicious.
+caller: Priya ji, please understand, this is to prevent fraudulent activity. If you don’t pay, we’ll have to cancel your application and report it as suspicious.  Also, we have some sensitive personal information that could be leaked if we don’t secure it. It’s just for a few minutes.
+receiver: Sensitive information? What information? And why can’t you verify this through the application process itself?  I’m not paying anything until I’m sure this is legitimate. I’m going to report this number.

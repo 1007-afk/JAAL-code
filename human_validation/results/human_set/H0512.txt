@@ -1,0 +1,20 @@
+caller: Namaste beta, kaise hain aap? Mujhe bohot accha lagta hai aapke sath baat karne ka, kya aap mujhse kuch bataati hain, kaisi hain aapki zindagi?
+receiver: Namaste! Shukriya, main achha hi hoon. Aap kaise hain? Mein ek simple insan hoon, par mujhe cricket aur Bollywood bahut pasand hai. Aapka naam kya hai? Aur aap ki zindagi kaisi hai?
+caller: Oho, cricket aur Bollywood! Kitni pyaari cheezein hain! Mera naam Rohan hai. Meri zindagi toh bohat khush hai, par mujhe ek secret neeed hai. Kya aap meri dost ban sakte hain?
+receiver: Rohan, acha naam hai. Main bhi dost banana pasand karta hoon. Kaisi secret hai jo aap share karna chahte hain?
+caller: Actually, mera ek cousin hai, Vijay, woh London mein residency kar raha hai. Woh mujhe bohot madad kar sakta hai, par usko ek small investment ki zarurat hai.
+receiver: Vijay London mein? Wow, woh kya karega? Aur investment kis liye hai?
+caller: Woh keh raha hai ki wo ek new startup mein invest karna chahta hai, jo ki AI technology par based hai.  Yeh opportunity bohot badi paisa hasil kar sakta hai.
+receiver: AI technology? Bohut interesting hai! Par mujhe yeh risk lene mein thak Gaya hai.  Mujhe pata hai ki investment kam se kam ₹50,000 ki honi chahiye.
+caller: Don’t worry beta, main tumhe sab pese de sakta hoon, par mujhe sirf ek small percentage chahiye. Just a little token of gratitude.
+receiver: Tum mujhe sab pese dein?  Kucch doubt hain.  Aapka number kahan se mila?
+caller: Main online dating app par tha, aur apki profile mujhe bahut pasand aayi.  Tum toh kitni beautiful aur intelligent ho.
+receiver: Online dating app?  Mujhe yaad nahi tha.  Aapka profile toh bohot generic tha.  Main actually work karte huun, aur mere paas time nahin hai.
+caller: Please beta, mujhe mat rokna.  Yeh ek golden opportunity hai.  Mujhe sirf ₹10,000 chahiye, aur main tumhe ₹15,000 return kar dunga.
+receiver: ₹15,000 return?  Yeh toh scam lagta hai!  Main aapko report karunga.
+caller: No no beta, please don't do that!  I am genuinely offering you a chance to make some money.  Just trust me!
+receiver: Trust me?  Mujhe trust karna hai?  Mujhe apne family ko bhi batayega.
+caller: Haan, sure.  Mein tumhare family ko bhi bataunga.  Par mujhe baraasa karna hai.
+receiver: Nahi, main aapko believe nahi karta.  Main hamesha alert rehta hoon.
+caller: Please beta, dil se karo.  Yeh tumhare liye ek amazing opportunity hai.
+receiver: Nahin.  Mai aapko block kar deta hun.

@@ -1,0 +1,12 @@
+caller: Namaste! Hai kya? Is this Mr. Sharma? We have some very important news regarding your unclaimed lottery winnings! Congratulations, you’ve won ₹5,00,000! To receive your prize, we just need to verify your identity. Please call our dedicated support team at 09292638457 immediately. The call charges are just ₹1 per minute. Don’t delay, this offer is valid for 24 hours!
+receiver: Namaste! Haan, main Mr. Sharma hoon. ₹5,00,000? Seriously? That's incredible! Okay, tell me more about how I can collect my prize. I will call the number you provided. Thank you!
+caller: Absolutely! This is extremely exciting, isn't it? To confirm your eligibility, we require you to provide us with your bank account details. It's a simple procedure, just a few questions. Call our support team at 09292638457 right away. The cost is only ₹1 per minute. Hurry up, this offer is expiring soon!
+receiver: Bank account details? Really? What kind of bank are we talking about? And what exactly do you need these details for? I’ll check the number and call them back later. Thank you for the information.
+caller: Don't worry, it's completely secure. We just need to ensure that the funds can be transferred smoothly. It’s standard practice, believe me. Our support team is waiting to assist you. Call 09292638457 as soon as possible. Only one attempt remains to claim your prize!
+receiver: One attempt remaining? Oh dear! Okay, okay, I'll give them a try. Thank you for informing me about this wonderful opportunity. I am calling now.
+caller: Fantastic! That's the spirit! Remember, you have limited time to claim your winnings. Make sure you mention that you received this notification from us. They will guide you through the final steps. Don’t hesitate to ask any questions. All the best!
+receiver: Okay, I’ve called them. They said they need proof of address too. This is getting complicated. Thank you again for letting me know. I’ll see what they say.
+caller: Proof of address? Yes, absolutely necessary. It’s just a precaution. They want to make sure everything is legitimate. Call 09292638457 if you need further assistance. You have just one chance left to claim your prize!
+receiver: One chance? Seriously? This is becoming stressful. Okay, I'm going to hang up now. Thank you for everything.
+caller: Wait! Please don’t go! You’re almost there! Just one more question – could you please confirm your date of birth? It’s crucial for processing your winnings. Call 09292638457 immediately!
+receiver: Date of birth? No way! This is ridiculous! I'm ending the call now. Goodbye!

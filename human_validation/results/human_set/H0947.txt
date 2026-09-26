@@ -1,0 +1,8 @@
+caller: ammer : Hanji hello
+receiver: Haanji, mai sun raha hoon. Kaun bol rahe hain?
+caller: scammer : Hanji hello\nreceiver: Haanji, mai sun raha hoon. Kaun bol rahe hain?
+receiver: Haanji, mai sun raha hoon. Kaun bol rahe hain?
+caller: scammer : Hanji hello, I'm calling about that dogging thing in your area. Lots more people are joining in lately! You should totally get involved.
+receiver: Dogging thing? Area mein? Kahan se phone kar rahe ho bhai? Aur kaun bol rahe ho?
+caller: scammer : Haanji, main Rohan bol raha hoon. Aapko pichli baar jo number diya tha us pe baat hui thi, yaad hai? Wahi dogging group ki baat kar raha tha main.
+receiver: Rohan? Rohan kaun? Aur dogging group ki baat kar rahe ho? Mujhse toh kabhi koi baat nahi hui thi iske baare mein. Aap galat number laga rahe ho shayad.

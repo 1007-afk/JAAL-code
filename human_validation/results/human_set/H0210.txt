@@ -1,0 +1,28 @@
+caller: Namaste, main Rohan hu, DigiCorp Solutions se baat kar raha hun. Aapke account mein ₹299 ka ‘Premium Data Booster’ package activate hua hai. Jaise hi humein yeh notification mili, humne aapko ₹299 ka charge apply kiya hai.
+receiver: Oh really? Main aisa kuchh nahi order kiya tha. Ji, main Rohan se baat kar rahi hun.
+caller: Sirf confirm karein ki aap Rohan ji hain. Humne aapko premium data booster de raha/rahi hain, jiski value ₹299 hai. Ismein koi mistake ho gayi hogi, lekin hum yeh problem solve karne ke liye yahaan hain.
+receiver: Mein unhein bolunga, par abhi toh mujhe yeh charge dikh raha hai. Kya main isko cancel kar sakta/ski?
+caller: Haan, cancel karna thik hai, lekin phir se verification ke liye humein kuch details chahiye honge. Aapka bank card ka PIN number bata dijiye, sirf last four digits.
+receiver: Haan, PIN number hai 7890. Lekin maine isko bataane ka koi zarurat nahin hai. Yeh bilkul secure nahin hai!
+caller: Sirf verification ke liye, Priya ji. Apni comfort level ko understand karte hain, lekin humne yeh step li hai agar aapko refund mile.
+receiver: Nahin, main isko bataati/batati nahin. Main helpline number search kar rahi hun.
+caller: Ji haan, aapko help mil jaayegi. Par ek minute lein, main abhi server ko reset kar raha/rahi hun. Agar aapko refund mila toh thank you keh dena.
+receiver: Main koi refund nahi lega. Main police ko bhi bataungi isse.
+caller: Police ko bataanay mein time lagega. Humare server ko reset karna zaroori hai. Aapko maaf karna padega.
+receiver: Nahi, main aapko har ghar dekhaungi!
+caller: (Silence)
+receiver: (Silence)
+caller: Namaste, main Rohan hu, DigiCorp Solutions se baat kar raha hun. Aapke account mein ₹299 ka ‘Premium Data Booster’ package activate hua hai. Jaise hi humein yeh notification mili, humne aapko ₹299 ka charge apply kiya hai.
+receiver: Oh really? Main aisa kuchh nahi order kiya tha. Ji, main Rohan se baat kar rahi hun.
+caller: Sirf confirm karein ki aap Rohan ji hain. Humne aapko premium data booster de raha/rahi hain, jiski value ₹299 hai. Ismein koi mistake ho gayi hogi, lekin hum yeh problem solve karne ke liye yahaan hain.
+receiver: Mein unhein bolunga, par abhi toh mujhe yeh charge dikh raha hai. Kya main isko cancel kar sakta/ski?
+caller: Haan, cancel karna thik hai, lekin phir se verification ke liye humein kuch details chahiye honge. Aapka bank card ka PIN number bata dijiye, sirf last four digits.
+receiver: Haan, PIN number hai 7890. Lekin maine isko bataane ka koi zarurat nahin hai. Yeh bilkul secure nahin hai!
+caller: Sirf verification ke liye, Priya ji. Apni comfort level ko understand karte hain, lekin humne yeh step li hai agar aapko refund mile.
+receiver: Nahin, main isko bataati/batati nahin. Main helpline number search kar rahi hun.
+caller: Ji haan, aapko help mil jaayegi. Par ek minute lein, main abhi server ko reset kar raha/rahi hun. Agar aapko refund mila toh thank you keh dena.
+receiver: Main koi refund nahi lega. Main police ko bhi bataungi isse.
+caller: Police ko bataanay mein time lagega. Humare server ko reset karna zaroori hai. Aapko maaf karna padega.
+receiver: Nahi, main aapko har ghar dekhaungi!
+caller: (Silence)
+receiver: (Silence)

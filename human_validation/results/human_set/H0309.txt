@@ -1,0 +1,8 @@
+caller: Namaste, main Axis Bank se Priya bol rahi hoon. Aapke naam par ek suspicious transaction detect hua hai. Security ke liye, humein aapki KYC details verify karni hogi.
+receiver: KYC? Kya transaction hua? Mujhe koi message nahi aaya. Koi bhi transaction hone se pehle toh message aana chahiye na?
+caller: Ji, sir. System mein ek transaction attempt dikha raha hai, lekin woh incomplete hai. Isliye humein aapko call kiya. Account suspend hone se bachne ke liye, jaldi se verify karna hoga. Apna Aadhaar card ka last 4 digits bataiye, please.
+receiver: Aadhaar number? Koi bhi bank mujhe Aadhaar number nahi lega. Yeh scam lag raha hai.
+caller: Sir, hum bank se hi call kar rahe hain. Call recording bhi ho raha hai.  Account ki security ke liye urgently help kar rahe hain. Please, sirf last 4 digits bataiye.  Agar aap nahi batayenge toh account freeze ho jayega.
+receiver: Freeze ho jayega?  Okay, okay...  [Invented Aadhaar last 4 digits]. Par mujhe doubt hai.
+caller: Shukriya, sir. Ab ek OTP aapke registered mobile number par aayega. Woh OTP mujhe bataiye, please.
+receiver: OTP? Kaise... wait a second.

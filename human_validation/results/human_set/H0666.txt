@@ -1,0 +1,7 @@
+caller: Namaste, mein SBI se Rohit Verma bol raha hoon. Aapke account mein kuch security issues aa rahi hain, isliye aapko verification karwana hoga.
+receiver: SBI? Mein toh SBI ka account holder hoon. Verification? Kya karna hai?
+caller: Ji, aapka account suspend hone se pehle, humein aapki personal details verify karni hogi. Kuch details bataiye taaki hum aapke account ko secure kar sakein. Bas, Aadhaar card number aur OTP chahiye.
+receiver: Aadhaar card number? Aur OTP? Yeh thoda risky lag raha hai. Mein toh online banking se zyada comfortable hoon.
+caller: Sir, yeh standard protocol hai. OTP aapke mobile number par aayega, aur Aadhaar card number se hum verify karenge ki account aapka hai. Agar aap verify nahi karte, toh account 24 hours mein block ho jayega.
+receiver: 24 hours? Seriously? Theek hai, OTP aa gaya hai. OTP hai 567890. Par Aadhaar card number bataane se pehle, mujhe branch mein jaakar verify karna zyada pasand hoga.
+caller: Sir, branch mein line bahut lambi hogi, aur aapka account suspend bhi ho sakta hai. Abhi hi verify kar lijiye, aur aapko koi problem nahi hogi.

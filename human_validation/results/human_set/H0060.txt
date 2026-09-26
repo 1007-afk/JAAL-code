@@ -1,0 +1,9 @@
+caller: Hello? Is this Mr. Sharma? This is Inspector Kumar, calling from the Delhi Customs Department. We've intercepted a package addressed to you containing suspicious items.
+receiver: Haan, bolo. What kind of items? I haven’t received any package.
+caller: Sir, it appears to contain materials linked to an illegal online gambling operation and potential money laundering. This is a very serious matter. To clear this up and prevent further legal action, you need to pay a small processing fee of ₹15,000.
+receiver: ₹15,000? For what? I told you, I didn’t order anything. Is there a case number?
+caller: Sir, we can’t release the package until the verification is complete. This is standard procedure. To avoid arrest and court proceedings, it’s best to settle this quickly. I’m placing you on a video call with my supervisor so you can see the package. Please keep your camera on to ensure transparency. The number to call is 9013028888.
+receiver: Video call? Why should I do that? This sounds like a scam. I'm going to call the real customs department.
+caller: Sir, please don't delay. This is your final opportunity to resolve this matter without consequences. We have strong evidence linking you to this activity. Failure to cooperate will result in a warrant being issued for your arrest.  Just pay the ₹15,000, and we will release the package and close the case. Call 9013028888 now.
+receiver:  Okay, okay... wait. What if I pay, but the package still doesn't come? What guarantee do I have?
+caller: Sir, once the payment is confirmed, we’ll immediately send you a receipt and release order. This is a

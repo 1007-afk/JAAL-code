@@ -1,0 +1,7 @@
+caller: Hello sir, this is Rohan from LoanExpress. We've noticed you recently viewed our loan options online. We can approve a loan of up to ₹7,00,000 for you instantly. Just a quick verification process. Interested?
+receiver: LoanExpress? I don't remember applying for a loan. What kind of verification do you need?
+caller: No problem, sir! Just a few details. We need to confirm your identity. Can you please share the last four digits of your bank account number and a one-time password sent to your registered mobile? It's for security purposes only.
+receiver: Wait a minute. Shouldn't I be getting this information from the official LoanExpress website, not a phone call? This seems a little suspicious.
+caller: Sir, our website is currently undergoing maintenance. This is a temporary measure to expedite approvals. Trust me, sir, this is the fastest way to get your loan approved. Just give me those details, and I'll get the process started right away. Otherwise, I’ll have to cancel the application.
+receiver: Okay, fine. The last four digits are 4587. And the OTP is 890123.
+caller: Excellent, sir! Your loan is approved. Now, to activate it, we require a processing fee of ₹15,000. You can deposit it into this UPI ID: [Invent a UPI ID]. Once we receive the payment, your loan will be credited to your account within the hour.

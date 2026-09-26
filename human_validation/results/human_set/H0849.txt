@@ -1,0 +1,8 @@
+caller: Namaste! Mai Axis Bank se Deepak bolta hoon. Aapka account suspend hone ka risk hai, sir. Kuch suspicious activity detect hui hai.
+receiver: Kya? Account suspend? Kaun si activity?
+caller: Sir, KYC update incomplete hai. Government guidelines ke according, aapko verify karna hoga. OTP SMS karein, aur humko bank account number bhi de dijiye.
+receiver: Account number kyun chahiye? OTP toh mail mein bhi aatta hai.
+caller: Sir, security ke liye hum direct phone pe confirm karte hain. Abhi update na karne se account block ho sakta hai, aur aapka rupay transfer bhi ho sakta hai. Kuch der mein deadline hai.
+receiver: Thoda wait toh kar sakta hoon na? Main verify karunga, lekin mujhe zara confusion ho raha hai.
+caller: Sir, time bahut kam hai. Account suspend na ho, please OTP aur account number jaldi se de dijiye. Yeh sirf 2 minute ka kaam hai.
+receiver: Okay, theek hai. Dena kya chahiye?

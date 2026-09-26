@@ -1,0 +1,7 @@
+caller: Namaste! Main Bajaj Finance se Rohit bol raha hoon. Aapke naam par ek cashback offer live hai – ₹5,000 ka cashback Flipkart pe, sirf Bajaj Finance EMI ke saath. Yeh offer sirf 24 ghante ke liye hai.
+receiver: ₹5,000 Flipkart pe? Wow! Kaise redeem kar sakta hoon?
+caller: Aapko sirf ₹99 ka processing fee bharne hai, sir. Yeh fee secure gateway ke liye hai. Aapko ek UPI link milega jahan aap ₹99 deposit kar denge. Jab fee clear ho jayegi, cashback automatically Flipkart wallet mein credit ho jayega.
+receiver: ₹99 fee? Aur woh UPI link mujhe kahan milega? Ye safe hai na? Mujhe thoda doubt ho raha hai.
+caller: Haan sir, bilkul safe hai! Main aapko WhatsApp pe link send kar raha hoon. Jald se jald deposit karein, offer expiry ho rahi hai. Offer khatam hone se aap ₹5,000 ka loss suffer kar sakte hain.
+receiver: Theek hai, WhatsApp pe send kijiye. Par mujhe customer care number bhi de dijiye, jab kuch problem ho toh.
+caller: Haan ji, bilkul! Aapko WhatsApp pe link mil jayega aur customer care number bhi hai – 9876543210. Abhi ₹99 deposit kar dijiye, sir, aur ₹5,000 ka cashback enjoy karein!

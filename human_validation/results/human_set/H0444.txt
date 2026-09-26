@@ -1,0 +1,7 @@
+caller: Namaste! Mera naam Rahul hai, Bharat Credit Solutions se. Aapko ghar ki urgent medical expenses ke liye ₹75,000 tak ka loan mil sakta hai, sirf Aadhaar card aur PAN card se.
+receiver: Medical expenses? Kitna interest lagga jayega? Main zyada interest nahi dena chahta.
+caller: Sirf 8% interest, bohot kam hai! Aur approval process ek ghante se kam time mein ho jayega. Aapko loan amount direct aapke bank account mein transfer ho jayega. Ab, aapka Aadhaar card number bataiye?
+receiver: 8% interest toh theek hai. Par mujhe apne documents ko kisi bhi website par upload karne se dar lagi hai.
+caller: Koi chinta na leiye, sir. Hum totally secure hai. Actually, hum sirf verification ke liye kuch details mang rahe hain. Aur agar aapko loan deny kar diya, toh aapka data kabhi bhi disclose nahi hoga, promise!
+receiver: Theek hai, toh mera Aadhaar number hai… [receiver provides Aadhaar number]
+caller: Thank you, sir. Ab bank account number bataiye taaki hum loan transfer kar sake. Aur ek baat, agar aap time se EMI pay nahi karenge toh hum aapki contacts ko bhi notice bhijwa sakte hain.

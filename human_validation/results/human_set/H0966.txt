@@ -1,0 +1,7 @@
+caller: Namaste! Main CryptoGain se bol raha hoon. Aapke Bitcoin wallet mein kuch suspicious activity dikhi hai. Hackers ne try kiya hai, lekin humne block kar diya.
+receiver: Kya? Hackers? Mere Bitcoin? Mujhe toh koi notification nahi aaya.
+caller: Haanji, bahut dangerous situation tha. Humne aapko bachaya hai, lekin aapki security ke liye, humein kuch details verify karni padegi. Aapke wallet ka private key bataiye, hum check karenge.
+receiver: Private key? Woh toh kabhi nahi batata. Woh confidential hota hai. Aap kaise pata karwaayenge ki aap CryptoGain se hi hain?
+caller: Ji ji, bilkul sahi baat hai. Aapko doubt hona chahiye. Hum aapko ek OTP send karenge aapke registered phone number pe. Woh OTP enter karein, tab hum verify kar sakte hain. Phir main aapko security protocol explain karunga.
+receiver: Theek hai, OTP bhejo. Main dekhunga. Lekin agar kuch bhi gadbad hua, toh main janta hoon.
+caller: Bilkul, koi chinta nahi. OTP hai... 784592. Ab OTP enter karein, aur main aapko bataunga next step kya hai.

@@ -1,0 +1,8 @@
+caller: Hello, this is Inspector Sharma calling from the Delhi Cyber Crime Unit. We have detected some suspicious activity linked to your Airtel mobile number – specifically, several large cryptocurrency transactions originating from unknown sources.
+receiver: Inspector Sharma? Airtel number? Cryptocurrency? What’s going on? I haven't done any crypto transactions.
+caller: Sir/Madam, it appears your number was used unknowingly in a money laundering scheme. We have evidence. To prevent further legal complications and a potential arrest warrant, you need to cooperate. We need to verify your bank details and deposit a small amount—₹15,000—as a security deposit to prove your innocence.
+receiver: Fifteen thousand rupees? Hold on, this sounds fishy. Why would I need to pay to prove I’m innocent? You're calling from the Cyber Crime Unit, right? Can you give me a case number or the name of your police station?
+caller: Sir/Madam, this is a sensitive and ongoing investigation. We can't reveal the case number at this stage for security reasons. The payment needs to be made urgently via UPI to the number I’ll provide. It's a one-time payment to secure your records. Do not delay, as a warrant could be issued shortly.
+receiver: Urgent warrant? Look, I’m going to report this number. I know this is a scam. I’m not paying anyone to prove my innocence, especially not through UPI. I’m contacting Airtel and the Cyber Crime Unit directly.
+caller: Sir/Madam, don’t be foolish. This is your last chance to resolve this matter quietly. If you refuse to cooperate, we have no choice but to escalate the matter and you will be arrested. Your bank accounts will be frozen. Please, just make the payment.
+receiver: You’re just proving my point. This is definitely a scam. Goodbye.

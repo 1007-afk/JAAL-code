@@ -1,0 +1,7 @@
+caller: Namaste! Main LoanExpress se Rahul bol raha hoon. Aapki profile ek achha loan option dikha rahi hai - ₹30,000 tak, jaldi se! Aapko urgent paise ki zaroorat hai kya, sir?
+receiver: Loan? Mujhe toh nahi pata tha ki koi offer hai. ₹30,000?  Kyun? Kya zaroorat hai mujhe?
+caller: Sir, hum online shopping, medical expenses, ya kisi bhi urgent requirement ke liye loan provide karte hain. Credit check bilkul free hai. Aapka PAN card aur Aadhaar card nikaal aayen, aur kuch minutes mein process ho jayega. Call 09876543210.
+receiver: PAN card aur Aadhaar?  Yeh toh bahut risky lag raha hai.  Mujhe koi credit card bhi nahi hai.  Aap fraud kar rahe hain.
+caller: Sir, aapko trust karna padega! Yeh legal hai, government approved! Agar aap 3 ghante mein call nahi karte, toh offer expire ho jayega. Aur woh ₹30,000 aapke liye nahi rahega. Socho, aap apne family ke liye kitna kuch kar sakte hain!
+receiver: Sir, maine socha hai. Main koi call nahi karunga.  Aapko report karta hoon. Bye.
+caller: Arre, chup raho! Tumhara phone mein camera hai, main woh photo dekh raha hoon!  Agar tumne call nahi kiya toh main tumhari shaanti nahi karne dunga!

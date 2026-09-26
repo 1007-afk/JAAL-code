@@ -1,0 +1,9 @@
+caller: Namaste sir, main IndusInd bank se bol raha hoon. Aap se Mr. Sharma se baat kar sakta hoon?
+receiver: Haan, bol sakte hain. Main khud Sharma bol raha hoon.
+caller: Sir, humein aapke account mein ek suspicious transaction mila hai. Aapka account number 9876543210. Ek online transaction hua hai Nepal mein, ₹15,000 ka. Kya aapne kiya tha yeh transaction?
+receiver: Nepal? Nahin, main toh kabhi Nepal nahi gaya. Yeh to fraud hai!
+caller: Sir, humein National Cyber Crime Reporting Portal ne alert kiya hai. Aapko apne account ko secure karne ke liye kuch details verify karni hogi. OTP mil raha hai aapko phone par?
+receiver: Haan, mil raha hai. Par OTP kyun chaiye? Yeh toh scam lag raha hai!
+caller: Sir, OTP sirf aapke identity ke liye hai. Agar aap OTP nahi dete, toh hum account suspend kar denge. Jaldi kijiye sir.
+receiver: Account suspend? Nahin, nahin. Theek hai, OTP hai… 4578.
+caller: Thank you sir. Ab aapko apna Aadhaar card number batao, security ke liye.

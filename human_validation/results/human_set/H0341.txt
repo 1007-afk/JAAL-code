@@ -1,0 +1,38 @@
+caller: Namaste sir, main HDFC Bank se baat kar raha hoon. Aapko ek new debit card chahiye kya? Card banane ke liye humein aapke PAN card aur mobile number ki zarurat hogi.
+receiver: Oh, HDFC? Debit card? Yaani, main outdoor pe hoon. Mein phir ghar pahuncha ke badhiya call kar sakta hoon. Kya koi aur person call kar sakta hai?
+caller: Koi bhi call kar sakta hai, lekin main aapko reminder de dunga. Aapko jald se jald call karna. Aapka naam kya hai? Agar aap mujhe aapka naam bata denge to main aapko better service provide kar sakta hoon.
+receiver: Haan, main Delhi mein hun. Aajkal traffic bahut badi hai. Main office ke baad call kar lunga. Mera naam Vikram hai.
+caller: Ji Vikram ji, main aapko tomorrow morning call karunga. Delhi mein abhi subah ki shuruati hai. Vikram ji, aapka mobile number kya hai?
+receiver: Mobile number? Woh abhi unlock nahi hua hai. Main fir call karte samay check kar lunga.
+caller: Okay, okay. Warna, main aapko apna bank account number de sakta hoon. Ispe aapko OTP bhi mil jayega.
+receiver: Nahin, nahin. Mein apni privacy ka care karta hoon. Mujhe OTP nahi chahiye.
+caller: Kaise? Aapko free money milegi! Bas aapko apne bank account number aur OTP dena hai.
+receiver: Seriously? Naahi, main samajh gaya. Aapki scam hai. Bye bye.
+caller: Ji sir, main IDFC Bank se bol raha hoon. Aapko ek premium credit card chahiye? Card apply karne ke liye aapko aapka Voter ID aur mobile number milega.
+receiver: Oh, IDFC? Premium card? Main abhi shopping kar raha hoon. Fir call kar lungi. Mera naam Priya Sharma hai.
+caller: Priya Sharma ji, aapko soon call karenge. Aapka Voter ID number bata dijiye, ispar aapko OTP milega.
+receiver: Nahin, main nahi deta. Mein apni Voter ID private rakhna chahti hoon.
+caller: Please, Priya Sharma ji! Aapko ek amazing offer milega. Har month ₹5000 tak cashback milega.
+receiver: Cashback? Kitni baar milega? Aur kaise?
+caller: Har purchase par ₹5000 tak cashback milega. Flipkart, Amazon, ya kisi bhi store mein.
+receiver: Hmm… Main soch rahi hoon. Jaise, koi terms and conditions honge na?
+caller: Haan, simple hai. Just aapko payment UPI through our app karke karna hai.
+receiver: UPI? Mein UPI ka use nahi karti. Mein Paytm prefer karti hoon.
+caller:  Aapko har courier delivery par OTP verify karna hoga.
+receiver: Nahin, main nahi karungi. Aapki baat sunne mein hi meri time lag rahi hai. Bye.
+caller: Ji sir, main ICICI Bank se bol raha hoon. Aapko ek gold loan chahiye? Gold loan apply karne ke liye aapko aapka Aadhaar card aur mobile number milega.
+receiver: Oh, gold loan? Main abhi busy hoon. Fir call kar lungi. Mera naam Rohan Kumar hai.
+caller: Rohan Kumar ji, aapka Aadhaar card number bata dijiye, ispar aapko OTP milega.
+receiver: Nahin, main nahi deta. Mein apni Aadhaar card number private rakhna chahti hoon.
+caller: Please, Rohan Kumar ji! Aapko ek huge amount ka loan milega.
+receiver: Loan? Kahan se milega? Aur interest rate kya hai?
+caller: Online milega. Interest rate sirf 10% hai.
+receiver: 10%? Wo bhi online? Doubt hai mujhe. Bye.
+caller: Ji sir, main Axis Bank se bol raha hoon. Aapko ek personal loan chahiye? Personal loan apply karne ke liye aapko aapka income proof aur mobile number milega.
+receiver: Oh, Axis? Personal loan? Main abhi meeting mein hun. Fir call kar lungi. Mera naam Anjali Patel hai.
+caller: Anjali Patel ji, aapka income proof number bata dijiye, ispar aapko OTP milega.
+receiver: Nahin, main nahi deta. Mein apni income proof private rakhna chahti hoon.
+caller: Please, Anjali Patel ji! Aapko ek beautiful house milega.
+receiver: House? Kitni cost hogi?
+caller: ₹3 crore ka house milega.
+receiver: ₹3 crore? Hai na! Yeh to too much hai. Bye.

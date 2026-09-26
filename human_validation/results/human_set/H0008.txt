@@ -1,0 +1,10 @@
+caller: Namaste sir, main Sanjay Kumar hoon, Goldwin Motors se. Aapne ek SUV, Mahindra XUV700 ke liye lottery mein jeeta hain! Rs 18 lakhs ka prize money aapko mil sakta hai! Jee lein! Bas aapko yeh notification mein jo QR code aaya hai, uspar scan karna hoga. Itni badi deal hai, humein yeh QR code par click karne ka requirement hai.
+receiver: Haan? Mahindra XUV700? Lottery mein jeeta? Wow! Sir, main sun raha hoon… eh, QR code? Kya hai QR code? Mein ek minute dekh leta hoon notification mein.
+caller: Haanji, QR code aapko notification mein milega. Ispe click karne se aapko registration form milega. Form fill karne ke baad, hum aapke address verification ke liye ₹500 ka payment mangenge. Paise safai se transfer honge.
+receiver: ₹500? Transfer karne ke liye? Sir, yeh to thoda confuse karta hai. Verification charge? Kahan likha hai yeh? Mein check kar leta hoon notification mein.
+caller: Haanji, verification process ka part hai yeh. AAPNE lottery mein jeeta hai, remember? Isliye hum aapke address ko confirm karna chahte hain. Koi darrne wala baat nahi hai, bilkul legitimate hai.
+receiver:  Arre, lottery jeeta hai toh verification charge kyun?  Aapne kaha tha prize money ₹18 lakhs hai!  Yeh to bahut badi amount hai, verification charge lagne wala kaise?  Mein abhi confusion mein hun.
+caller: Haanji, aapko sirf ₹500 chahiye. Isse hum aapke address ka GPS location verify karenge. Iske baad aapko prize money mil jayega.  Koi tension mat lijiye, yeh bilkul safe hai.  Aur aapko 3 days ke andar ₹500 deposit karna hoga.
+receiver: 3 days? ₹500? Okay, okay. I’ll see the notification. But what if the QR code leads to something bad?  I am worried now.
+caller: Haanji, koi chinta mat karo. QR code hamare official website par jaata hai, Goldwin Motors ka.  Hamari website par aapko complete information milega.  Bas click karo aur enjoy karo!  Jaldi kijiye, limited slots hain!
+receiver: Limited slots? Okay, fine.  Clicking now...  Let's see what happens.  Uff, this is making me nervous.

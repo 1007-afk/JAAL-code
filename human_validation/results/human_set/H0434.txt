@@ -1,0 +1,7 @@
+caller: Hello sir/madam, speaking from QuickCash Solutions. We offer instant personal loans, up to ₹10 lakhs, with minimal paperwork. Just need your name and a few details to start.
+receiver: Really? That sounds good. My name is Rajesh Kumar. I’m a bit short on funds for my daughter’s wedding.
+caller: Excellent, Rajesh ji! A daughter’s wedding is a very important occasion. So, Rajesh ji, could you please tell me your approximate monthly income and your current address? It helps us tailor the best loan options for you.
+receiver: My monthly income is around ₹65,000, and I live at 45, Patel Nagar, Delhi.
+caller: Wonderful. Based on your details, we can definitely approve a loan for you. Now, for verification purposes, we need a small processing fee of ₹5,000 to be transferred to this account: [Scammer provides a fake account number]. This is a one-time charge, Rajesh ji.
+receiver: ₹5,000? That seems a bit high for processing.
+caller: It is a standard fee, Rajesh ji, and absolutely necessary to unlock your loan approval. Without this, we cannot proceed. We have many customers who are eagerly waiting for their loans and this is how we process them swiftly. Don't miss out on this opportunity.

@@ -1,0 +1,7 @@
+caller: Hello sir, this is Flipkart customer care. We've noticed some unusual activity on your account, particularly with your linked UPI ID.
+receiver: Unusual activity? What kind of activity? I haven't done anything.
+caller: Sir, there was a failed transaction attempt of ₹200 to a Paytm wallet. It looks like someone might be trying to access your account. To secure your account, we need to verify your UPI PIN immediately.
+receiver: Verify my UPI PIN? Over the phone? That doesn’t sound right. Flipkart usually sends OTPs to my registered mobile number.
+caller: Sir, this is a priority security measure. We are trying to prevent fraud. Just tell me your UPI PIN, and we’ll block the suspicious transaction and secure your account. It’s very important you do this now.
+receiver: But what if I tell you the wrong PIN?
+caller: Don’t worry sir, we’ll only use it to verify and then block the unauthorized transaction. It's a quick process. Just tell me your UPI PIN to protect your Flipkart account.

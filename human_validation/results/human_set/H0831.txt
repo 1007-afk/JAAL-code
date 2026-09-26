@@ -1,0 +1,8 @@
+caller: Hello, have you received our notification about your guaranteed £800 prize? This is URGENT! Today's draw confirms you've won, but you need to call 09050001808 from a landline to claim your prize. Just mention M95. Remember, this offer is valid for only 12 hours! Don't miss out on this fantastic opportunity!
+receiver: Haan, received. £800 prize? Urgent laga hua hai? M95 mention karna hai. Theek hai, try karta hoon landline se call karne ka. 12 ghante? Okay, thanks for the info.
+caller: Great! Yaad rakhiyega, sirf landline se aur M95 code zaroor bataiye ga. Time kam hai, isliye jaldi karna hoga. Good luck!
+receiver: Haan, bilkul. Landline pe hu abhi. M95 code yaad hai. Koshish kar raha hoon. Kya main kisi specific department se baat karunga, ya koi naam hai jinko main mention kar sakta hoon?
+caller: Kisi khaas department ka naam nahi hai, bas 'Prize Claim Department' keh sakte hain ya seedha 'M95 code' bataiye ga. Unko pata hoga. Jaldi kariye!
+receiver: Okay, Prize Claim Department. Ya M95 code. Got it. Call connect ho rahi hai... Hello? Hello? Koi hai? Lagta hai line busy hai ya network issue hai. Wapas try karunga landline se. Thanks.
+caller: Hello? Haan, woh number busy aa raha tha. Kya koi aur number hai? Ya thoda wait karke try karoon? Time nikalta jaa raha hai!
+receiver: Ugh, busy aa raha hai? Arre yaar, time bhi kam hai. Haan, thoda wait karke try karta hoon. Agar phir bhi busy aaya toh koi aur number hoga kya aapke paas? Ya yeh specific landline line hi hai?

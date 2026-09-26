@@ -1,0 +1,8 @@
+caller: Namaste sir, aapka swagat hai! Kya main aapki kuch madad kar sakta hoon aaj?
+receiver: Namaste ji! Thank you so much. Haan ji, mujhe thodi help chahiye thi ek account ke baare mein. Aap mera naam Priya Patel note kar sakte hain.
+caller: Namaste Priya ji! Thank you for calling. Mujhe Priya Patel naam note ho gaya hai. Aap kis account ke baare mein baat kar rahe hain? Koi account number ya reference code ho toh bataiye, main usse check kar leta hoon.
+receiver: Ji haan, bilkul. Account number hai 8765432109. Ismein kuchh transactions happened the, lekin usmein koi problem thi. Maine block karne ki koshish ki thi, par ho nahi paaya. Aap check kar sakte hain kya?
+caller: Priya ji, 8765432109 account number check kar raha hoon. Thoda sa time de dijiye. Okay, Priya ji, aapki account mein kuchh transactions mein problem ho gayi thi aur block karne ki koshish ki thi, woh dikh raha hai mujhe. Aapse ek choti si confirmation required hogi for security. Kya aap mujhe apna current mobile number bata sakte hain jo aapne account open karte waqt diya tha?
+receiver: Ji haan, zaroor. Mera current mobile number hai 9988776655. Aap check kar lijiye. I hope it matches.
+caller: Priya ji, thank you for confirming your mobile number. Yes, 9988776655 matches our records. Aapki account successfully block ho gaya hai. Aapko 72 ghante ke andar refund mil jayega.  Kya main aapki aur koi madad kar sakta hoon?
+receiver: Nahi ji, bas itni si hi help chahiye thi. Bahut-bahut shukriya aapka!

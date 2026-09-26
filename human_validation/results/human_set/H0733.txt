@@ -1,0 +1,10 @@
+caller: Namaste. Is this Mr. Gupta? This is Inspector Verma calling from the Delhi Customs Department. We need to speak with you urgently regarding a package registered under your name.
+receiver: Haan, main Gupta bolta hoon. Kya baat hai?
+caller: Sir, we’ve intercepted a parcel containing suspicious items. Initial investigations suggest possible involvement in illegal cryptocurrency trading. This is a serious matter, Mr. Gupta.
+receiver: Illegal cryptocurrency? Lekin main toh kabhi crypto trade nahi kiya.
+caller: That's what we’ve been hearing, sir. But our records indicate a transaction linked to your bank account. To clear this up and avoid legal action, we need you to pay a small processing fee of ₹8,500. It will cover the forensic analysis of the package.
+receiver: ₹8,500? Aur iske bad kya hoga?
+caller: Once the fee is paid, sir, we'll release the package and close the case. We need to verify your payment immediately to prevent further escalation. You can pay using UPI to this number: 9876543210.
+receiver: Kaise payment karoon? Koi link milega kya?
+caller: Sir, for security reasons, we don't send links. Please use your banking app directly and make the payment to the given UPI ID. We need to confirm this promptly - a magistrate is reviewing this matter.
+receiver: Theek hai, main dekh leta hoon. Bataiye, package mein kya tha?

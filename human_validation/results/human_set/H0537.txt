@@ -1,0 +1,22 @@
+caller: Namaste sir, main Airtel customer support se baat kar raha hu. Aapke phone ki SIM card 18 ghante mein deactivate hone wali hai. Aapko activation fee bharna hoga, warna SIM band ho jayegi.
+receiver: Seriously? Airtel? Mein toh Airtel ka hi user hu. Deactivation kyun hone wala hai? Kuch mistake to nahin hai?
+caller: Sir, aapke account mein koi transaction fail hua hai, isliye SIM deactivate hone wali hai. Isko save karne ke liye, aapko ₹599 deposit karne huye. Simple process hai, sirf few minutes mein ho jayega.
+receiver: ₹599? Just like that? Kahan deposit karoon? Aur ye online payment ka option hai kya?
+caller: Haan sir, aap UPI ID par deposit kar sakte hain. Hum aapko UPI ID batayenge, aap deposit karein, aur phir main aapki SIM activate kar dunga. UPI ID hai - AirtelSecurePay_XYZ123.
+receiver: AirtelSecurePay_XYZ123… Wait, let me check that. Hmm, seems legit. But can you confirm my registered address again? It’s Sector 12, Noida.
+caller: Sir, aapka address record mein Sector 12, Noida hi hai. Ab aapko sirf UPI ID par ₹599 deposit karne hain. Agar aapko koi dhyan nahi aa rahi hai, toh hum aapko step by step guide kar sakte hain.
+receiver: Step by step guide? Okay, fine. Tell me what information you need after the payment.
+caller: Payment complete hone ke baad, aapko apna debit card ka PIN number aur CVV number dikhana hoga. Security check ke liye, yeh zaroori hai.
+receiver: No way! Debit card PIN and CVV? That's completely unacceptable! I am not giving you that information.
+caller: Sir, yeh sirf ek formality hai. Aapki SIM ko protect karne ke liye, hume yeh required hai. Agar aapko rahat ho, toh hum alternative method bhi chal sakte hain – aapke bank statement par verification.
+caller: Namaste sir, main Jio customer service se baat kar raha hu. Aapke phone ki SIM card 24 ghante mein invalid hone wali hai. Agar aapko SIM chaliye rakhna hai, toh aapko ₹299 pay karne huye. Ye jo problem hui hai, woh ek technical glitch hai, aur hum isko fix karne ki puri koshish kar rahe hain.
+receiver: Jio? Mein toh Jio ka hi customer hu. Technical glitch? Kyon 24 ghante mein invalid? Woh kya technical glitch hai?
+caller: Sir, aapke account mein koi error aaya hai, isliye SIM invalid hone wali hai. Isko recover karne ke liye, aapko ₹299 deposit karne huye. Ye process bahut simple hai, sirf ek minute mein ho jayega.
+receiver: ₹299? Just for a glitch? Mein toh kabhi bhi Jio leke switch kar deta hu. Online payment ka option hai kya?
+caller: Haan sir, aap Paytm ya Google Pay se deposit kar sakte hain. Hum aapko QR code bhej denge, woh scan karein aur ₹299 deposit karein. QR code hai - JioFixIt_ABCD456.
+receiver: JioFixIt_ABCD456… Let me see that. Looks genuine. But can you confirm my registered email address? It's rajesh.kumar@example.com.
+caller: Sir, aapka email address record mein rajesh.kumar@example.com hi hai. Ab aapko sirf QR code scan karne aur ₹299 deposit karne hain. Agar aapko koi confusion hai, toh hum aapko video tutorial bhi send kar sakte hain.
+receiver: Video tutorial? Okay, let’s hear this. What kind of information do you need after the money is deposited?
+caller: Payment complete hone ke baad, aapko apna Aadhaar card number aur pan card number dikhana hoga. Verification ke liye, yeh zaroori hai.
+receiver: Aadhaar and PAN numbers?! That’s outrageous! I’m not sharing those documents!
+caller: Sir, yeh sirf aapki identity validate karne ke liye hai. Aapki SIM ko secure rakhne ke liye, hume yeh required hai. Agar aapko koi problem hai, toh hum alternate solution bhi provide kar sakte hain - aapke KYC records ke verification.

@@ -1,0 +1,7 @@
+caller: Namaste! This is Raj from QuickCash Solutions. We're offering instant loans to help people manage unexpected expenses. May I know your name, please?
+receiver: Hello, my name is Anita Verma. I'm a teacher.
+caller: Anita ji, that’s wonderful! Many teachers face financial hurdles. We have a special scheme for government employees – very easy approval, minimal paperwork. How much loan are you looking for, Anita ji?
+receiver: Well, my son needs a new laptop for his online classes. Something around ₹12,000 would be perfect.
+caller: Excellent! ₹12,000 is very manageable. Just to verify your details, could you share a screenshot of your salary slip and a copy of your Aadhaar card? It’s just for security purposes, Anita ji. Don’t worry, it’s completely safe with us.
+receiver: Wait a minute... I've heard about these scams. You're asking for my Aadhaar? That doesn’t sound right.
+caller: Anita ji, please don’t be alarmed! It’s a standard procedure. Without it, we can't process the loan. Think about your son's education. Don’t waste time; send the documents now. Our offer is only valid for today.

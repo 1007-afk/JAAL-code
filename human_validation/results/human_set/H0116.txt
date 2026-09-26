@@ -1,0 +1,8 @@
+caller: Hello! Is this Priya Sharma? I'm calling from 'InstantCreditPro'. We've pre-approved you for a personal loan of ₹75,000! Very easy process, just a few details to confirm.
+receiver: Really? A loan? That's… surprising. I haven't applied for anything. Are you sure you have the right person?
+caller: Absolutely! We verified your details through the government database. To activate the loan, we just need a small verification fee of ₹500 to cover processing charges and security. Pay using UPI.
+receiver: ₹500? For a ₹75,000 loan? That seems really odd. And why am I getting a call when I didn't apply? Is this a secure website? What's the website address?
+caller: Beta, don't worry about that! It's a standard procedure. We need to verify your account. Just pay the ₹500, and the loan will be in your account within an hour. Our website is InstantCreditPro.online. Very safe, thousands use it. Don’t miss out on this opportunity!
+receiver: That website address looks suspicious. InstantCreditPro.online? I'm not comfortable with this at all. I'm going to report this number.
+caller: Priya, arre, please don't! Just send the UPI ID and I will personally ensure that the money is in your account quickly. Think about it, ₹75,000! You can solve all your problems.
+receiver: I’m hanging up now. This is a scam, and I won’t be tricked.

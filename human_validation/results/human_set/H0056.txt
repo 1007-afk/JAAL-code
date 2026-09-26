@@ -1,0 +1,9 @@
+caller: Namaste! Yeh Rahul hai, Reliance Jio se baat kar raha hun. Aapko ek bahut hi achcha deal milna hai, ₹500 free data aur ek naya premium plan.  Jab aap yahaan reply kareinge, to apne naam, ghar ka address aur pin code batayein.  Aapko ek SMS bhejna hai, usmein bhi same details chahiye.  Aapko woh SMS mila tha kya?  Hum ek chhote group mein logon ko contact kar rahe hain.
+receiver: Oh, hello Rahul. Haan, maine Reliance Jio se ek SMS mila tha.  Mujhe samajh mein aata hai, mujhe data chahiye.  Bas mujhe batae, reply karne ke baad mujhe kya hoga?
+caller: Haanji, bilkul! Aapko humare helpline number par call karna padega, ₹500 data activate karne ke liye. Helpline number hai 1800-888-8888.  Uske baad aapko new plan mil jayega.  Ismein koi problem nahi hai, hai na?
+receiver: Hmm, helpline number?  To, mujhe call karna parega?  Aur unhone meri details seekhengi?  Yeh jo text mein likha hai, ismein koi ‘reply all’ option nahi hai, hai na?  Bhi sirf mujhe reply karna hai?
+caller: Haanji, bilkul! Aapko sirf vah numera pe reply karna hai jisse SMS aaya hai. Koi ‘reply all’ option nahin hai, dhyan rakh. Aapka naam, ghar ka address aur pin code bataiye, taaki main yeh offer aapke account mein activate kar saku.  Aapki personal details secure hain.
+receiver: Okay, okay. Mera naam Kavita Singh hai. Ghar ka address 23, Patel Colony, aur pin code 411001 hai.  Phir main reply karuonga, to mujhe ₹500 data milega aur new plan bhi?
+caller: Haanji Kavita ji! Bahut sundar.  Aapne sachchi details di hain.  Main abhi isko check kar raha hun.  Jab yeh activate ho jaayega, to aapko ek confirmation SMS aa jaayega, jis mein ₹500 data aur plan ki details honge.  Reliance Jio mein aapki swaaghat hai!
+receiver: Dhanyawad Rahul!  Theek hai, main confirmation SMS ke liye tadka leungi.  Aur yeh deal sirf mere liye hai, hai na?  Koi aur ko nahi milega?
+caller: Haanji, bilkul! Ye sirf aapke liye hai. Kisi aur ko nahi milega.  Shubhkamnayen!

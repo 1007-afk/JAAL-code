@@ -1,0 +1,13 @@
+caller: Mr. Sharma, this is Raj from DigiConnect Solutions. Just wanted to quickly follow up regarding your digital security package.
+receiver: Hello Raj, how are you doing today?
+caller: Achha hua, you’re available. We noticed a slight irregularity in your recent online activity – a potential vulnerability detected by our system.  It’s very important that we address this immediately to prevent any unauthorized access.
+receiver: Unauthorized access? That sounds concerning. What exactly happened?
+caller: Haan ji, technically, someone tried to access your banking app through an unsecured Wi-Fi network. Our system flagged it as high risk. We’ve identified the IP address and have taken measures to block further attempts.
+receiver: Wow, okay. So, what do I need to do now? Are there any charges involved?
+caller:  Actually, sir, there's a small fee – only ₹599 – to fully secure your account and implement enhanced protection protocols. This ensures complete peace of mind. It's a one-time investment, truly.
+receiver: ₹599?  That seems a bit steep. Can you tell me more about these "enhanced protection protocols"? What exactly are they protecting against?
+caller:  Haan ji, ye protocols aapke bank transactions ko real-time mein monitor karte hain. Isliye agar koi bhi try kare toh aapko instantly alert milne waala hai.  Plus, we also install a virtual firewall to shield your device from malware.  It's like having a personal bodyguard for your data.
+receiver: A virtual firewall… interesting. But still, ₹599 is quite a lot.  Is this mandatory? Will my internet service stop working if I don’t pay?
+caller:  Sir, it's highly recommended, absolutely crucial, especially considering the recent incident.  Without this, you remain vulnerable.  And no, your internet won’t stop working; it's purely an added layer of security. Think of it as insurance for your digital life.  Would you like me to guide you through the payment process now?
+receiver: Let me think about it. I appreciate the information, but I'd like to research this a little more before committing to anything. Thank you for your time, Raj.
+caller:  Of course, sir.  Just wanted to ensure your safety.  Here's my contact number: 9876543210. Please feel free to reach out if you have any further questions.  Have a wonderful day!

@@ -1,0 +1,8 @@
+caller: Namaste, main Cyber Crime Investigation Cell se Rohit Verma bol raha hoon. Aapka naam Priya Mishra hai na?
+receiver: Haan, main hi Priya Mishra hoon. Cyber Crime? Kya hua?
+caller: Ji, aapke naam par ek parcel aaya tha Dubai se. Parcel mein illegal items mile hain, drugs ke sambandhit. Case register ho gaya hai, aur aapko court mein present hona hoga. ₹35,000 ka bail deposit karna padega taaki aapko bail mile.
+receiver: Drugs? Illegal items? Yeh kya bol rahe hain aap? Maine toh kabhi Dubai se parcel order nahi kiya! ₹35,000?
+caller: Madam, yeh serious matter hai. Court ne order diya hai. ₹35,000 Paytm ya Google Pay se deposit kar dijiye, main aapko transaction ID de dunga. Jaldi kijiye, otherwise arrest warrant nikal jayega.
+receiver: Wait, wait! Arrest warrant? Aur transaction ID? Main police station main call karta hoon aur check kar leta hoon. Aapka naam aur number bataiye, main verify karunga.
+caller: Madam, time nahi hai. Police station mein confirm nahi hoga. Yeh confidential matter hai. Account number de dijiye, ₹35,000 deposit kar dijiye, aur sab ho jayega. Otherwise, kal morning aapka ghar par police aayegi.
+receiver: Okay, theek hai. ₹35,000? Bataiye, kaise deposit karun? Aur ek baat bataiye, agar main police station main jaakar report karunga to kya hoga?

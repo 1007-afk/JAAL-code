@@ -1,0 +1,7 @@
+caller: Namaste, main Paytm se Rahul bol raha hoon. Aapke Paytm account mein kuch suspicious activity detect hui hai. Account secure rakhne ke liye, humein aapke KYC details verify karne hain.
+receiver: Paytm se? Kya hua? Koi transaction hua hai jo mujhe pata nahi hai?
+caller: Haan, ek recent transaction hua hai Rs. 3500 ka ek unknown website par. Is transaction ko block karne aur aapke account ko secure karne ke liye, aapko apna Aadhaar card number aur OTP bataana hoga.
+receiver: Arey yaar! Rs. 3500? Main toh kabhi bhi aise transaction nahi kiya. OTP mat puchho, main Paytm app pe check karta hoon.
+caller: Sir, time bahut kam hai. Account suspend hone se pehle jaldi se bataiye. OTP mein thodi delay ho sakti hai, lekin aapko apna Aadhaar number toh bataana padega verification ke liye. Account suspend hone se aapko bahut pareshani hogi.
+receiver: Theek hai, theek hai. Let me check something first. I'll call you back.
+caller: Sir, please, just a minute. If you disconnect, your account will be blocked immediately. I need the Aadhaar number to confirm.

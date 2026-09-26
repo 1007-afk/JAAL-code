@@ -1,0 +1,7 @@
+caller: Hello, is this Rajeev Kumar? I’m calling from QuickCashNow.in. We’ve approved your loan application for ₹75,000! Congratulations! Just a few quick steps to finalize it.
+receiver: Oh, really? QuickCashNow? I don’t remember applying for a loan.
+caller: No worries, sir! Many people apply online without remembering. We received the application through a referral. To activate the loan, we need to verify your details. Could you please share the last four digits of your bank account number and your mother's maiden name?
+receiver: Wait a minute. A referral? And you need my mother’s maiden name? That seems a bit unusual, doesn’t it? All other loan apps just ask for OTP.
+caller: Sir, this is a premium service. For extra security and to prevent fraud, we need a few extra details. Once verified, the ₹75,000 will be in your account within the hour. Also, a small processing fee of ₹1,500 is required upfront.
+receiver: ₹1,500 upfront? I’m getting a very bad feeling about this. I think I'll just stick to my bank. Thank you, but no thank you.
+caller: Sir, please don’t be hasty! This is a fantastic offer. Think about it, ₹75,000 instantly! And we’ve already done all the hard work. Refer a friend who needs a loan and we’ll waive the processing fee for you both! Just share our website QuickCashNow.in with them, and we will give you a special bonus!

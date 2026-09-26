@@ -1,0 +1,9 @@
+caller: Namaste! Mera naam Vijay hai. Aapko share market mein interest hai, madam?
+receiver: Share market? Thoda toh interest hai, lekin main expert nahi hun.
+caller: Achha! Toh yeh suniye – hum ek new trading signal service offer kar rahe hain. Har din, humko guarantee hai ki aapko 3-4 stocks milenge jisko aap buy kar sakte hain aur quick profit kama sakte hain.  Yeh ek limited time offer hai, sirf 5 seats bache hain.
+receiver: Trading signal?  Profit guarantee?  Yeh zyada achha lag raha hai, par main risky investments se daru thi.  Koi fees hai kya?
+caller: Sirf ₹2500 ka ek small activation fee hai, madam, lekin trust kar lijiye, yeh ek fantastic opportunity hai!  Aapko ek week ke andar ₹10,000 ka profit dekh sakte hain.  Aapka bank account number mujhe text kijiye, main confirmation karunga.
+receiver: ₹2500? Aur phir kya?  Agar signals wrong hue toh?  Mujhe yeh sab thoda suspect lag raha hai.
+caller: Madam, aapko koi risk nahi hai! Agar aap satisfied nahi hote, toh hum ₹2500 back karde denge, lekin profit guarantee hai! Abhi jaldi karein!
+receiver: Okay, wait.  Let me talk to my son.  I’ll call you back.
+caller: Theek hai madam, lekin yaad rakhiye, seats khali ho rahe hain! Don’t miss out!

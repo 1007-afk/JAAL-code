@@ -1,0 +1,7 @@
+caller: Hello, is this Mr. Sharma? This is Akash from BlueDart Courier speaking. We have a package addressed to you, but there's been a slight issue with the payment.
+receiver: Haan, bolie. BlueDart se call kar rahe hain? Package mera hi hai?
+caller: Yes sir, your package. It’s a high-value item, and the initial payment didn't go through. It seems there’s a discrepancy. We need to verify a small amount to release it. Just ₹499 to clear the pending transaction.
+receiver: ₹499? Payment discrepancy? Main toh koi order nahi kiya tha. Details bataiye daikhye. Aur payment kaise karna hai?
+caller: Sir, it’s likely an online purchase you forgot about. To avoid the package being returned, kindly provide the OTP you’ll receive on your registered mobile number. It's just a security measure.
+receiver: OTP? Koi OTP nahi mila mujhe. Aur mujhe yaad bhi nahi, maine kuch order kiya tha ya nahi. Ye shakti ka baat lag rahi hai.
+caller: Sir, sometimes the OTP gets delayed. Let me quickly check the system... Ah yes, it seems there’s a network issue. I'll send you a link via SMS. Please click on it and enter your card details to complete the payment immediately. We have many other packages to deliver, sir!

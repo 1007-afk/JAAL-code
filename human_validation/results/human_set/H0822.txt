@@ -1,0 +1,7 @@
+caller: Namaste, sir. This is Inspector Verma from the Directorate of Enforcement, Delhi. We’re investigating a case of illegal cryptocurrency trading linked to your IP address.
+receiver: Illegal cryptocurrency? Yeh kya keh rahe hain aap? Main toh share market mein invest karta hoon, cryptocurrency nahi.
+caller: Sir, our forensic analysis shows several transactions originating from your device resembling illicit crypto transfers. We need to verify some details to clear your name. Can you provide your bank account details for a quick audit?
+receiver: Bank account details? Inspector sahab, yeh bahut hi suspicious lag raha hai. Police kabhi phone pe bank account details nahi poochhti. Aapka ID card number kya hai? Main verify kar sakta hoon.
+caller: Sir, due to the sensitive nature of the investigation, we can’t disclose ID details over the phone. But, a delay could lead to a freeze on your assets. This is to prevent further illicit activity. To expedite the process, a small refundable security deposit of ₹15,000 is required to cover audit costs. You can pay via UPI.
+receiver: ₹15,000? Refundable security deposit? Yeh toh clear scam hai! Main police station mein complaint karunga. Don’t call me again.
+caller: Sir, please understand, this is a serious matter. Your cooperation is crucial. Just a quick UPI payment, and we can clear everything. This is your last chance to avoid legal complications.

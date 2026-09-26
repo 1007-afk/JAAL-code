@@ -1,0 +1,8 @@
+caller: Namaste, main Delhi Cyber Cell se Inspector Verma bol raha hoon. Aapke naam par ek parcel aaya hai, jo illegal items se bhara hua hai.
+receiver: Kya? Illegal items? Mere naam par? Yeh kaise ho sakta hai? Main to kabhi parcel order kiya hi nahi.
+caller:  Dekhiye, parcel Gujarat se aaya hai aur usmein suspicious materials hain. CBI ne case register kiya hai. Aapko humara cooperation zaroori hai.  Aapko video call pe aana hoga, taaki hum puri process record kar sakein.
+receiver:  Video call? Par main busy hoon. Aur Gujarat se parcel? Yeh toh shuruat se hi kuch gadbad lag rahi hai. Main police station ja sakta hoon, agar aap logon ko kuch prove karna hai.
+caller:  Sir, police station jaane ki zaroorat nahi hai.  Abhi situation bahut serious hai.  Aapko 50,000 rupaye ka bail deposit karna hoga, taaki case close ho sake.  Agar aap deposit nahi karenge, toh court mein case chalega aur aapko arrest bhi kiya ja sakta hai.
+receiver:  Pachas hazar rupaye?  Yeh kitna ridiculous hai!  Mujhe koi parcel nahi mila aur aap arrest ki baat kar rahe hain?  Sir, mujhe lagta hai yeh koi scam hai. Main police ko report karunga.
+caller:  Sir, police ko report karne se kuch nahi hoga.  Case CBI ke haath mein hai.  Aapko paisa deposit karna hoga, warna aapki reputation kharab ho jayegi.  Aapko kal morning 9 baje tak paisa deposit karna hoga, otherwise action lena padega.
+receiver: Mein koi bhi paisa nahi denge. Yeh sakht scam hai, aur mein is baare mein apne lawyer se baat karunga.

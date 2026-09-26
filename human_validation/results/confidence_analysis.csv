@@ -1,0 +1,10 @@
+Source,Confidence_Level,A1_Count,A1_Accuracy,A1_Accuracy_Pct,A2_Count,A2_Accuracy,A2_Accuracy_Pct
+Overall,High,934,0.8812,88.12%,666,0.8138,81.38%
+Overall,Medium,97,0.6186,61.86%,165,0.6061,60.61%
+Overall,Low,14,0.2143,21.43%,214,0.6542,65.42%
+human_validation,High,869,0.893,89.30%,628,0.8248,82.48%
+human_validation,Medium,88,0.6477,64.77%,144,0.6389,63.89%
+human_validation,Low,11,0.0909,9.09%,196,0.6684,66.84%
+yt,High,65,0.7231,72.31%,38,0.6316,63.16%
+yt,Medium,9,0.3333,33.33%,21,0.381,38.10%
+yt,Low,3,0.6667,66.67%,18,0.5,50.00%

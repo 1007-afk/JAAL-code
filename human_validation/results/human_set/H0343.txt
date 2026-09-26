@@ -1,0 +1,8 @@
+caller: Hanji hello
+receiver: Haanji, hello! Kaun bol raha hai aur kya chal raha hai?
+caller: ammer: Hanji hello
+receiver: Hanji hello! Ammer aap bol rahe hain? Kaise hain aap? Kya chal raha hai?
+caller: caller: Hanji hello\nreceiver: Hanji hello! Ammer aap bol rahe hain? Kaise hain aap? Kya chal raha hai?
+receiver: Arre! Ammer, main theek hoon. Aap kaise hain? Aur ye kya aap mera number kaise trace kar liya? Koi important kaam tha kya?
+caller: caller: Haanji, woh... actually, I was just checking in. Aapka woh ringtone wala issue, yaad hai? Wo jo aapne ek download kiya tha aur phir uske baad aapko messages aane lage the? 3 pound wale?
+receiver: Haanji, woh ringtone wala issue? Arre haan, yaad hai mujhe. Uske baad toh phone hi garam ho gaya tha! Par aapko kaise yaad hai ye sab? Aur ye number kaise mila aapko? Kuch urgent hai kya?

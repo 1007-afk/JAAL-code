@@ -1,0 +1,11 @@
+caller: Namaste! Acha, jab maine tumhein pehle call kiya tha, woh digital wallet survey ka offer yaad hai kya? Tumhara account activa hai ya nahi?
+receiver: Haan, yaad hai. Activate kiya tha, lekin abhi dekho, ek notification aaya hai ki mujhe 750 data recharge voucher milega! Kya yeh offer genuine hai?
+caller: Bilkul genuine hai! Humare platform par sabhi offers sachche hote hain. Lekin, tumhare account mein ek verification step hai - sirf 1 chanse hai. Isko complete karne ke liye, ‘VERIFY’ message ‘8800’ par bhejo.
+receiver: VERIFY message '8800' par?  Mai jaanta hun, lekin mujhe abhi ek important call attend karna hai. Kya main phir baad mein verify kar sakta huon?
+caller: Nahin, nahin, bhai! Yeh offer expiry hone wali hai, sirf aaj raat tak chal raha hai. Fir verification nahi ho payega.  Baki sirf 2 chance bache hain.  Jaldi ‘VERIFY’ message ‘8800’ par bhejo!
+receiver: Arre yaar, seriously?  Dekh le, mujhe kuch samajh mein nahi aa raha.  Aapka naam bataiye, please?  Bas curiositi ke liye pooch rahi huon.
+caller: Mai Ajay hoon, tumhari madad karne ke liye.  Baki, sirf 1 message bhejna hai – ‘VERIFY’ message ‘8800’ par.  Iske bina tum 750 data voucher nahi milenge!
+receiver: Okay, okay, fine!  Main verify kar deta hoon.  Par, agar yeh fraud hai toh main tumhein complaint karenge.  Shukriya!
+caller:  Aapka complaint ka jawab de sakte hain.  Tumhara verification complete ho gaya hai!  Ab tumhare account mein 600 data voucher deposit ho gaye hain. Enjoy karo!  Fir ek baar check karo, baki sirf 1 chance hai!
+receiver:  Wow, 600 vouchers?  Amazing!  Thanks a lot, Ajay!  Mujhe pata bhi nahi tha!
+caller:  Koi baat nahi!  Aapki madad karne mein mujhe khushi hui.  Fir ek baar check karo, baki sirf 1 chance hai, toh jaldi submit karo!

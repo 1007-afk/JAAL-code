@@ -1,0 +1,11 @@
+caller: Hello, is this Mr. Sharma’s number? This is Rohan calling from Snapdeal Customer Care.
+receiver: Haan, bolo? Kya hua?
+caller: Sir, we’ve noticed some unusual activity on your account. It appears a high-value purchase of ₹8,500 was attempted using your card. We need to verify this urgently to prevent fraud.
+receiver: ₹8,500? Nahi, maine toh kuch order nahi kiya. Yeh kya chal raha hai?
+caller: Exactly sir! That's why we are calling. To secure your account, we need you to share the OTP you just received on your registered mobile number. Just a few digits will confirm it’s you.
+receiver: OTP? Aur ₹8,500 ka order? Yeh to kuch bhi hai! Main koi OTP nahi de sakta.
+caller: Sir, please understand, this is a security measure. Without verification, we might have to freeze your account. We just need the first 4 digits of the OTP for verification purposes. Quick confirmation will resolve this immediately.
+receiver: Freeze karna hai? Wait, let me just check my Snapdeal app…
+caller: Sir, time is of the essence! Any delay could compromise your financial security. Quickly share the first four digits of the OTP.
+receiver: Okay, wait a minute… Something feels really wrong. I’m not giving you anything.
+caller: Sir, your cooperation is required.

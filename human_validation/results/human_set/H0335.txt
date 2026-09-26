@@ -1,0 +1,8 @@
+caller: Namaste sir, main Airtel customer service se bol raha hoon. Aapke phone mein jo SIM card hai, woh 5 din mein block ho jaega. Kya aap isko continue rakhna chahte hain?
+receiver: Namaste, ji. Mein Airtel ka user hoon, par mujhe koi blocking ka notification nahi mila. Mein kaunsa number ki baat kar raha hoon?
+caller: Sir, aapke phone par jo alert aata hai, woh sometimes miss hojata hai. Stress mat lo, main aapka SIM block karna rokunga. Parantu, uske liye mujhe kuch information chahiye. Aapka primary mobile number bataiye.
+receiver: Haan, mera number hai 8765432109. Kya aap mujhe bata sakte hain, kya requirement hai?
+caller: Shukriya! Ab mujhe aapke SIM card ka serial number lagna hoga, taki main verification kar saku. Aap apna SIM serial number bata sakte hain?
+receiver: SIM serial number? Woh kaise number hota hai? Mujhe sirf ek Jio number hai. Mein samajh nahi pahchaan raha aap kya puch rahe hain.
+caller: Sir, woh jo aapke phone mein SIM card laga hua hai, uske back side par print hota hai. Ek 15 digit ka number hota hai. Bataiye please, taki main aapki SIM ko secure karna aur activate karna sahi se kar saku.
+receiver: Arey yaar, woh number toh maine kabhi dekha bhi nahi. Woh phone ke manual mein hoga shayad, lekin abhi woh poora nahi hai. Koi alternate way nahi hai isko check karne ka? Jaise ki meri ID ya account details?

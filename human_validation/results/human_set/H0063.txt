@@ -1,0 +1,7 @@
+caller: Namaste! This is SecureCash Loans calling. We’ve pre-approved you for a personal loan of up to ₹50,000, with very easy installments. Just a quick verification process needed. Can I speak to the account holder, please?
+receiver: Ji haan, main account holder hoon. Bolo, kya process hai?
+caller: Wonderful! To activate your loan, we need to verify a small processing fee of ₹2,500. This ensures your account is secure and the loan is released immediately. You can easily pay it through UPI.
+receiver: ₹2,500? Lekin, you said easy installments. Processing fee hone ka kya zaroorat hai?
+caller: See, sir, this is just a one-time fee to prevent fraud and ensure the loan is legitimate. Many people try to misuse these offers, so we have this security measure. Once you pay, the ₹50,000 will be credited to your account within 15 minutes. Do you have UPI active?
+receiver: This is sounding fishy. I don't think I want to proceed. I'll check with someone else first.
+caller: Sir, don't miss out on this great opportunity! This offer is only valid for the next 30 minutes. After that, the pre-approval will expire. Think about it, ₹50,000 at your fingertips! And it's completely safe once you pay the security fee. Please, don't delay!

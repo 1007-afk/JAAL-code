@@ -1,0 +1,10 @@
+caller: Namaste! Main Axis Bank se Deepak bolta hoon. Aapke Axis Bank account mein ek suspicious transaction ka attempt kiya gaya hai. Security ke liye, aapko apna UPI PIN verify karna hoga.
+receiver: UPI PIN? Kaise verify karna hai? Mujhe Axis Bank ne koi message nahi bheja hai.
+caller: Haan ji, system automatic hai. Aapko ek link pe click karna hai – axisbank.verify.in – aur apna UPI PIN enter karna hai. Yeh process sirf 2 minute ka hai.
+receiver: Wait a minute. Axis Bank ki website toh yehi hai, axisbank.com. Ye link alag dikhta hai.
+caller: Sir, yeh new security update hai. Wohi old website band ho gayi hai. Jaldi karo, 5 minute mein system automatically close ho jayega. Aapka account block ho sakta hai.
+receiver: Account block? Haan, theek hai. Mujhe check karne do. Ek second... (typing sounds) Ok, I’ve clicked the link. Now it’s asking for my UPI PIN.
+caller: Haan ji, bilkul theek. Enter karo aur submit karo. Security ke liye, naam bhi likho jisko aapne account register kiya tha.
+receiver: Done. Submitted. Now what?
+caller: Bahut achha! Aapka account ab secure hai. Ek chhoti si confirmation process hai. Aapke phone pe ek OTP ayega. Woh OTP mujhe batao.
+receiver: OTP? Yeh toh zyada hi suspicious lag raha hai. Main call cut karti hoon. Bye.

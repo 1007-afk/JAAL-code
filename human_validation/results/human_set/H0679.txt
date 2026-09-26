@@ -1,0 +1,7 @@
+caller: Namaste! Main Rahul bolta hoon, FastLoan Solutions se. Aapko urgent loan chahiye tha, hai na? Hum approve kar sakte hain, ₹75,000 tak, sirf aadhaar card aur bank statement se.
+receiver: FastLoan Solutions? Main toh koi loan apply nahi kiya tha.
+caller: Haan ji, aapki application aa gayi thi, hume dekhna pada. Aap qualified hain, lekin verification ke liye kuch details confirm karna padega. Aapki dob aur mother's name batao?
+receiver: Wait a minute… mujhe yeh zyada sahi nahi lag raha. Koi application form toh fill nahi kiya tha main ne.
+caller: Dekhiye, yeh system automatic hai, kabhi kabhi mistakes ho jaate hain. Agar aap details nahi dete, toh application reject ho jayega. Aur woh toh phir aapki credit score ko damage karega. ₹75,000 toh aapke haathon mein hai, sir.
+receiver: Credit score? Yeh kya bakwas hai? Main koi details nahi de raha. Yeh scam lag raha hai.
+caller: Achha ji, koi baat nahi. Phir main refund process start kar dunga. Lekin usse pehle, humein sirf ₹5,000 processing fee chahiye. Tabhi refund process start hoga aur aapka credit score safe rahega.

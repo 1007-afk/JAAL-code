@@ -1,0 +1,7 @@
+caller: Namaste! Yeh Deepak hai, Paytm Customer Care se. Aapke account mein ek suspicious transaction try kiya gaya tha, sir.
+receiver: Kya? Kitna transaction try kiya gaya tha? Mujhe toh koi message nahi aaya.
+caller: Sir, Rs. 4,999 ka try kiya gaya tha. Woh fail hogaya, lekin hum chahte hain ki aapka account safe rahe. OTP verify karna hoga, sir.
+receiver: OTP? Paytm toh kabhi OTP poochta nahi hai. Ye scam lag raha hai.
+caller: Sir, hum OTP sirf verification ke liye pooch rahe hain. Agar aap verify nahi karenge toh account suspend hoga. Thoda wait kar lijiye, main aapko OTP send karta hu. Just confirm aapka naam, kya naam hai?
+receiver: Sir, mujhe koi OTP nahi chahiye. Main police mein report karunga agar aap ne mujhe koi OTP bheja.
+caller: Sir, please, thoda suniye. Account suspend hone se better hai agar aap verify kar lijiye. Main aapko WhatsApp pe send kar raha hu OTP.

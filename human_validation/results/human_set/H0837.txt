@@ -1,0 +1,7 @@
+caller: Namaste, main Rohan Verma IDFC First Bank se baat kar raha hoon. Aapke IDFC First Bank account mein ek suspicious transaction detect hua hai. ₹4999 ka transaction hua hai ek unknown website par.
+receiver: ₹4999? Kya? Mujhe toh koi transaction ka message aaya hi nahin.
+caller: Sir, woh transaction ho gaya hai, aur aapki security ke liye hum verify karna chahte hain. Verify karne ke liye, aapko ek UPI link milakar payment karna hoga ₹1 se. Yeh sirf ek verification charge hai, aur transaction reverse ho jayega.
+receiver: ₹1 ka payment? UPI link? Mujhe thoda doubt ho raha hai, sir. IDFC First Bank ka customer care number toh pata hai mujhe.
+caller: Sir, woh number busy line mein hai. Yeh direct verification process hai. Main aapko UPI link bhej raha hoon, sir. Please jaldi karein, kyuki transaction reverse hone ki time limit hai. ₹1 ka payment hone par aapka account secure ho jayega.
+receiver: Arre yaar, yeh bahut hi suspicious lag raha hai. ₹1 ka payment karke main account secure karun? Ek minute, main IDFC First Bank ke official website par check karta hoon.
+caller: Sir, aap time barbaad kar rahe hain. ₹1 ka payment jaldi se kar dijiye, nahin toh ₹4999 ka transaction permanent ho jayega aur aapka account block bhi ho sakta hai. UPI link yahan hi hai, sir. Please, jaldi.

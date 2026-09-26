@@ -1,0 +1,7 @@
+caller: Namaste! This is Akash from FastLoan Solutions. We’re offering instant loans to help people manage unexpected expenses. I see you're eligible for a loan of up to ₹75,000. Would you be interested?
+receiver: Loan? That’s good to hear, but what’s the interest rate? It's a bit tight financially right now.
+caller: Our introductory rate is very competitive, just 8% for the first three months. After that, it adjusts to a standard rate, but it's still manageable. To process your application, we need a quick verification - can you share your PAN card details?
+receiver: My PAN card? That feels a little risky to share over the phone. Can I see your company's registration details?
+caller: Absolutely! Our registration number is LSN-2023-DEL-789. You can verify it on the MCA website.  Look, time is of the essence. We have limited slots available. If you don’t apply now, you might miss out. Just send me the PAN number and I'll get the process started. And for security, we might need a selfie with your ID, just to confirm it's you.
+receiver: A selfie? With my PAN card? This is getting a bit concerning. What happens if I don't send the selfie?
+caller:  Look, Priya Ji, we’re just following protocol. If you don't send it, we can’t verify your identity, and unfortunately, we won’t be able to release the loan. We don't want you to miss this opportunity.  We're just trying to help.

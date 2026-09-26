@@ -1,0 +1,11 @@
+caller: Namaste! Mera naam Rohan hai, aur mai Indian Customs se bol raha hoon. Aapke naam par ek parcel aaya hai, jo Mumbai airport par rok diya gaya hai.
+receiver: Parcel? Mujhe koi parcel yaad nahi. Mainne kuch order kiya tha?
+caller: Ji haan, ek international courier. Ismein illegal items paaye gaye hain - drugs ke suspect.
+receiver: Drugs? Yeh galat hai! Main drugs nahi utaata. Mujhe yeh parcel nahi chahiye.
+caller: Dekhiye, yeh matter serious hai. Aapko is parcel ke baare mein enquiry complete karvani padegi aur fine bharvanega padega, tabhi release hoga. Fine ₹35,000 hai.
+receiver: ₹35,000? Aur legal items bhi nahin hain? Koi receipt ya details mujhe dikhayiye. Main FIR register karwa dunga.
+caller: Receipt nahi dikha sakte, sir. Security reasons. Aapko urgently payment karna hai, online transfer hi karenge. Account number main aapko SMS se bhejta hoon. Waqt bahut kam hai, otherwise case register ho jayega.
+receiver: Account number? Sir, main ye sab suspect kar raha hoon. Main police ko report karunga.
+caller: Police? Sir, aapko zyadah mat sochne ka. Just pay the fine and everything will be alright. Aapko kabhi bhi pareshani nahi hogi.  Abhi kar dijiye, sir.
+receiver: Sir, aapko ek minute rukna hai. Mai apne lawyer se baat karta hoon aur fir decide karta hoon.
+caller: Sir, lawyer se baat karne ka time nahi hai. Case abhi chal raha hai aur aapko pareshani ho sakti hai.  Please hurry up and pay the fine.

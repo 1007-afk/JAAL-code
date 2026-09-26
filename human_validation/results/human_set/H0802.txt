@@ -1,0 +1,8 @@
+caller: Hello? Yeh Rohan se baat kar raha hoon, LoanExpress se. Aapne LoanExpress app se loan ke liye apply kiya tha, na?
+receiver: Haan, ji. Maine apply kiya tha. Kya hua?
+caller: Sir, aapka loan approve ho gaya hai! Bahut achhi baat hai. Abhi aapko sirf processing fee bharne ki zaroorat hai. ₹2500.
+receiver: Processing fee? Maine apply karte samay suchhi nahi thi. Kitna loan tha maine apply kiya tha?
+caller: Aapne ₹15000 ke liye apply kiya tha. Processing fee sirf ek baar bharne hai, sir. Phir loan aapke account mein transfer ho jayega, promise. UPI ya net banking se bhar de.
+receiver: Woh theek hai, par mujhe thoda suspicious lag raha hai. LoanExpress app ki review bahut zyada negative hain.
+caller: Sir, reviews sab fake hote hain! Don’t worry, hum legal company hain. ₹2500 bhar den, main aapko OTP send kar dunga, aur loan transfer ho jayega. Jaldi karo, offer limited time ke liye hi hai.
+receiver: Okay, ek minute. Mein dekhta hoon.

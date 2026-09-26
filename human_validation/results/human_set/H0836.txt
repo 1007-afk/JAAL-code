@@ -1,0 +1,10 @@
+caller: Hello, is this Priya Sharma? This is Akash from WinCash Rewards.
+receiver: Haan, main Priya Sharma hu. WinCash Rewards? Woh kya hai?
+caller: Congratulations! You’ve been selected for a special cashback reward program linked to your FreeCharge wallet. We're giving away ₹15,000 cashback to a few lucky users.
+receiver: ₹15,000? Really? Mujhe kuch nahi pata.
+caller: Yes! But to activate it, you need to pay a small processing fee of ₹999. This is to verify your eligibility and ensure the money goes to the correct account. Just transfer it to this UPI ID: 7894561230@axisbank.
+receiver: ₹999? Processing fee? FreeCharge toh kabhi such koi offer nahi deta. Mujhe thoda doubt ho raha hai.
+caller: Look, this is a limited-time offer, Priya ji. If you don't pay the fee now, you’ll miss out on the ₹15,000. Many others are already claiming their rewards. Don’t delay!
+receiver: Wait, let me check the FreeCharge app.
+caller: Don’t waste time! You have just 10 minutes to complete the transaction, otherwise the offer will expire. And remember, to expedite the cashback, can you share the last three digits of your FreeCharge wallet password?
+receiver: My wallet password? Absolutely not! This is a scam, right? I’m reporting this number.

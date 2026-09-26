@@ -1,0 +1,7 @@
+caller: Namaste, mai Google Pay se Rohit Sharma bolata hoon. Aapke Google Pay wallet mein cashback offer live ho gaya hai.
+receiver: Google Pay se? Cashback offer? Mujhe toh koi notification nahin aaya. Batao kya offer hai?
+caller: Ji, ek special Diwali offer hai. Aapko ₹500 cashback mil sakta hai, lekin iske liye pehle ₹100 processing fee bharne hoga.
+receiver: ₹100 fee? ₹500 cashback ke liye ₹100 bharne padenge? Ye thoda zyada lag raha hai.
+caller: Sir, ye humari verification fee hai. Agar aap fee bhar dete hain, toh ₹500 cashback instantly aapke wallet mein add ho jayega. OTP dene se pehle fee bhar dijiye.
+receiver: Arre yaar, OTP bhi? Aur ₹100 fee bhi? Thoda suspect lag raha hai. Mai check karta hoon.
+caller: Sir, time barbaad na karein. Offer limited time ke liye hi hai. Jaldi se fee bhar dijiye, warna offer miss ho jayegi.

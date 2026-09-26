@@ -1,0 +1,7 @@
+caller: Namaste! Main State Bank of India se Deepak Sharma bol raha hoon. Aapke account mein kuch suspicious activity detect hua hai. Aapka account suspend hone se pehle, immediate verification karna hoga.
+receiver: Suspicious activity? Kya hua? Main toh koi transaction nahi kiya tha.
+caller: Haanji, sir. Ek online transaction attempt kiya gaya tha ek unknown website se. Aapko OTP nahi batana hai, woh direct website par hi enter karna hai. Main sirf verification ke liye kuch details puchunga. Please bataiye, aapke account mein registered mobile number ka last four digits kya hain?
+receiver:  Main confused hoon. OTP direct website par enter karna hai? Aur aap State Bank se hone ka claim kaise karenge?
+caller: Sir, security protocol ke vajah se main OTP nahi puch sakta. Main sirf verify karna chahta hoon ki aap account ke genuine owner hain. Woh website safal hone se pehle block kar diya gaya hai, lekin aapko verification complete karna hoga. Please bataiye mobile number ke last four digits. Account suspend hone se bachne ke liye.
+receiver: Theek hai, last four digits hain 7890. Par main abhi bhi trust nahi kar pa raha hoon. Aap mujhe customer care number de sakte hain jahan main verify kar sakta hoon?
+caller:  Sir, customer care number mein line busy hai. Woh technical issues ki wajah se hai. Sir, time bahut kam hai, account suspend hone se pehle please bataiye aapka PAN card ka last four digit kya hain? Verification ke liye.

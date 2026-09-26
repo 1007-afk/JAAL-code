@@ -1,0 +1,8 @@
+caller: Namaste! This is Priya calling from LoanExpress. We’ve noticed you fit the profile for a guaranteed quick loan, just need a few details to process.
+receiver: Oh, really? LoanExpress? I haven't applied for anything. How did you get my number?
+caller: No worries, sir! Our system detected your potential eligibility. Just verify a few things. First, could you share the last four digits of your bank account number so we can check your credit score? It’s a standard procedure.
+receiver: Credit score? But I thought instant loans didn't do credit checks. And I’m a little uncomfortable sharing my bank details like that.
+caller: Sir, it's a security measure.  We need to ensure no fraudulent activity. Once that's done, you'll be approved for a loan of up to ₹50,000! However, there's a small processing fee of ₹2,500 that needs to be cleared upfront. It will be refunded along with your loan amount.
+receiver: ₹2,500 upfront? That seems… a lot. And why didn’t anyone mention this earlier? I’m starting to feel this isn't right.
+caller: Sir, don't miss out on this incredible opportunity! This fee ensures your application is prioritized. If you refuse, we'll have to cancel the application and mark you as a potential fraudster. We’ll also have to report it to the authorities.
+receiver: Fraudster? Wait, hold on. I think I'm going to have to hang up. This is very suspicious.

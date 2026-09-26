@@ -1,0 +1,9 @@
+caller: Hello sir, is this Mr. Sharma? We've noticed unusual activity on your Paytm wallet. To secure your funds, we need to verify some details.
+receiver: Unusual activity? What kind of activity? I haven’t done anything different.
+caller: Yes sir, a few small transactions are showing up from Nepal. It seems like someone might be trying to access your account. Don't worry, we'll fix this. Just need you to send ₹500 as a security deposit to this UPI ID: 9876543210@axis.
+receiver: ₹500? Why do I have to send money to secure my account? Shouldn't you be the one initiating the refund of those suspicious transactions?
+caller: That's correct sir, but due to new security protocols, we require this small deposit upfront. It will be refunded immediately after verification. Just a standard procedure to prevent fraud, sir. Very important.
+receiver: Hmm… okay, let me just check something on the Paytm app first. Give me a minute.
+caller: Absolutely sir. We’re here to help. Don't delay, as the security risk is ongoing. We can’t guarantee your wallet's safety beyond the next few minutes.
+receiver: Wait a minute... I just checked. Paytm never asks for a deposit to secure an account. This seems fishy.
+caller: Sir, you are misunderstanding. It's a new update for high-risk accounts. Paytm wants to ensure your account is protected. Just send that 500 rupees now so we can protect you!

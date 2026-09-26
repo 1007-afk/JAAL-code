@@ -1,0 +1,28 @@
+caller: Hello, this is Rohan calling from the National Lottery Rewards program. We have some exciting news – you’ve been randomly selected to win either a luxurious weekend getaway to Goa or a whopping $8000 USD prize! To receive your winnings and detailed instructions, there’s a small processing fee of $2.75 per minute, lasting up to 15 minutes. Please stay connected so we can verify your information.
+receiver: Hello? Oh wow, really? National Lottery Rewards? Goa ya phir $8000 dollars? That sounds amazing! But…processing fee? How much is that exactly?
+caller: It’s $2.75 per minute, and the call will last around 15 minutes. Don’t worry, it’s completely secure and necessary to ensure everything goes smoothly. Just let me confirm your first name.
+receiver: My name is Devansh Kumar. Can you please tell me what you need to know?
+caller: Great, Devansh. And for verification purposes, could you share your approximate age range? Just a general idea is fine.
+receiver: Um, I’m probably around 32 years old. Anything else?
+caller: Wonderful. Now, to finalize your claim, I require your street address, including the apartment number if applicable, and your zip code. This helps us send you the official documentation.
+receiver: Okay, my address is 4B, Silverwood Heights, Maple Avenue. Zip code is 90210. Is that enough?
+caller: Namaste, this is Vijay from ‘Easy Loan Solutions’. You've been selected to receive a generous grant of ₹15,000 as part of our community support initiative! However, to release these funds, we need to verify your identity. The initial setup requires a one-time payment of ₹500 for account activation. Please stay on the line while we proceed.
+receiver: Haan ji, main sun raha hoon. ₹15,000 ka grant? Wo toh bahut achha hai! Par ₹500 ka payment? Kaisa payment hai?
+caller: It’s a simple online transfer, easily done through UPI.  We just need to confirm a few details to initiate the process. First, could you please state your full name?
+receiver: Mera naam hai Anjali Patel. Kya poochh rahe hain aap?
+caller: Thank you, Anjali. And for security, could you please tell me your year of birth? It’s just a standard procedure.
+receiver: Ji, mera janm varsh 1988 hai. Kuch aur poochhne do?
+caller: Perfect. Now, to officially process your grant application, I need your complete postal address, including the pincode.  It’s crucial for sending you the disbursement notification.
+receiver: Address? Okay. Mera ghar ka address hai 7/23, Krishna Nagar, Sector 12. Pincode hai 110001.
+caller: Excellent. One final question, Anjali - can you confirm the last four digits of your bank account number? This is vital for transferring the funds securely.
+receiver: Bank account? Hmm... Last four digits are 6789.
+caller: Hello, this is Sanjay from 'Quick Rewards'. You've been randomly selected to win a brand new iPhone 15 Pro Max or a voucher worth ₹25,000! To claim your prize, we require a nominal service charge of ₹1.80 per minute, valid for up to 8 minutes. Please stay on the line for confirmation.
+receiver: Hello? Seriously? iPhone 15 Pro Max ya phir ₹25,000 ka voucher? Wah! Per ₹1.80 per minute? And only 8 minutes?
+caller: Yes, it’s a small fee to cover administrative costs. Let’s quickly confirm your first name, please.
+receiver: My name is Rahul Singh. What do you need to know now?
+caller: Thank you, Rahul. For verification, could you tell me approximately how many years you’ve lived at your current address?
+receiver: Around 5 years, maybe. Anything else?
+caller: Alright. Now, to finalize your claim, I need your full residential address, including house number and area pin code.
+receiver: Okay, my address is 3A, City Lights Tower, Central Avenue. Pin code is 411001.
+caller: Fantastic. Finally, Rahul, can you please provide the first six digits of your Aadhaar card number? This is required for legal compliance.
+receiver: Aadhaar? Okay, the first six digits are 12345

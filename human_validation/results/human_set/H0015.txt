@@ -1,0 +1,9 @@
+caller: Namaste! Mai Rohan Verma se bol raha hu, CryptoGain Solutions se. Aapka naam Rajesh Sharma hai, sahi?
+receiver: Haanji, main Rajesh Sharma hu. CryptoGain Solutions? Kya hai ye?
+caller: Rajesh ji, hum ek naya cryptocurrency investment opportunity provide karte hain. Right now, hum Bitcoin mining mein 0.5% hourly profit offer kar rahe hain. Bilkul secure aur reliable! Aap sirf ₹5000 invest karein, aur dekhiye kaise aapka paisa badhta hai!
+receiver: ₹5000? Hourly profit? Yeh thoda zyada lag raha hai. Koi risk toh hoga hi na?
+caller: Rajesh ji, bilkul! Risk toh business mein hota hi hai, lekin humara system bahut hi advanced hai. We have a team of experts jo market ko constantly monitor karte hain. Is offer ko utilize karne ke liye, aapko ek small verification fee pay karna hoga, sirf ₹500. Yeh verification ke liye hai, aur aapki security ke liye zaroori hai.
+receiver: ₹500 verification fee? Aur woh kaise pay karna hai?
+caller: Aapko UPI ke through pay karna hai. UPI ID hai: 8765432100@ybl. Aap ₹500 send karein, aur mai aapko confirmation message send karunga. Phir aapka investment start ho jayega.
+receiver: Okay, wait a minute. Let me check something.
+caller: Jaldi karein Rajesh ji! Offer limited time ke liye hi hai. Agar aap late karte hain, toh aap yeh opportunity miss kar sakte hain!

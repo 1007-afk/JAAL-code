@@ -1,0 +1,8 @@
+caller: his [Invent a Name]? This is Mr. Sterling calling from the UK Bonus Centre.  I'm so excited to let you know that you've been selected as a valued customer for a special £1500 bonus prize! Congratulat
+receiver: Oh wow, thank you!  £1500 bonus prize? That sounds amazing!  I'm so surprised and happy to hear this.  Could you please repeat your name and the name of the center again? I'm not sure I caught it properly.
+caller: Oh, absolutely! My apologies. This is Mr. Sterling, and I'm calling from the UK Bonus Centre. The £1500 bonus prize is for you, as a valued customer. So exciting, right?
+receiver: Oh, UK Bonus Centre, got it! Thank you so much, Mr. Sterling.  £1500, that's fantastic!  Seriously, I'm still a bit in shock, but very, very happy.  So, what do I need to do to claim this amazing prize?
+caller: Arre, koi baat nahi! Sirf ek chota sa step lena hoga. Apko bas is number par call karna hai, 09066368470. Woh log apko sab details batayenge ki prize kaise claim karna hai. Yeh UK Bonus Centre ka official helpline number hai. Bas itna hi! Bahut jaldi ho jayega.
+receiver: Okay, thank you, Mr. Sterling!  09066368470, got it.  Just to be clear, I call that number and they will guide me on how to claim the prize?  No other steps or information needed from my side right now?
+caller: Bilkul sahi samjhe! Bas us number par call kijiye, 09066368470. Woh log aapko sab kuch explain kar denge. Koi aur step nahi hai abhi. Your prize is just a call away! Bahut khushi hui aapko yeh khabar dekar!
+receiver: Okay, thank you so much, Mr. Sterling! That's really helpful. I appreciate you letting me know. I'll give them a call shortly. Have a great day!

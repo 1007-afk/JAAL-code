@@ -1,0 +1,9 @@
+caller: Hello, is this Mr. Sharma? I’m calling from FastLoan India. We saw your recent loan application. Just need to verify a couple of details before we process it.
+receiver: Haan, woh main hoon. FastLoan India? Loan apply kiya tha, yes.
+caller: Excellent. We’ve pre-approved you for a loan of ₹75,000. Very good rate. To release the funds, we need a small processing fee of ₹5,000, just to cover verification costs. You can transfer it to the UPI ID: 87654321@ybl.
+receiver: ₹5,000? Loan ke pehle? But you said pre-approved…
+caller: Yes, sir, but it’s standard procedure. We need to ensure it’s not a fraudulent application. Once you transfer the amount, we’ll send you the loan agreement and release the ₹75,000 instantly. Don't delay, sir; this offer is time-sensitive.
+receiver: Okay, fine. I'll do it. Just send me the details again.
+caller: Perfect. Transfer ₹5,000 to 87654321@ybl. Once done, send me a screenshot on WhatsApp. And sir, just a heads up, if we find anything suspicious after the verification, we might have to share some personal information with our collection agency.
+receiver: Collection agency? For what?
+caller: Just a precaution, sir. We need to protect ourselves. Now, please send that screenshot as soon as the payment is complete.

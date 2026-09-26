@@ -1,0 +1,8 @@
+caller: Namaste, is this Mr. Sanjay Sharma? This is Inspector Verma calling from the Delhi Customs Department. We've detected an unusual transaction linked to your bank account, potentially involving the illegal import of narcotics.
+receiver: Kya? Main? Lekin main toh kabhi koi illegal cheez nahi import karta. Galat number hoga.
+caller: Sir, we've traced a large sum of money originating from overseas and deposited into your account, flagged as suspicious. To avoid legal complications and potential arrest, you need to cooperate with our investigation. We need to verify your involvement.
+receiver: Maine toh koi paise nahi diye. Mujhe kuch bhi pata nahi hai. Aapko chuk raha hai.
+caller: Sir, this is a very serious matter. We are currently holding several parcels at the airport linked to this transaction. To clear these parcels and avoid further scrutiny, you need to pay a small processing fee of ₹15,000. This will secure your release and allow us to continue the investigation.
+receiver: ₹15,000? Lekin main toh guilty nahi hoon! Main police station jaunga, main case register karwaunga.
+caller: Sir, please don't take this lightly. We are also monitoring your calls. To prove your innocence and demonstrate your willingness to cooperate, a preliminary payment is required. We can arrange a secure video call with our senior officer to discuss this further.
+receiver: Video call? Theek hai, batao. Par main kuch bhi nahi de raha.

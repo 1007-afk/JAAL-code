@@ -1,0 +1,11 @@
+caller: Namaste, is this Priya Sharma? This is Akash from Freepik Rewards.
+receiver: Haan, main Priya Sharma. Freepik? Kya hai ye?
+caller: Ji, aapke Freepik account pe ek cashback promotion chal raha hai. Aapne recently kuch photos download ki thi, aur ab aap ₹750 ka cashback claim kar sakte hain.
+receiver: Cashback? Mai toh bas kuch images download karti hun, design ke liye. ₹750? Yeh kaise?
+caller:  Ji, yeh ek limited time offer hai. Claim karne ke liye, aapko bas ₹50 ka processing fee deposit karna padega. Hum GPay link send kar denge. Jab ₹50 deposit ho jayenge, cashback automatically aapke account mein transfer ho jayega.
+receiver: ₹50 fee?  Yeh thoda suspect lag raha hai. Mai direct Freepik app pe check karti hun.
+caller:  Madam, please don’t waste this opportunity!  Yeh offer sirf aaj ke liye hai. Agar aap ₹50 deposit nahi karti, toh aapka cashback claim cancel ho jayega.  Aapko ₹750 bhi nahi milega!  Dekhiye, aapki account details: [Fake GPay QR Code/Link].  Fast, madam!
+receiver:  Ek minute! Mai abhi koi payment nahi karti. Mujhe doubt ho raha hai.
+caller: Madam, time is running out! ₹750 free mein milega, sirf ₹50 deposit karke.  Do you want the money or not? Don’t let this amazing offer pass you by!
+receiver:  Nahi, thank you. Mai nahi karungi. Aapko call band kar do.
+caller: Okay madam. Have a nice day!

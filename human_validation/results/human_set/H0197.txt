@@ -1,0 +1,6 @@
+caller: Hello, this is the Indian Cyber Crime Investigation Department, ICID. We’ve detected unusual activity linked to your bank account, specifically related to a suspected involvement in cross-border money laundering.
+receiver: Kya? Money laundering? Maine toh kabhi kuch aisa kiya hi nahi! What's going on?
+caller: Sir, our records show several large transfers originating from your account to offshore accounts in the Cayman Islands. These transactions flag as potentially linked to illegal activities. To clear this up, we need to verify your details and ensure you're not complicit.
+receiver: Offshore accounts? Cayman Islands? But I don't even know where that is! This has to be a mistake. Can you tell me exactly which transactions you’re referring to?
+caller: We understand your concern, sir. However, to proceed with the investigation and prevent further legal complications, we require a small security deposit of ₹8,000 to cover processing fees and forensic analysis. We need it through UPI to verify the account.
+receiver: ₹8,000? Just to clear my name? That seems a bit excessive, doesn't it? Are you sure this is the ICID? Can you give me a reference number for this case?

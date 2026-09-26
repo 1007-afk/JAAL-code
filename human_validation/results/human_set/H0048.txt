@@ -1,0 +1,8 @@
+caller: Namaste! Main Paytm ka customer care se bol raha hoon. Aapke account mein aaj kal kuch suspicious activity dikh raha hai.
+receiver: Oh! Really? What kind of activity? My account is very important to me.
+caller: Ji, aapki account se ₹5000 ka transaction hogaya hai, jo aapne nahi kiya hai. Security ke liye, humne account temporarily suspend kar diya hai.
+receiver: What? ₹5000? That's terrible! How do I get my account back?
+caller: Aapko apna account reactivate karna hai, toh humein aapki OTP confirm karni hogi. Aur ek small verification fee bhi apply hogi, ₹999. Aap Paytm number se payment kar sakte hain.
+receiver: ₹999? Why do I have to pay to reactivate my own account? That sounds fishy.
+caller: Ji, verification fee refund ho jayegi jab aapka account reactivate ho jayega. Please confirm karo, otherwise account permanent block ho sakta hai. Time bahut kam hai.
+receiver: Wait a minute. I'm going to call Paytm directly to verify this. Please hold.

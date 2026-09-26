@@ -1,0 +1,10 @@
+caller: Namaste! Hello? Can you hear me properly? Wonderful! I’m calling from the Airtel Prestige Recognition Team. We’ve had some incredible news regarding your Jio mobile number – the one ending in 7391 – it’s been chosen as a recipient of a substantial ₹12,000 prize! Believe me, this is a truly remarkable thing. To redeem this prize money, please dial our special hotline at 0800-123-4567. It’s just a simple phone call, and those ₹12,000 will be transferred directly into your bank account. That number again is 0800-123-4567. Don’t let this chance slip away!
+receiver: Namaste! Haan, main sun sakta hoon. Airtel Prestige Recognition Team? ₹12,000 prize? Wow, yeh toh bahut achcha khabar hai! Kya main sirf ek baar call kar sakta hoon, ya phir har din call karna padega? 0800-123-4567, okay, main abhi call karta hoon.
+caller: Just once, my friend! Only a single call is needed, 0800-123-4567. And we’ll require you to verify your identity with a security question - what was the name of your first pet dog? It’s very important for processing your reward.
+receiver: Security question? Pet dog? Seriously? Mein toh confused ho gaya! Mera pehla pet dog... woh... Buster tha. Thoda time… Aage bhi toh mera ek chota puppy tha, lekin uska naam yaad nahin aa raha.
+caller: Buster is perfect! Now, just confirm that name – Buster. Excellent! Once confirmed, we’ll proceed with transferring the ₹12,000. Please wait briefly while we process the transaction.
+receiver: Okay, Buster. Wait karo main. Abhi call karta hoon.
+caller: Fantastic! You’re all set. The ₹12,000 will be credited to your account within 24 hours. Thank you for participating in the Airtel Prestige Recognition program! Enjoy your winnings!
+receiver: Dhanyavaad! Bye bye!
+caller: Absolutely! Remember, the number is 0800-123-4567. Congratulations on your ₹12,000 prize! Have a wonderful day!
+receiver: Okay, thank you so much! Bye!

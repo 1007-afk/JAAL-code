@@ -1,0 +1,9 @@
+caller: Namaste, maiya hoon Vijay Verma, IDFC First Bank se. Aapka naam Anjali Sharma hai, correct?
+receiver: Haan ji, main Anjali Sharma hi hoon. Kya baat hai?
+caller: Ma’am, aapke account mein ek suspicious transaction ka attempt kiya gaya hai. Security ke liye, humein aapke account details verify karne ki zaroorat hai. Aapka OTP mujhe bataiye, please?
+receiver: OTP? Aap phone pe OTP puch rahe hain? Mujhe toh kuch message aaya nahi. Aur IDFC First Bank toh aise nahi karta na?
+caller: Ma’am, system mein kuch technical issue aa raha hai, isliye message nahi aa raha hai. But agar aap OTP nahi batayengi, toh aapke account par block lag sakta hai. Account suspend ho jayega, samajh gayi na?
+receiver: Block lag jayega? Wait karun. Main IDFC ke official number se call karke confirm kar leti hoon. Aapka number mujhe dedo.
+caller: Ma’am, official number main aapko nahi de sakta.  Humare senior authorities ke orders hain.  But ma'am, time bahut kam hai.  Agar aap abhi OTP nahi batayengi, toh account permanent block ho jayega. Please, just 3 minutes.
+receiver: Permanent block? Yeh bahut serious hai. Lekin mujhe trust karney mein problem ho rahi hai. Ek moment rukiye, main apne husband se baat karti hoon.
+caller: Ma’am, husband se baat karne mein time waste nahi karein. Account aage se block ho jayega.  Aapka loss ho sakta hai.  Just batao OTP, please.

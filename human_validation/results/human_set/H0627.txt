@@ -1,0 +1,8 @@
+caller:  Apsara ji, mene suna hai aapko ek mahine ka premium subscription mil gaya hai, totally free! Yeh ek bahut hi special deal hai, sirf 10 logon ke liye available hai. Kya aap is subscription ko claim karna chahte hain?
+receiver:  Oho, seriously? Premium subscription? Free? Ek mahina? That's amazing! Haan, definitely want to claim it. I love watching Bollywood movies. And only 10 people can get this? Wow! Feeling very fortunate.
+caller:  Very good! You are indeed very lucky!  Haan, sirf 9 logon ke liye yeh opportunity abhi mil rahi hai. Is offer ko claim karne ke liye, please mujhe apni full name bataiye, please. Aur aapke paas koi working WhatsApp number hai jahan hume notification bhejna ho sakta hai?
+receiver:  Ji haan, meri naam Deepak Kumar hai. Aur meri WhatsApp number hai 9876543210.  Tell me what to do next?
+caller:  Fantastic, Deepak ji!  This is a great thing. Just one small step remains. We need to do a little verification process.  Kya aapki age 25 saal se zyada hai, Deepak ji?
+receiver:  Haan ji, main 26 saal ka hoon. Deepak Kumar naam hai mera, aur meri WhatsApp number 9876543210 hai.  What verification do you need?
+caller:  Excellent, Deepak ji!  Just one more quick step. We need to activate your voucher, so we require the last four digits of your bank account number. Can you please provide that for me?
+receiver:  Ji haan, sure. Mere bank account ke last 4 digits hain 6789. What else is required?

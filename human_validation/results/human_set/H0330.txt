@@ -1,0 +1,9 @@
+caller: Namaste! Main BharatPay se Rohit bol raha hoon. Aapke BharatPay wallet mein ₹5000 ka cashback offer chal raha hai. Claim karne ke liye, humein sirf aapka UPI PIN verify karna hai.
+receiver: UPI PIN? Woh risky lagta hai. BharatPay se toh kabhi call nahi aaya tha pehle.
+caller: Sir, yeh offer limited time ke liye hai, aur security ke liye hum UPI PIN verify kar rahe hain. Bas last 4 digits bataiye.  Koi chinta nahi, aapka account safe rahega.
+receiver: Last 4 digits bataun? Mujhe thoda doubt ho raha hai. ₹5000 cashback toh achha offer hai, par…
+caller: Haan sir, ₹5000! Imagine karo aap kitne khushi se spend kar sakte hain.  Sirf 4 digits bataiye, aur offer aapka hoga.  Aapka OTP confidential rahega, sirf UPI PIN chahiye.
+receiver: Okay, theek hai. My UPI PIN last four digits are 4567.
+caller: Shukriya sir! Claim process start ho gaya hai. Aapko abhi ₹500 ka processing fee deposit karna padega BharatPay wallet mein.
+receiver: ₹500 fee? Main ismein nahi believe karta. Scam lag raha hai.
+caller: Sir, yeh system maintenance charge hai. ₹500 deposit karke aap ₹5000 ka cashback claim kar sakte hain. Abhi jald karein, offer expire ho rahi hai.

@@ -1,0 +1,7 @@
+caller: Namaste! This is Ankit from Global Trade Solutions. We're seeing incredible returns in the new AI stock market. Have you considered diversifying your portfolio with some high-growth tech stocks?
+receiver: Hello Ankit, thanks for reaching out. AI stocks are interesting, but it's a bit volatile right now. What kind of returns are you talking about specifically?
+caller: Aapse baat karke achha lagega! We're offering a guaranteed 15% return per week on investments in a select group of AI startups. It's a limited opportunity, sir. Just need a small initial investment to get started. Think ₹10,000 to ₹20,000.
+receiver: 15% per week? That sounds too good to be true. Can you tell me more about these startups? And what's the risk involved?
+caller: Absolutely, sir. They are pioneering technology in automated trading and machine learning. Minimal risk; we handle everything. To activate your account quickly, just send the funds to this UPI ID: 7890123456@ybl. You’ll see the profits reflected in your account within 24 hours.
+receiver: Wait a minute. A UPI ID? I was expecting a brokerage account. And a guaranteed 15% return... I need to see some documentation, a prospectus or something, before I send any money. Plus, I’m not comfortable with UPI for this kind of transaction.
+caller: Sir, trust me, this is a very streamlined process, cutting out the middleman. All documentation is sent via secure link after your initial investment. Just a small amount to unlock the potential, sir! Don’t miss out on this golden chance!

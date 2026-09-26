@@ -1,0 +1,10 @@
+caller: Namaste! Main Rupali se bol rahi hoon, State Bank of India se. Aapke naam par ek account hai, aur usmein kuch aashank gheriyon ka report aaya hai. Aapko KYC update karna hoga urgent basis par.
+receiver: KYC update? Main toh koi notification nahi mila.
+caller: Ji, system mein dikh raha hai ki aapka KYC pending hai. Agar aap update nahi karenge, toh account suspend bhi ho sakta hai. Main aapko aage kaise bataun?
+receiver: Suspend? Yeh kya bol rahe ho? Mujhe toh koi message nahi aaya.
+caller: Sir, main aapko ek OTP send karungi, usse verify karke, hum process shuru kar sakte hain. OTP recieve karne ke liye, mujhe aapka aadhaar card ka last four digits bataiye.
+receiver: Aadhaar number? Bank OTP ke bina bhi verify kar sakta hai na?
+caller: Woh purana system hai sir. Abhi security ke liye naya rule hai.  Aadhaar se hum dobara verify karte hain, aur phir aapko OTP milega. Just four digits hi bataiye, secure hai.
+receiver:  Theek hai, last four digits 1234 hain.
+caller: Shukriya! Ab aapko ek OTP milega, woh mujhe bataiye. Aur sir, agar aap internet banking bhi use karte hain, toh uska username bhi bataiye, verification ke liye.
+receiver: Username bhi?!  Yeh bahut zyada lag raha hai. Main police mein report karunga.

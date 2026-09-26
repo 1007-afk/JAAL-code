@@ -1,0 +1,7 @@
+caller: Namaste, is this Mrs. Kapoor? This is the Cyber Crime Investigation Cell, Delhi. We've detected a suspicious parcel delivery attempt linked to your address. It appears to contain illegal narcotics.
+receiver: Illegal narcotics? Yeh kya keh rahe hain aap? Parcel delivery? Mujhe toh koi parcel nahi mila.
+caller: Ji, our records indicate a shipment originated from overseas and was rerouted to your location. It’s crucial we verify this immediately. To clear this up and prevent legal action, you need to pay a small processing fee of ₹7,500 to secure the parcel and initiate a thorough investigation.
+receiver: ₹7,500? Aur parcel toh mujhe mila hi nahi! Yeh theek nahi hai, sir. Main police station mein report kar dungi.
+caller: Please, Mrs. Kapoor, don't be hasty. This is a serious matter. If you don't cooperate, a warrant will be issued for your arrest. We need the fee immediately to prevent further complications. The number to pay is 9876543210. Transfer ₹7,500 and then call us back and give proof of transaction.
+receiver: Okay, wait a minute. Let me just check something...  Arey yaar, yeh number toh fake hai! Mein nahi pay karoongi ₹7,500. Yeh scam hai!
+caller: Mrs. Kapoor, this is no time for games. We are watching you. Pay the fee or face the consequences. The deadline is 15 minutes. The number remains 9876543210.

@@ -1,0 +1,9 @@
+caller: Namaste! Kaise haal hai? Main DigitalConnect se bol raha hu. Aapko ek special offer mili hai - ₹500 cashback waitlist par! Toh, aapne waitlist par sign up kiya tha, hai na?
+receiver: Haan ji, DigitalConnect se ho? Waitlist par sign up kiya tha. Toh, kya karna hai?
+caller: Haan ji, ab sirf ek small verification step hai. Aapka name bata sakte hain? Aur aap kis telecom company ka user hain? Simple questions, bilkul bhi confusion nahi jagayenge.  Aapko ₹500 cashback waitlist par mil jaayega, bas!
+receiver: Mera naam Priya Devi hai. Aur main Airtel use karti hoon.
+caller: Achhi, Priya! Thank you. Now, just to double-check, can you tell me the last three digits of your mobile number?  We need this to connect the cashback to your account.  Don’t worry, it’s completely safe and secure.
+receiver:  Mere mobile number ke last three digits hai 234.  Aapko kuch aur chahiye?
+caller:  Perfect, Priya! Just one final detail.  To complete the process, can you confirm the date of birth you used when you signed up for the waitlist?  This is just a standard verification procedure to make sure we’re giving the cashback to the right person.
+receiver:  Date of Birth? Hmm… mujhe yaad nahi.
+caller:  Koi baat nahi, Priya.  Ek alternate method se check kar lenge.  But agar aapko cashback chahiye, toh yeh information aur provide karna hoga.  Waitlist par ₹500 cashback, sirf aaj mil sakta hai!

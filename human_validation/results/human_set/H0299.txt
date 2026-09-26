@@ -1,0 +1,8 @@
+caller: Namaste! Is this Mrs. Verma? I'm calling from FreeCharge customer service. We've detected some unusual activity on your FreeCharge wallet – a few small transactions we're just verifying. Are you there?
+receiver: Haan, bolo. FreeCharge? Koi transaction toh nahi hua, mujhe yaad bhi nahi. What unusual activity?
+caller: Yes ma'am. It seems someone attempted to send you a cashback offer of ₹500 through a promotional code. To activate this offer and secure the funds, we need to confirm a small verification fee of ₹50. Just send 'VERIFY' to 9876543210.
+receiver: ₹50 verification fee? FreeCharge mein cashback offer hota hai, lekin verification fee nahi leta. Yeh thoda funny lag raha hai.
+caller: Ma'am, this is a new security protocol to prevent fraudulent claims on promotional offers. This ₹50 will be credited back to your wallet instantly after verification. Think of it as an insurance against someone else claiming your cashback!
+receiver: Insurance? But why should I pay to *get* cashback? And why send it to a random number? FreeCharge app mein hi toh option hona chahiye.
+caller: Ma'am, due to system upgrades, this temporary SMS verification is required. It’s a one-time thing, just to ensure your safety and to activate your ₹500 cashback. It's a fantastic opportunity! Please send 'VERIFY' now, before the offer expires.
+receiver: Offer expires? Okay, wait a minute. Let me check the FreeCharge app myself...

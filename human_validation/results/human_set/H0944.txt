@@ -1,0 +1,12 @@
+caller: Namaste! Yeh ₹500 ka prize aapko mila hai. Aapne ek SMS mein dekha tha ki aapka Jio number ending in 7894 selected hua hai? Aapko woh message dekha tha?
+receiver: Haan ji, maine woh message dekha tha. Jio number ending 7894 wala, hai na? Kya hai iske baare mein?
+caller: Haan ji, bilkul sahi. Aapne woh message dekha tha, toh woh ₹500 ka prize aapke liye hi hai! Bohot khushi hui yeh sunkar. Aapko bas apna verification code 6542 batana hai jab aap 09876543210 pe call karenge. Yaad rakhiyega, yeh Jio number ending 7894 wale customers ke liye special offer hai aur aapke paas sirf 5 awards bache hain. Jaldi call kijiye taaki aap yeh mauka na gawain!
+receiver: Achha, ₹500 ka prize? Aur verification code 6542? Theek hai, main pakka call karunga. Jio number 7894 ke liye hi hai na yeh offer? Aur kitne awards bache hain? Jaldi se bataiye, taaki main abhi hi call kar loon.
+caller: Haan ji, Jio number ending 7894 wale customers ke liye hi hai yeh offer. Aur aapke paas bas 4 awards bache hain ab! Bahot logon ne already call kar liya hai. Jaldi se call kar lijiye 09876543210 pe aur verification code 6542 bataiye. Yeh offer ab zyada der tak nahi rahega!
+receiver: Oh, sirf 4 awards bache hain? Yeh toh thoda jaldi karna padega. Theek hai, main abhi hi number dial karta hoon. Thank you for informing me!
+caller: Haan ji, bilkul sahi! Bas 3 awards bache hain ab. Bohot logon ne interest dikhaya hai, toh jaldi se aap call kar lijiye. Yeh ek exclusive offer hai, aur hum nahi chahte ki aap yeh mauka chhod dein. Call 09876543210 pe, aur verification code 6542 yaad rakhiyega. Jaldi kijiye!
+receiver: Oh my gosh, sirf 3 awards bache hain? Wow, yeh toh bahut hi fast ho raha hai. Theek hai, theek hai, main abhi hi call karta hoon. Thank you so much for the reminder!
+caller: Haan ji, sirf 2 awards bache hain ab. Bohot logon ne already apply kiya hai. Aapko bas apna bank account number bataana hoga jab aap 09876543210 pe call karenge. Yaad rakhiyega, yeh Jio number ending 7894 wale customers ke liye special offer hai aur aapko sirf 2 awards jeetne ki chance hai. Jaldi call kijiye taaki aap yeh opportunity na गवाएँ!
+receiver: Oh no! sirf 2 awards bache hain? Okay, okay, I will definitely call now. Thank you for letting me know!
+caller: Haan ji, bilkul sahi! Bas 1 award bacha hai ab. Dil se congratulations! Aapko sirf ek hi chance hai. Abhi hi 09876543210 pe call kijiye aur apna name aur address bataiye. Ji शुक्रिया!
+receiver: Seriously? Just one award left? That's incredible! Thank you so much for all the information!

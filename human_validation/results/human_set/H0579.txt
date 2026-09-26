@@ -1,0 +1,6 @@
+caller: Namaste sir, main Axis bank se Rahul bol raha hoon. Aapke Axis bank rupay credit card pe kuch suspicious activity dikhi hai.
+receiver: Kya? Suspicious activity? Kitna dikha? Mujhe toh koi message nahi aaya.
+caller: Sir, ek online transaction hua hai ₹8,700 ka, Amazon pay se. Aapne kiya tha kya? Jaldi batao, security risk hai.
+receiver: ₹8,700 Amazon pay se? Nahin, maine kuch nahi kiya! Mujhe Amazon pay se transaction karna bhi nahi aata.
+caller: Sir, koi baat nahi. Ab hum isko block kar denge. Sirf aapko apne OTP ko share karna hoga, tabhi account secure ho jayega. OTP aayega aapke registered number pe.
+receiver: OTP? Haan, par mein OTP share nahi kar sakta. Mujhe dar lag raha hai. Yeh scam lag raha hai.

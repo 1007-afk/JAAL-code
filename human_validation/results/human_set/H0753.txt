@@ -1,0 +1,8 @@
+caller: Namaste, aapko mera naya audio campaign pasand aaya kya? Agar aapko unsubscribe karna hai to sirf ‘cancel’ type karna hai aur 30007 par jao. Kisi bhi problem ke liye 9876543210 mein call kar sakte hain. Yeh CreativeSolutionsIndia.com se hai.
+receiver: Namaste, ji, thoda dekha hai. Number bataiye, aur batao yahaan kya sale kar rahe hain?
+caller: Ji, yeh CreativeSolutionsIndia.com ka service hai. ‘cancel’ wale number par bhejna hai, uske liye. Agar aapko koi aur information chahiye, to woh number mein call kar sakte hain, jo 9876543210 hai. Bahut easy hai, sirf ‘cancel’ likh kar jao. Koi dhyana nahi, samajhne mein kisi bhi sahmat nahi.
+receiver: Achcha, CreativeSolutionsIndia.com. Theek hai, samajh mein aa gaya. Agar mujhe subscription cancel karna hai, to sirf ‘cancel’ likh ke 30007 par bhejna hai, right? Aur agar koi sawal ho to woh helpline number tha 9876543210. Mein apne account ko khud signup kiya tha ya nahin?
+caller: Ji, aapka account khud se signup ho jaata hai, aapko kisi cheez ko sign up karne ki zaroorat nahi hai. Bas ‘cancel’ likh kar 30007 par jao. Agar koi dubara sochna hai to helpline number par contact kar sakte hain.
+receiver: Achcha, yeh pata nahi tha ki automatically signup ho jaata hai. Koi baat nahi, main ‘cancel’ wala message bhej dungi agar cancel karna hoga to woh number use karunga. Dhanyavaad ke saptaav sangharsh.
+caller: Ji, koi baat nahi, thik hai. Aapko samjhane mein khushi hai. Agar koi bhi sawaal ho to pata hai na helpline number par contact kar sakte hain. Shubhkamnayen!
+receiver: Ji, dhanyavaad! Aapko bhi shubhkamnayen! Aur haan, helpline number toh hai hi. Bye!

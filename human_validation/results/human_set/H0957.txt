@@ -1,0 +1,8 @@
+caller: Namaste! Main Loan Express se bol raha hoon. Aapki file approved ho gayi hai, 50,000 ka instant loan mil sakta hai. Sirf registration fee ke ₹2500 deposit karne hain, process start karne ke liye.
+receiver: ₹2500? Par loan toh free offer tha na?
+caller: Ji, woh initial offer tha, lekin registration fee mandatory hai. ₹2500 deposit karte hi, aapka account activate ho jayega aur loan amount aapke account mein transfer ho jayega. Koi tension nahi, sir.
+receiver: Aur yeh registration fee refund hoga kya?
+caller: Sir, ₹2500 registration fee refundable nahi hai. Yeh ek time ka charge hai. Account activate hone ke baad, aapko loan get karne mein koi problem nahi hogi. Aapka OTP hai 1234, confirm kijiye aur deposit kare.
+receiver: Wait, OTP? Main toh kisi bhi loan ke liye apply nahi kiya tha.
+caller: Sir, aapne hamari website se apply kiya tha, shayad aapko yaad nahi. Dekhiye, ₹2500 deposit karein, warna offer expire ho jayega aur aapka chance milna mushkil ho jayega. Time bahut kam hai.
+receiver: Okay, wait, let me check something...

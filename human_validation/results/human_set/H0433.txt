@@ -1,0 +1,7 @@
+caller: Hello, priya! My name is Raj. I saw your profile on SparkMatch and thought you were absolutely gorgeous. Just wanted to say hi!
+receiver: Hi Raj. Thank you. Just be careful online, okay? There are a lot of fake profiles.
+caller: Don’t worry, I’m totally genuine! I'm a software engineer working on a big project in Dubai. Been so busy, barely have time for anything else, but you caught my eye. I’d love to chat more, get to know you better.
+receiver: Dubai, huh? That’s quite a long way. What kind of project are you working on?
+caller: It’s a confidential project for a major telecom company. I can't say much about it.  Anyway, I’m facing a small problem. I need to send some money back home urgently for my mother’s medical bills. It’s just 50,000 rupees. Could you possibly lend me a small amount? I will pay you back the minute I get paid next week, I swear.
+receiver: 50,000 rupees? That’s a lot of money to ask from someone we just met online. I’m really sorry, Raj, but I can’t do that. That’s not how things work.
+caller: Please, priya! I’m really desperate. My mother’s condition is getting worse. I’ll send you proof of the hospital bills right now. Just this once, please? Think of it as a little investment. I'll send you a gift later, I promise.

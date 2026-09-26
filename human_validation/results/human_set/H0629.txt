@@ -1,0 +1,7 @@
+caller: Namaste, Main Blue Dart Courier se Atul bol raha hoon. Aapke naam par ek parcel aaya hai, lekin delivery address mein kuch confusion hai. OTP verify karna hoga, taaki parcel aapke address par sahi tarike se pahunche.
+receiver: Oh, theek hai. Mujhe yaad nahi aa raha parcel kab order kiya tha. OTP bhijvao.
+caller: Ji, aapka OTP hai 123456. Isko verify kar lijiye. Parcel delivery ke liye ye zaroori hai.
+receiver: Arrey yaar, OTP aaya toh verify karunga, lekin abhi mujhe kuch shak aa raha hai. Blue Dart toh aise nahi karta.
+caller: Madam, dekhiye, ye security protocol hai. Agar aap verify nahi karenge toh parcel wapas kardoonga. Apko phir se order karna padega.
+receiver: Haan, lekin mein Blue Dart website par check karunga. Thoda wait karo.
+caller: Madam, time bahut kam hai, parcel return ho raha hai. Jaldi karo, otherwise aapko ₹2999 ka fine bhar payega.

@@ -1,0 +1,7 @@
+caller: Namaste, sir. Mera naam Ravi hai, Flipkart Customer Support se. Aapke account mein ek suspicious activity detect hui hai. Ek order register kiya gaya hai jiska aapne kabhi request nahi ki.
+receiver: Kya? Kaun sa order? Aur kitna amount hai?
+caller: Sir, order number is FLP-87654321. Amount ₹7500 hai. Yeh ek expensive mobile phone ka order hai. Agar aap isko resolve nahi karte, toh aapke account se amount debit ho jayega aur phone kisi aur ko chala jayega.
+receiver: ₹7500? Yeh bahut zyada hai! Mein kabhi phone nahi order kiya. Mujhe OTP mila hai, woh bhi kuch suspicious message se.
+caller: Haan, sir. OTP security ke liye hai. Aapko OTP mujhe bataana padega, tabhi main is order ko cancel kar paunga aur aapke account ko secure kar paunga. Jaldi kijiye, sir, yeh system mein automatically cancel ho sakta hai.
+receiver: Wait, wait! Main bank se baat karta hoon. Mujhe yeh sab kuch thoda suspicious lag raha hai. Aap mujhe bank details puchh rahe hain.
+caller: Sir, time barbaad na karein! OTP jaldi bataiye, warna aapka account hack ho sakta hai! Yeh Flipkart ki official process hai. Just give me the OTP and I'll sort it out for you. Isko ignore na karein!

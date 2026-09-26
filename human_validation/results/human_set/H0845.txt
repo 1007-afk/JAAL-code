@@ -1,0 +1,6 @@
+caller: Namaste, main Indian Customs se bol raha hoon. Aapke naam par ek parcel aaya hai Gujarat se, lekin parcel mein illegal items mile hain.
+receiver: Illegal items? Mujhe toh koi parcel nahi aaya. Maine kuch order bhi nahi kiya tha.
+caller: Sir, parcel track karne par aapka address dikh raha hai. Parcel number [XYZ123456] hai. Ismein hai confidential documents aur suspicious chemicals.
+receiver: Chemicals? Yeh toh bahut hi ghatiya baat hai. Main toh aisa kuch bhi nahi jaanta. Mujhe koi parcel nahi mila.
+caller: Sir, legal process follow karne ke liye, aapko ek settlement fee bharvana hoga. Rupees 15,000, sirf legal charges ke liye.
+receiver: Rupees 15,000? Mere naam par illegal items? Yeh fraud hai! Main police mein complaint karunga. Aapka naam aur phone number batao.

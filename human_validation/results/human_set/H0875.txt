@@ -1,0 +1,6 @@
+caller: Namaste! Mai Rahul bol raha hoon, IDFC First Bank se. Aapke naam par ek suspicious transaction ho raha hai, ₹12,000 ka online payment Maharashtra mein gaya hai.
+receiver: ₹12,000? Maharashtra mein? Maine toh koi payment nahi kiya! Yeh kya ho raha hai? Main abhi bank mein jaunga.
+caller: Sir, jaldi kariye! Account suspend ho sakta hai agar aap verify nahi karte. Mein aapko ek OTP bheju ga, usko bataiye aur main aapko transaction block kar dunga. 
+receiver: OTP? Sir, bank toh kabhi phone par OTP nahi manta. Yeh toh scam lag raha hai. Aapka naam aur ID bataiye.
+caller: Sir, security protocol hai, mujhe ID nahi dena. Woh confidential hai. Aapka account risky mein hai, abhi ₹12,000 hi nahi, aur bhi ho sakta hai. OTP bataiye, sir, please!
+receiver: ₹12,000 ka tension mujhe hai, par scam se zyada. Main police mein report karunga, aur bank ko bhi bataunga. Apne number ko save mat karo! Main call cut kar raha hoon.

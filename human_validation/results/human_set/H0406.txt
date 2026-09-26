@@ -1,0 +1,8 @@
+caller: Namaste sir, yeh toh Bharat Vikas Bank ka branch manager bol raha huwa hai. Aapka Aadhaar linked bank account update ho chuka nahi hai. Isliye aapko update karne hoga, lekin Covid karnyaben ki zaroorat hai. Mujhe aapki account details suno.
+receiver: Namaste, kitne din mein update hona hai?  Aadhaar linked account, acha.  Dekho, Covid se badh Gaya hai, lekin thik hai.  Kya aap meri account number batayenge?
+caller: Ji sir, pehle aap apna account number bata dijiye. Uske baad hum aapko keh denge ki aur kya details chahiye honge.
+receiver: Haanji, meri account number hai [account number yahaan daalen]. Aur kaise update karna hai, please samjha dijiye.
+caller: Ji sir, thanks. Ab aapka registered mobile number bataiye jo Bharat Vikas Bank mein link hai.
+receiver: Haanji, mera registered mobile number hai [apna mobile number yahaan daalen].  Aur yeh mobile number correct hai na?
+caller: Ji sir, thanks. Ab aapko ek One-Time Password (OTP) Bharat Vikas Bank wale app mein bheja gaya hai. Woh OTP mujhe bataiye taaki hum KYC process verify kar sakein. Jaldi bataiye, OTP 3 minute ka hai.
+receiver: OTP? Okay, dekhta hoon.  [OTP yahaan daalen].  Hope ye sahi hai.

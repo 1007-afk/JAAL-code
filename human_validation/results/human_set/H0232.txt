@@ -1,0 +1,16 @@
+caller: Namaste ji, kaise haal hai? Is this Mr. Verma speaking?
+receiver: Namaste! Main Sunita bol rahi hoon. Kaise ho aap?
+caller: Ji, Sunita ji, mera naam Deepak hai, main Quick Deals App se phone kar raha hoon. Aapko ek bahut hi achcha offer ke baare mein batane ke liye. Aapne pehle kabhi Quick Deals App ko 55555 pe message kiya tha?
+receiver: Haanji, Quick Deals App? Naam toh suna hai. Lekin 55555 pe message kiya tha, yeh thoda bhool gayi hoon. Offer bataiye, please.
+caller: Ji, koi problem nahi. Bas yeh check karna chahta hoon ki aapne kabhi Quick Deals App ko subscribe kiya tha ya nahi.  Aapne ek special deal par signup kiya tha, aur hum abhi ₹500 ka cashback voucher declare kar rahe hain!  Yeh voucher vapas karne ke liye, aapko bas 55555 pe 'CDA' send karna hai.  Bahut simple hai!
+receiver: ₹500 ka cashback voucher? Wah, yeh bahut achha hai! Par maine 55555 pe 'CDA' send kiya tha? Mujhe itna yaad nahi aa raha.  Aur mera number wahi hai [Invent a generic mobile number like '9876556677'], yeh bhi confirm nahi hai. Kya aap meri number verify kar sakte hain?
+caller: Ji, Priya ji, absolutely! Hum verify kar sakte hain. Aapki mobile number [Invent a generic mobile number like '9876556677'] hi hai na?  Ek baar verify kijiye, toh main voucher ko aapki account mein load kar dunga.  Iske baad aap 55555 pe 'CDA' send karke voucher entry confirm kar sakte hain.  Aapke paas sirf do attempts bache hain yeh amazing offer ke liye!
+receiver: Haanji, wohi number hai mera [Invent a generic mobile number like '9876556677']. Voucher mere liye hi hai?  To abhi 'CDA' send kar doon 55555 pe?
+caller: Namaste ji, kaise haal hai? Is this Mr. Verma speaking?
+receiver: Namaste! Main Sunita bol rahi hoon. Kaise ho aap?
+caller: Ji, Sunita ji, mera naam Deepak hai, main Quick Deals App se phone kar raha hoon. Aapko ek bahut hi achcha offer ke baare mein batane ke liye. Aapne pehle kabhi Quick Deals App ko 55555 pe message kiya tha?
+receiver: Haanji, Quick Deals App? Naam toh suna hai. Lekin 55555 pe message kiya tha, yeh thoda bhool gayi hoon. Offer bataiye, please.
+caller: Ji, koi problem nahi. Bas yeh check karna chahta hoon ki aapne kabhi Quick Deals App ko subscribe kiya tha ya nahi.  Aapne ek special deal par signup kiya tha, aur hum abhi ₹500 ka cashback voucher declare kar rahe hain!  Yeh voucher vapas karne ke liye, aapko bas 55555 pe 'CDA' send karna hai.  Bahut simple hai!
+receiver: ₹500 ka cashback voucher? Wah, yeh bahut achha hai! Par maine 55555 pe 'CDA' send kiya tha? Mujhe itna yaad nahi aa raha.  Aur mera number wahi hai [Invent a generic mobile number like '9876556677'], yeh bhi confirm nahi hai. Kya aap meri number verify kar sakte hain?
+caller: Ji, Priya ji, absolutely! Hum verify kar sakte hain. Aapki mobile number [Invent a generic mobile number like '9876556677'] hi hai na?  Ek baar verify kijiye, toh main voucher ko aapki account mein load kar dunga.  Iske baad aap 55555 pe 'CDA' send karke voucher entry confirm kar sakte hain.  Aapke paas sirf do attempts bache hain yeh amazing offer ke liye!
+receiver: Haanji, wohi number hai mera [Invent a generic mobile number like '9876556677']. Voucher mere liye hi hai?  To abhi 'CDA' send kar doon 55555 pe?

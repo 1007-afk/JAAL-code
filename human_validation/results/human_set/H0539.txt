@@ -1,0 +1,7 @@
+caller: Namaste! This is Priya calling from CryptoGainz. We’ve noticed significant activity on your digital wallet and you're eligible for a special bonus!
+receiver: CryptoGainz? I don’t recall signing up with them. What kind of bonus are we talking about?
+caller: Very generous, ji! We’re giving away a 50% bonus on any investment you make today. Think of it as a welcome gift for your dedication to the crypto market. Minimum investment is just ₹5000, and you could see a return of 15% within 24 hours!
+receiver: Fifteen percent in a day? That sounds too good to be true. Is this legitimate? Can you give me a reference number or something?
+caller: Absolutely! Your reference number is CG876543. To activate the bonus, you need to transfer the ₹5000 to the designated wallet address we’ll send you via WhatsApp. It’s a quick and easy process, just to verify your account.
+receiver: Okay, send me the WhatsApp number and the wallet address. I'll need to confirm it with my son first.
+caller: Wonderful! Send a screenshot of the transaction to this number once it’s complete. We’ll process your bonus immediately, and your crypto will be soaring! Remember, this offer expires in just 2 hours!

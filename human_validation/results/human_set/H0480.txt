@@ -1,0 +1,8 @@
+caller: Namaste! Main Flipkart se Rohan bolta hoon. Aapke naam par ek order aaya hai, lekin payment confirmation mein ek problem aa rahi hai.
+receiver: Oh, really? What order is it? I don’t remember ordering anything recently.
+caller: Ji, aapne kuch din pehle ek smart TV order kiya tha. Order number hai FK789012. Payment gateway se kuch error aa raha hai, isliye humein aapki help chahiye.
+receiver: A smart TV? I see… what kind of help do you need?
+caller: Sirf ek OTP confirm karna hai, taaki payment clear ho jae. OTP aapke registered mobile number par aayega. Jab OTP mile, toh mujhe bataaiye.
+receiver: Okay, I’ll wait for the OTP. But why can’t you just fix it from your side?
+caller: Technical issues hain, sir.  Hamari security team ne instructed kiya hai ki OTP ke saath confirm kiya jae.  As soon as you give me the OTP, the TV will be dispatched. And to avoid any further issues, please share your bank account details for a small refundable security deposit of ₹500.
+receiver: Bank details? That sounds suspicious. I’m not comfortable sharing that.

@@ -1,0 +1,9 @@
+caller: Hello, is this Priya Sharma? We're calling from BlueLine Courier regarding a parcel addressed to you. There seems to be a problem with the delivery address, and we need to verify some details to ensure it reaches you.
+receiver: Haan, ye Priya Sharma bol rahi hoon. Kya problem hai?
+caller: Ma’am, it appears there’s a delivery fee of ₹750 that hasn’t been paid. The sender hasn't marked it as prepaid. It's unusual, but these things happen. We just need you to quickly pay this via UPI and we’ll dispatch it immediately.
+receiver: ₹750? Par kaun ne bheja hai parcel? Aur mainne kabhi kuch payment karna nahi hai, delivery ke liye.
+caller: It’s from a retail company, ma'am. We can't disclose the sender's details for privacy reasons. But to avoid the parcel being returned, please make the payment. We can send you the UPI ID. Just a quick payment, and the parcel will be on its way. You'll get a tracking ID after that, too.
+receiver: UPI ID? Theek hai, bhejo. Par track ID toh milna chahiye, agar delivery ho gayi toh. Aur parcel mein kya hai?
+caller: Yes, of course, ma'am. The UPI ID is 9876543210@ybl. Please pay ₹750. After that, we'll send you the tracking ID and details about the contents. Just confirm the payment, and we'll update the system. It’s a small inconvenience for a valuable package, isn't it?
+receiver: Okay, I've made the payment. Now send me the tracking ID and tell me what's inside.
+caller: Thank you, ma'am. Just one moment while I process the

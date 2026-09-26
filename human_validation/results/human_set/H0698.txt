@@ -1,0 +1,7 @@
+caller: Namaste! Yeh call hai LoanHelp India se. Aapke pan card aur aadhaar card ke according, aap ek loan ke liye eligible hain. Approval process ke liye, please call karein 9876543210 par. Jaldi karein, offer limited time ke liye hi hai!
+receiver: Hello? LoanHelp India? Main toh koi loan nahi liya tha. Yeh kaunsi offer hai? Aur mujhe kab se approval mila?
+caller: Ji, humne dekha ki aapki credit report bahut achhi hai, isliye aapko yeh special offer mili hai. ₹50,000 tak ka instant loan, sirf call karke verify karein. Koi hidden charges nahi hain. Bas 10% processing fee lagegi repayment ke time par.
+receiver: ₹50,000? Aur 10% processing fee? Yeh kitna ho jayega? Aur mujhe yeh loan kyu offer kar rahe hain jab main ne request hi nahi ki tha?
+caller: Sir, processing fee ₹5,000 hogi. Aur hum offer karta hain sabhi eligible citizens ko. Verify karne ke liye, please aapko OTP dena hoga jo aapke registered mobile number par aayega. OTP dene ke baad, hum account details confirm kar lenge.
+receiver: OTP? Account details? Wait a minute… Yeh thoda fishy lag raha hai. Main koi OTP nahi dunga. Aur main koi account details bhi nahi dunga. Tumhara number block karwa dunga main.
+caller: Sir, jaldi karo! Aapka loan approve hone mein sirf 5 minute lagenge! Agar aap OTP nahi denge toh offer expire ho jayega aur aapka credit score bhi affect ho sakta hai! Please, sir, kuch minute ka hi hai!

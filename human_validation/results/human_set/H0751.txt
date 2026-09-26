@@ -1,0 +1,11 @@
+caller: Hello, good afternoon! This is Raj from SwiftShip Couriers. We're calling about a parcel addressed to you, but there's a slight issue with the customs clearance.
+receiver: Oh, really? What kind of issue? I wasn’t expecting anything.
+caller: Yes, sir. It seems there’s a small discrepancy in the declared value. To resolve this quickly and get the parcel released, we need to verify a few details. Can you please confirm your registered mobile number?
+receiver: Sure, it’s 9818123456.
+caller: Thank you! Just one moment... Okay, to finalize the release and prevent any delays, we'll need a one-time password (OTP) sent to your registered mobile number for security purposes. It's a standard procedure.
+receiver: Okay, send it.
+caller: Perfect! Please share the OTP with me once you receive it. This will just take a minute to clear the hold. We want to ensure your package, containing a new smart TV, arrives as soon as possible.
+receiver: I got it. It’s 123456.
+caller: Shukriya, sir! Just one final step for confirmation. To prevent fraudulent activity, we need to verify your bank account details to ensure the customs fee is settled promptly. It's just ₹499.
+receiver: Wait, customs fee? I wasn’t informed about this.
+caller: Yes sir, it's a standard charge. If you don't provide it now, the parcel will be returned to the sender and you’ll lose the TV. It is a limited time offer.

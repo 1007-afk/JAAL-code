@@ -1,0 +1,6 @@
+caller: Hello, is this Priya Sharma? I'm calling from Axis Bank rewards program. You've been selected for a special cashback offer on your credit card.
+receiver: Oh really? That’s good news. What kind of offer is it?
+caller: Congratulations! You’ve won a ₹10,000 cashback. To activate it, we need to verify your bank account details for security purposes. Just a quick verification process. Can you share your PhonePe UPI ID?
+receiver: My PhonePe UPI ID? Why do you need that for a cashback offer? That sounds a bit strange.
+caller: It's a new security protocol, ma'am. To prevent fraudulent activity on your account, we require verification through your UPI ID. We need to ensure the cashback goes to the correct account. It will only take a minute. Please share the UPI ID starting with ‘AXIS’.
+receiver: Wait a second… Axis Bank never asks for UPI IDs over the phone. I'm not comfortable sharing this. I think this might be a scam. I’m going to end this call now. Goodbye.

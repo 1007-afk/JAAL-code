@@ -1,0 +1,8 @@
+caller: Namaste, is this Mr. Verma? This is Akash from Blue Dart Courier. We're calling regarding a parcel addressed to you, but there seems to be an issue with the delivery address. It’s showing as incomplete.
+receiver: Blue Dart? Haan, bolie. Verma yahan hi hai. Parcel kaun sa hai?
+caller: Sir, it's a package from Meesho. The reference number is BD789456. It’s a rather valuable item, sir, and we need to confirm the delivery details before we can proceed. There's a small delivery fee pending which needs to be cleared, just ₹350.
+receiver: ₹350? Lekin mujhe Meesho se toh kuch order kiya nahi tha. Ho sakta hai kisi ne galti se address diya ho.
+caller: Sir, it's possible, but we need to verify the details to prevent the package from being returned to the sender. To quickly resolve this, we need you to confirm your bank account details and we’ll process the payment immediately. It's a very simple process, just a few details.
+receiver: Bank details? Nahin, bhai. Main kabhi bhi phone pe bank details nahin deta. Yeh theek nahi lag raha hai. Main Blue Dart office mein jaake khud check karunga.
+caller: Sir, for security reasons, we can’t release the parcel without verifying the payment. We understand your concern, but this is standard procedure. We can also send you a link to our secure payment portal where you can enter the details yourself. It's all encrypted and safe, sir. You just need to follow the steps.
+receiver: Koi link mat bhejo. Yeh scam lag raha hai. Main police mein complaint karunga.

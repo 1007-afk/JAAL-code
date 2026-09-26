@@ -1,0 +1,8 @@
+caller: Namaste! Main Reliance Jio se Rahul Verma bol raha hoon. Aapke Jio account mein ek suspicious login attempt detect hua hai. Security ke liye, humein kuch details verify karni hogi.
+receiver: Hello? Kya? Suspicious login attempt? Main toh koi login nahi kiya tha. Kya ho raha hai?
+caller: Ji bilkul sir. Aapke account ko secure rakhna hamara priority hai. Ek verification code aapke registered mobile number par bheja gaya hai. Please, woh code mujhe bataiye taaki hum confirm kar saken ki aap hi account ke owner hain.
+receiver: Verification code? Kaunsa number par bheja hai? Mera toh ek hi number hai, [Invent a 10-digit Indian mobile number, e.g., 7890123456]. Aur Reliance se toh direct SMS aana chahiye, call nahi hona chahiye.
+caller: Haanji, 7890123456 par bheja hai. Sir, time bahut kam hai. Kisi ne aapke account ko access karne ki koshish ki hai, aur agar hum jaldi se verify nahi karte, toh aapka account suspend bhi ho sakta hai. Please, code bataiye jaldi se.
+receiver: Arey yaar, suspend? Yeh thoda zyada dramatic lag raha hai. Aap mujhe bataiye ki aapke system mein kya dikh raha hai, aur main sahi number se hi baat kar rahi hoon ya nahi. Aapka employee ID number kya hai? Aur aapka name aur designation bataiye.
+caller: Sir, system mein details confidential hain, hum share nahi kar sakte. But trust me, aapka security hamare liye sabse important hai. Please, code bataiye, 5 minutes mein aapka account secure ho jayega. Bahut serious matter hai sir.
+receiver: Dekho, mujhe yeh sab kuch zyada suspicious lag raha

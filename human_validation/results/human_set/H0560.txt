@@ -1,0 +1,10 @@
+caller: Namaste! Main Vijay Verma, State Bank of India se bol raha hoon. Aapke account mein security alert aaya hai.
+receiver: Kya alert aaya hai?
+caller: Ji, aapke account se ek suspicious transaction ki koshish ki gayi hai. ₹8,000 ka transfer Rajasthan mein hua tha. Abhi account freeze kar diya hai, lekin verification ke baad hi phir se open hoga.
+receiver: ₹8,000? Maine toh koi transaction nahi kiya!
+caller: Hmmm, dekhiye, security ke liye mujhe aapke Aadhaar card ka last four digit number aur OTP chahiye hoga jo aapko SMS se mil raha hai. Tabhi account phir se activate ho payega.
+receiver: OTP? State Bank toh kabhi OTP nahi puchta!
+caller: Madam, yeh emergency hai. Account secure karna bahut zaroori hai. Jaldi karo, warna account permanent block ho jayega.
+caller: Please, madam, OTP batao! Time kam hai.
+receiver: Nahi, main SBI customer care ko call karungi.
+caller: Ji, aapko call karna chahiye. Lekin jab tak aap call karenge, account block ho sakta hai. Jaldi decide karo!

@@ -1,0 +1,8 @@
+caller: Namaste! Hai, yeh Mr. Sharma bol raha huvaa, Digital Dreams Company se. Kaise ho aap? Main aapko ek bahut hi achcha Diwali ka offer deta huun. Hum log Diwali ke liye special digital art designs banate hain, aur humein ek free animation effect bhi de rahe hain. Toh, aapko pasand aaega?
+receiver: Ji ji, main hi hoon. Digital Dreams Company? Diwali ke liye design? Sunne mein acha lag raha hai.
+caller: Haanji, bilkul achcha lagna chahiye! Aur suniye, yeh offer sirf 24 ghante ke liye chal raha hai. Humare paas sirf 5 collections bache hain, aur har collection mein 10 unique designs hain. Aapki website pe yeh design upload karne ke liye sirf ₹199 chenge lagegi, par hum aapko ₹99 mein de rahe hain. Aise offer phir nahi milenge!
+receiver: ₹99? Fir ₹199 chenge lagni thi? Ek minute rukeyga, main zara check karunga ki website par price dikhti hai ya nahi. Yeh number kya tha aapka, dobara bata sakte ho?
+caller: Jee, number hai 9876. Aur haan, sirf 4 collections bache hain ab, sabse pahle order karne wale ko mil jayega! Jaldi kijiye, Diwali ke liye beautiful designs aur free animation miss mat karna!
+receiver: Achha, speed se khatam ho rahe hain? Theek hai, ek minute rukna. Bas ghar pe sabse puch ke batata hoon. Aap apna naam bataiye, main abhi waapis call karta hoon.
+caller: Jee, mera naam Mr. Sharma hai. Aur haan, bas 2 collections hi bache hain ab. Aap jaldi se order kar dijiye 9876 pe, toh aapka pakka ho jayega. Phir baad mein aap ghar walon se baat kar lijiyega. Offer miss ho jayega nahi toh!
+receiver: ₹99 mein 10 designs? Hmm... Gharwale keh rahe hain ki yeh quality dekh kar toh ₹199 bhi layak hai. Lekin unhone kaha ki yeh online payment ka option hai ya nahi? Matlab, credit card ya debit card se payen kaise kar sakta hoon?

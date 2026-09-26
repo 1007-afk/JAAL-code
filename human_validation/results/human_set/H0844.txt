@@ -1,0 +1,8 @@
+caller: Namaste, is this Mr. Ajay Sharma? I am calling from the Directorate of Revenue Intelligence, Delhi. We have detected some suspicious activity linked to your bank account.
+receiver: Yes, this is Ajay Sharma. Suspicious activity? What kind of activity? Everything seems fine on my end.
+caller: Sir, our records indicate several large international transactions originating from your account that are flagged as potentially related to illegal cryptocurrency trading and money laundering. This is a very serious matter, sir.
+receiver: Cryptocurrency? I haven’t been involved in anything like that. I only use my account for regular transactions and savings. Are you sure you have the right person?
+caller: Sir, we need to verify your identity and understand the source of these funds. To do so, we require you to join a secure video call with our investigating officer immediately. We also need a small security deposit of ₹5000 to cover the verification process, sir. This will be refunded upon successful verification.
+receiver: ₹5000? A security deposit? This sounds really fishy. Can I get some reference number or speak to someone with a higher authority before I do anything?
+caller: Sir, delaying the process will only complicate matters and attract further scrutiny. The investigating officer is waiting. Please join the call immediately and remit the security deposit through the UPI ID I will send you. This is purely to ensure your safety and prevent any legal complications, sir.
+receiver: I am not going to do anything until I verify this with my lawyer. I'm ending this call.

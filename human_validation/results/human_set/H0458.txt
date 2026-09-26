@@ -1,0 +1,10 @@
+caller: Namaste Sir, main HDFC Life se baat kar raha hoon. Aapke liye ek super amazing scheme aaya hai. Kaise hain aap?
+receiver: Namaste, achcha hoon. HDFC Life se hain? Bataiye scheme ka naam kya hai? Main abhi kaam se aa raha hoon, thoda time hai.
+caller: Ji sir, yeh "Golden Future Plan" hai. Ismein aapko sirf ₹50,000 invest karna hoga, aur aapka paisa 3 times hone ki guarantee hai. Aur sir, ismein aapko accidental death benefit bhi milega, jo bahut important hai.
+receiver: 3 times hone ki guarantee? Interesting! Par ₹50,000 invest karne ke baad kya hoga? Aur accidental death benefit kis tarah kaam karta hai? Bataiye thodi details.
+caller: Sir, yeh plan aapke family ko financially secure karega. Accident mein maroge toh aapki pariyon ko ₹2 Lakhs ka compensation milega. Aur sir, 3 years baad aapko every month ₹8,000 paisa milna shuru ho jayega, iske value ki 7% aapko lifetime milegi.
+receiver: ₹2 lakhs ka compensation? Aur ₹8,000 every month? Matlab zindagi bhar? Yeh toh bahut achcha lag raha hai. Par ₹50,000 invest karne ke baad, is policy ke terms and conditions kya hain?
+caller: Sir, terms and conditions hamare website par hain -hdfclife.com/goldenfutureplan. Agar aapko koi doubt hai toh humein bataye.
+receiver: Website par dekhunga. Par sir, yeh plan genuine hai ya nahi, yeh pata karne ke liye mujhe kuch aur information chahiye. Koi reference number ya customer testimonial?
+caller: Sir, yeh number meri personal number hai, aapko kisi cheez ki zaroorat nahin hai. Just accept the offer, it’s limited time only!
+receiver: Wait wait! Limited time only? Kya matlab?

@@ -1,0 +1,7 @@
+caller: Namaste! Main LoanMudra se bol raha hoon. Aapko ghar banane ke liye loan mil sakta hai, sirf 7.5% interest rate par. Aapka naam kya hai?
+receiver: LoanMudra? Main toh sunta hoon LoanMudra government ka scheme hai.  Interest rate kitna hai exactly?
+caller: Ji haan! Government ke saath partnership mein.  7.5% sirf abhi offer hai. Loan apply karne ke liye, aapko apna PAN card aur aadhaar card send karna padega.  Aapka number register hai, so processing fast ho jayega.
+receiver: PAN card aur aadhaar card?  Yeh thoda risky toh lag raha hai.
+caller: Sir, bina documents ke loan nahi hota. Tension mat leiye.  Aapka data safe rahega.  Apni photo copies message karein 9898989898 par, aur kal se loan process shuru ho jayega. Thoda urgent hai, sir.
+receiver: Okay, theek hai. Message karta hoon.
+caller: Bahut achcha! Sir, abhi ek small verification fee bharne hogi – sirf ₹5000.  Iska payment UPI ke zariye kar dijiye.  Account details send karta hoon. Jaldi kijiye, sir!

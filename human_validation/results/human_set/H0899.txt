@@ -1,0 +1,7 @@
+caller: Namaste sir, main Axis Bank se Priya bol rahi hoon. Aapke account mein aaj ek suspicious transaction attempt kiya gaya tha. Security ke liye, humein aapke bank account details aur ek OTP verify karna hoga.
+receiver: Axis Bank? Suspicious transaction? Kya hua? Mein toh koi transaction nahi kiya tha.
+caller: Ji sir, ek online purchase attempt hua tha Rs. 7,800 ka. Immediate action lene ke liye, please aapka bank account number aur expiry date bataiye. Aur aapko SMS se ek OTP milega, woh bhi bataiye.
+receiver: Account number bataun? Aur expiry date bhi? Yeh theek nahi lag raha hai. Axis Bank aise details phone pe nahi poochti.
+caller: Sir, yeh urgent hai. Agar aap details nahi denge, toh aapka account suspend bhi ho sakta hai. Account suspend na ho, please details provide karein. OTP verification ke liye hai, sir.
+receiver: Account suspend? Theek hai, theek hai. Dekhta hoon. Par mujhe yeh thoda dubhaata hai. Mein abhi check karta hoon.
+caller: Ji sir, jaldi karo. Sir, aapka OTP hai 4582. Jaldi bataiye sir, account suspend hone se pehle.

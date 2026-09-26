@@ -1,0 +1,17 @@
+caller: Mr. Sharma, this is Rajeev from Indus Bank. We’ve detected unusual transactions on your account. Did you recently receive a notification about a missed call from us? It would have mentioned a new message. Please return our number at 09268453210 for immediate verification. This is extremely important for your account security. Can you provide your account number for quick confirmation?
+receiver: Hello? A missed call? Actually, I did get one, but I didn’t answer it. You’re saying there are unusual transactions? That sounds concerning. My account number is 7894561230. Let me give you that.
+caller: Absolutely. This is quite serious. Your account needs immediate attention. Have you provided your account number yet? Just want to ensure we have the right details. Quickly, tell me.
+receiver: Yes, I gave it. It's 7894561230. What exactly happened with these transactions? Can you elaborate a little bit more on what triggered the alert?
+caller: Indeed. That account number is correct. Regarding the unusual transactions, due to strict security protocols, we cannot disclose specific details. However, it’s crucial that you verify your identity to safeguard your account. That voicemail you heard contained the number 09268453210; you need to call them to begin the verification process. We simply alerted you – our role is only to inform you. Call that number now.
+receiver: Okay, okay, I understand. So, you’re telling me I need to call that number? Are you guys able to assist me directly right now? I’m feeling a little uneasy because you aren’t sharing any information. If it’s this critical, couldn’t you explain a bit more?
+caller: Yes, precisely that number. Are you still confused? Due to security reasons, we can’t reveal any details. If you haven’t verified your identity, further actions could be taken. We just informed you and provided that number for your assistance. Please call 09268453210 immediately. This is solely for your protection. It’s your last opportunity; if you don’t call, we won’t be able to do anything.
+receiver: Alright, alright, calm down. I get it now. If it’s really necessary, then I’ll call that number. Don't worry, take it easy. But honestly, if something goes wrong, I don’t know what will happen. Okay, bye. Thanks for letting me know, I suppose.
+caller: Perfect. Now, listen carefully. There’s a potential fraud attempt linked to your card. We need to freeze your account immediately. Please call 08820123456 as soon as possible to confirm your details. This is a high priority situation, don't ignore it.
+receiver: Freeze my account? Seriously? Why? I didn't do anything!
+caller: Because we detected suspicious activity, sir. It's better to be safe than sorry. Just confirm your address and date of birth.
+receiver: My address is [Invented Address] and my date of birth is [Invented Date of Birth].
+caller: Thank you, sir. We’ve frozen your account. You’ll receive an email confirming this.
+receiver: Email? I didn’t ask for an email. This feels… strange.
+caller: It’s standard procedure, sir. For your safety. Please don’t reply to any emails you receive.
+receiver: I don't trust this. Goodbye.
+caller: Wait! Before you go, please remember our customer service number: 09199999999.

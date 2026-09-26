@@ -1,0 +1,6 @@
+caller: Namaste sir, this is Ankit from QuickCash Solutions. We’ve noticed you recently applied for a personal loan online. Just confirming, do you have a clear photograph of your ID readily available?
+receiver: Hello Ankit. Yes, I have a copy of my Aadhaar card. Where do you need me to send it?
+caller: Excellent! Sir, please upload it to our secure portal – loanverify.online. Go to the 'Verification Documents' section and select 'ID Proof'. It's a very simple process.
+receiver: Okay, I'm uploading now. It says upload complete. What's next?
+caller: Perfect! Now, for security purposes, could you please share the last four digits of your bank account number and an OTP that we will send to your registered mobile? It’s a standard procedure.
+receiver: I’m waiting for the OTP now. Okay, I’ve got it. It's 987654.

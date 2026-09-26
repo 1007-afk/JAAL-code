@@ -1,0 +1,6 @@
+caller: Hello, is this Rajeev Sharma? We’ve detected some unusual activity on your FreeCharge wallet. It looks like someone might be trying to access it.
+receiver: Unusual activity? Really? What kind of activity? My FreeCharge balance is about Rs. 2000.
+caller: Yes, sir. There was an attempted transaction from a different device, a mobile in Kanpur. To secure your wallet, we need to quickly verify your identity. Can you please confirm the last four digits of your PAN card?
+receiver: Hold on a second. Why do you need my PAN card digits to verify my FreeCharge wallet? That seems strange, doesn't it?
+caller: Sir, it’s a standard security protocol. It helps us confirm you are the legitimate owner and prevent any unauthorized access. It’s just a quick check, sir. To protect your money, please provide the last four digits. We can also send you an OTP to your registered number if that's easier.
+receiver: An OTP would be better. Sending my PAN digits over the phone feels risky. What’s the OTP sent to? Please confirm my registered mobile number first.

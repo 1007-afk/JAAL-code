@@ -1,0 +1,7 @@
+caller: Namaste, is this Mr. Sharma? This is Inspector Verma from the Directorate of Revenue Intelligence. We’ve detected some unusual activity linked to your bank account, specifically large international transfers.
+receiver: Haan, bolie. Kya hua? (Yes, speak. What happened?)
+caller: Sir, our investigation suggests you may be unknowingly involved in facilitating illegal funds transfers. We have records of several transactions to offshore accounts. This is a very serious matter, potentially linked to money laundering.
+receiver: Main toh koi transfer nahi kiya. Account mera hi hai lekin main itna paisa kabhi nahi bhejta. (I didn't make any transfers. The account is mine, but I never send that much money.)
+caller: Sir, we understand you might be confused. These transactions appear automated. To clear this up and prevent further legal action, we require a small sum – 15,000 rupees – as a processing fee to verify your innocence and block the suspicious transfers. Please transfer it to this UPI ID: 9876543210@axisbank.
+receiver: 15,000? Kaise verify karenge? Ye scam lagta hai. (15,000? How will you verify? This seems like a scam.)
+caller: Sir, please do not misunderstand. This is standard procedure. Without this fee, we have no choice but to escalate this to the court and you will face significant penalties. We need the confirmation immediately. To avoid any delays, we'll need you to stay on this call. We will connect you to a senior officer for verification right away.

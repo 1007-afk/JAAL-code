@@ -1,0 +1,8 @@
+caller: Namaste ji! Welcome to Tech Solutions India! Tumhara smartphone 8 mahine ya usse zyada ka ho gaya hai, sahi kaha na maine?
+receiver: Haan ji, bilkul sahi. Mera phone approximately 6 months ho gaya hai.
+caller: Kya baat hai ji! Absolutely right! Aise hi bolte hain, humare paas sirf 2 premium upgrades remaining hain, and your account qualifies. You know, this special deal is only for those whose phones are at least 8 months old, just like yours! So, are you interested in getting a shiny new phone with enhanced performance and a stunning display, completely free?
+receiver: Arey yaar! Completely free? And it’s specifically for me? No catches, right?
+caller: Absolutely no catches, my friend! Totally genuine. This promotion is exclusively for eligible customers like you, and you definitely qualify! See, we have just one upgrade left. I've already verified your account, so this offer is absolutely guaranteed for you. Can I get your first name please, so I can quickly check your details and register this fantastic phone under your name?
+receiver: Haan ji, sure. My name is Priya Patel. Could you just confirm again that there are absolutely no hidden costs involved, no small print?
+caller: Priya ji, crystal clear. Zero hidden costs, zero complications. This is our way of thanking you for being a valued customer! And yes, we only have one more upgrade available now, and registering your name is crucial to secure this amazing phone for you. So, Priya ji, may I confirm your location so we can ensure this exciting update reaches you promptly?
+receiver: Ji haan, definitely. My address is 456, Maple Drive, Colony 2, Gurgaon. And what about the delivery time? Also, what exactly do these ‘upgrades’ refer to?

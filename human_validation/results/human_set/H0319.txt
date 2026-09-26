@@ -1,0 +1,8 @@
+caller: Namaste! Main Rahul hoon, Daily Lucky Draw se baat kar raha hoon.  Aapko ek exciting competition mein participate karne ki chance mil sakti hai, jisse aap ek new Samsung Smart TV jeet sakte hain! Kaise chalega?
+receiver: Namaste Rahul! Mera naam nahin hai Priya Sharma. Mera naam Arjun Kumar hai. Aur Samsung Smart TV?  Mujhe abhi pata nahin hai, lekin suno zara.
+caller:  Arre, Priya, woh mera galti tha!  Maaf karna, mere records mein confusion hai.  Theek hai, toh aaj ka question hai:  Pakistan ki cricket team ne last month mein kaunse batsman ko dropped kiya?  Text karo apna jawab 84567 par.  Agar play karna hai, toh sirf ₹2/- charge hoga.  Kyu bataiye, Arjun?
+receiver: Pakistan mein cricket?  Haan, mujhe pata hai.  Par mujhe yeh question itna familiar nahi hai.  Koi suggestion nahi hai? Ya koi clue de sakte ho?
+caller:  Chill, chill!  Main aapko ek small hint deta hoon.  Yeh batsman India mein bhi khela tha.  Ab yaad karo, Arjun!
+receiver: India mein bhi khela?  To phir woh Indian batsman hona chahiye, na?  Agar woh Virat Kohli ya Rohit Sharma wala gaya hai, toh mein guess karunga Pakistan.  Samsung TV badly chahiye!
+caller:  Haan, absolutely!  Aur unke naam mein ‘R’ wala alphabet hai.  Socho, 'R' wala alphabet… kaun sa batsman hoga?
+receiver: Oh, 'R' wala alphabet!  Arjun rai hota hai!  Mein guess karta hu Arjun Rai.  Agar sahi hua toh thank you Rahul ji, warna koi baat nahin!

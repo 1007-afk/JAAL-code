@@ -1,0 +1,6 @@
+caller: Namaste! Is this Priya Sharma? We're calling from Loan Express India. You've been pre-approved for a personal loan of ₹75,000 with very low interest. A fantastic opportunity!
+receiver: Loan Express? I don’t remember applying for any loan. Who's asking?
+caller: This is Rahul from Loan Express. We saw your details on a government initiative supporting small businesses. To finalize the loan, we just need to verify a few details and a small processing fee of ₹2,500 to secure the approval. It's refundable, of course.
+receiver: ₹2,500 upfront? That sounds suspicious. I’ve heard about these scams. Why can’t I just see the loan agreement first?
+caller: Priya ji, we’re trying to help you! This fee is mandatory to prevent fraud. Think of it as insurance. We can send you morphed pictures of you sending the money to your contacts if you don’t pay. We need to do this to prevent other fraud. Please don’t delay, this offer is only valid for the next hour. We need the money quickly, otherwise we may need to report you for fraud.
+receiver: What? Morted pictures? That's a threat! I’m reporting you to the police. Goodbye.

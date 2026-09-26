@@ -1,0 +1,9 @@
+caller: Namaste! This is Neeraj calling from Freecharge Rewards. We’ve noticed you've been a loyal Freecharge user and want to offer you a special cashback promotion.
+receiver: Cashback? Freecharge ka? Kya offer hai?
+caller: Sir, as a thank you, we're giving away ₹500 cashback instantly on a small transaction. It’s a limited-time offer, so act fast. To activate it, we just need you to send ₹50 towards a ‘collect request’ on Freecharge.
+receiver: ₹50? Collect request? Freecharge mein toh aisa koi option nahi hai. Ye kya bol rahe ho?
+caller: Sir, it’s a new feature. We are testing it on select users. It’s a very secure process. Just send ₹50 using UPI to the number I’ll give you, and the ₹500 cashback will be credited immediately. The UPI ID is 9876543210@axisbank.
+receiver: UPI ID? ₹50 bheju? Aur cashback milne ka guarantee hai? Ye toh kuch gadbad lagi.
+caller: Sir, please don’t worry. We have everything documented. This is a legitimate Freecharge promotion, and you’ll receive your cashback within minutes. Just confirm the UPI transaction and we'll be all set. It’s just a small investment for a big reward, sir.
+receiver: Nahin, mujhe koi offer nahi chahiye. Ye scam lag raha hai. Main koi bhi payment nahi karunga.
+caller: Sir, you are missing out on a great opportunity! We can’t have you losing out on the cashback. Just one small payment and the reward will be yours!

@@ -1,0 +1,7 @@
+caller: Hello, is this Priya? I'm Rohan. We matched on 'DesiHearts' app, right? Just wanted to say I’m really enjoying our chats so far.
+receiver: Hi Rohan! Yes, that’s me. It’s been nice chatting too. What's up?
+caller: So, I've been thinking about our connection, and I’d love to meet you properly. I’m currently in Dubai for a short business trip, but things are a bit hectic. My mother, she’s not well, needs an urgent operation.
+receiver: Oh no, that’s terrible! I’m sorry to hear about your mother. I hope she's okay. Is there anything I can do?
+caller: It's a big expense, Priya. Around 70,000 rupees. The hospital is pressing me. I know it's a lot to ask from someone we just met, but I really trust you, and your kindness has shone through. Could you possibly help me out a little? Just a small amount would mean the world. I'll pay you back double as soon as I'm back home.
+receiver: 70,000 rupees? Rohan, that's a huge amount, and we barely know each other! I’m really sorry about your mom, but I can't just send you that kind of money. It feels very wrong.
+caller: Priya, please understand! This is really important. I wouldn't ask if it wasn’t. Look, I have proof. Here's the hospital bill, see? It’s from Apollo Hospital. I can even give you the doctor’s contact number, you can verify yourself. I promise, I'll return it with interest. Please, Priya.

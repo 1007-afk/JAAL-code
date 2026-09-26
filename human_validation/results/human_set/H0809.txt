@@ -1,0 +1,8 @@
+caller: Hello, hello! Can you hear me okay? This is Rahul from TechRewards, calling for you today. I've got some exciting news! For your chance to WIN a FREE Bluetooth Headset, all you have to do is reply back with \"ADP\". It's super simple! Do you want to try your luck?
+receiver: Haan Rahul, sunn pa raha hoon bilkul theek se. TechRewards se ho? Achha, Bluetooth Headset jeetna hai? Waah! Sunaane mein toh mazedaar lag raha hai. Agar main \"ADP\" reply karoon toh kya pakka milega?
+caller: Haan, bilkul pakka! Agar aap \"ADP\" reply karenge toh aap officially draw mein hissa le lenge. Humare paas bas 4 free headsets aur bache hain, toh jaldi se reply kar dijiye taaki aapka mauka pakka ho jaye!
+receiver: Arre, 4 hi bache hain? Theek hai Rahul, main reply kar deta hoon \"ADP\". Dekhte hain kismat mein hai ya nahi. Thank you!
+caller: Awesome! Shukriya! Aapka \"ADP\" reply receive ho gaya hai. Aap ab officially hamare lucky draw mein include ho gaye hain. Aur sirf 3 headsets bache hain, toh jaldi hi announce hoga kaun jeeta hai! Best of luck!
+receiver: Theek hai, Rahul. Thank you for letting me know. Bass dua karna main lucky ho jaaun! Agar jeet gaya toh update zaroor karna.
+caller: Bilkul! Aapki koshish hamare liye bahut important hai. Agar aap is offer ko seriously le rahe hain, toh bas yeh bataiye ki aapki taraf se koi extra information chahiye ya hum aage badh sakte hain?
+receiver: Nahi Rahul, meri taraf se toh koi extra information nahi chahiye. Sab theek hai. Aap aage badh sakte hain.

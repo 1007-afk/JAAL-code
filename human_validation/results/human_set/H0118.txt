@@ -1,0 +1,14 @@
+caller: Namaste! Mein ICICI Bank se Anjali bolti hoon. Aapka naam Rajesh Sharma hai, kya?
+receiver: Haan, main Rajesh Sharma hoon. Bolo, kya baat hai?
+caller: Sir, humein ne aapke account mein kuch suspicious activity dikhai di hai. Ek online transaction Gujarat se hua hai, ₹12,500 ka, jo aapne nahi kiya hai.
+receiver: ₹12,500? Nahin, maine koi transaction nahi kiya!
+caller: Sir, aapko apne account ko secure rakhne ke liye kuch details verify karne honge. Humara security department aapko call kar raha hai. Agar aap verification nahi karenge, toh aapka account suspend kar sakte hain.
+receiver: Account suspend? Kya? Main kya karoon?
+caller: Sir, mujhe aapka Aadhaar card number chahiye hoga, aur OTP jo aapko SMS se milega, tabhi aapka account secure ho jayega.
+receiver: Aadhaar number? OTP? Yeh toh thoda suspicious lag raha hai. ICICI Bank toh aise call nahi karta.
+caller: Sir, humko pata hai ki log aise scams se darte hain. Lekin, yeh bilkul genuine hai. Agar aapko trust nahi ho raha hai, toh aap ICICI Bank ke helpline number par call karke confirm kar sakte hain. Par time bahut kam hai, sir.
+receiver: Thik hai, mujhe helpline number dedo. Main check karta hoon.
+caller: Sir, main aapko helpline number nahi de sakti. Security protocol hai. Main sirf aapko verify kar sakti hoon. ₹12,500 ka transaction abhi pending hai, aur woh aapke account se debit ho sakta hai agar aap verification nahi karenge.
+receiver:  Dekhiye, mujhe yeh sab zyada suspicious lag raha hai.  Yeh phone mat karo. Main khud bank branch mein jaunga.
+caller: Sir, please, mat karayein! Account suspend ho jayega!  Ek last thing, mujhe aapke PAN card ke last four digits batao, tabhi main aapko security code de sakti hoon. Bas itna hi.
+receiver:  Bahut hui baat! Main abhi phone kaat deta hoon.  Aur kabhi mereko call mat karna!

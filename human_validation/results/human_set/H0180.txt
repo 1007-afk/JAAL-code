@@ -1,0 +1,8 @@
+caller: Namaste, main calling from Reliance NetConnect. Aapke mobile internet connection mein ek issue aa rahi hai, aur hum check karna chahte hain. Aap mujhe apna mobile number bata sakte hain?
+receiver: Haanji, batao kya problem hai? Mobile number chahiye? Okay, wait, mobile number mera paas hai. Yeh dikhao, 88009876543.  Aap ne recently internet use kiya tha?
+caller: Ji haan, thank you. Hmm, 88009876543.  Ek second, mujhe verification ke liye aapke mobile number par ek OTP send karna hai. Kya bata sakte hain aap?
+receiver: OTP?  Haanji, OTP mil jaaye toh acha rahega.  Bas OTP number bata do.  Yeh OTP abhi mila hai - 789456.  Kuch galat to nahin ho raha?
+caller: Ji haan, thank you. Hmm, 88009876543.  Ek second, mujhe verification ke liye aapke mobile number par ek OTP send karna hai. Kya bata sakte hain aap?
+receiver: Yaar, yeh message bahut irritating hai.  Aapne jo OTP bheja, woh sahi nahi hai.  Aapko phir se OTP bhejna padega.  Aapko koi offer nahi chahiye?
+caller: Arre nahi bhai, yeh system mein thoda technical issue aa gaya hoga. Main wahi dobara OTP pooch raha tha. Aapka OTP 789456 tha, right?  Koi problem nahi hai, hum bas confirm kar rahe the.
+receiver: Oh, okay! Technical issue, understood.  Haanji, bilkul, OTP 789456 hai.  Acha, toh sab theek hai na phir? Koi extra charge wali baat toh nahi hai?

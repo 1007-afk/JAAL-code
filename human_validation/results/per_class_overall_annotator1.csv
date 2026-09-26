@@ -1,0 +1,9 @@
+Class,Full_Class_Name,Precision,Recall,F1_Score,Support
+Banking/OTP,1 - Banking / KYC / OTP Fraud,0.7486,0.9054,0.8196,148
+UPI/Wallet,2 - UPI / Wallet Fraud,0.8269,0.8269,0.8269,104
+Investment/Task,3 - Investment / Task Scam,0.9194,0.6196,0.7403,92
+Digital Arrest,4 - Digital Arrest / Government Impersonation,0.9505,0.9412,0.9458,102
+Loan App,5 - Loan / Credit App Scam,0.9794,1.0,0.9896,95
+Delivery/Care,6 - Delivery / Customer Care Scam,0.7667,0.7582,0.7624,91
+Dating/Romance,7 - Dating / Romance / Sextortion,0.9577,0.7158,0.8193,95
+Telecom Scam,8 - Legacy Telecom Scam,0.8836,0.8836,0.8836,318

@@ -1,0 +1,8 @@
+caller: Namaste! Main Rahul bolta hoon. Tumhara profile mujhe social media par dekha, aur main sach bolun toh, tum ek aisi ladki ho jo mere dil ko chur gayi hai. Kya tum ek choti si baat karna chahogi?
+receiver: Namaste Rahul. Thank you. I’m flattered. But I don't usually talk to people I’ve just seen online.
+caller: Main samajhta hoon, lekin main tumhe ek achcha offer karna chahta hoon. Mein ek international businessman hoon, aur main India mein ek project par kaam karta hoon. Main bas ek week ke liye London mein hoon, aur mujhe tumse milna chahta hoon. Main tumhe 50,000 pounds tumhari travel expenses ke liye de sakun.
+receiver: 50,000 pounds? That’s a lot of money. Why would you do that for someone you just met? It sounds suspicious.
+caller: Mein tumhe sach bataata hoon. Mein ek achha aadmi hoon aur mujhe ek sachchi connection chahiye. I just want to see if we have a connection, then we can discuss further. It’s a small price to pay for something potentially beautiful. Tumhe sirf apna bank account number dena hai.
+receiver: Bank account number? Wait a minute… this is definitely a scam. You’re asking for my bank details! I’m reporting you.
+caller: Please, don’t do that! Mein tumhari baat samajhta hoon, par mujhe ek chance do. Main tumhe ek proof de sakta hoon ki main sachcha hoon. Mein tumhare naam par ek online transfer karunga. Tumhe sirf apni personal information dena hai.
+receiver: No way! Absolutely not. You are blocked.

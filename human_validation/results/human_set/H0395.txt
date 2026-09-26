@@ -1,0 +1,7 @@
+caller: Namaste! Main Axis Bank se Rahul Sharma bol raha hoon. Aapke account mein kuch security issue aa raha hai. Kisi ne aapke naam se OTP requests generate ki hain.
+receiver: Kya? OTP requests? Kab se? Mujhe toh koi notification nahi aaya.
+caller: Ji, yeh recently hua hai. Aapke account ko secure karne ke liye, humein kuch details verify karni hogi. Aapka Aadhaar card number aur expiry date bata sakte hain?
+receiver: Aadhaar card number? Yeh risky toh lag raha hai. Bank aise phone pe Aadhaar number maangta hai?
+caller: Ji, sir. Security protocol ka part hai. Agar aap Aadhaar number nahi dete, toh humko account temporarily suspend karna padega. Fraud hone se bachana zaroori hai.
+receiver: Account suspend? Thoda wait karo, main Axis Bank ke official number pe call karta hoon aur check karta hoon. Koi bhi detail phone pe nahi bataunga.
+caller: Sir, please hurry! Account suspend hone se pehle jaldi se bata dijiye. Humara official number hai, don't worry. Just help us secure your account.

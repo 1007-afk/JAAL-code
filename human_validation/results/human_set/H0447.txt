@@ -1,0 +1,10 @@
+caller: Namaste, sir? Is this Mr. Sharma? This is Sub-Inspector Kumar, calling from the Directorate of Revenue Intelligence.
+receiver: Haan, bolhiye. Kya baat hai?
+caller: Sir, we’ve detected suspicious activity linked to your bank account – several large transactions originating from overseas, flagged as potentially linked to cryptocurrency money laundering.
+receiver: Yeh kya keh rahe hain aap? Main to kuch nahi karta hoon! Cryptocurrency? Mera toh koi pata nahi hai!
+caller: Sir, we understand this is concerning. To clear this up and prevent your account from being frozen, we need you to verify a few details and make a small payment to secure the investigation. It’s a nominal fee, just ₹12,000, to cover processing and forensic analysis. Please transfer to the account number I’ll provide.
+receiver: ₹12,000? Aur account number bhi? Sir, mujhe toh yeh kuch samjh nahi aa raha hai.  Main police station mein jaa sakta hoon, seedhe baat kar sakta hoon.
+caller: Sir, for your safety, it's best we handle this discreetly. Going to a police station could attract unnecessary attention. This is a sensitive operation, sir. I will send you the account details via WhatsApp for ease of transfer. Do this quickly, and we'll resolve this amicably. We need the money within the next hour.
+receiver:  Theek hai, theek hai... Kya naam hai woh account ke? Kaun ka naam likha hai?
+caller:  Sir, don't worry about the account name. Just make the transfer and send us the screenshot.  This is standard procedure. We are working under strict deadlines. Once the payment is confirmed, we will provide you with the official case reference number and a contact person for further assistance.
+receiver:  Okay, sir. Thoda ruko

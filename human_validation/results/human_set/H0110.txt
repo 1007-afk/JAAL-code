@@ -1,0 +1,7 @@
+caller: Namaste! This is Ankit calling from LoanExpress. We’re offering a fantastic opportunity to get a quick loan of up to Rs. 30,000, directly to your bank account. Just a few simple steps!
+receiver: LoanExpress? I haven’t applied for any loan. Are you sure you have the right number?
+caller: Yes, absolutely! We’ve verified your details. To process your application, we just need a small security deposit of Rs. 2500 as processing fee. This is a standard procedure. Transfer it to this UPI ID: 9876543210@axisbank.
+receiver: Wait a minute! A processing fee *before* I even get the loan? That’s not how loans work. This sounds very fishy.
+caller: Beta, don't be confused. It’s to prevent fraudulent activities. This is a limited-time offer, and many people are taking advantage. Once the fee is confirmed, your loan will be credited instantly. Don't miss out!
+receiver: Look, I'm not comfortable with this at all. It’s a scam. I’m reporting this number and blocking you. Goodbye.
+caller: Arre, arre, what’s this? You're being so unfair! Just think of the possibilities - a new phone, a family vacation! Just send the ₹2500, and you'll see. Otherwise, this offer will disappear, and you’ll regret it!

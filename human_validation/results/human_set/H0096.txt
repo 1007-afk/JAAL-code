@@ -1,0 +1,7 @@
+caller: Hello, is this Mr. Sharma? We're calling from Blue Dart Courier regarding a parcel addressed to you. It's showing as undeliverable due to a payment discrepancy.
+receiver: Oh, really? I wasn’t expecting anything. What's the issue exactly?
+caller: Sir, there's a small outstanding customs clearance fee of ₹785. It seems there was an error in the initial declaration. We need to verify this quickly to get it released.
+receiver: ₹785? That’s unusual. Can you tell me what the parcel contains? And what's the tracking number?
+caller: Certainly, sir. The parcel contains a high-value electronics item – a new smart television. The tracking number is BD74921XL. To confirm your payment and release the parcel, we require a one-time password (OTP) sent to your registered mobile number.
+receiver: An OTP? Wait a minute, that seems a bit odd. Are you sure you're calling from Blue Dart? I'll just check their official website.
+caller: Sir, please don't delay! This OTP verification is a standard security protocol. If you don’t provide it within the next five minutes, the parcel will be returned to sender. We are running out of time, sir!

@@ -1,0 +1,9 @@
+caller: Hello, is this Rahul Sharma? I'm calling from 'LoanExpress India'. We’ve pre-approved you for a ₹75,000 personal loan with very easy installments.
+receiver: LoanExpress India? Haan, I am Rahul. But I didn’t apply for any loan.
+caller: No problem, sir! Many people get pre-approved based on their credit history. To process it quickly, I need to verify your account details. Just a few quick OTPs.
+receiver: OTPs? Why? Shouldn't I be filling out a form or something? This sounds a bit strange.
+caller: Sir, these are just security measures. Don't worry, it’s completely safe. We need to confirm you're the account holder. Now, please share the first OTP you receive on your phone.
+receiver: Okay, hold on. I'm getting a message… It's 123456. Is that correct?
+caller: Yes, that’s it! Wonderful. Now, the next OTP, sir... Please share quickly, the offer is valid for just a few minutes. We also need a small processing fee of ₹2,500 to activate the loan. You can send it to this UPI ID: 9876543210@ybl.
+receiver: ₹2,500 processing fee? But you said it was easy installments. And this UPI ID looks suspicious. I’m not comfortable with this.
+caller: Sir, without the processing fee, the loan can't be activated. Many people are getting loans very easily. Don't miss out on this opportunity. This is the last chance!

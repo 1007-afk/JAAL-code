@@ -1,0 +1,7 @@
+caller: Namaste, sir? Main Flipkart se Deepak Verma bolta hoon. Aapke naam par ek order aaya hai, lekin address incorrect dikha raha hai.
+receiver: Haan, hello. Flipkart? Mere naam par order? Kya detail hai?
+caller: Ji, sir. Order number hai FLP789012. Aur OTP verification ke bina delivery postpone ho jayegi. Sir, security ke liye, mujhe aapka OTP pata karna hoga.
+receiver: OTP? Par kyun? Mujhe toh koi order yaad nahi aa raha.
+caller: Sir, aise zyada sawal mat kariyega. Yeh process hai. Jaldi se OTP bata dijiye warna delivery ruk jayegi aur aapka account bhi suspend ho sakta hai. Aapka OTP bataiye?
+receiver: Wait, hold on. I think something’s not right. I’ll call Flipkart’s customer care directly.
+caller: Sir, mat kar na. Flipkart ka number fake ho sakta hai. Main hi aapki help kar raha hoon. Jaldi bataiye OTP, sir. Delivery aane wali hai!

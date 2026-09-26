@@ -1,0 +1,9 @@
+caller: Namaste, is this Priya Sharma? This is Akash calling from FreeCharge Customer Care.
+receiver: Haan, mein Priya Sharma. Bolie kya?
+caller: Ma’am, we’ve noticed some unusual activity on your FreeCharge wallet. It seems someone attempted to transfer a large sum to a different account. To secure your funds, we need to verify your identity.
+receiver: Oh, really? Kaise? FreeCharge toh aise calls kabhi nahi karta. Koi OTP bhejo toh zara.
+caller: Exactly, ma’am! That's why we're calling you. We need you to download a small, secure app called 'SecurePay' from the Google Play Store. It’ll allow us to run a quick diagnostic and block the fraudulent transaction. It’s very simple.
+receiver: SecurePay? Mai toh kabhi suna hi nahi. Google Play Store mein search kar ke download karu? Yeh risky toh nahi hai?
+caller: Absolutely not, ma'am! We sent you the link via SMS already, right?  Just download it, open it, and follow the simple instructions. Once we confirm your identity, we'll immediately freeze the suspicious transaction and refund any potential loss. It's a standard security protocol.
+receiver: SMS? Mujhe toh koi SMS nahi aaya. Aur agar koi link hai toh woh bhi check karna chahiye na, kabhi fake bhi hota hai na. Yeh thoda suspicious lag raha hai.
+caller: Ma'am, there might be a slight delay in SMS delivery sometimes. Check your spam folder too. We’re just trying to protect your money. Trust us, ma'am, we’re here to help. Now, can you please confirm the last four digits of your bank account number associated with your FreeCharge wallet for verification?

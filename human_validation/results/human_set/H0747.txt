@@ -1,0 +1,8 @@
+caller: Namaste, sir! Mein Paytm Customer Care se Rahul bol raha hoon. Aapke Paytm wallet mein ek transaction fail hua hai, jisse aapka account temporary suspend ho gaya hai.
+receiver: Kya? Fail transaction? Main toh kuch transaction nahi kiya tha. Aur account suspend?
+caller: Haan sir, ek 5000 rupaye ka transaction hua hai Nepal mein. Woh suspicious lag raha hai, isliye system ne account suspend kar diya. Aapko isko verify karna hoga.
+receiver: 5000 rupaye? Nepal? Main toh kabhi Nepal nahi gaya. Yeh fraud hai!
+caller: Sir, please relax. Yeh fraud nahi hai. Verify karne ke liye, aapko apne Paytm app mein jo ‘My Offers’ section hai, usmein ek link milega. Uss link par click karke apna OTP aur PAN card number dalna hai.
+receiver: PAN card number?  Paytm app mein nahi mila woh link. Aur PAN card number dalna hai?  Yeh toh seedha-seedha scam lag raha hai!
+caller: Sir, please, time is running out. Agar aap abhi verify nahi karenge, toh aapka account permanently block ho jayega aur 5000 rupaye bhi kat jayenge. Bas woh link click karein aur details daalein.
+receiver:  Nahi, main nahi karunga!  Tumhara number block!

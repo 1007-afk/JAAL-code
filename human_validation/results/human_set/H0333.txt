@@ -1,0 +1,7 @@
+caller: Hello sir, this is Rahul from CryptoGainz Pro. We've noticed some exceptional trading potential in your account and want to offer you a limited-time opportunity.
+receiver: CryptoGainz Pro? I don't think I’ve heard of it. What kind of opportunity?
+caller: Ji, we’re offering guaranteed 10% daily returns on Bitcoin investments for the next 48 hours only. Very exclusive, just for select clients. You need to deposit at least ₹5000 to get started. It's totally risk-free, sir.
+receiver: 10% daily? That sounds too good to be true. Are you affiliated with any recognized exchange? Can you show me some proof?
+caller: Proof? Sir, trust is important in trading. We don’t publicly disclose our partnerships. Just think of the profits! ₹5000 now can become ₹15,000 in just a few days!  We’ll need your UPI ID to process the investment.
+receiver: Hold on a second. I’m going to check CryptoGainz Pro online. Give me a minute.
+caller: Sir, please don't waste time! This offer expires in 24 hours now! You’ll miss out on a golden chance to multiply your money. UPI ID now, please?

@@ -1,0 +1,8 @@
+caller: Namaste sir, main HDFC Bank se baat kar raha hoon. Aapka ATM PIN number bata dijiye please?
+receiver: Namaste! ATM PIN number? Mein woh bataane wala nahi hoon. Kya kaam hai?
+caller: Sir, hume aapke account mein kuchh technical issues ka pata chalna hai. Isliye humein aapke PIN number ki zaroorat hai. Yeh sirf ek small check hai, assure karte hain.
+receiver: Technical issues? Mein kis baat ka complain kar raha hoon? Mera naam Sanjay Kumar hai, aur PIN number bataane wala nahi hoon.
+caller: Haanji Sanjay ji, aapke account mein recently ek large amount transfer hui thi. Humne aapke account ko temporarily freeze kiya hai, agar koi fraud happena to aapko damage naa ho. Is technical update ke liye humein aapki PIN number verify karni hongi.
+receiver: Large amount transfer? Freeze kiya? Ye sab toh bahut serious lag raha hai. Yeh technical update kaise hoga? Aur aapko kya chahiye? Mera account number bata diya hai, lekin PIN number bataane ki koi zarurat nahi lagi.
+caller: Sanjay ji, isko check karne ke liye humein aapke registered mobile number pe ek SMS message ayega, jo aapko mujhe bataana hoga. Yeh aapki safety ke liye hai, agar kisi ghalti se yeh update na ho. Is it clear?
+receiver: SMS message? Mobile number pe? Mein bina SMS ke PIN number nahi bataunga. Kya koi aur way hai verification ke liye?

@@ -1,0 +1,7 @@
+caller: Namaste! Yeh Neeraj se baat ho rahi hai, Paytm se. Sir, aapke Paytm wallet mein ₹5000 ka cashback offer hai! Yeh Diwali special offer hai, sirf aaj tak!
+receiver: ₹5000? Paytm se offer? Mujhe toh koi notification nahi aaya.
+caller: Haanji, sir! Offer limited time ke liye hai. Claim karne ke liye, aapko bas apna PAN card ka number aur registered email address mujhe WhatsApp pe send karna hai.
+receiver: PAN card number? WhatsApp pe? Paytm toh aise number nahi maangta. Yeh kuch ghalat lag raha hai.
+caller: Sir, security reasons se, WhatsApp pe hi number lena padega.  Yeh system mein automatically verify ho jayega. ₹5000 cashback aapki Diwali khushaal banayega, sir!
+receiver: Sir, main koi bhi information send nahi karunga. Mujhe doubt ho raha hai. Main Paytm customer care se khud contact karta hoon.
+caller: Sir, jaldi karo! Offer khatam ho jayega. Just send the PAN card number, otherwise aap ₹5000 ka offer miss kar jaaoge. Last chance hai, sir!

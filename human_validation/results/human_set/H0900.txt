@@ -1,0 +1,7 @@
+caller: Namaste! This is Priya calling from QuickCash Loans. We’ve noticed you meet the criteria for an instant loan of up to ₹50,000 with minimal paperwork. Just a quick verification and the money will be in your account within minutes. Interested?
+receiver: Really? That sounds great. I could really use some extra funds right now. What kind of verification do you need?
+caller: Just a few details to confirm your identity, sir. Could you please share the last four digits of your Aadhaar card and your PAN number for verification purposes? It's a standard procedure to prevent fraudulent applications.
+receiver: My Aadhaar and PAN? That seems a little risky, doesn't it? I've heard those can be misused.
+caller: Sir, please don't worry. Our systems are completely secure and encrypted. We adhere to strict data privacy regulations. Without this verification, we cannot process your loan application. Think of it as your assurance of securing the loan. 
+receiver: Okay, fine. The last four digits of my Aadhaar are 4578, and my PAN is XYZ9876.
+caller: Thank you, sir. Now, for disbursement, we require a small processing fee of ₹2,500 as upfront payment to activate your loan. Please transfer it to the given UPI ID: quickcashloans@xyzbank. Once confirmed, your loan will be processed immediately.

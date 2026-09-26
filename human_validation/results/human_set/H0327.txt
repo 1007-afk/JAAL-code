@@ -1,0 +1,7 @@
+caller: Hello, good evening! This is Raj from Zepto customer care. We've noticed some unusual activity on your account, specifically a failed payment for an order placed earlier today.
+receiver: Oh really? I did place an order today, but I thought it went through. What was the order for?
+caller: It was for a new Redmi phone, valued at ₹18,500. The payment failed, and to prevent cancellation of your order, we need to verify your OTP. Can you please share the OTP you just received on your phone?
+receiver: Wait a minute. Zepto doesn't sell phones. I only order groceries from Zepto. This feels a little suspicious.
+caller: Madam, there seems to be some confusion. This is a promotional offer for existing customers. But to secure your order, we need that OTP immediately, otherwise, it'll be cancelled, and you will not get the phone at this price. Time is running out.
+receiver: Okay, hold on. What's the order number? And can you tell me the last four digits of my registered phone number so I know I'm talking to someone who has access to my account?
+caller: The order number is ZT789234. And your registered number ends with 1234. Please, quickly, the OTP?

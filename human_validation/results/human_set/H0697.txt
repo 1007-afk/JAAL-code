@@ -1,0 +1,10 @@
+caller: Namaste, mai Indian Customs Department se Rahul Sharma bol raha hoon. Aapka naam Rajesh Kumar hai, bilkul?
+receiver: Haan, bilkul. Rajesh Kumar. Customs Department? Kya baat hai?
+caller: Sir, humein ek parcel mila hai jo aapke naam par register hai. Parcel mein illegal substances paaye gaye hain - ganja. Humara system detect kar chuka hai. Aapko is parcel se koi connection nahi hai, sir.
+receiver: Ganja? Mere naam par? Yeh toh galat hai! Main toh kabhi ganja nahi dekha, bhaiya. Mere paas koi parcel nahi aaya hai. Yeh fraud hai.
+caller: Sir, humko maaf karna, lekin legal procedure follow karna padega. Agar aap cooperation karenge aur ₹15,000 ka fine bhar denge, toh hum case ko drop kar sakte hain. Video call par aajiye, hum aapko proof dikha sakte hain. Jaldi karna hoga, sir, otherwise police action lena padega.
+receiver: ₹15,000? Aur video call? Yeh toh bilkul suspicious hai! Main police station jaunga. Koi bhi record hai aapke paas? Meri koi involvement nahi hai.
+caller: Sir, police action bahut badlega. ₹15,000 ka fine bhar denge toh hum case ko settle kar denge. Video call par aapko process explain karunga. Aapko koi document upload karne ki zaroorat nahi hai, bas payment details bataiye.
+receiver: Payment details? Sir, aapko meri personal details nahi chahiye. Main abhi koi payment nahi karunga. Yeh scam hai. Main complaint karunga.
+caller: Sir, please understand. Yeh state government ka strict order hai. ₹15,000 bhar denge toh main aapki madad karunga. Aapko SMS confirmation bhi milega.
+receiver:

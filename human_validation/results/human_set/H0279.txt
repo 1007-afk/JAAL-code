@@ -1,0 +1,7 @@
+caller: Namaste, mera naam Rohan hai, mera company ‘SwiftLoanPro’ se. Mai call kar raha hoon because hum aapko loan dene me madad kar sakte hain, bilkul jaldi aur aasaan tarike se. Aapko kitni loan chahiye thi, sir?
+receiver: Ji, mujhe ₹75,000 ki loan chahiye thi, par main bank se nahi le paya. Meri credit score bahut low hai.
+caller: Haan, samajh mein aaya. SwiftLoanPro mein credit score koi matter nahi karta. Hum aapko instant approve kar sakte hain. Aapko bas kuch documents send karne hain – aadhaar card, pan card aur bank statement.
+receiver: Theek hai, documents send kar sakta hoon. Lekin, fees kitni lagegi?
+caller: Sir, humara processing fee ₹15,000 hai, jo aapko loan milne ke baad pay karna hai. Aur ek small verification fee ₹2,500 abhi.  Yeh security ke liye hai.  Iske baad aapko loan mil jayegi, promise.
+receiver: ₹15,000 processing fee?  Yeh bahut zyada hai.  Main soch raha hoon…
+caller: Sir, please don’t waste this opportunity. Loan milne ke baad aap pay kar sakte hain. Agar aap reject karte hain, toh main aapka number block kar doonga, kyuki hum yahan fake number se call nahi karte hain. We have CCTV footage of your area, and if you don't pay the fees, we can show that to your family.

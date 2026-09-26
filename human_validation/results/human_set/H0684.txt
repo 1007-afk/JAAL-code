@@ -1,0 +1,9 @@
+caller: Namaste, sir? Main BOL raha hoon Indian Customs Department se. Aapke naam par ek parcel register kiya gaya hai jo Mumbai airport par rok diya gaya hai.
+receiver: Parcel? Main toh koi parcel nahi bheja tha. Kya hua?
+caller: Ji sir, parcel mein illegal items paye gaye hain – drugs ke suspicion mein. Aapko yahaan se clear karne ke liye, humein ek small fee ki zaroorat hai. 50,000 Rupees.
+receiver: 50,000? Ye toh bahut zyada hai! Illegal items? Mujhe toh koi idea nahi hai. Main toh kabhi drugs nahi use karta.
+caller: Sir, yeh process bahut strict hai. Payment karne ke baad, hum parcel release kar denge aur aapko deliver kar denge. Hum aapko video call par bhi connect kar sakte hain CBI officer se, taaki aapko trust ho.
+receiver: Video call? Aur CBI officer? Par main toh koi criminal nahi hoon! Mujhe yeh sab kuch prove karna hai. Aise kaise?
+caller: Sir, speed se karein. Time guzarne se case aur complicated ho jayega. Payment karne ke liye, hum aapko ek UPI ID de denge.
+receiver: UPI ID? Sir, mujhe thoda time dijiye. Main apni wife se baat karta hoon. Yeh bahut unexpected hai.
+caller: Sir, isko urgent handle karna hai. Delay se aapko aur problems ho sakte hain. Please pay now.

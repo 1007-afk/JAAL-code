@@ -1,0 +1,9 @@
+caller: Namaste sir, main BharatPay se baat kar raha hoon. Kya aapki profile ki KYC abhi tak complete nahi hui hai? Agar nahi toh, bahut soon aapko problem hogi. Aapka phone number bataiye sir?
+receiver: Oh, KYC? Complete nahi hui? Eh padhe, mobile number yaad nahi aa rahi. Bataiye, aapka transaction ID dedo, main check karta hoon.
+caller: Transaction ID? Mera paas transaction ID nahi hai. Main sirf aapko phone number chahiye, agar aapka account safe rahe. Sir, please apna phone number bataiye, yeh account ko protect karne ke liye zaroori hai.
+receiver: Haan, lekin mobile number toh secretly bataane ki requirement hai. Kya KYC mein Aadhaar card ka number bhi chahiye hoga? Ya phir bank statement ka copy? Mujhe kuch idea chahiye.
+caller: Sir, KYC mein sirf phone number aur WhatsApp number enough hai. Bank statement ka copy aur Aadhaar card ka number unchiyaat ke liye risky hai. Just phone number aur WhatsApp number, it's very easy.
+receiver: WhatsApp number? Arey, WhatsApp number bhi mat bataungi! Ye toh bahut sensitive hai. Kya koi alternative way hai KYC karne ka? Kisi website par go karna hai kya, ya phir app download karna hai?
+caller: Sir, alternate way nahi hai, yeh process online hi karna hai. Hum aapko ek temporary email address bhejte hain, usmein login karein aur details fill karein. Us email id mein OTP bheja jayega, woh OTP enter karein. Yeh secure process hai, don’t worry.
+receiver: Temporary email? Yaar, email id ka bhi pata nahi hai mujhe.  Aap ne kaha ki account band hone wala hai, toh abhi kya hurry hai? Koi offline option nahi hai?
+caller: Sir, account band hona isliye hai kyunki KYC complete nahi hui hai. Isliye haste haste bolta hoon, OTP enter karein aur account save karein. Aapko time lagna hai, otherwise aapka account band ho jayega.  Aapko link bhejna hai, click karein aur details submit karein.

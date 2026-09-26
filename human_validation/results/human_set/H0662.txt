@@ -1,0 +1,9 @@
+caller: Namaste sir, mera naam Inspector Sharma hai, CBI se. Aapko ek notice mila hoga regarding suspicious financial transactions linked to your account?
+receiver: CBI? Haan, mujhe ek message aaya tha, kuch transaction ke bare mein. Bataiye, kya hua?
+caller: Sir, initial investigation mein dikha hai ki aapke naam par illegal parcels India mein import kiye gaye hain. Drug trafficking se link ho sakta hai. Is matter mein aapko cooperate karna hoga.
+receiver: Yeh kya bol rahe hain aap? Main toh kabhi parcel import nahi kiya. Yeh mistake hoga.
+caller: Sir, yeh serious allegation hai. Aapko court mein present hona padega. Lekin, agar aap ₹8000 ka fine deposit kar diye toh case ko settlement ke zariye settle kiya ja sakta hai. Video call par baat karenge, sab evidence dikhayenge.
+receiver: ₹8000? Court mein present hona padega aur aap ₹8000 maang rahe hain? Yeh toh theek nahi lag raha.
+caller: Sir, time is of essence. Yeh fine deposit karna padega, otherwise warrant nikalna padega. Iska proof hai, video mein dikhayenge, aapko sab pata chalega. Trust me sir, it’s for your own safety.
+receiver: Main police station jaake report karunga.
+caller: Sir, please don't do that! I'm helping you. You are on a video call with a government official. Do you want to risk it? Just pay the fine.

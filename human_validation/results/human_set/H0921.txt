@@ -1,0 +1,6 @@
+caller: Namaste, sir. Main Customs Department se Deepak Sharma bol raha hoon. Aapke naam par ek parcel Ahmedabad airport par roka gaya hai.
+receiver: Parcel? Mere naam se? Main toh kuch order kiya hi nahi tha. Yeh kya baat ho rahi hai?
+caller: Sir, parcel mein illegal items mile hain – suspected drugs. Yeh bahut serious matter hai. Aapko is matter mein involve paaya gaya hai.
+receiver: Drugs? Lekin main toh kabhi drugs ke paas bhi nahi gaya! Yeh galat hai. Main toh ek simple accountant hoon.
+caller: Sir, aise cases mein, immediate action lena padta hai. Aapko is matter ko settle karne ke liye ₹25,000 fine bharvana padega. Aur hamein yeh confirm karne ke liye aapke bank account details chahiye.
+receiver: ₹25,000? Bank details? Sir, yeh toh scam lag raha hai. Main koi bhi detail nahi dunga. Aapka naam aur ID card number batao?

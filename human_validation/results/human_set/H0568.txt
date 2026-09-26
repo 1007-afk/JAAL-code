@@ -1,0 +1,8 @@
+caller: Namaste! Main Flipkart se Rohan bolta hoon. Aapke naam par ek order aaya hai, par payment mein problem hai. Order number FLP7892345 hai.
+receiver: Flipkart se? Kyu, kya hua order ke saath? Mujhe to koi notification nahi aaya.
+caller: Sir, package deliver hone se pehle, security check karna padega. Payment pending hai, isliye humein confirm karna hai ki yeh aapki taraf se hi kiya gaya hai. Ek OTP bheja jayega aapke phone par, woh bataiye.
+receiver: OTP? Flipkart aise bhi OTP maangta hai? Mujhe toh shaq ho raha hai.
+caller: Sir, yeh standard procedure hai. OTP se hum verify kar sakte hain ki aap sahi phone number par call kar rahe hain. Jaldi bataiye OTP, warna package return bhi ho sakta hai.
+receiver: Thoda ruko, main check karta hoon. Flipkart app mein dekhta hoon.
+caller: Sir, time bahut kam hai. OTP batao nahi toh package kisi aur ko chala jayega. Aur package mein naye iPhone ka set hai!
+receiver: Koi baat nahi, main call cut karta hoon. Mujhe yeh theek nahi lag raha.

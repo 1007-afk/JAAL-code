@@ -1,0 +1,11 @@
+caller: Namaste! Mera naam Rohit hai, Bajaj Finance se. Aapki credit report dekh kar, hum aapko ek personal loan offer kar rahe hain, bahut achhi conditions ke saath.
+receiver: Oh, really? Kitna amount mil sakta hai aur interest rate kya hai?
+caller: Aapko ₹75,000 tak ka loan mil sakta hai, sirf 12% interest rate se. Process bahut simple hai. Sirf ek small verification fee, ₹2,500, deposit karni hai.
+receiver: ₹2,500 verification fee? Yeh thoda zyada lag raha hai. Kya koi aur option hai?
+caller: Sir, yeh fee security ke liye hai. Agar aap abhi deposit kar dete hain, toh main aapko OTP send kar dunga verification ke liye. Phir loan aapke account mein transfer ho jayega.
+receiver: Theek hai, bhijwa dijiye OTP.
+caller: OTP hai: 487291. Jaldi se bataiye, sir, offer limited time ke liye hai. Aur agar aap late karte hain, toh aapka credit score affect ho sakta hai.
+receiver: Acha, mera credit score affect hoga?
+caller: Bilkul sir! Koi bhi delay na karein. Abhi aapka account details share karein, taaki loan transfer ho sake.
+receiver: Wait, why am I feeling so uneasy? I think I’ll call Bajaj Finance directly to confirm this.
+caller: Sir, aapko koi doubt nahi hona chahiye. Yeh Bajaj Finance ka official offer hai! Aapko ₹75,000 ka loan milna hai, lekin jaldi karo!

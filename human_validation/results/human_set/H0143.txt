@@ -1,0 +1,7 @@
+caller: Hello, is this Mr. Sharma? I'm calling from FastLoanPro. We’ve approved you for a personal loan of ₹75,000, just what you need for that home renovation, right?
+receiver: Really? FastLoanPro? I don't recall applying for a loan with them. What’s the interest rate?
+caller: A special offer for you, sir – just 8% per annum. Very competitive! Now, to release the funds, we need to verify your details. A small processing fee of ₹2,500 will be deducted upfront. You can pay through UPI.
+receiver: ₹2,500 upfront? That seems odd. Banks usually don't deduct fees before releasing the loan. Can you tell me more about FastLoanPro? Do you have a website I can check?
+caller: Our website is currently under maintenance, sir. But don't worry, it's perfectly secure. This is a limited-time offer, and we don't want you to miss out. Just send the UPI payment to the number I’ll give you, and the money will be in your account within the hour. Just imagine - a new kitchen by the weekend!
+receiver: Wait a minute. I’m getting a really bad feeling about this. I’m going to report this number.
+caller: Sir, please don’t do that! Think of your new kitchen! Just a quick payment and it's all yours. Now, can you just confirm your date of birth so I can complete the verification?

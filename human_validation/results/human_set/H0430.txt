@@ -1,0 +1,7 @@
+caller: Hello! I’m calling from Paytm Rewards. Congratulations! You’ve been selected for a special ₹7,500 cashback offer as a loyal Paytm user.
+receiver: Really? Paytm Rewards? That’s great news! How do I claim it?
+caller: To activate the offer and receive the ₹7,500 directly into your Paytm Wallet, we just need to verify your linked bank account. Please share the last four digits of your account number.
+receiver: Wait a minute. Paytm usually sends notifications through the app. They haven't sent me anything. Why are you asking for my bank details over the phone? That sounds a bit risky.
+caller: Sir/Madam, due to a system upgrade, this is a temporary verification process. It’s completely secure, and we’re doing it this way to prevent fraudulent claims. Just the last four digits, please. It will only take a moment.
+receiver: I’m still not comfortable sharing my bank details. Is there any way to claim this offer through the Paytm app itself? Can you give me a reference number or something I can check with Paytm customer service?
+caller: Sir/Madam, you’re being very cautious, which is good. But this is a limited-time offer, and time is running out. To avoid missing out on the ₹7,500, just quickly provide the last four digits of your bank account now. Do not delay!

@@ -1,0 +1,7 @@
+caller: Namaste! This is SecureCashLoans calling. We've noticed you recently applied for a personal loan online. Just confirming a few details to process your application quickly. Can I get your name, please?
+receiver: Hello? Yes, this is Priya Sharma. I did apply for a loan, but I haven't heard anything back yet.
+caller: Excellent, Priya ji! Your application is almost approved. Just need to verify a small security deposit of ₹500 as processing fee. Once deposited, your loan of ₹50,000 will be credited instantly. You can deposit it to this UPI ID: 9876543210@axisbank.
+receiver: ₹500? I don’t remember seeing anything about a processing fee in the application. Are you sure this is legitimate?
+caller: Priya ji, this is standard procedure. Without this, we cannot move forward. Think of it as an insurance against fraud. Many people are trying to take advantage, you understand? Just send that ₹500, and your loan is yours. Also, I am going to send you a video of your neighbor, he has a loan with us, he is very happy.
+receiver: Wait, a video? This is getting very strange. I need to think about this. I'm not comfortable.
+caller: Priya ji, don't waste time. Loan is approved for you only. If you do not transfer money immediately, we’ll have to cancel your application. And if you do not, you will hear from us later regarding penalties.

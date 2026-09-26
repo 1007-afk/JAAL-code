@@ -1,0 +1,7 @@
+caller: Namaste! Is this Priya Verma? This is Akash from FreeCash Rewards. We’ve selected you for a special cashback promotion!
+receiver: FreeCash Rewards? Cashback? Kya promotion hai?
+caller: Ji, ji! We’re giving away ₹15,000 cashback to celebrate our anniversary. All you need to do is verify your UPI details so we can process the transfer. It’s super easy! Just send ₹999 as a processing fee to confirm your account.
+receiver: ₹999? Processing fee? Kaise? FreeCash Rewards toh main suni hi nahi hai. Yeh thoda suspect lag raha hai.
+caller: Arre, don't worry! This is just a small security deposit to prevent fraud. Think of it as an insurance policy for your ₹15,000! Once you send the fee, we'll transfer the cashback to your PhonePe wallet immediately. Aapki PhonePe number kya hai?
+receiver: PhonePe wallet? Mai toh PhonePe nahi use karta. Google Pay use karta hun. Aur ₹999 ka fee? Yeh toh zyada lag raha hai. Mai nahi dungee.
+caller: Acha ji, Google Pay bhi chalega. But just to be absolutely sure your account is secure, we need you to complete a quick verification through this link: bit.ly/verifycash. It’s just a few steps, and then your ₹15,000 will be yours! Hurry, offer is ending soon!

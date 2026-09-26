@@ -1,0 +1,8 @@
+caller: Namaste, is this Mr. Sharma? My name is Rohan, calling from the Cyber Crime Investigation Cell. We need to speak with you urgently regarding a suspicious transaction linked to your bank account.
+receiver: Haan, mein hu Mr. Sharma. Kya hua? Cyber Crime Investigation Cell se? Kuch problem hai?
+caller: Ji, Mr. Sharma. Our system has flagged several unusual international transfers originating from your account to a cryptocurrency exchange in Dubai. The amount is significant, around ₹15 lakh. We suspect you might be a victim of phishing or your account has been compromised.
+receiver: ₹15 lakh? Nahin, nahin, yeh toh galat hai! Mein toh aisa kuch nahi kiya! Mein kabhi cryptocurrency nahi use karta! Yeh kaise hua?
+caller: We understand your concern, Mr. Sharma. To prevent further fraudulent activity and potential legal repercussions, we need you to cooperate fully. We need to verify your identity and also need to secure your funds. For this, we require you to transfer ₹5,000 to a secure government account as a verification fee.
+receiver: ₹5,000? Verification fee? Toh aap log ne mujhe fraud se bachaane ke liye phir se paisa maang rahe ho? Yeh thoda ajib lag raha hai...
+caller: Please understand, Mr. Sharma, this is a standard procedure to ensure the safety of your funds and confirm you are the legitimate account holder. The funds will be immediately returned after verification. We are recording this call for legal purposes, and failure to cooperate may lead to further investigation and potential penalties. Please transfer the amount to account number [Invent a plausible Indian bank account number].
+receiver: Yeh... yeh mujhe thoda shak lag raha hai. Mein ek baar check kar ke aata hoon. Account number note kar raha hoon.

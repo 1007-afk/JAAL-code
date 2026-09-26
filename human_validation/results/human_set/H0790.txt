@@ -1,0 +1,8 @@
+caller: Namaste! Mera naam Vijay hai, FastCash Solutions se. Aapki KYC complete ho gayi hai, aur aapko personal loan ke liye approved kiya gaya hai, ₹75,000 tak!
+receiver: FastCash Solutions? Main toh kisi bhi loan ke liye apply nahin kiya tha.
+caller: Sir, aapne hamari website par ek form fill kiya tha, kuch din pehle. Shayad aapko yaad nahin. Is offer ko lock karne ke liye, ek small verification fee ₹2,500 deposit karna hoga.
+receiver: ₹2,500? Verification fee? Main abhi deposit nahi kar sakta. Koi aur option hai?
+caller: Sir, ye fee security check ke liye hai. Agar aap deposit nahi karte, toh offer cancel ho jayega. Aur iske baad, aapko puri process se shuru se shuru karna padega. Hum aapko abhi call kar rahe hain kyunki offer sirf aaj ke liye hai. Aur agar aap confirmation nahi kar paye, toh hum aapke contacts ko screen-shot bhejenge.
+receiver: Contacts ko screen-shot? Kaun se contacts? Yeh kya bol rahe ho?
+caller: Sir, hamara system aapki phone gallery mein photos dekh sakta hai, aur agar aap delay karte hain, toh hum aapke family members ko bhi pata kar denge.₹2,500 Paytm karo, sir. Time waste karna mat.
+receiver: Yeh bahut hi wrong hai! Main police mein report karunga!

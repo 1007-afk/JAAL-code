@@ -1,0 +1,23 @@
+caller: Namaste ji, aapse baat karna achha laga. Aise lagta hai ki tumne humare 'Lucky Draw' campaign ka naam suna hai, hai na? Tumhara Paytm wallet kitna empty hai, ji?
+receiver: Haan ji, Paytm wallet mein thoda kam rupiya hai, ₹500 kaaba tha.
+caller: Wow! ₹500 kaaba? Tumhare paas ₹2000 kaaba hota toh ye toh amazing hota! Humari Lucky Draw mein jeetna mushkil hai, par tumhare paas ₹2000 kaaba hota toh tumko ₹5000 kaaba jeetne ka chance milta!
+receiver: ₹5000 kaaba? Seriously? Kaha se uthayega woh rupiya?
+caller: Woh toh tumhare Paytm wallet mein already hai, ji! Tumhein sirf kuch SMS karne honge aur tumko ₹5000 kaaba jeetne ka chance milega. Bas tumhein 'WIN' likhte aur 7777 par jupke.
+receiver: 'WIN' likhte aur 7777 par jupke? Par yeh legit hai kya? Mujhe thoda suspicion hai.
+caller: Ji haan, totally legit! Ye toh government ka scheme hai, ji! Tumhari madad karne ke liye humein sirf tumhein register karna hai. Agar tumgister ho gaye toh tumko ₹5000 kaaba jeetne ka chance milega. Ismein koi cheating nahi hai, ji.
+receiver: Government ka scheme? Okay, okay. Par agar main register ho jaaun toh har hafte paise katne lagein ge?
+caller: Ji haan, registration karne ke baad, tumko har hafte ₹200 cut karne honge. Par tumko ₹5000 jeetne ka chance milega, ji! Ekdum fair hai! Tumhein sirf kuch seconds mein register hona hai. Aap kaise ho?
+receiver:  ₹200 har hafte?  Yeh toh bahut zyada hai! Agar main isme participate nahi karti toh kya hota tha?
+caller:  Tumhe koi chance nahi milti thi, ji! Tumhari life mein happiness nahi hoti! Tumhein register hona hai, ji! Tumko ₹5000 kaaba jeetne ka chance milega.  Bas 'REGISTER' likhte aur 9999 par jupke.
+receiver:  'REGISTER' likhte aur 9999 par jupke?  Mujhe abhi batao, yeh scheme sahi hai ya nahi?
+caller:  Ji haan, sahi hai! Tumhein sirf trust karna hai, ji! Tumko ₹5000 kaaba jeetne ka chance milega! Tumhein abhi register karna hai!
+caller: Namaste ji, humara ‘Shubh Yatra’ campaign khul gaya hai, hai na? Tumhara car ka insurance kitna pura kar payega, ji?
+receiver: Haan ji, meri car ka insurance ₹10,000 kaaba hai.
+caller: Amazing! ₹10,000 kaaba? Agar tum ₹25,000 kaaba donate kare toh tumko ₹50,000 kaaba jeetne ka chance milega! Imagine, ji!
+receiver: ₹50,000 kaaba? Donation kyu karoon?
+caller: Donations se hum desh ko madad karte hain, ji! Aur tumko premium free mil jayega! Tumhein sirf kuch SMS karne honge aur tumko ₹50,000 kaaba jeetne ka chance milega. Bas 'DONATE' likhte aur 6666 par jupke.
+receiver: ‘DONATE’ likhte aur 6666 par jupke? Par yeh genuine hai kya?
+caller: Ji haan, completely genuine! Ye toh NGO ka initiative hai, ji! Tumhari madad karne ke liye humein sirf tumhein nominate karna hai. Agar tum nominate ho gaye toh tumko ₹50,000 kaaba jeetne ka chance milega. Ismein koi cheat nahi hai, ji.
+receiver: NGO ka initiative? Okay, okay. Par donation karne ke baad, tumko har mahine paise katne lagein ge?
+caller: Ji haan, donation karne ke baad, tumko har mahine ₹1,000 cut karne honge. Par tumko ₹50,000 jeetne ka chance milega, ji! Ekdum fair hai! Tumhein sirf kuch seconds mein nominate hona hai. Aap kaise ho?
+receiver: ₹

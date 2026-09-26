@@ -1,0 +1,7 @@
+caller: Namaste sir, main Axis Bank fraud detection department se Sunil Sharma bol raha hoon. Aapke Axis Bank account mein ek suspicious transaction ka attempt kiya gaya hai. Security ke liye, aapko apna account verify karna hoga.
+receiver: Haan, ji? Suspicious transaction? Kya hua? Mein toh koi transaction nahi kiya.
+caller: Sir, ek bahut hi chhoti amount ka transaction attempt kiya gaya tha, lekin woh block ho gaya hai. Ab aapko apna account secure karne ke liye kuch details provide karni hogi. Please aapka PAN card number bataiye.
+receiver: PAN card number? Over the phone? Yeh theek toh hai na? Mein bank branch mein jaakar verify kar sakta hoon.
+caller: Sir, branch mein line bahut lambi hogi. Online verify karna bahut easy hai. Aur sir, agar aap abhi verify nahi karte toh account temporary suspend bhi ho sakta hai. PAN card number hi kaafi hoga.
+receiver: Account suspend? Par kyun? Mein toh dobara confirm bhi nahi kar paaya transaction ka. Okay, fine, PAN card number [receiver provides PAN number]. Ab aur kya chahiye?
+caller: Thank you sir. Ab aapke phone pe ek OTP aaega. Woh bhi mujhe bataiye. OTP se aapka account completely secure ho jayega aur aap apne transactions normally kar paenge.

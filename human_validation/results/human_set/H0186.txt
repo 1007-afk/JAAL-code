@@ -1,0 +1,8 @@
+caller: Namaste! Mai Flipkart se Deepak bolta hoon. Aapke naam par ek parcel aaya hai, lekin address verification ke liye kuch details chahiye.
+receiver: Flipkart se? Kya details chahiye?
+caller: Ji, ek OTP mila hai aapke registered number par. Confirm karna hai, warna parcel return ho jayega. Aur ek bhi payment pending hai, security check ke liye.
+receiver: Payment pending? Mujhe toh koi notification nahi aaya. Aur OTP bhi nahi mila.
+caller: Haan ji, system mein technical fault hai. Jaldi kijiye, 5 minutes mein deadline hai. OTP aur payment details bataiye, main verify kar dunga.
+receiver: Thoda wait karke dekh leta hoon. Flipkart customer care number se confirm kar leta hoon.
+caller: Sir, please wait mat karna. Parcel wapas hoga, aur aapka account bhi suspend ho sakta hai. Abhi bataiye, OTP aur payment details, otherwise, hum parcel dispatch nahi kar payenge. Time chal raha hai.
+receiver: Theek hai, bata dete hoon, par pehle aapka naam aur ID bataiye.

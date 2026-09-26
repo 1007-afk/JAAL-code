@@ -1,0 +1,3 @@
+Annotator,N_Evaluated,HV_Realistic_Pct,HV_Somewhat_Pct,HV_NotRealistic_Pct,YT_Realistic_Pct,YT_Somewhat_Pct,YT_NotRealistic_Pct,NotRealistic_Gap_HV_minus_YT,Chi2_Stat,Chi2_p_value,MannWhitney_U,MannWhitney_p_value,Acc_Realistic,Acc_Somewhat,Acc_NotRealistic,Realism_vs_Acc_p_val
+Annotator 1,1031,18.32,45.86,35.81,28.95,22.37,48.68,-12.87,16.1367,3.1331e-04,37631.0,5.6228e-01,93.40%,87.69%,79.95%,2.1538e-05
+Annotator 2,1045,37.71,43.39,18.9,94.81,2.6,2.6,16.31,95.5842,1.7545e-21,16225.5,4.3373e-19,76.71%,74.64%,70.81%,2.9842e-01

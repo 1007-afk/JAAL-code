@@ -1,0 +1,9 @@
+caller: Namaste sir, this is Rohan from QuickLoan India. We’ve noticed you recently applied for a personal loan through our app. Just a quick verification call to finalize the process.
+receiver: Hello Rohan. Yes, I did apply. What verification is needed?
+caller: Great! Sir, to proceed, we need to confirm your bank account details. Can you please share the last four digits of your account number for verification purposes? It’s a standard security protocol.
+receiver: Hmm, that seems a little risky. Why do you need that over the phone? Can't you just confirm it through the app?
+caller: Sir, there’s a slight technical issue with the app currently. We're working to resolve it. For now, this is the fastest way. Also, we need to confirm you understand the repayment terms. Your loan amount is ₹75,000 with a 12% interest, repaid over 6 months. Do you agree to these terms?
+receiver: ₹75,000 with 12%? That's quite high. I thought the app showed something lower. And why is there such urgency?
+caller: Sir, due to the high demand, interest rates fluctuate. And if you don’t confirm and make the first EMI payment within the next hour, your loan will be cancelled and your application will be permanently closed. To process the payment, we require a small processing fee of ₹2,500 to be deposited on this UPI ID: [Invent a UPI ID].
+receiver: Wait a minute! This is getting fishy. You're asking for money before I even receive the loan? I'm not comfortable with this.
+caller: Sir, this is a mandatory fee. Without it, we cannot initiate the loan disbursement. It's for security and processing. Just ₹2,500, sir

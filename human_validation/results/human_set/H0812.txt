@@ -1,0 +1,10 @@
+caller: Namaste! Kaise haal hai? Main Vijay Kumar hoon, SmartSolutions India se call kar raha hoon. Mujhe ek achcha baap ka khabar dena hai! Tumhara naam Deepak hai na? Tumhein ek special offer mila hai. Agar tum 'XYZ' likho aur send karo, toh tum ek big prize jeet sakoge! Kya tum jeetna chaaho?
+receiver: Namaste Vijay ji, theek hoon. SmartSolutions India se ho? Deepak hai, tumhara naam. ‘XYZ’ likhne se prize jeetne wala hoon? Yeh kitna bada prize hai?
+caller: Haan Deepak, ye ek luxury SUV ke ticket hai! Toh, ‘XYZ’ likho aur message send kar do. Jeetna hai toh jaldi kar! Mein keh raha hoon, sirf 5 SUV bache hain, so don't waste time!
+receiver: SUV? Seriously? Arre, mai bhi likhoon ‘XYZ’? Okay, mai likhta hoon. Dekhti hoon kya hota hai. Thanks!
+caller: Fantastic! Mai dekh raha hoon aapka ‘XYZ’ message. Aap officially SUV lucky draw mein include ho gaye hain! Ab sirf 4 SUV bache hain, so hurry up! Jo jeetega, woh baktab!
+receiver: Oh wow! Really? Thank you so much Vijay ji. Dhyaan rakh, agar jeet gaya toh batunga.
+caller: Aapka dhanyavad! Aapki support bahut mushkiliyat hai. Agar aapko koi aur information chahiye toh bolenge.
+receiver: Nahin, mujhe koi aur information nahin chahiye. Thoda pray karna, mai jeet jaun.
+caller: Absolutely! Dua karna zaruri hai. Aur agar aapko is offer ko zyada pasand aaya toh please tell someone else too, it will help us spread the word!
+receiver: Okay, thakkar.

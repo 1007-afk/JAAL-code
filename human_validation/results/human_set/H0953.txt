@@ -1,0 +1,10 @@
+caller: Namaste ji, HDFC bank se bol raha hoon. Aapke account ki security check karne ke liye call kar rahe hain. Aap chahte hain ki hum aapka account verify karein? Agar haan, to apna Voter ID number, Aadhaar number aur debit card number bataiye.
+receiver: HDFC bank? Voter ID bhi? Kitne paise waive karne wali scheme hai bhai? Abhi toh sirf account number chahiye tha! Seriously, yeh kya kar rahe ho? Mera name Priya Sharma hai, aur yeh call abhi-abhi kyun aa gayi?
+caller: Madam, mera naam Vijay Kumar hai aur yeh process Reliance Jio ke liye har customer ke liye compulsory hai. Aapki account ki details check karne ke liye humein yeh information chahiye. Aap verify karna chahte hain?
+receiver: Vijay Kumar, Reliance Jio? Yeh Reliance Jio ka verification hai? Mein Reliance Jio wala customer nahi hoon! Aur yeh Voter ID aur debit card number? Yeh toh bahut serious matter hai. Kya aapne yeh call kisi ne pass kiya hai?
+caller: Sir, yeh Reliance Jio ka new policy hai, sir. Aapke account ki safety ke liye hi yeh details mangi ja rahi hain. Agar aap verify nahi karna chahte hain toh aapka account suspend ho jayega. Kya aap verify karna chahte hain?
+receiver: Suspend? Account suspend? Yeh kya aadmi hai? Ab suddenly suspend kar rahe ho? Koi official notification nahi mila? Kya aapne kabhi account suspend karne ki process check ki hai?
+caller: Sir, woh official process humara yahi hai sir. Aap agar verify nahi karna chahte hain toh aapka account future mein suspend ho sakta hai. Hum toh aapki help ke liye hi call kar rahe hain. Aapko verify karna hai ya nahi sir?
+receiver: Arre yaar, suspend karte rahenge toh mai kuch nahi kar paaunga! Yeh jankari genuinely legitimate hai? Kya aap mujhe koi alternative method bata sakte hain, ya phir jo bhi verification hai, wo bank ki website par karwa leta hoon?
+caller: Sir, hum aapko OTP send kar sakte hain aur aap usse mujhe bata dijiye. Uske baad verification complete ho jayega. OTP receive karne ke liye aap ready hain sir?
+receiver: OTP? OTP ka kya? Ab OTP bhi mang rahe ho? Yeh toh pura chamtaal hai! Main toh ab completely confused ho gaya hun. Suspension ka threat aur OTP ka demand...yeh sab ek saath?

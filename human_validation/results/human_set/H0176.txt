@@ -1,0 +1,7 @@
+caller: Hello! My name is Rajeev. I saw your profile on Flirtee and you seem like a very kind and interesting person. I’m new to this app, but your smile really caught my eye.
+receiver: Hi Rajeev! Thank you! It's nice to hear from you. I'm enjoying meeting new people here too.
+caller: That's wonderful! I’m having a tough time right now, though. My business, a small import/export firm, is facing a big problem. A shipment is stuck at customs and I need a small amount of money to release it – just ₹15,000. It’s a sensitive situation and I’d be so grateful for your help. I promise to pay you back as soon as I get the shipment cleared.
+receiver: Fifteen thousand rupees? That’s quite a lot to ask of someone we just met. I'm sorry, but I don’t feel comfortable doing that.
+caller: I understand your hesitation, but please, this is really important. It's make or break for my business. I’ve been feeling so lonely lately, and I thought maybe… maybe you could be the person to help me through this. I can send you some pictures, just to prove it’s real.
+receiver: Pictures? What kind of pictures? I'm getting a really bad feeling about this conversation.
+caller: Just some simple ones, to show you I’m who I say I am. Nothing inappropriate, I assure you. But if you could just help me with this money, I'd be eternally grateful and… we could get to know each other better. I really like you.

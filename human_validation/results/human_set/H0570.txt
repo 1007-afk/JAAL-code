@@ -1,0 +1,8 @@
+caller: Namaste, Main Axis Bank se Deepak bol raha hoon. Aapke account mein achanak se kuch transactions dikh rahe hain jo suspicious lag rahe hain. Account ko secure rakhne ke liye, humein aapki KYC update karni hogi.
+receiver: KYC? Lekin maine toh koi notification receive nahi kiya. Aur account mein kya transactions hain?
+caller: Sir, yeh transactions bahut hi jaldi se hue hain, isliye aapko notification nahi mili. Fraud ka sandhan hai. Account suspend hone se bachne ke liye, aapko apni Aadhaar number aur OTP share karna hoga.
+receiver: Aadhaar number? Aur OTP? Yeh thoda risky lag raha hai. Bank aise phone par nahi maangta hoga.
+caller: Sir, security ke liye hi humein verification karna padta hai. OTP humein verify karne ke liye chahiye. Sir, please, time bahut kam hai. Account suspend ho jayega.
+receiver: Wait a minute. Mujhe apne Axis Bank app check karne do. Aur ek baat, aapne mujhe naam bhi nahi poocha.
+caller: Sir, aapka naam Rajesh Kumar hai, right? OTP abhi SMS karein, please, sir. Account block hone se bachne ke liye.
+receiver: Mujhe kuch gadbad lag rahi hai. Main police mein report karunga. Bye.

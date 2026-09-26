@@ -1,0 +1,11 @@
+caller: Namaste, sir? Main Priya, QuickCash Solutions se baat kar rahi hoon. Aapne toh online application kiya tha instant loan ke liye, na?
+receiver: Haan, ji. Maine application kiya tha, lekin abhi mujhe koi call nahi aayi thi.
+caller: Haan sir, system mein problem tha. Ab aapka loan approve ho gaya hai, sirf kuch basic details check karwani hai. Aapka naam confirm kar sakte hain? Sunil Verma?
+receiver: Haan, Sunil Verma hi main.
+caller: Excellent, sir! Loan amount ₹15,000 approve ho gaya hai. Sir, security ke liye, aapko ek small verification fee bharvani padegi. ₹750 sirf.
+receiver: ₹750? Loan ke pehle fee?
+caller: Ji sir, yeh OTP verification charge hai. Rupees 750 online pay kardo. Tabhi loan aapke account mein transfer ho jayega. Otherwise, aapka loan deny ho jayega.
+receiver: Aur koi aur tareeka nahi hai?
+caller: Sir, rules hai. Koi option nahi hai. Otherwise, loan deny ho jayega. Jaldi karo, offer limited time ke liye hai.
+receiver: Theek hai, main pay kar deta hoon.
+caller: Excellent, sir! Now, please send your bank account details for OTP verification.

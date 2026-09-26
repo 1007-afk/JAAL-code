@@ -1,0 +1,7 @@
+caller: Hello, is this Ms. Priya Sharma? I’m calling from Axis Bank’s fraud prevention department. We’ve detected unusual activity on your account, specifically a large number of failed login attempts from a foreign IP address.
+receiver: Haan, hello. What kind of unusual activity? My account is fine, I think.
+caller: To secure your account, we need to verify your identity immediately. Could you please provide the last four digits of your Aadhaar card for verification purposes? It’s a standard security protocol.
+receiver: Aadhaar number? Why do you need my Aadhaar number? Banks don’t usually ask for that. And why are you calling so late at night?
+caller: Ms. Sharma, this is a very serious matter. The login attempts are ongoing, and your funds are at risk. The Aadhaar number is just to confirm your identity and prevent unauthorized access. We need to act quickly – the system will automatically lock your account if we don’t verify within the next 10 minutes.
+receiver: Ten minutes? This sounds really fishy. Can you please give me a reference number for this call, or tell me the official Axis Bank helpline number so I can call and verify myself? I'm not giving you my Aadhaar number over the phone.
+caller: Reference number? There's no time for that, ma'am! The system is flagging your account as high-risk. To expedite the process and avoid permanent account suspension, could you quickly share a one-time password (OTP) we've just sent to your registered mobile number? It’s just to confirm you’re the account holder.

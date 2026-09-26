@@ -1,0 +1,7 @@
+caller: Namaste, main ICICI bank se Rohan bol raha hoon. Aapke naam par ek transaction hua hai Nepal mein, ₹12,500 ka. Kya aapne kiya tha ye transaction?
+receiver: Nepal? Nahin, maine toh kabhi Nepal se transaction nahi kiya. Yeh kya ho raha hai?
+caller: Sir/Madam, yeh bahut serious matter hai. Kisi ne aapke account se fraud kiya hai. Aapko turant apna Aadhaar card aur PAN card number check karne ke liye ek secure line pe connect hona hoga. Varna aapke account mein se aur bhi paisa nikal sakte hain.
+receiver: Aadhaar card aur PAN card? Tumse? Main yeh nahi karunga. Yeh toh scam lag raha hai! Bank kabhi phone pe aise details nahi manta.
+caller: Sir/Madam, please understand. Yeh security protocol hai. Agar aap cooperate nahi karenge, toh account suspend kar dena padega. Maine bas aapki raksha ke liye call kiya hai. Arey, ek minute, main aapko OTP send kar deta hoon, verify kar lijiye.
+receiver: OTP? Sir, main bank ka customer hoon, mujhe pata hai kya hota hai. Tumhara number block kar raha hoon. Aur main cybercrime cell ko bhi report karunga.
+caller: Sir/Madam, aapko pata bhi nahi kya ho raha hai. Aapko zyada smart nahi banana chahiye. Aur koi chance mat lena, account suspend ho jayega. Please, ek number batao!

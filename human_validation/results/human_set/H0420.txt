@@ -1,0 +1,7 @@
+caller: Hello? This is Inspector Sharma from the Delhi Customs Department. We have intercepted a suspicious parcel linked to your name and address. It appears to contain prohibited items.
+receiver: What? A parcel? I haven't ordered anything recently. Which courier company?
+caller: It was sent through BlueDart. Our investigation suggests it contains electronic devices used for online gambling, which is illegal. You need to clear this matter quickly to avoid legal consequences.
+receiver: Gambling? But I don’t gamble! This is ridiculous. Is this a prank call?
+caller: No, this is very serious. To verify your identity and expedite the release of the parcel, we require a small processing fee of ₹7,500. You can deposit it through UPI to the account I’ll provide.
+receiver: ₹7,500? Just like that? Why can’t I see the parcel? And why do I have to pay before anything is confirmed?
+caller: The parcel is currently at our holding facility for security reasons. The fee is simply to cover administrative costs and expedite the verification process. It’s a standard procedure in such cases. I am sending you the UPI details now. This is a time-sensitive matter.

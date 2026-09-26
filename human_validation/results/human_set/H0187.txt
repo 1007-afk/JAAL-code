@@ -1,0 +1,8 @@
+caller: Hello ji, namaste! Congratulations! Aapko ₹1000 cash prize ya ₹2000 ka special award mila hai! Aapne bahut specially select kiya gaya hai! To claim karne ke liye, 08714712377 pe call karein, subah 9 baje se shaam 7 baje tak. Call ka charge sirf 10p hai. Bahut zabardast offer hai!
+receiver: Hello ji, thank you so much! Are you sure? This is amazing news!  So, I just need to call 08714712377 to claim it?  And the charge is only 10 paisa?  That's really fantastic, I'm so excited to hear more!
+caller: Haan ji, bilkul sure! Aapko ₹1000 cash prize ya ₹2000 ka special award mila hai, yeh bilkul sach hai! Aur haan, claim karne ke liye aapko sirf 08714712377 pe call karna hai. Charge bhi sirf 10p hai, so koi tension nahi! Jaldi se call kar lijiye, offer khatam hone wala hai! Kya aap abhi call karne wale hain?
+receiver: Oh wow, khatam hone wala hai? That's a bit of a rush! The number is 08714712377, right? And it's 10 paisa per call? Okay, I'm going to call them right now then. Thank you for letting me know!
+caller: Bahut achha! Aur haan, number yaad rakhna, 08714712377. Agar aap jaldi call karenge toh aapko pakka mil jayega. Aur agar koi confusion ho toh mujhe batana, main aapki help karunga. Ab main phone rakhta hoon, jaldi se call kijiye!
+receiver: Ji, thank you so much for the reminder! I'm on my way to call the number right now. I really appreciate you being so helpful. Let's hope I get through quickly!
+caller: hha ji! Best of luck! Mujhe yakeen hai aapko zarur kuch na kuch milega. Aur agar koi problem aaye toh mujhe bata dijiyega, theek hai? Ab phone rakhte hain, go ahead and call! Maza aa jayega!
+receiver: Ji, pakka! Thank you! Hopefully, I get the prize. Bye!

@@ -1,0 +1,7 @@
+caller: Namaste! My name is Deepak, calling from Global Crypto Solutions. I noticed you’ve been researching digital assets recently. We have a fantastic opportunity for you to earn significant returns with our new AI trading bot.
+receiver: Oh, really? AI trading bot? I’m always a little skeptical about these things. Tell me a bit more about how it works.
+caller: Absolutely! Our bot, "Phoenix," analyzes market trends with incredible accuracy and executes trades automatically, maximizing your profits. We’ve seen clients doubling their investments in just a few weeks. To start, you need to deposit a small amount, say ₹10,000, to activate the bot on your account.
+receiver: ₹10,000? And what happens to my money if the bot doesn’t perform as you claim? Is there any risk involved?
+caller: There's always a small risk in any investment, of course, but Phoenix has a 92% success rate. And, to demonstrate our confidence, we’ll give you a bonus of 5% on your initial deposit. Once you see the profits rolling in, you’ll want to increase your investment!
+receiver: A 5% bonus sounds good, but I'm still uneasy. Can I see some proof of these successful trades? Like, a report or something?
+caller: Certainly! I can send you a preliminary report, but it’s only accessible after you’ve made the initial deposit. It’s a security feature, you understand. Just send the ₹10,000 to the provided UPI ID, and I'll forward the report immediately.

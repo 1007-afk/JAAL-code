@@ -1,0 +1,8 @@
+caller: Namaste sir, this is Inspector Sharma calling from the Mumbai Customs Department. We have intercepted a parcel at the airport addressed to you containing suspicious items.
+receiver: Oh! Really? Suspicious items? What kind of items? I haven't sent any parcel.
+caller: Ji, according to our initial investigation, it appears to be linked to illegal drug trafficking. You need to cooperate with us to clear this matter quickly. We need to verify your bank account details.
+receiver: Illegal drugs? This is a mistake, I assure you. Why would I be involved in anything like that? Bank details? For what?
+caller: Sir, to expedite the investigation and prevent further complications, we require a security deposit of ₹7,500 to cover the processing and forensic analysis fees. This will ensure the parcel is cleared and returned to you swiftly. You can pay through a secure online portal - securepayment.online.
+receiver: ₹7,500? That seems awfully high. Can't I just come down to the customs office and sort this out? This securepayment.online doesn’t look right.
+caller: Sir, due to the sensitive nature of the case and ongoing investigations, we are operating under strict protocols. Visiting the office is not possible.  This is urgent, sir. If you don't comply within the next hour, we will be forced to file a formal complaint with the narcotics control bureau and further legal action will be taken. The portal link is securepayment.online.
+receiver: Wait a minute... This sounds like a scam. I'm reporting this number.

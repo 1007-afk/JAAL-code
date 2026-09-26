@@ -1,0 +1,7 @@
+caller: Namaste! Mera naam Rohan hai, Tata Cliq se call kar raha hoon. Aapko ek achha cashback offer mila hai, sirf registered users ke liye.
+receiver: Tata Cliq se? Haan, mujhe yaad hai. Cashback offer? Kya offer hai?
+caller: Ji, aapke Tata Cliq wallet mein ₹5000 ka cashback offer hai, lekin isko claim karne ke liye, aapko ₹500 ki processing fee bharvani padegi. Yeh sirf 24 ghante ke liye valid hai.
+receiver: ₹500? Processing fee? Tata Cliq app mein toh aisa kuch dikh nahi raha hai. Aur mujhe thoda shaq ho raha hai.
+caller: Sir, woh app mein auto-update nahi hota. Yeh ek special offer hai jo sirf call ke zariye hi available hai. Jaldi karo, otherwise offer expire ho jayega aur aap ₹5000 ka cashback haar jayenge.  Aapka UPI ID bataiye, main offer activate kar dunga.
+receiver: UPI ID? Nahin, main ismein comfortable nahi hoon. Main khud check karta hoon app mein. Aapka number mujhe message karo, main baad mein call karta hoon.
+caller: Sir, aapko pata hai na ki yeh offer sirf aaj ke liye hai? Aap ₹5000 haar jayenge! Please, jaldi bataiye, otherwise is offer ki validity khatam ho jayegi aur aapko ₹5000 ka loss hoga!

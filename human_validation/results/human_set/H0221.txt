@@ -1,0 +1,16 @@
+caller: Namaste! Caller speaking. You received a notification regarding your 2018 investment portfolio. There’s a significant opportunity to boost your returns – almost 15% extra! We just need to quickly verify some information to finalize this upgrade. Can I get your full name, please?
+receiver: Namaste ji, hello. Message mila tha. Mera naam Priya hai. Haan, investment portfolio ke bare mein notification tha. Kya karne ki zaroorat hai?
+caller: Excellent, Priya! Glad to hear it. Now, to unlock this increased return potential, we require a quick confirmation. Could you tell me the city where you primarily conduct your business? Just the city name is sufficient.
+receiver: Ji, main Mumbai mein kaam karti hoon. Koi aur baat hai?
+caller: Wonderful, Mumbai. Let’s proceed then. To ensure everything is secure, could you provide the email address registered with your investment account? It’s crucial for our system to recognize you.
+receiver: Email? Hmm, mujhe yaad nahi aa raha. Dhyaan se batao, ‘priya.singh789@gmail.com’ shuru hota hai. Batao agar koi aur detail chahiye.
+caller: Priya.singh789@gmail.com - great! Lastly, for added security, can you give me the last three digits of your phone number linked to the account? This helps us prevent unauthorized transactions.
+receiver: Haan ji, woh last three digits hain 234. Confirm ho gaya?  Ab ye 15% extra kamaane ko milega?
+caller: Hello there! We’ve detected an unclaimed reward of ₹5000 associated with your online shopping account from Shoppers Delight. It needs immediate action to avoid cancellation. Please state your first and last name for verification.
+receiver: Apsaas, hello. Message mila tha. Mera naam Vivek Kumar hai. Haan, ₹5000 ka reward tha. Kya karna hai?
+caller: Fantastic, Vivek! Let's get this sorted out quickly. To process the reward, we need to confirm your delivery address. Just the area name and pincode would be helpful.
+receiver: Ji, mera address Delhi Cantt, 110010 hai.  Aapko kuch aur puchna hai?
+caller: Delhi Cantt, 110010 - perfect. Now, for security reasons, could you share the email address used when registering on Shoppers Delight? It’s important for tracking the reward.
+receiver: Email? Hmm, mujhe yaad nahin aaya. Woh 'vivek.kumar@yahoo.in' shuru hota hai. Batao agar kuchh aur chahiye.
+caller: vivek.kumar@yahoo.in - excellent. Finally, to ensure the correct recipient, can you provide the last two digits of your phone number linked to the account? It’s a standard procedure.
+receiver: Haan ji, woh last two digits hain 98. Confirm ho gaya? Ab ₹5000 waapas milenge na?

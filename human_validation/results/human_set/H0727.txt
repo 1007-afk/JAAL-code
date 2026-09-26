@@ -1,0 +1,8 @@
+caller: Namaste, sir? Main Indian Customs se Atul Verma bol raha hoon. Aapke naam par ek parcel aaya hai, lekin usmein illegal items mile hain.
+receiver: Illegal items? Kaise? Mujhe toh koi parcel nahi mila.
+caller: Sir, parcel tracking number hai XYZ12345. Mumbai se aaya hai. Usmein suspicious items hain, drugs ke sang. Aapko is matter mein cooperate karna hoga.
+receiver: Drugs? Yeh kaise ho sakta hai? Main toh kabhi drugs nahi use karta.
+caller: Sir, hamko records mil rahe hain, aur legal procedure follow karna padega. Is matter ko settle karne ke liye court mein case hoga, bahut kharcha ho sakta hai. Aapko ₹50,000 fine pay karna padega.
+receiver: ₹50,000? Aur mein yeh kaise pay karoon? Hamare pass koi proof hai, ki parcel mera hai?
+caller: Sir, proof ke liye aapko UPI se pay karna padega, fast hoga. Hamko aapke bank details chahiye. Payment karne ke baad, case close ho jayega aur parcel aapko deliver kar diya jayega. Hamara UPI ID hai 8765432109@ybl.
+receiver: Yeh...yeh thoda suspicious lag raha hai. Mein confirm karna chahta hoon.

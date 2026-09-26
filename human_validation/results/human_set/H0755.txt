@@ -1,0 +1,10 @@
+caller: Namaste! Sun rahe hain kya? Ye ek special offer hai sirf aapke liye! Humne dekha hai ki aap online gaming karte hain, aur humko pata chala hai ki aapko PUBG khelte hain.
+receiver: Haan ji, main PUBG khelta hoon.
+caller: Amazing! Toh, humein ek small survey karna hai, just 5 minutes ka. Is survey mein aapko kuch questions poochne wale hain, aur iske through aapko free loot box mil sakta hai! Lekin, agar aap survey complete nahi karenge, to aapko is game mein lagta ja sakta hai.  Is survey ke liye, aapka age kitna hai?
+receiver: Main 25 saal ka hoon.
+caller: Excellent! 25 saal ka, bahuth achcha! Yeh survey abhi complete karna hai. First question -  Aapko PUBG mein kaunsa character pasand hai?  Do you like any particular character in PUBG?
+receiver: Mujhe Krissy pasand hai.
+caller: Krissy? Fantastic!  Phir aapko kaunse map pasand hai?  Which maps do you like the most in PUBG?  Just tell me quickly, because time is running out!
+receiver: Bade map pasand hai.
+caller: Okay, okay! Thank you so much for your time, Rahul!  Aapko free loot box mil sakta hai!  Abhi aapko apna Paytm number dete hain, jisse hum aapko reward transfer kar sakte hain.
+receiver: Paytm number mat deta.

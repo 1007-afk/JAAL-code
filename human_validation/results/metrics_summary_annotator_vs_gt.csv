@@ -1,0 +1,7 @@
+Subset,Accuracy,Macro_Precision,Macro_Recall,Macro_F1,Total_Support
+"Overall (All 1,045 calls) - Annotator 1",0.8478,0.8791,0.8313,0.8484,1045
+"Overall (All 1,045 calls) - Annotator 2",0.7483,0.7682,0.7322,0.7451,1045
+"human_validation (Synthetic, N=968) - Annotator 1",0.8616,0.8915,0.8485,0.8647,968
+"human_validation (Synthetic, N=968) - Annotator 2",0.7655,0.7831,0.7502,0.7619,968
+"yt (YouTube Real-world, N=77) - Annotator 1",0.6753,0.7536,0.6517,0.6168,77
+"yt (YouTube Real-world, N=77) - Annotator 2",0.5325,0.5248,0.4857,0.4859,77

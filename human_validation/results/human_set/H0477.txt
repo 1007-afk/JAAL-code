@@ -1,0 +1,9 @@
+caller: Namaste! Main Axis Bank Security Department se Rahul Sharma bol raha hoon. Aapke account mein aaj kuch suspicious activity detect hui hai. Urgent verification ki zaroorat hai.
+receiver: Kya? Suspicious activity? Mujhe toh kuch pata nahi hai. Kaisa activity?
+caller: Sir, ek online transaction hua hai ₹7,500 ka, jo aapne account se kiya gaya hai. Lekin hamko doubt hai, kyunki ye transaction kisi foreign website par hua hai. Aapne ye transaction kiya hai ya nahi?
+receiver: ₹7,500? Nahin, main ne aisa koi transaction nahi kiya! Mujhe kuch samajh nahi aa raha.
+caller: Sir, aapko chinta mat karein. Hamko bas ye confirm karna hai ki aap hi account holder hain. Isliye hamko aapka OTP aur PAN card number ki zarurat hai. OTP aapko aapke registered mobile number par milega. Aur PAN card number se ham verify kar sakte hain ki aap sahi account holder hain.
+receiver: OTP aur PAN card? Main toh aisa kuch kabhi share nahi karta! Ye toh scam lag raha hai. Aap mujhe bank ka phone number deiye, main wahan call karta hoon.
+caller: Sir, time bahut kam hai. Account suspend hone se pehle, jaldi se OTP de dijiye. ₹7,500 ka transaction confirm ho gaya to aapko pareshani ho sakti hai. OTP jaldi share kijiye.
+receiver: Nahin, main kuch bhi share nahi karunga. Aapko koi bhi information nahi milegi. Main abhi bank mein ja kar check karunga.
+caller: Sir, please! Account block hone se pehle OTP de dijiye. Last attempt hai. Agar aap OTP nahi deye to account block ho jayega aur ₹7,500 bhi nikal jayega.

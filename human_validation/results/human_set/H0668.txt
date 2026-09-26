@@ -1,0 +1,8 @@
+caller: Hello, is this Mr. Rajesh Verma? My name is Akash from Blazar Courier. We have a package for you, but there's a slight issue with the delivery address.
+receiver: Haan, main Rajesh Verma hi hoon. Kya problem hai?
+caller: Sir, the pin code we have doesn't match our records. We need to quickly verify your address and payment details to ensure smooth delivery. We have a small outstanding charge of ₹75 for a failed delivery attempt.
+receiver: ₹75? Maine toh kuch payment pending nahi dekha. Package ka description kya hai?
+caller: Sir, it's a high-value item. We can’t disclose the contents for security reasons, but it’s marked as urgent. To release the package, we need you to confirm your card details on a secure portal, just to verify the payment. I can send you a link.
+receiver: Koi link mat bhejo. Yeh scam lag raha hai. Mujhe is package ke bare mein koi notification nahi mila hai.
+caller: Sir, please don’t worry. This is a standard verification process. Without it, the package will be returned to sender. As a one-time courtesy, we are offering a discounted verification fee. Can you please provide the last four digits of your card and expiry date, just to confirm the details?
+receiver: Bilkul nahi! Main police mein report karunga agar aapne koi link bheja ya card details maanga.

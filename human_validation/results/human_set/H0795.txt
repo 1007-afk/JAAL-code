@@ -1,0 +1,7 @@
+caller: Namaste, sir? This is Inspector Sharma calling from the Directorate of Enforcement, Delhi. We’ve detected suspicious activity linked to your mobile number regarding an illegal parcel delivery originating from Mumbai.
+receiver: Illegal parcel? Yeh kya bol rahe hain? Mein toh kabhi parcel nahi kiya.
+caller: Sir, our intelligence suggests a large consignment containing contraband has been linked to your phone. It’s a serious matter, involving drug trafficking. We need to verify your identity and understand how your number became associated with this. We have you on a secure video call now to prevent any tampering.
+receiver: Drugs? Sir, yeh galat hai! Mein toh kuch nahi pata! Mein lawyer se baat karunga.
+caller: Sir, please don’t be alarmed. We understand this is shocking, but cooperation is crucial. We need ₹50,000 as a security deposit to investigate further and clear your name. You can transfer it to this UPI ID: enforcement.security@xyz.
+receiver: ₹50,000? Sir, yeh theek nahi lag raha hai. Mein police station mein jaunga complaint karne.
+caller: Sir, delaying this will only complicate matters. The video call is being recorded as evidence. If you don’t cooperate, we will have no choice but to issue a warrant and involve higher authorities. Transfer the amount immediately to avoid further legal action.

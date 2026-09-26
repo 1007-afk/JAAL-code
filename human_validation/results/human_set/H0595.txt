@@ -1,0 +1,8 @@
+caller: Namaste! Main Vijay, Axis Bank Digital Services se bol raha hoon. Aapko ₹10,000 ka cashback offer mil raha hai apne Axis Bank credit card se.
+receiver: ₹10,000? Kaise? Mein toh koi offer nahi dekh rahi.
+caller: Ji, yeh ek special offer hai sirf select customers ke liye. Yeh offer Amazon par shopping karne par apply hogi. Aapko sirf ek verification process complete karna hai.
+receiver: Verification? Kya verification karna hai?
+caller: Haan, aapko ek OTP mil raha hai apne registered mobile number par. Woh OTP mujhe bataiye, taaki hum verify kar sake ki aap eligible hain ya nahi. Iske baad cashback automatically aapke account mein credit ho jayega.
+receiver: OTP aaya hai… 9876.
+caller: Shukriya! Verification ho gaya hai. Ab aap Amazon par jaa kar shopping kar sakti hain aur ₹10,000 ka cashback enjoy kar sakti hain. Yeh offer sirf aaj ke liye hai, jaldi karein!
+receiver: ₹10,000 ka cashback? Thoda zyada lag raha hai. Main check kar ke dekhti hoon.

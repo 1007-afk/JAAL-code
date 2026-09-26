@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Sharma? I'm calling from QuickCash Loans. We saw your application and you’ve been pre-approved for a loan of ₹75,000.
+receiver: Oh really? That’s good. What’s the interest rate? And what documents do you need?
+caller: The interest rate is a special offer, just 8% for the first three months. To finalize it, we need a quick verification. Can you share your bank account details and a selfie holding your ID card?
+receiver: A selfie? That seems a bit strange. Why do you need a selfie?
+caller: It’s to prevent fraud, madam. Just a standard security measure. We also need confirmation that you are the account holder. Without this, we cannot proceed. If you don’t do this, we will have to cancel the loan application.
+receiver: Okay, fine. But I'm not comfortable sending a selfie. Can't I just give you my account details?
+caller: Madam, see, rules are rules. We’ve already sent you a link to upload it. If you delay, the offer will expire and the loan will be cancelled. And you'll also get bad credit rating.

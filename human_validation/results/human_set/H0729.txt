@@ -1,0 +1,7 @@
+caller: Namaste, main Axis Bank security department se bol raha hoon. Aapke Axis Bank account mein ajeeb transaction ka attempt hua hai.
+receiver: Oh, really? What kind of transaction? I haven’t seen anything.
+caller: Sir, ek bahut bada amount online transfer karne ki koshish ki gayi hai, Nepal mein. Hum chahte hain ki aapka account safe rahe. Isliye humein aapki identity verify karni hai.
+receiver: Nepal? That's strange. I haven't made any transfers to Nepal. But how do you verify my identity?
+caller: Sir, hum aapko ek OTP bhejenge aapke registered mobile number par. Woh OTP check karke aapka account secure ho jayega. Please share the OTP jab aapko mile.
+receiver: Wait a minute. Any bank official would never ask for an OTP over the phone. This sounds like a scam. I’m going to hang up now. 
+caller: Sir, please don't cut the call! This is for your own good! Account suspend ho sakta hai! OTP jaldi bataiye!

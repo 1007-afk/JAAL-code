@@ -1,0 +1,7 @@
+caller: Namaste! Main Axis Bank se Rahul bol raha hoon. Aapke account mein suspicious activity detect hui hai. Kuch transactions fail ho rahe hain, security ke liye hum aapke account ko verify karna chahte hain.
+receiver:  Axis Bank? Kaise pata? Mujhe koi message nahi aaya. Account mein kuch problem hai?
+caller: Haan ji, kuch technical issues hai. Verify karne ke liye, aapko apna OTP dena hoga jo aapke registered mobile number par aa raha hoga. Yeh sirf 30 seconds ke liye hai.
+receiver: OTP? Par bank toh OTP puchta hai? Mujhe thoda doubt ho raha hai. Koi number batao jispar main call kar sakun.
+caller: Woh confidential hai ma’am. OTP hi verify karne ka sahi tareeka hai. Jaldi karna, otherwise account suspend bhi ho sakta hai. Aapka account ₹12,000 ka transaction karne ki koshish kar raha hai.
+receiver: ₹12,000? Arey baba! Mujhe toh koi idea hi nahi. Theek hai, bol do OTP.
+caller: Haan ji, ab OTP bol dijiye. Yeh last digits hi kaafi hain - sirf last 4 digits! Jaldi kar dijiye ma’am, time khatam ho raha hai.

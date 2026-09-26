@@ -1,0 +1,7 @@
+caller: Namaste! Main Axis Bank se Rohit Verma bol raha hoon. Aapke Axis Bank account mein kuch suspicious activity detect hui hai. Security ke liye, hum aapko verify karna chahte hain.
+receiver: Kya suspicious activity? Mujhe toh koi message nahi aaya.
+caller: Haan sir, system ne detect kiya hai. Koi ne aapke account se OTP request kiya tha. Isliye, hum check karna chahte hain ki aap safe hain. Agar aap confirm nahi karte, toh humko account suspend karna padega.
+receiver: Account suspend? Yeh serious hai toh. Main kya karoon?
+caller: Aapko bas apne account se last transaction ka date aur amount batana hai. Aur security ke liye, apne debit card ke last four digits bhi bataiye.
+receiver: Debit card ke last four digits? Mujhe yeh thoda suspicious lag raha hai. Bank aise number maangta hai kya?
+caller: Sir, hum sirf aapki security ke liye confirm karna chahte hain. Agar aap cooperate karenge toh main aapka account safe kar dunga. Thoda aur time lagega toh account block ho sakta hai. Bataiye, debit card ke last four digits kya hain?

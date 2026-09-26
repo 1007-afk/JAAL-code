@@ -1,0 +1,20 @@
+caller: Namaste! Main calling karta hoon, ‘SoundWave’ ke subscription ke bare mein. Aapko free trial mila tha na? Sunta hoon kaise chal raha hai music collection.  Aapka reaction dekhna humaara kaam hai.
+receiver: Haan, namaste. Music collection acha hai, par thoda boring bhi hai. Thanks for asking, Rahul ji.
+caller: Ahah, okay!  To, SoundWave mein kuchh naye tracks try karna chahayen? Humare paas abhi seasonal songs ke liye ek special promotion chal raha hai. Diwali ke rang badle hue tunes, sirf aapke liye!  Yeh offer sirf limited time ke liye hai, isiliye jaldi karar lein.
+receiver: Diwali ke tunes?  Interesting!  Kya tune kitne din ke liye available honge?  Aur yeh promotion kab tak chalega?
+caller:  Diwali ke tunes 15 November tak chalenge, aur promotion 20 November tak!  Humne aapke subscription ko upgrade karne ke liye ‘Confirm’ message 78936 pe send karein.  Yeh package mein aapko premium artists ke songs bhi milenge, jo aapko pahle nahin milte.
+receiver: Premium artists?  That sounds good.  Par mujhe yeh bhi pata karna hoga ki yeh upgrade karne mein kitni cost hogi?  Agar cost kam hai toh hi main upgrade karunga.
+caller: Ji, cost kam hai! Upgrade karne mein sirf ₹199 ka additional charge hoga, par uske badle aapko ek mahina free mil jayega!  Aur phir bhi, aapko premium quality mein music listen karna milega.  Yeh offer is weekend ke liye hai, isiliye jaldi confirm karein.
+receiver: Weekend ke liye?  Okay, samajh gaya.  Mujhe yeh option seriously lena padega.  Yeh confirmation message kaise bheja jayega?  Bina kisi extra charges ke bheja jayega?
+caller: Haan ji, confirmation message absolutely free hoga!  Banao sirf ‘Confirm’ message 78936 pe.  Agar aapko koi dhyan Nahin deh rahi toh bhi bol sakte hain.
+receiver:  Okay, thank you Rahul ji.  Main abhi soch raha hun.
+caller:  Koi baat nahi ji!  Aapka waqt vala hai.  Hamesha yaad rakhein, SoundWave aapki favourite music partner hai!
+caller:
+receiver:
+caller: Hello, sir! My name is Rohan from DigiSafe Security. We’re contacting you regarding your recent online activity – we noticed some unusual logins on your account. Just wanted to ensure everything’s secure for you.
+receiver: Oh really? Unusual logins? Tell me more, please. I don't recall any strange activity.
+caller: Well, we detected attempts to access your banking information from an unfamiliar location. It's standard procedure to proactively alert our clients about potential threats. We can help you immediately block these unauthorized accesses.
+receiver: Hmm, that’s concerning. But I haven't done anything wrong, surely? I use strong passwords and I'm very careful online. Can you give me some specifics about the login attempts?
+caller: Absolutely. The last attempt originated from Mumbai, and it was around 2 AM yesterday. Our system flagged it as suspicious due to the timing and the IP address. We can remotely reset your password and install a security shield right away.
+receiver: Reset my password? Are you saying someone tried to hack into my account? That’s terrible! How much will this cost me? There might be a fee, right?
+caller: Not at all, sir! This is completely free of charge. We’re simply providing a valuable service to protect you from cybercrime

@@ -1,0 +1,8 @@
+caller: Namaste! Main Amazon Pay se bol raha hoon. Aapke Amazon Pay wallet mein ₹3,700 ka cashback offer hai! Isko claim karne ke liye, ‘CLAIM’ type kar ke 99887 pe send karein. Sirf ₹5 verification charge lagega!
+receiver: Amazon Pay se call? ₹3,700 cashback? ₹5 verification charge? Yeh thoda funny lag raha hai.
+caller: Haan ji, bilkul sahi! Yeh ek limited time offer hai, sir. Hamara helpline number hai 011-2997-8888, Delhi mein. Verification charge sirf aapke network provider ko hi jayega.
+receiver: ₹5 charge... matlab, SMS karne mein hi ₹5 lagenge? Aur meri information safe rahegi?
+caller: Haan ji, bilkul safe! Ham Amazon Pay mein security ko bohot seriously lete hain. Aapka naam aur phone number sirf verification ke liye hi lenge. Tabhi cashback offer activate hoga.
+receiver: Okay, par main confused hoon. Amazon app mein to koi notification nahi dikh raha hai.
+caller: Sir, kabhi-kabhi notification delay ho sakte hain. Aapko jaldi karna hoga! Offer expiry hone wala hai. ‘CLAIM’ type kar ke 99887 pe send karein.
+receiver: Theek hai, ek minute. Mein check karta hoon.

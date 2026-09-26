@@ -1,0 +1,7 @@
+caller: Namaste, mein Rohan Verma se bol raha hoon, IDFC First Bank se. Aapke account mein kuch aniket activities dikhi de rahi hain, isliye aapki KYC update karna bahut zaroori hai.
+receiver: Haan, to kya hua? KYC update? Mein toh bank mein jaake karwaata hoon.
+caller: Sir, abhi hum remote verification kar rahe hain. Security ke vajah se, mujhe aapke Aadhaar card ke pehle 4 digits aur OTP verify karne hoga. Isse aapka account safe rahega.
+receiver: Aadhaar number phone pe? Haan, bilkul nahi dunga! Ye scam lag raha hai.
+caller: Sir, main samjhata hoon. Iski zarurat hai isliye hum kar rahe hain. Agar aap update nahi karenge, to account suspend bhi ho sakta hai. Kuch seconds ka matter hai. Aapka OTP mein SMS kar dunga, use bata dijiye.
+receiver: Account suspend? Theek hai, mujhe thoda doubt ho raha hai par theek hai. OTP check karke dekhta hoon. *receiver reads OTP* Haan, OTP hai 1234.
+caller: Shukriya sir. Ab mujhe aapke Aadhaar card ke pehle 4 digits chahiye. Phir main aapka account secure kar dunga.

@@ -1,0 +1,23 @@
+caller: Namaste sir, main HDFC Bank se bol raha hoon. Kya aapka naam Ms. Verma hai?
+receiver: Haanji, main Ms. Verma hi bol rahi hoon. Bolo, kya baat hai?
+caller: Achha Ms. Verma ji, main aapko yeh batane ke liye call kar raha hoon ki aapke HDFC Bank account mein kuch suspect activity dekha ja raha hai. Hamare security team ne ek large amount ka transaction detect kiya hai, aur isliye hum aapki safety check karne waali hain.
+receiver: Suspect activity? Mujhe toh koi online purchase nahi kiya hai. Aap batao, kaunsa transaction hua hai aur mujhe kya karna hoga?
+caller: Ji madam, hamare records ke mutabik, aapke account se ₹12,000 ka transaction Flipkart ke ek unknown seller ko hua hai. Yeh transaction subah 8:00 AM par hua hai. Kya aapko iske bare mein koi idea hai, madam?
+receiver: ₹12,000 Flipkart? Subah 8:00 AM? Main toh abhi tak soshit hu! Mai toh kabhi Flipkart pe bhi ni jata.  Aap please bataiye ki yeh paisa kaha gaya hai aur yeh kaise hua?
+caller: Ji madam, hum samajh sakte hain ki aapko yeh bahut irritating laga rahegi. Hum aapki madad karenge. Is transaction ko verify karne ke liye, humein aapka OTP (One Time Password) chahiye. Kya aap mujhe apna OTP bata sakte hain?
+receiver: OTP? Nahin sir, mai OTP mat bataungi. Yeh to koi scam hai. Main Paytm app mein check kar lungi.
+caller: Namaste sir, main SBI Bank se bol raha hoon. Kya aapka naam Mr. Khan hai?
+receiver: Haanji, main Mr. Khan hi bol raha hoon. Boliye, kya baat hai?
+caller: Achha Mr. Khan ji, main aapko yeh batane ke liye call kar raha hoon ki aapke SBI Bank account mein kuch unusual activity hui hai. Hamare systems ne ek suspicious transaction detect kiya hai, aur isliye hum chahte hain ki aapki verification ho jaye.
+receiver: Unusual activity? Kaunsi activity? Maine toh kuch nahi kiya hai. Aap bataiye kya hua hai aur mujhe kya karna hoga?
+caller: Ji sir, hamare records ke mutabik, aapke account se ₹5,000 ka transaction Amazon ke ek unknown seller ko transfer hua hai. Yeh transaction shaam ko 6:30 PM par hua hai. Kya aapko iske bare mein koi information hai, sir?
+receiver: ₹5,000 Amazon? Shaam ko 6:30 PM? Nahi sir, mujhe toh kuch yaad nahi hai koi aisa transaction hone ka. Na hi maine kisi unknown seller ko koi payment kiya hai. Aap please confirm kar sakte hain ki yeh kahan gaya paisa aur yeh kis tarah ki activity thi?
+caller: Ji sir, hum samajh sakte hain ki yeh aapke liye chinta ki baat hai. Hum aapki puri help karenge. Is transaction ko confirm karne ke liye, humein aapke account ki verification karni hogi. Kya aap mujhe apna registered mobile number bata sakte hain jo aapka SBI bank se link hai?
+receiver: Haanji, mera registered mobile number hai 8765432109. Par yeh verification kyun chahiye? Agar koi problem hai toh main turant SBI app mein check kar lunga.
+caller: Ji sir, verification sirf aapki account ki safety ke liye hai. Mobile number se hum aapko OTP send karenge aur OTP enter karne se aap apni account ko secure kar sakte hain.
+receiver: OTP? Nahin, mai OTP mat dega. Ye sab bakwas hai. Main bank branch mein jao aur there check karo.
+caller: Namaste sir, main ICICI Bank se bol raha hoon. Kya aapka naam Mrs. Patel hai?
+receiver: Haanji, main Mrs. Patel hi bol rahi hoon. Bolo, kya hua?
+caller: Achha Mrs. Patel ji, main aapko yeh batane ke liye call kar raha hoon ki aapke ICICI Bank account mein kuch suspect transaction dekhe gaye hain. Hamare cyber security team ne ek high-value transaction detect kiya hai, aur isliye hum aapki safety check karne waali hain.
+receiver: Suspect transaction? Mujhe toh koi expensive thing nahi khared kiya hai. Aap batao, kaunse transaction hua hai aur mujhe kya karna hoga?
+caller: Ji Madam, hamare records ke mutabik, aapke account se ₹25,000 ka transaction Google Pay ke ek unknown recipient ko hua hai. Yeh transaction ummid ki subah 3:00 AM par

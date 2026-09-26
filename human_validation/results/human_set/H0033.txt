@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Verma? We are calling from FastLoan Solutions regarding your recent application. There seems to be a slight discrepancy in the information provided.
+receiver: Yes, this is Priya. What discrepancy? I thought my application was approved.
+caller: Yes, Ms. Verma, almost! But to finalize it, we need a small verification fee of ₹5,000 to process the paperwork. This is standard procedure to prevent fraud.
+receiver: ₹5,000? That wasn't mentioned when I applied. And why can't this be done online? You want me to send it to which account?
+caller: It’s a security measure, Ms. Verma. We need to confirm you are the legitimate applicant.  Send the money to the UPI ID: rapidloan786@axisbank. Once confirmed, we'll disburse ₹50,000 immediately.  Think of it as a small investment for a significant loan.
+receiver: Wait a minute. Something doesn't feel right.  Why UPI? Can I speak to someone who can explain this properly, a supervisor perhaps?
+caller: Ms. Verma, time is of the essence. This offer won't last forever. Many people are applying.  If you don’t send the verification fee now, your loan application will be cancelled, and you'll lose the opportunity. Just ₹5,000 for ₹50,000—a great deal, no?

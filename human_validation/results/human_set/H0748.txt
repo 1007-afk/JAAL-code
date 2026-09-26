@@ -1,0 +1,8 @@
+caller: Namaste! Sir, mera naam Ravi hai, main ‘Global Trade Solutions’ se bol raha hoon. Aapke account mein ₹12,500 ka pending withdrawal hai. Complete karne ke liye, ₹499 ka processing fee submit karna hoga.
+receiver: ₹12,500 withdrawal? Mujhe toh koi notification nahi mila. Global Trade Solutions? Yeh kaun si company hai?
+caller: Haan sir, woh automatic notification nahi milega. ₹499 fee deposit karne se aapka withdrawal process start ho jayega. Yeh fees security verification ke liye hai, completely safe hai. Aapko UPI se pay karna hai – mereko number do.
+receiver: Wait, wait. Security verification? Aur woh bhi ₹499? Main confirm karna chahta hoon. Aapka company registration number kya hai? Website bhi dedo.
+caller: Sir, registration number bahut lamba hai, main phone pe nahi de sakta. Aapko fast pay karna hai, otherwise withdrawal block ho jayega. Trust me sir, aapko profit milega! UPI number dedo jaldi karo.
+receiver: Block ho jayega? ₹12,500? Okay, wait, let me check something. ₹499 bhi itna zyada hai. Main thoda confuse hoon.
+caller: Sir, time is running out. ₹499 jald pay karo, warna aapka withdrawal cancel ho jayega aur aapka account bhi block ho sakta hai.
+receiver: Okay, sir. I will call you back after I verify this information.

@@ -1,0 +1,8 @@
+caller: Namaste! Main Ankit, Paytm Finance se baat kar raha hoon. Aapki profile mein ek personal loan request dikh raha hai. Approval process ke liye kuch verification karna hai.
+receiver: Haan, mainne toh request kiya tha. Verification kya karna hai?
+caller: Ji, aapke pan card number ki confirmation zaroori hai. Aur ek OTP bhi aapke registered mobile number par aayega, woh bhi bataiye.
+receiver: Pan card number? Aur OTP? Yeh theek lag raha hai?
+caller: Haan ji, bilkul theek hai. Yeh standard procedure hai. OTP se hum verify karenge ke aap hi baat kar rahe hain. Jab OTP mile toh mujhe bataiye. Aur, aapke bank account mein kitna balance hai, woh bhi batayiye? Loan amount decide karne ke liye.
+receiver: Bank balance ka kya zaroorat hai? Yeh zyada suspicious lag raha hai.
+caller: Arre, balance ka toh sirf estimate hone ke liye hai, sir. Agar aap loan approve karwaana chahte hain toh details provide karni padengi. Aakhir, aapko loan kitna chahiye?
+receiver: Mein abhi sooch raha hu. Mujhe kuch time de dijiye.

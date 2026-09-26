@@ -1,0 +1,7 @@
+caller: Namaste! Main Paytm Cashback Team se Sunil bol raha hoon. Aapne recently Flipkart par ₹750 ka order kiya tha, aur aapko ₹300 ka cashback milna chahiye.
+receiver: Oh, really? Flipkart par ₹750 ka order kiya tha, cashback bhi milega? Bahut achha!
+caller: Haan ji! Parle me ek chhoti verification process hai. Aapko sirf apne Paytm wallet number pe ₹1 ka toll charge pay karna hai, tab cashback automatically activate ho jayega.
+receiver: ₹1 ka toll charge? Paytm wallet se? Okay, fine. Batao, kaise pay karoon?
+caller: Aapko apne Paytm app mein 'Add Money' section mein jao, ₹1 enter karo, aur OTP send karke verify karo. Jaldi karo, sir, offer sirf 15 minutes ke liye valid hai!
+receiver: ₹1 ka OTP verify karwa dunga. Par mujhe doubt ho raha hai. Yeh sahi hai kya? Mujhe Flipkart ne koi suchi nahi di.
+caller: Shanti, shanti! Flipkart ne direct suchi nahi di, yeh ek special promo hai sirf Paytm users ke liye. Jaldi karo, sir, time barbaad ho raha hai! ₹1 pay karo, aur ₹300 cashback aapke wallet mein!

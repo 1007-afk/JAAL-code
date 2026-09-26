@@ -1,0 +1,7 @@
+caller: Hello sir/madam, this is Vijay from Cashback Rewards. We’ve noticed a pending transaction of ₹12,500 from your PhonePe wallet.
+receiver: ₹12,500? Transaction? I didn't initiate any transaction. What kind of transaction is it?
+caller: Yes sir, it seems like a purchase from a furniture website. It's been flagged for security reasons. To reverse it and claim a ₹5,000 cashback, you need to confirm your UPI ID by sending UPIID followed by a space and your ID to 9876543210.
+receiver: Reverse the transaction? ₹5,000 cashback? But why do I need to send my UPI ID? It feels a bit risky, doesn't it?
+caller: It’s a standard verification process, sir. This ensures the transaction is reversed in your favor and the cashback is credited. Think of it as confirming you’re the rightful owner of the wallet. It's a limited-time offer.
+receiver: Hmm… still hesitant. Can I call PhonePe customer care myself to confirm this? I don't want to give my UPI ID over SMS.
+caller: Absolutely, sir! But the offer won't last. Please send your UPI ID now, and then you can also call PhonePe. Double security, right?

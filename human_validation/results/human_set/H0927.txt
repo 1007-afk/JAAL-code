@@ -1,0 +1,9 @@
+caller: Namaste sir! Aapki swagat hai! Aapne recently ek premium service ke liye subscribe kiya hai, jahaan aapko monthly ₹500 se ₹1000 ke beech ki prizes jeetne ka opportunity milega! Kaise hai aap?
+receiver: Oh, really? Kaisa hai yeh offer? Bolo mujhe yahaan ke details.
+caller: Thoda seedha samjaun. Ye ek exclusive membership hai, jahaan aapko har mahine Diwali, Holi aur Dussehra ke dauran special deals milengi. Aur ek chance bhi milega ₹2000 tak ki prizes jeetne ka. Agar aapko interest hai toh, bas ek confirmation message bhejna hai. Aapko ek WhatsApp number par "JOIN" message karna hai. Number hai 9876543210. Kya aap confirm karna chahte hain?
+receiver: Haan, mujhe confirm karna hai. Batao, WhatsApp number kaunsa hai aur ye membership kitni chali deta hai?
+caller: Acha! WhatsApp number hai 9876543210. Aur membership fee ₹399 hai, jo sirf ek baar dena hoga. Iske baad aapko free mein prizes milte raheinge. Aur ek important baat, yeh offer sirf limited time ke liye available hai. Speedy ho jaiye!
+receiver: ₹399? Woh to achcha lag raha hai. Mein confirm kar deta hoon. Main WhatsApp par "JOIN" message kar deta hoon. Toh, main 9876543210 par "JOIN" bhejna hai?
+caller: Exactly! Bas woh message abhi send kar dijiye. Message bhejne se aapko automatic registration ho jaega aur aapko prize draws ke liye eligible declare kiya jaega.Phir hum aapko notification bhejenge jab aapko draw ke results milege. Aur agar aapko koi problem ho, toh humaare helpline number 1800-123-4567 pe call kar sakte hain. Speedily ho jaiye!
+receiver: Okay, message kar diya hai. Ab fir kya karna hai?
+caller: Congratulations! Aapko already registration ho gya hai. Har mahine aapko new offers aur updates milenge. Shukriya!

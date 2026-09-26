@@ -1,0 +1,11 @@
+caller: Namaste! Dhanyavaad aapko koimaniya ke prashnacha khabar hone chali gaya. Main Rohan hu aur Rewards Department se baat kar raha hu. Ji shukriya ki aap humare saath hain, aur aapko humare Diwali ke liye ek achha gift milega!
+receiver: Namaste Rohan ji! Ji, yeh hai [Invented Name, e.g., Kavita Verma]. Shukriya aapne! Diwali ke liye ₹5000 ka gift? Wo toh bahut achha hai! Main sunana chahti hu.
+caller: Tumhare liye yeh sangat ek bahut hi sundar Diwali ho sakta hai!Haanji, yeh ₹5000 ka Diwali gift aapko humare company ke har ek customer ko free mein milaheta hai. Aapko sirf yeh bataana hai ki aapka mobile number kitna bada hai, ya phir aapke bank ka account number kya hai. Yehi sahi hai, aur hum aapko ₹5000 todh de sakte hain!
+receiver: Haan, lekin mujhe yeh kaise mila? Mein kabhi bhi abhi tak aisa gift nahin mila hai. Mujhe kuch sawaal hain.
+caller: Shanti shantiyo Kavita ji, yeh sab tumhare liye ek surprise hai.  Agar tumhara mobile number 10 digits ka hai, to aapko ₹5000 ki first installment milegi. Agar tumhara bank account number 13 digits ka hai, to aapko ₹5000 ka complete payment mil jayega!  Kabse tumhari account hai?
+receiver: Meri account ka hisaab mein kaun sa bank hai? Aur yeh ₹5000, woh kaise mil sakta hai? Koi bataye!
+caller: Aapke bank ka naam [Name of Bank, e.g., HDFC] hai, Kavita ji. ₹5000, yeh humare company ke new scheme ka part hai. Hum aapko ₹5000 free mein dene waale hain, parantu agar tumhein yeh gift milti hai, to tumko hamein thank you dena hoga!
+receiver: Thank you? Kisko thank you dena hai? Aur yeh scheme sach hai ya matool?
+caller: Tumhe thank you dena hai hamari company ko, kyunki hum tumhein ₹5000 de rahe hain!  Aapko bas yeh bataana hai ki aapko yeh gift pasand aaya hai ya nahi.  Iske baad, hum aapko ₹5000 transfer kar denge.  Toh, kya tum accept karte ho?
+receiver: Na, main accept nahin karti. Yeh dukaan mein lag raha hai. Main tumhari call bandh karta hu.
+caller: Nahin, nahin Kavita ji! Tumhare liye yeh Diwali ka ek bahut hi acha chance hai.  Aapko sirf yeh bataana hai ki aapko ₹5000 chahiye hai ya nahi. Iske baad, hum aapko ₹5000 transfer kar denge.  Ji shukriya!

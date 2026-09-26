@@ -1,0 +1,8 @@
+caller: Namaste, main Vijay se bol raha hoon, PhonePe security department se. Aapke PhonePe wallet mein ₹500 ka cashback offer aaya hai, sirf naya users ke liye.
+receiver: ₹500 cashback? Kya baat hai! Main toh PhonePe ka user hoon, lekin new user lagta hoon?
+caller: Haan ji, system ne aapko naya user declare kiya hai. Cashback claim karne ke liye, aapko bas ek OTP verify karna hoga jo aapke registered mobile number par aayega.
+receiver: Theek hai, try karta hoon. OTP mil gaya hai, 4829.
+caller: Shukriya. OTP verify ho gaya hai. Ab, cashback process karne ke liye, ₹20 ka verification fee dena padega. Yeh sirf ek time charge hai.
+receiver: ₹20 fee? Cashback claim karte samay fee lagti hai? Thoda suspect toh lag raha hai.
+caller: Sir, yeh security purpose ke liye hai, fraud se bachne ke liye. ₹20 UPI mein transfer karein [invented UPI ID, e.g., cashbacksafety@upi]. Transfer ke baad, cashback automatically aapke wallet mein add ho jayega.
+receiver: Wait, main check karta hoon…

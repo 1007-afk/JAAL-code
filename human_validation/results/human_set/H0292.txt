@@ -1,0 +1,7 @@
+caller: Namaste! I saw your profile on 'MeetCute', and you seemed like a really interesting person. I'm Rohan, by the way. Just thought I’d say hello.
+receiver: Hi Rohan! Nice to hear from you. I'm Anjali. MeetCute is a bit quiet usually. What do you do?
+caller: I work in IT, mostly remote. It can be isolating, you know? I really enjoy photography, especially landscapes. Do you have any hobbies, Anjali?
+receiver: That's cool! I'm a teacher, history. And yes, I love reading and hiking. It’s hard to find time with lesson planning, though.  Are you based in Mumbai?
+caller: Mumbai's great, but I'm currently working from Pune. Things are a little hectic at the moment, with my mother needing a medical procedure. It's quite expensive, unexpectedly.
+receiver: Oh, no! That’s awful. I hope she's alright. Is there anything I can do? It's terrible to go through something like that.
+caller: That’s very kind of you, Anjali. Honestly, just knowing someone cares helps. If you could possibly send some help, even a small amount, it would ease my burden. Just ₹5000 would make a huge difference. My UPI ID is [scammer's UPI ID].

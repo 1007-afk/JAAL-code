@@ -1,0 +1,8 @@
+caller: Namaste! Mera naam Rohit hai, FastCash Solutions se. Aapka naam kya hai, sir? Hum sun rahe hain aapko urgent paise ki zarurat hai?
+receiver: Ji, mera naam Rajesh hai. Haan, actually, mere papa ka medical bill bharne ke liye kuch paise chahiye the.
+caller: Rajesh ji, bilkul! Hamara FastCash Solutions app dekhiye. Abhi ek special offer chal rahi hai – sirf 15% interest ke saath, ₹75,000 tak ka loan instant mil jayega. App download karke registration karein, sirf basic details bharen.
+receiver: 15% interest? Itna zyada! Aur ₹75,000? Mere paas itna kaam toh hai hi nahi.
+caller: Rajesh ji, chinta mat kijiye. Hamari repayment plan bahut flexible hai. Aap apne convenience ke hisaab se thode-thode paise chuka sakte hain. Aur, agar aap apne dost ya relative ko bhi refer karte hain, toh aapko aur discount milega! App mein sab details hain. FastCash Solutions – paise ka saath, har pal!
+receiver: Theek hai. Lekin, mein yeh app download karne se pehle thodi research karna chahta hoon. Kuch reviews dekhunga.
+caller: Rajesh ji, bilkul! Par jaldi karein, offer limited time ke liye hi hai. Aur, agar aapko koi confusion hai toh hamara customer care number 9876543210 par call karein, 24/7 available hain.
+receiver: Okay, thanks. I will check it out.

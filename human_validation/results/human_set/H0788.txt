@@ -1,0 +1,8 @@
+caller: Hello! Is this Vivek Sharma? We've been trying to reach you regarding a very exciting opportunity with StellarTrade. You’ve been selected for a limited-time high-yield investment program!
+receiver: StellarTrade? I haven’t applied for anything. What kind of investment are we talking about?
+caller: Fantastic! That’s perfectly alright. It’s an invitation-only program, based on market analysis identifying promising individuals. We're offering a 12% daily return on investments in emerging cryptocurrency pairings. It's incredibly lucrative! Just a small initial investment of, say, ₹5,000 to get started and prove your commitment.
+receiver: 12% daily? That sounds too good to be true. What’s the catch? And what’s StellarTrade’s background? Can you give me some information about the company?
+caller: No catch at all, sir! It’s simply leveraging advanced AI trading algorithms to capitalize on market volatility. StellarTrade is a registered investment firm in the Cayman Islands – very reputable. To begin, just send ₹5,000 to the UPI ID: stellar.invest@xyz. Once the funds reflect, we'll activate your account and you'll start seeing returns immediately.
+receiver: Cayman Islands… UPI ID? That’s a bit unusual for a reputable firm. Can I speak to someone who can explain the trading algorithms to me, or see some proof of past returns?
+caller: Absolutely! We can arrange a demo, but it requires you to first confirm your deposit. The system auto-generates returns, it’s all automated. This offer closes in just 30 minutes, sir, so don’t delay! Please send the ₹5,000, and we’ll get everything rolling right away.
+receiver: I think I'll pass. It’s still giving me

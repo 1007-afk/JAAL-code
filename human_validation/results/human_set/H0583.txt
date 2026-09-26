@@ -1,0 +1,7 @@
+caller: Hello, is this Mrs. Verma? My name is Inspector Kumar, calling from the Delhi Customs Department. We’ve intercepted a package addressed to you containing suspicious items.
+receiver: Haan,ji. This is Mrs. Verma speaking. What suspicious items? I wasn't expecting any package.
+caller: Ma'am, preliminary scans indicate the presence of unregistered pharmaceuticals and potential counterfeit currency. It appears you may be unknowingly involved in an illegal shipment. We need to verify your details to avoid further legal complications.
+receiver: Counterfeit currency? This is ridiculous! I haven’t ordered anything like that. Are you sure you have the right person? Can you tell me the tracking number?
+caller: Yes, ma'am, we have your address. The tracking number is DX789234. To clear this matter quickly and prevent arrest, we require a small processing fee of ₹12,000 to facilitate a thorough investigation and secure the package's release. We need this urgently.  We will connect you to our senior officer on video call to confirm.
+receiver: Twelve thousand rupees? For a package I didn't even order? This sounds like a scam. I want to speak to your senior officer, but I'm not paying anything until I verify this.
+caller: Ma’am, delaying this will only worsen the situation. This is a serious matter involving national security.  The senior officer, Director Sharma, is already on the line. Please join the video call now so he can explain everything properly and you can make the payment to secure your freedom. Do not refuse.

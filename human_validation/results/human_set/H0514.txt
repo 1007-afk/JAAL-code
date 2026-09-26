@@ -1,0 +1,7 @@
+caller: Namaste! Main Paytm se Neeraj bol raha hoon. Aapke Paytm wallet mein cashback offer chala hai – ₹5000 ka instant cashback, bas ek verification process complete karna hai.
+receiver: Paytm cashback? ₹5000? Mujhe toh koi notification nahi aaya.
+caller: Haan ji, offer limited time ke liye hai. Verification ke liye, aapko ek OTP WhatsApp par milega, woh number 9876543210 par send karna hai. Ye sirf verification ke liye hai, security ke liye.
+receiver: OTP send karne ki kya zarurat hai? Main toh Paytm app pe hi dekh sakta hoon.
+caller: Sir, ye system update hai, isliye OTP send karna padega. OTP send karne ke baad, aapka ₹5000 ka cashback instantly activate ho jayega. Aapka Paytm registered mobile number kya hai?
+receiver: ₹5000 instant? Woh bhi ek OTP se? Yeh thoda doubtful lag raha hai. Agar wrong number se OTP send kar diya toh?
+caller: Bilkul secure hai, sir! OTP sirf aapke registered number pe hi aayega. Jab aap OTP send karenge, tab aapko instant cashback confirm kar diya jayega. Aapki registration details check kar raha hoon, sir…₹5000 aapke wallet mein deposit ho jayega, just send that OTP.

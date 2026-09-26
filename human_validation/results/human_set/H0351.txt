@@ -1,0 +1,8 @@
+caller: Hello there! We’ve reached your lottery winnings notification line. Congratulations, you've been selected as a winner of either a luxurious weekend getaway to the Maldives or a substantial $8000 prize money! To receive confirmation and instructions on how to redeem your reward, please stay connected. There will be a small processing fee of ₹2.00 per minute, lasting up to 15 minutes. Are you eager to claim your fortune?
+receiver: Hello? Oh wow, actually!  Kya bol rahe ho aap? Lottery winnings notification line se bol rahe hain? Maldives ki holiday ya phir 8000 dollars? Main abhi bhi believe kar rahi hoon. Aur ₹2 per minute charge lag raha hai?  Aur call 15 minutes tak chalu reh sakta hai? Okay, okay, I am definitely interested in claiming my win. Tell me what I need to do.
+caller: Fantastic! Glad to hear you’re keen to accept your prize. For verification purposes, let’s quickly go through some simple questions. First off, could you kindly tell me your first and last name?
+receiver: Haan ji, mera naam hai Rohan Kumar. Aur aap kya poochhnenge?
+caller: Wonderful, Rohan. And to properly register your win, would you please share your year of birth? This is simply for security checks, you see.
+receiver: Ji haan, main 1997 mein born hua hoon.  Batao, kuchh aur poochna hai?
+caller: Perfect. Now, to proceed with finalizing your claim and ensuring the successful delivery of your prize, could you please provide me with your street address along with the pincode? Just so we can accurately send the necessary documents and prize notifications.
+receiver: Address? Hmm, okay. Mera address hai 3/7, Maplewood Lane, City Center. Pincode hai 411001.  Anything else?

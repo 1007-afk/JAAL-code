@@ -1,0 +1,8 @@
+caller: Namaste sir, main Airtel support se bol raha hun. Aapke phone ki SIM card 18 ghante mein deactivate ho rahi hai. Kya aap isko renew karna chahenge?
+receiver: Seriously? Airtel se? Mein toh Flipkart se pura number order kiya tha. Dekhiye, 18 ghante mein deactivate? Woh to impossible hai. Kya mein koi mistake nehi kar raha hun?
+caller: Sir, aapki SIM card mein koi mistake nahi hai. Ye ek automatic process hai. Agar aapko apna connection continue karna hai, toh sirf yeh confirm karna hai. Kya main aapke account ke details check kar sakta hun, jaisi ki aapki registered phone number aur aapki birth date?
+receiver: Haan, bataa dein. Meri phone number hai 8765432109. Aur meri birth date... wait, mujhe dekhne do. 22nd December 1988 hai.
+caller: Aapki birth date perfect hai, sir. Aur is confirmation ke liye, humare paas aapke SIM registration ke liye record kiya hua email id chahiye. Batao, woh kis naam ka tha?
+receiver: Email ID? Uff, mujhe nahi pata. Kya aap Vodafone ko bol sakte hain ki wo mujhe reminder de? Ya phir ye email ID Vodafone pe save kar deta hain?
+caller: Sir, security reasons se hum wo information share nahi kar sakte. Aap please try karein yaad karne ki. Isliye, humein alternate way par jana padega. Aapke registered address par ek verification code bhejna hoga. Voh code aap mujhe batayenge. Isse confirmation hoga aur aapki SIM active rehegi.
+receiver: Verification code? Mere address par? This sounds really tricky. Can you just tell me the address they have on file? It might trigger my memory.

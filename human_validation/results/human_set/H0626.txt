@@ -1,0 +1,8 @@
+caller: Namaste, is this Priya Verma? This is Akash from MobiKwik Customer Service. We have detected some unusual activity on your MobiKwik wallet.
+receiver: Haan, mai Priya Verma hi hun. Kya hua? (Yes, this is Priya Verma. What happened?)
+caller: We noticed a request to send ₹7,500 to an unknown account.  We need to verify this transaction immediately to ensure your account security. Can you confirm if you initiated this payment?
+receiver: ₹7,500? Nahin, maine koi payment nahi kiya.  Mai toh kal sirf ₹2000 recharge kiya tha. (No, I didn't make any payment. I only recharged ₹2000 yesterday.)
+caller: It seems there might have been a system error, and the details got mixed up. To rectify this and prevent further unauthorized access, we need to quickly authenticate your identity. We have sent a verification link to your registered mobile number.  Please click the link and enter the OTP you receive.
+receiver: Verification link?  Yeh theek lagta nahi hai. I’ve heard about phishing scams. Why can't you just verify with my MobiKwik account details directly?
+caller: This is a new, enhanced security protocol, Priya ji. It's mandatory for all MobiKwik users now. It’s the safest way. Please just quickly click the link and enter the OTP. We are ready to resolve this immediately.
+receiver: No, I’m not clicking any link. I will call the official MobiKwik customer care number myself and report this. Goodbye.

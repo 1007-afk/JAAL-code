@@ -1,0 +1,7 @@
+caller: Namaste, main Paytm Care se bol raha hoon. Aapke Paytm wallet mein 5000 ka cashback offer chala hai, lekin verification ke bina woh expire ho jayega.
+receiver: 5000 ka cashback? Kya baat hai! Main Paytm toh use karta hoon, par mujhe toh koi notification nahi aaya. Verification ka matlab kya hai?
+caller: Haan ji, offer limited time ke liye hai. Verification ke liye, humein sirf aapka OTP chahiye. OTP aapke registered phone number par aayega.
+receiver: OTP? Par mujhe toh koi OTP nahi aaya. Aur mujhe doubt ho raha hai, Paytm toh khud notification deta hai.
+caller: Sir, kabhi kabhi network issue ho jaata hai. Aap Paytm app mein jaakar check karke dikhayenge? OTP check karne ke baad cashback automatically aapke wallet mein add ho jayega.
+receiver: Theek hai, main check karta hoon. Par mujhe sunne mein aaya hai ki log aise scams mein phas jaate hain. Main koi risk nahi lena chahta.
+caller: Sir, yeh bilkul secure hai. Paytm kabhi bhi aapka koi personal data maangta nahi hai. AAPko sirf cashback claim karna hai! OTP check karo, sir. Offer expire hone wala hai!

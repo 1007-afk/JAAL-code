@@ -1,0 +1,7 @@
+caller: Namaste, mai IIT Delhi se cyber security department se Rahul Sharma bol raha hoon. Aapke naam par ek parcel customs department mein rukaa hua hai, jo drug trafficking se related hai.
+receiver: Excuse me? Mere naam par? Main toh kabhi parcel order kiya hi nahi. Aur drugs ka toh sawal hi nahi hai.
+caller: Sir, system mein dikha raha hoon, aapke naam aur address se ek parcel Nepal se aaya hai. Usmein suspicious item paaye gaye hain. CBI ne case register kiya hai. Aapko legal action se bachne ke liye ₹15,000 ka fine clear karna padega.
+receiver: ₹15,000?  Yeh mazaak hai? Main CBI mein baat kar sakta hoon.  Koi proof hai aapke paas?  Kyun main kooperate karoon?
+caller: Sir, aapko samjhe.  Agar aapko cooperate nahi karenge, toh CBI aapke ghar aayegi aur arrest karlegi.  Hamaara helpline number 9876543210 hai, wahaan call karke payment details de dijiye. Video call pe rehn hai, warna case close nahi hoga.
+receiver:  Arrest?  Yeh bahut galat lag raha hai.  Main police station ja ke complaint karunga. 9876543210 pe main call nahi karunga.
+caller: Sir, aap time barbaad kar rahe hain. CBI ka system bahut powerful hai. Hum aapko arrest warrant bhi bheaj sakte hain. Jaldi se ₹15,000 pay karein, warna aur buri halat hogi. Video call chalu rakhiye, please.

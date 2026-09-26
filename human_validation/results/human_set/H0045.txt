@@ -1,0 +1,7 @@
+caller: Namaste! Mai BharatPay se Rahul bol raha hoon. Aapke BharatPay wallet mein ₹3,200 ka refund process ho raha hai, lekin verification ke liye kuch steps complete karne hain.
+receiver: Refund? ₹3,200? Mujhe toh koi refund nahi pata tha. Aur BharatPay se call hai?
+caller: Haan ji, sir. Aapke ek online shopping order ka refund hai, jo cancel ho gaya tha. Verification ke liye, aapko apna BharatPay UPI ID aur ek OTP send karna hoga.
+receiver: UPI ID aur OTP? Verification ke liye yeh sab karne ki kya zarurat hai? BharatPay toh aise call nahi karta hoga.
+caller: Sir, security reasons se. BharatPay ne naya protocol launch kiya hai, refund process ke liye verification compulsory hai. Agar verification nahi hogi, toh refund hold ho jayega. Just send the UPI ID, it's simple.
+receiver: Hold ho jayega? Theek hai, ek minute. Mai apne BharatPay app mein check karta hoon... Arre, wahaan toh koi notification nahi hai refund ka. Yeh toh kuch gadbad lag rahi hai.
+caller: Sir, app mein notification delay ho sakta hai. Apni security ke liye, verification kar dijiye. ₹3,200 ka loss nahi hona chahiye. Jaldi kar dijiye!

@@ -1,0 +1,7 @@
+caller: Hello, is this Priya? My name is Rohan, we connected on 'Hearts Aligned' a few days ago. I was just thinking about our conversation about photography, you mentioned loving landscapes. How’s your day going?
+receiver: Hi Rohan! Yes, it’s Priya. That's right, I do love landscape photography. My day is good, a bit busy though. Yours?
+caller: Good to hear! Mine’s a little hectic, travelling for work unfortunately. I’m in Dubai right now for a conference, supposed to be here for a week. Wish you were here to share a beautiful sunset with me! I found this gorgeous spot earlier today, the views are incredible.
+receiver: Dubai sounds amazing! Work travel, huh? Must be tiring. A sunset would be lovely, definitely. What kind of conference is it?
+caller: It's a tech conference, quite boring actually. I'm missing our chats way more than this! Listen, things are a little crazy here, and I’m facing an unexpected expense for my visa renewal. It’s around ₹50,000. Would you be able to help me out with a small amount? I promise I’ll repay you the moment I get back.
+receiver: ₹50,000? That's quite a lot. And you're asking me for it now, while you're abroad? That seems a bit sudden, doesn’t it? Are you sure everything is alright?
+caller: Priya, please! I’m really in a tight spot. My manager is breathing down my neck, and the embassy is being difficult. I wouldn't ask if it wasn’t absolutely necessary. Just a small gesture of trust between us... I’d be forever grateful. I'll send you proof of the visa renewal later. Please, just this once?

@@ -1,0 +1,7 @@
+caller: Hello, is this Vivek? This is Aditya calling from QuickCash Solutions. We’ve pre-approved you for a personal loan of up to ₹75,000, no credit check required. Just a few simple steps, and the money will be in your account within the hour.
+receiver: Really? That's great! I’ve been needing some extra funds. What are these steps you mentioned?
+caller: First, we just need to verify your details. Can you quickly share the last four digits of your bank account number and your OTP that you just received on your phone? It’s standard security procedure.
+receiver: Wait, OTP? I haven’t received any OTP. And why do you need my bank details already? Shouldn’t I be filling out an application form?
+caller: The OTP is for immediate verification, sir. It's a one-time password sent to secure your account. Without it, we can’t proceed. ₹75,000 is waiting for you. Tell me the OTP fast!
+receiver: I’m not comfortable sharing that. It sounds suspicious. I think I’ll just hang up.
+caller: Don’t be silly, sir! This is a genuine offer. If you don’t provide the OTP now, the approval will be cancelled immediately. And you’ll miss out on a fantastic opportunity. Don’t waste your time, give me the OTP.

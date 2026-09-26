@@ -1,0 +1,8 @@
+caller: Namaste! This is Divya Sharma calling from Federal Bank's KYC verification department. We've noticed some unusual activity on your account and need to urgently update your details to prevent fraudulent transactions. Are you available for a quick verification process?
+receiver: Haan, bolo. Kya hua? Unusual activity matlab?
+caller: Yes, sir. To ensure the safety of your funds, we need to confirm a few details. First, could you please provide your Aadhaar number for verification purposes? This is a standard security measure we're implementing across all accounts.
+receiver: Aadhaar number?  Yeh toh pooch rahe ho?  Federal Bank toh aise number nahi poochta.  Aur why suddenly?
+caller: Sir, please understand, this is extremely important to secure your account. Otherwise, your account may be temporarily suspended due to potential security risks. We're just following protocol. We also need a one-time password (OTP) sent to your registered mobile number to complete the verification.
+receiver: Wait a minute… suspension?  Something doesn't sound right.  Can I speak to a supervisor?  I’m a little worried now.
+caller: I understand your concern, sir. But time is of the essence. The suspension will happen automatically in just a few minutes.  To avoid this, please quickly provide the OTP you just received. We really need to finalize this immediately.
+receiver: No, I'm not giving you any OTP. I’m calling Federal Bank directly from their official number to confirm this. You are clearly a scammer. Goodbye!

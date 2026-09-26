@@ -1,0 +1,7 @@
+caller: Hi! This is Anya. I saw your profile on SoulmateSeekers and you seem really interesting! I'm new to this app, but your smile caught my eye. Would love to chat a bit, if you’re free?
+receiver: Hey Anya! Thanks for the message. That's sweet of you to say. I’m a little busy right now, but I’d be happy to chat later. What are you up to?
+caller: Just relaxing at home, thinking about all the wonderful people I might meet on here. I'm based in London, UK.  It’s getting a bit chilly, actually. I’m studying to be a nurse.  What about you? Tell me about yourself.  My number is +44 7940 658239, in case you want to call.
+receiver: That's nice! I'm in Mumbai, working as a software engineer. London sounds lovely, but a bit far! Calling isn't really necessary right now, we can chat here.
+caller: Mumbai! Wow, that's amazing! It must be so vibrant there. Listen, I’m in a bit of a bind. My mum’s passport got stolen today while she was travelling to visit me from India, and she’s stuck at the airport. The embassy fees are pretty steep - around 500 pounds. Would you be able to lend me a little help? I promise I'll pay you back as soon as I get paid next week.
+receiver: Oh no, that’s awful! That’s a really tough situation. 500 pounds is a lot though. Can’t she borrow from someone else? I’m not really comfortable sending money to someone I just met online.
+caller: I understand your hesitation, totally. It's a lot, I know

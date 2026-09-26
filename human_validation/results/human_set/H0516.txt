@@ -1,0 +1,8 @@
+caller: Namaste sir, main Bharat Telecom support se baat kar raha hoon. Aapki mobile number 24 hours mein expire hone wali hai. Kya aap isko renew karna chahenge?
+receiver: Namaste, Bharat Telecom support? Mein toh recently hi recharge kiya tha. Mujhe pata bhi nahi chala ki number expire hone wala hai. Mera naam hai Priya Patel, please. Kya aap meri account details dekh sakte hain? Aur expiry hone ka koi reason todi hai kya?
+caller: Ji madam, absolutely. Priya Patel, correct? Aur expiry hone ka koi specific reason nahi hai, yeh Bharat Telecom ka policy hai. Customer protection ke liye hum aapko inform karte hain. Aapki account details verify karne ke liye mujhe aapka home address chahiye hoga madam.
+receiver: Okay, okay. Mera address hai Mumbai, Bandra West. Toh matlab, yeh expiry ka warning just a reminder hai, right? Koi offer nahi hai?
+caller: Ji Mrs. Patel, exactly. Yeh sirf ek reminder hai ki aapki mobile number expire hone wali hai. Isko renew karne ke liye, mujhe aapka Aadhaar card number chahiye hoga. Ye sirf aapki number ko save rakhne ke liye hai.
+receiver: Ji, main Priya Patel hoon. Aur meri Aadhaar card number hai 123456789012.  Aapko isse verify kyon karega?  Agar koi special offer hai toh batayein.
+caller: Mrs. Patel, aapke details ke hisaab se aapki mobile number renew ho gayi hai.  Ab aapko koi problem nahi hogi.  Aapko koi extra charges bhi nahi lagege.  Kuch aur assistance chahiye hai?
+receiver:  Renew ho gayi? Bahut shukriya aapne.  Mujhe koi problem nahi hui.  Thank you so much for your help!  Agar kabhi requirement ho toh main phir call karunga.

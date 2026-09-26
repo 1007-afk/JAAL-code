@@ -1,0 +1,7 @@
+caller: Namaste! Is this Mrs. Verma? My name is Rohan from Axis Bank’s Fraud Prevention Unit. We've noticed some unusual login attempts to your Axis Bank mobile banking app. To safeguard your funds, we need to immediately verify your identity.
+receiver: Haan, main Mrs. Verma hoon. What's happening?
+caller: Mrs. Verma, it seems someone tried to access your account from an unknown device. We are temporarily blocking your account as a precautionary measure. To unlock it, please visit secureaxisverify.online and enter the OTP we are about to send to your registered mobile number. It’s very important to do this within the next 5 minutes, otherwise your account will be permanently suspended.
+receiver: Secureaxisverify.online? I don’t remember this website. And why haven't I received an OTP yet?
+caller: Don't worry, Mrs. Verma. Sometimes it takes a moment to arrive. While you're waiting, can you quickly confirm the last four digits of your PAN card for verification purposes? This is a standard protocol, and we need to be absolutely certain.
+receiver: My PAN card? I don’t usually share that information over the phone. This sounds suspicious.
+caller: Mrs. Verma, please understand, this is a critical security measure. Think of your money! If you don’t cooperate, your account will be locked, and the funds might be at risk. Just those last four digits, please? It’ll only take a second.

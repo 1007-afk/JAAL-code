@@ -1,0 +1,8 @@
+caller: Namaste! Main Bol Raha Hoon, QuickCashHub.com se. Aapko urgent loan ki zaroorat hai kya? Credit score koi matter nahi karta. Hum aapko online instant loan provide karte hain. Aapka naam bataiye?
+receiver: Hello. Ji haan, mujhe loan ki thodi zaroorat hai, par interest bahut zyada nahi hona chahiye. Mera naam Priya hai.
+caller: Achha, Priya ji! Humare paas ek special offer hai aapke liye. Aapko ₹25,000 tak ka loan sirf ₹2,500 processing fee ke saath mil jayega. Yeh offer sirf aaj ke liye hai. Aapki bank details bataiye?
+receiver: ₹2,500 processing fee? Thoda zyada lag raha hai. Aur interest kitna hoga?
+caller: Priya ji, ye fees security check ke liye hai. Interest rate market standard hai. Apni bank account number aur IFSC code bataiye, taaki hum aapka loan approve kar sake. Aur ek photo ID bhi chahiye, verification ke liye.
+receiver: Theek hai, account number hai 9876543210, IFSC code SBIN0012345. Photo ID main baad mein send kar dungi.
+caller: Bahut achha! Priya ji, aapka loan approve ho gaya hai. Lekin, abhi ek small verification process complete karni hai. Aapko ₹1,000 verification fee pay karni hogi. Yeh fees hum aapke account mein deposit karne se pehle pay karni hogi. Paytm ya PhonePe se pay karein.
+receiver: ₹1,000 verification fee? Yeh toh unfair hai! Main loan bhi nahi le rahi hoon.

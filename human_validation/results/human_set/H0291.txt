@@ -1,0 +1,9 @@
+caller: Namaste sir, main Airtel customer support se bol raha hun. Aapke mobile number ka KYC update chal raha hai, isliye aapko ek 6 digit OTP mila hoga. Kaise hai aap?
+receiver: Namaste,haan, ek OTP aaya tha, 876543. Kya karna hai?
+caller: Shukriya sir, 876543. Ab humare system mein kuch changes happening hain, isliye aapko ek notification milega. Us notification mein aapko ek link dikhega, jismein aapke mobile plan ka information hoga. Kya aap us link ko dekh sakte hain?
+receiver: Okay, dekhta hun. Haaan, ek notification aaya hai. Ismein likha hai ‘Airtel Digital Plus package offer – Upgrade now!’ Link pe click karna hai?
+caller: Nahi sir, link par click karna mat. Us notification mein jo details hain, woh mujhse poochhne wale hain. Aap mujhe wo details padh kar bata dein, jaise ki aapki plan ka name, data limit, aur recharge amount.
+receiver: Okay, dekhoon…Ismein likha hai ‘Plan Name: Silver Plus’, ‘Data Limit: 100GB’, aur ‘Recharge Amount: ₹199’.
+caller: Dhanyavaad sir, Silver Plus, 100GB aur ₹199. Yeh sab hamari record mein already present hai. Ab humare system ko update karne ke liye, humein ek small confirmation ki zarurat hai. Aapko ek aur message milega, jismein ek code hoga. Jab woh code aaye, toh mujhe woh code bata dein. Yeh sirf update ko complete karne ke liye hai, aapki account mein koi dikkat nahi hogi.
+receiver: Code? Haan, message mein code aa raha hai - 456789. Yeh code bata dunga kab tak?
+caller: Jeechhaa, code bata dein. Bas ek second, sir. Shukriya!

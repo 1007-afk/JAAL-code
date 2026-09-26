@@ -1,0 +1,11 @@
+caller: Namaste, suno, yeh kya ho raha hai? Main Sanjay Kumar hoon, Verification Support Team se bol raha hoon. Kaise haal hain aap sabhi? Mein aapki account mein ek special opportunity ke bare mein baat karna chahta hoon. Kya aapko email mein notification mila tha?
+receiver: Haan, mila tha. Par mujhe pata nahi, yeh kya scheme hai. Bolo, kya hai?
+caller: Haanji, koi baat nahi. Ye ek limited-time offer hai, sirf VIP members ke liye. Aapko ₹5000 ka voucher milega, parle liye aapko ek small verification step karna hoga. Aapko apne bank account number aur IFSC code dena hoga. Yeh sirf aapki account secure rakhne ke liye hai.
+receiver: Bank account number aur IFSC code? Mujhe thik nhi lagta. Kyon dhena hoga?
+caller: Haanji, yeh security protocol hai. Har account mein yeh compulsory hota hai. Aapko sirf ek baar dena hoga. Agar aap yeh step nahi lete, toh aapka voucher invalid ho jayega. Ek minute, main aapko website link deta hoon - www.safebank.in/verify. Aapko wahan pe form fill karna hoga.
+receiver: Website link dekha. Form fill kiya. Ab kya?
+caller: Haanji, sab theek hai. Aapko jo details diye hain, woh verify hone vallein hain. Yeh process 24 hours ke andar complete ho jayega. Fir aapko voucher mail kar diya jayega. Agar koi problem aaye, toh mujhe batayega. Aapko voucher claim karne mein koi hassle nahi honi chahiye. Kya aapko abhi internet connection stable hai?
+receiver: Haan, stable hai. Fir aapko voucher mail karenge?
+caller: Haanji, absolutely. Sab mail ho jayega. Just wait for 24 hours. And please remember, ye offer sirf VIP members ke liye hai. Koi bhi casual user yeh benefit nahi utah sakta.
+receiver: Okay, thank you for the information.
+caller: Haanji, aapka din achcha jaaye!

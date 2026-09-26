@@ -1,0 +1,10 @@
+caller: Namaste! Main Vijay Sharma bolta hoon, Axis Bank se. Aapke naam par ek account hai, hai na?
+receiver: Haanji, hai. Axis Bank mein account mera hai. What's this about?
+caller: Sir, humein ek suspicious activity detect hui hai aapke account mein. Ek online transaction hua hai ₹12,000 ka, jo aapne nahin kiya hai.
+receiver: ₹12,000? Nahin, main toh aisa koi transaction nahi kiya!
+caller: Haan sir, seedhe aapki account se debit ho gaya hai. Aapko isko block karvana hoga, otherwise aur bhi transaction ho sakte hain. Isliye hum aapko call kar rahe hain.
+receiver: Okay, but what do I need to do? How do you verify that it’s me?
+caller: Sir, humein aapka OTP verify karna hoga jo aapko aapke registered mobile number par milega. Aur aadhaar card ka panna number bhi do, verification ke liye.
+receiver: Aadhaar number? Wait, that’s weird. Why would you need my Aadhaar number for a transaction verification? This doesn’t feel right.
+caller: Sir, please, time is critical. Agar aapko account block karwana hai toh ye information urgent hai. Account suspend ho sakta hai.
+receiver: No, I'm not giving you anything. I am going to call Axis Bank directly from their official number. This is a scam. Goodbye.

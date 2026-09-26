@@ -1,0 +1,8 @@
+caller: Hey beautiful! Just saw your profile on InstaDating. You're absolutely stunning! I'm Rohan, by the way. What are you up to tonight? 😊
+receiver: Hi Rohan! Thanks! Just chilling at home. Long day at work. You?
+caller: Same here! But feeling much better now that I stumbled upon your profile. Listen, I'm working on this new music project and I’d love to share a sneak peek with you. Got a really cool recording app, the sound quality is amazing. Wanna hear a quick sample? It’s something special, just for you. 😉
+receiver: A music project? That’s interesting! I like music. But what kind of music? And how did you get this amazing recording app?
+caller: It's a mix of Indian classical and electronica - quite experimental! As for the app, it’s a beta version, really exclusive. I got it through a friend. It allows video as well! We could chat while I play it, see each other...if you're comfortable. It'd be fun! I've been wanting to share it with someone who appreciates good music. It's very personal to me.
+receiver: Okay, that sounds kinda cool. I'm a little tired, but maybe later? I need to finish some things up. You said we can see each other? Like, video call?
+caller: Exactly! It’s a really advanced feature, lets me send and receive crystal-clear video. My phone's been acting up though... the app needs a small top-up to stabilize the connection during a video call. Just ₹2500 will do. Think of it as supporting a budding artist. Once that’s sorted, we can properly enjoy the music and chat. I promise it’ll be worth it!
+receiver: ₹2500?

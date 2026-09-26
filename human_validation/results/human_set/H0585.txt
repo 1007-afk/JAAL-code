@@ -1,0 +1,11 @@
+caller: Namaste, sir? Main Rahul se bol raha hoon, SecureCash Loans se. Aapki profile dekh kar, mujhe dikra hai ki aapne instant loan ke liye apply kiya tha. Verification ke liye call kar raha hoon. Kya aap abhi available hain?
+receiver: Haan, Rahul bhai. Main available hoon. Verification ka kya karna hai?
+caller: Sir, mujhe aapka PAN card aur bank account number chahiye hoga. Aur ek small verification fee ke liye ₹500 aapke account mein transfer karna hoga. Yeh bilkul secure process hai, sir, tension mat leiye.
+receiver: ₹500 fee? Loan ke pehle fee dena padega? Yeh toh apply karne ke time bataaya nahi tha.
+caller: Sir, security ke liye, government rule hai. ₹500 ek baar transfer ho gaya toh loan approve ho jayega, promise! Aur aapko ₹80,000 tak ka loan mil jayega.
+receiver: Okay, wait karo. Mein check karta hoon. (pause) Theek hai, mein transfer karta hoon. Account number bataiye.
+caller: Sir, account number hai [invent an account number]. Transfer kar dijiye. Jab transfer ho jaye, mujhe bataiye, sir. Aur ek baat bataiye, aapke phone mein pictures aati hain na? Aapka photo, ya family photos?
+receiver: Haan, phone mein pictures hain. Kya connection hai iska loan se?
+caller: Sir, verification ke liye, humein ek photo upload karna padega. Bas, ek selfie hi kaafi hai. Yeh process security check ke liye hai. Agar aap refuse karenge toh loan approve nahi ho payega.
+receiver: Selfie? Yeh toh suspicious lag raha hai, Rahul bhai. Mein think karta hoon mein nahi karunga.
+caller: Sir, aapko loan chahiye ya nahi? Seedhe bol dijiye, agar

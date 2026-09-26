@@ -1,0 +1,9 @@
+caller: Hello, main Paytm se Atul bolta hoon. Aapke Paytm wallet mein ek cashback offer hai. Rs. 5000 cashback claim karne ke liye, aapko ek small processing fee pay karna hoga, sirf Rs. 250.
+receiver: Rs. 250? Kya yeh offer achha hai? Paytm toh bilkul free cashback offer deta hai hamesha.
+caller: Haan ji, yeh ek special offer hai sirf select customers ke liye. Processing fee sirf ek verification charge hai, yeh ensure karega ki cashback aapke account mein sahi se credit ho. Aap Paytm app mein ek notification dekh sakte hain.
+receiver: Okay, toh kaise pay karun Rs. 250? Koi QR code bhejo ya link daalo. Meri security ka kya?
+caller: Koi QR code ya link nahi, beta. Aapse sirf ek UPI ID chahiye. Aap mujhe apna UPI ID de dijiye, main tumhe payment link send kar dunga, aur fees pay karte hi cashback aapke account mein transfer ho jayega.
+receiver: UPI ID? Thoda wait karo, main check karta hoon. Kya mujhe Paytm se confirmation message milega?
+caller: Haan ji, bilkul milega. Aapko ek confirmation SMS milega jab aapka cashback credit ho jayega. Ab UPI ID de dijiye taaki main aapko payment link send kar sakun. Jaldi karo, offer limited time ke liye hai!
+receiver: Theek hai, mera UPI ID [Victim’s UPI ID].
+caller: Thank you, beta. Abhi main aapko payment link send kar raha hoon. Jaldi se check karein aur pay kar dein. Cashback aapka hoga.

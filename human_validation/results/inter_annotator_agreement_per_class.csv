@@ -1,0 +1,9 @@
+Class,Full_Class_Name,Kappa_Overall,Support_Overall,Kappa_human_val,Support_human_val,Kappa_yt,Support_yt
+Banking/OTP,1 - Banking / KYC / OTP Fraud,0.6474,148,0.6693,131,0.3889,17
+UPI/Wallet,2 - UPI / Wallet Fraud,0.5913,104,0.618,95,0.3848,9
+Investment/Task,3 - Investment / Task Scam,0.7439,92,0.7551,80,0.5549,12
+Digital Arrest,4 - Digital Arrest / Government Impersonation,0.9159,102,0.9216,97,0.8429,5
+Loan App,5 - Loan / Credit App Scam,0.9432,95,0.959,93,0.3807,2
+Delivery/Care,6 - Delivery / Customer Care Scam,0.5987,91,0.6162,85,0.3151,6
+Dating/Romance,7 - Dating / Romance / Sextortion,0.6268,95,0.6504,90,-0.0212,5
+Telecom Scam,8 - Legacy Telecom Scam,0.686,318,0.6992,297,0.5333,21

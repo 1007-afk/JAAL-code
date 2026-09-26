@@ -1,0 +1,8 @@
+caller: Hello? Hello ji, aapne meri ek nayi voicemail dekhi thi? Please uss number pe call kar lijiye, 09876543210. Aapke paas bas do minute aur hain. Yeh bahut zaroori hai.
+receiver: Haan ji, maine dekhi thi aapki voicemail. Number note kar liya hai 09876543210. Chinta mat kijiye, main turant call karta hoon. Aapka naam kya hai by the way?
+caller: Ji, mera naam Mrs. Gupta hai. Aur main yeh aapko iss liye call kar rahi hoon kyunki aapki voicemail mein ek bahut hi zaruri update tha jo aapko turant receive karna chahiye. Woh time jo main aapko bataya tha, woh bahut tight hai. Please, jaldi se call kijiye uss number par.
+receiver: Okay Mrs. Gupta. Thank you for the information. Main abhi call kar rahi hoon uss number par. Aapka samjh mein aaya hai ki kitna urgent hai?
+caller: Oh, thank you so much for calling back!  Main toh bahut khush hoon ki aap call kar rahe ho. Just to confirm, aapke pass 09876543210 number hai na? Yeh bahut kritigiya hai ki aapko uss number par call karna pade.
+receiver: Haan ji Mrs. Gupta, number bilkul sahi note kar liya hai. 09876543210. Bas abhi connect kar raha hoon. Aapki baat samajh gayi hoon, time bahut kam hai. Koi tension nahi, main abhi call kar leta hoon.
+caller: Oh, excellent! Main toh bahut rahat feel kar rahi hoon ki aap call kar rahe ho. Just to be absolutely sure, jab aap 09876543210 ko connect karenge, toh unhone aap se ek verification code pucha hoga. Please, whatever they ask, just confirm it. Yeh bahut mahatvapurna hai ki update chal jaye. Kaise haal hai?
+receiver: Haanji Mrs. Gupta, verification code ka bhi dhyan rakhunga. Ready hoon, abhi connect karta hoon. Dhanyavaad ke baaten.

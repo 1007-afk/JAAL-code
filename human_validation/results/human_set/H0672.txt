@@ -1,0 +1,9 @@
+caller: Namaste! Is this Priya Sharma ji? I'm Rohan, calling from 'Eternal Bonds'. I believe you've been quite popular on 'HeartStrings' recently, receiving lots of attention!
+receiver: Haan, ji. Yeh main hi hoon, Priya Sharma. HeartStrings pe? Mujhe toh pata bhi nahi tha itna attention hai. Kya baat hai?
+caller: Arre, bohot zyada! Many people find your profile very attractive. We noticed you’ve been chatting with a gentleman named Akash. He seems genuinely interested, but he's facing a small issue preventing him from meeting you.
+receiver: Akash? Haan, baat kar rahi thi main uske saath. Kiski issue hai? Kya problem hai?
+caller: He's currently stuck abroad, in Dubai, due to a passport problem. He needs ₹50,000 urgently to get it sorted, otherwise he won't be able to return and see you. He's very embarrassed to ask, but he trusts you.
+receiver: ₹50,000? Kitna zyada amount hai! Aur woh passport problem? Itna serious? Main toh kabhi bhi usko itna paisa nahi de sakti. Yeh toh risky lag raha hai, Rohan ji.
+caller: I understand your hesitation, Priya ji. But Akash is a good man, and he’s very sincere about you. Think of it as helping someone you care about. Also, once his passport is sorted, he'll be able to fly here and shower you with gifts and affection. A small sacrifice for a great love story, no?
+receiver: Gifts and affection? Dubai mein passport ka kaam ₹50,000 mein ho jaata hai? Something doesn’t add up. Main ek baar Akash se khud baat karti hoon, then I decide. De do mujhe uska number.
+caller: Unfortunately, Akash

@@ -1,0 +1,7 @@
+caller: Namaste, suno. Main Vinay, PhonePe security team se baat kar raha hoon. Aapke PhonePe wallet mein kuch suspicious activity detect hui hai.
+receiver: Kya? Suspicious activity? Kaunsa activity? Mera toh kuch nahi kiya aaj tak.
+caller: Sir, ek new transaction attempt hua hai Rs. 5000 ka, ek unknown merchant ke taraf se. Security ke liye, humein aapki verification karni hogi. Account protect karne ke liye, kindly apni bank ka naam aur last 4 digits bataiye.
+receiver: Bank ka naam? Last 4 digits? Yeh thoda risky toh lag raha hai, na? PhonePe app mein toh verification ka option hona chahiye.
+caller: Sir, system mein technical issue aa gaya hai. App se verification currently available nahi hai. Aapki safety hamare liye important hai, isliye hum call par verification kar rahe hain. Bataiye, bank ka naam kya hai aur last 4 digits kya hain? Koi tension nahi, sir, hum sirf aapka account safe kar rahe hain.
+receiver: Okay, okay. Meri bank ICICI hai aur last 4 digits 1234 hain. Par mujhe yeh trust karney mein thodi difficulty ho rahi hai.
+caller: Shukriya, sir! ICICI aur 1234. Very good. Sir, ab hum aapko ek OTP bhejenge aapke registered mobile number par. OTP enter karke bataiye, aur phir sab safe ho jayega.

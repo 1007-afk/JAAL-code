@@ -1,0 +1,7 @@
+caller: Namaste, mai Airtel Payments Bank se Aakash bolta hoon. Aapko cashback offer ka notification mila tha na?
+receiver: Haan, ek notification aaya tha, par mai confirm nahi kar paya. Kya offer hai?
+caller: Ji, dekhiye, Airtel Payments Bank ke taraf se aapko UPI transaction pe ₹500 cashback offer mil raha hai. Par isko activate karne ke liye, aapko bas ek small processing fee bhar deni hai, ₹99.
+receiver: ₹99 fee?  Kya guarantee hai ki mujhe ₹500 cashback milega?
+caller: Bilkul guarantee hai! Yeh ek limited time offer hai, sirf 20 customers ke liye. Aapki registration confirm hone ke baad cashback instant aapke Airtel Payments Bank account mein credit ho jayega.  Abhi sirf 15 slots bache hain. Aapka UPI ID kya hai, mai confirm kar loon?
+receiver:  Hmm… okay, mera UPI ID [victim's UPI ID] hai. Par ₹99 fee kaisa bharu? Koi link ya app hai kya?
+caller: Haan, sir/ma’am. Aapko ek secure link send karta hoon.  Confirm kijiye ke aap ₹99 bharne ke liye ready hain, aur mai aapko link share karunga. Jald karein, slot jaldi bhar rahe hain!

@@ -1,0 +1,8 @@
+caller: Namaste! Is this Mrs. Kapoor? Ji, main 'Digital Solutions India' se baat kar raha hoon. Aapne online course registration ke liye payment kiya tha, aur usmein koi problem hai. Aapko website [onlinelearninghub.in](http://onlinelearninghub.in) par jaakar apna profile update karna hai. Aapke paas sirf 7 minutes ka time hai, please jaldi karo.
+receiver: Haan, hello. Main hi Mrs. Kapoor hoon. Online course? Haan, maine registration kiya tha. Website dekhoon abhi.  Thank you for reminding me, otherwise I wouldn’t have known about this. 7 minutes hai, okay, I am checking.
+caller: Exactly! 7 minutes ka time hai, so don’t delay.  [onlinelearninghub.in](http://onlinelearninghub.in) par jao aur profile update kar lijiye.  Aapka access aapke liye hi secure hai.
+receiver:  Haan, dekhooon... Profile update section hai.  Thanks for the notification, actually forgot about it.  Course mein kya-kya hai, sirf curious hoon.
+caller: Ji Madam Kapoor, woh aapke choice ke basis par hai.  Aapko woh syllabus milega jo aapne selected kiya tha.  Time bahut kam hai, firse update kar lijiye, phir dekh sakte hain.  Jaldi karo, timer running hai!
+receiver:  Okay, profile update ho gaya!  Phew, relief! Thanks a lot!  And how long is this course valid for?
+caller: Wonderful! Madam, your subscription details are updated. Now you can access and enjoy all the learning materials. You quickly completed the update, good job! Any other questions?
+receiver:  Okay, thank you for informing me.  Anything else I need to do?

@@ -1,0 +1,9 @@
+caller: Namaste, is this Mrs. Sharma? I'm calling from Axis Bank's Security Department.
+receiver: Haan, main hi hoon. Bolo kya baat hai?
+caller: Ma'am, we've noticed some unusual activity on your Axis Bank credit card. It appears someone attempted a transaction at an online store in the US for 12,000 rupees. We're calling to verify if you authorized this.
+receiver: 12,000 rupees? Nahin, main toh kabhi US se nahi khareeda. Yeh toh fraud lag raha hai!
+caller: Exactly, ma'am. That’s why we’re calling. To protect your account, we need to quickly confirm a few details. Could you please provide the last four digits of your Aadhaar card, just for verification purposes? It’s a standard security procedure.
+receiver: Aadhaar number? Phone pe? Kaise hoga yeh safe? Mujhe toh kuch suspicion aa raha hai. Bank toh kabhi Aadhaar number phone pe nahi puchta.
+caller: Ma’am, please understand, your account is at risk of being suspended if we don’t verify this urgently. We are following strict protocol. Just the last four digits, please. Also, could you tell me the OTP you just received on your registered mobile number? We need to confirm you’re the account holder.
+receiver: OTP? Dekhiye, mujhe abhi toh doubts ho rahe hain. Main bank ke customer care number se call karke verify karungi. Aap mujhe wait karwaa rahe hain aur kuch kuch puch rahe hain, jo risk lagega. Main abhi phone cut kar rahi hoon.
+caller: Ma'am, please don’t cut the call! This is a serious security threat. You need to cooperate to secure your funds! Your account will be blocked permanently.

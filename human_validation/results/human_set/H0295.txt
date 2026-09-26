@@ -1,0 +1,8 @@
+caller: Namaste, is this Mr. Patel? This is the Cybercrime Investigation Cell. We've detected suspicious activity on your digital wallet linked to Paytm. It appears funds have been transferred to a known gambling site.
+receiver: Kya? Gambling site? Mein toh kabhi gambling nahi karta! Mere Paytm account mein kya ho raha hai?
+caller: Sir, this is a serious matter. We've flagged ₹15,000 as potentially laundered. To clear this, you need to deposit ₹5,000 into the account we’ll provide. This will prove you are not involved in illegal activities. Otherwise, we will have to file a formal complaint with the authorities.
+receiver: ₹5,000? Lekin kyun? Mein toh kuch bhi galat nahi kiya! Aur Cybercrime Investigation Cell se aisa kaise ho sakta hai?
+caller: Sir, we need to act fast. The transaction is still pending review. To facilitate this, we'll need you to confirm your UPI PIN as well, so we can verify your identity and ensure the funds are secured. Please don’t worry, it’s just a formality.
+receiver: UPI PIN? Nahin, main yeh nahi karne wala! Yeh toh scam lag raha hai! Mein police mein report karunga!
+caller: Sir, please! Don’t be hasty. Providing your UPI PIN is the only way to prevent this from escalating. We can’t risk further investigations if you don't cooperate. A FIR will be lodged against you immediately.
+receiver: Main abhi police ko phone karta hoon! Yeh number save karta hoon!

@@ -1,0 +1,8 @@
+caller: Hello? Hello! Can you hear me? I'm calling from FreeMsg. Did you get our text about claiming your reward? You've got 3 hours of free talk time waiting for you, just like that! It's super easy to claim. Have you seen the text yet? We just need to confirm a couple of things to get it activated for you.
+receiver: Haan ji, hello! Sunai de raha hai. FreeMsg se ho aap? Reward wala text? Haan, dekha tha maine. Toh, kya confirm karna hai?
+caller: Haan ji, bilkul! Bas kuch basic details chahiye to verify ki ye aapka hi account hai. Kya main aapka naam jaan sakta hoon, please? Aur kya aap bata sakte hain ki aap kaunsa mobile network use karte hain? Itna ho jayega toh hum jaldi se aapka reward activate kar denge.  Aapka 3 ghante ka talk time, bas kuch hi seconds mein aapke phone pe hoga!
+receiver: Ji, mera naam Rohan Sharma hai. Aur main Jio use karta hoon.
+caller: Great, Rohan! Thanks for confirming. Just to make sure everything is secure, can you also confirm your mobile number? We need it to link the reward to your account. Don't worry, it's just for activation purposes.
+receiver: Mera mobile number hai 9876543210. Aapko aur kuch chahiye?
+caller: Perfect, Rohan! Just one more quick thing. To finalize the activation, can you confirm the last four digits of your SIM card number? It's a standard security check to ensure everything is in order for your 3 hours of free talk time.  It helps us prevent any unauthorized access to your reward.
+receiver: SIM card ke last four digits? Uhh... ek minute, main check karta hoon. Yeh toh phone pe hi likha hoga na? Kahan milega yeh?

@@ -1,0 +1,8 @@
+caller: Namaste, Madam. Main ICICI bank se Rahul Sharma bol raha hoon. Aapke naam par ek international transaction attempt hua hai, ₹7800 ka, Nepal mein. Yeh aapne kiya tha ya nahin?
+receiver: International transaction? ₹7800? Mujhe toh koi idea nahi hai. Nepal mein? Yeh kya ho raha hai?
+caller: Madam, security protocol ke hisaab se, aapko verify karna hoga. Hamara system aapki personal details check karna chahta hai. Sirf aapka naam aur date of birth bataiye, taaki hum yeh transaction block kar sakein.
+receiver: Date of birth? Kya zaroorat hai? Aur mein naam toh bata chuki hoon, Rahul Sharma. Aapko kaise pata chala ki main Madam hoon?
+caller: Madam, woh system mein auto-detected ho gaya. Date of birth se hum verify kar sakte hain ki aap hi account holder hain. Iska bina kaise hum ₹7800 ka risky transaction block kar payenge?
+receiver: Dekhiye, mujhe yeh kuch bhi nahi pasand aa raha. Mein koi bhi detail share nahi karungi jab tak mujhe pata nahi chalta ki aap sahi bol rahe hain. Aap mujhe ICICI bank ka office number de sakte hain, ya koi senior officer ka number, jisse mein baat kar sakoon?
+caller: Madam, abhi is time mein koi senior officer available nahi hain. Yeh emergency hai. Jaldi se date of birth bataiye, warna aapka account suspend bhi ho sakta hai.
+receiver: Account suspend? Abhi toh aap se baat kar rahi hoon. Mein koi bhi information nahi degi. Mein abhi ICICI bank mein complaint register karwaungi. Alvida.

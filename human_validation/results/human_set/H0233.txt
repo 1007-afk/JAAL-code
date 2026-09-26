@@ -1,0 +1,7 @@
+caller: Namaste, this is Priya calling from 'Eternal Bonds'. We’ve received a message from a very special admirer, a gentleman named Rohan. He's quite shy, but he asked us to contact you personally. Are you free for a moment?
+receiver: Haan, hello? Eternal Bonds? Rohan? Who is this Rohan? I don't think I know anyone named Rohan.
+caller: He mentioned you frequently, and he's been hesitant to reach out himself. We're just acting as a messenger. To confirm this is the correct profile, could you please verify your date of birth? Just year and month will do. It's a security measure.
+receiver: Date of birth? That seems a bit strange, doesn't it? Why would I give that to someone I don’t even know? And why are you contacting me? This feels a bit fishy.
+caller: Absolutely understandable, madam. It’s just a standard protocol. Rohan is willing to send you a small, heartfelt gift as a token of his admiration, but we need to ensure the information is correct. The gift is worth ₹500, and we’ll need a small processing fee of ₹150 to facilitate the delivery.
+receiver: ₹150 for a ₹500 gift? Now you're really raising my suspicions. What kind of gift is it anyway? And what's your company's registration number? I want to be sure this isn’t a scam.
+caller: The gift is a beautiful handcrafted silver bracelet, madam. And our registration number is EB-2023-DELHI. We can provide additional details if you wish. But time is of the essence, as Rohan is eager to express his feelings.

@@ -1,0 +1,7 @@
+caller: Hello? Ji, is this Mr. Rajesh Sharma? I’m calling from the Cyber Crime Investigation Cell. We’ve detected suspicious activity on your bank account linked to an illegal parcel delivery.
+receiver: Haan, bolhiye. Illegal parcel? Mere account se? Kya hua?
+caller: Ji, sir. It appears a package containing contraband was shipped to your address using your bank details. We need to verify your information immediately to prevent further legal action. You need to deposit ₹5,000 as a security fee.
+receiver: ₹5,000? Wait a minute! Contraband? Mere address par? Main toh kabhi parcel receive nahi kiya. Yeh kya bakwas hai?
+caller: Sir, please don’t argue. This is a serious matter. We are keeping you on a video call to ensure you don’t contact anyone else to interfere with the investigation. The amount needs to be deposited urgently into the account I will provide. We are trying to protect you from arrest.
+receiver: Video call? Account number? Sir, yeh toh fraud lag raha hai. Main police station mein report karunga. Aapko pata hai main kis bare mein bol raha hu?
+caller: Sir, please cooperate. We just need the ₹5,000. Once the amount is deposited, we will clear your name and close the case. We can provide you with a transaction ID to show you it's a genuine process. We need to resolve this quickly before a warrant is issued.

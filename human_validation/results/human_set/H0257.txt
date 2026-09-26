@@ -1,0 +1,7 @@
+caller: Namaste Aunty! Main Airtel verification team se bol raha hoon. Aapke Airtel account mein ek suspicious transaction ho raha hai – ₹200 ka online game recharge.
+receiver:  Kya? ₹200? Maine koi game nahi khela. Kaise hua?
+caller:  Haan Aunty, hacker ne try kiya hai. Aapko secure karna hai.  Main aapko OTP send karunga, usse verify karke, hum hacker ko block kar denge. OTP hai – 4567.
+receiver:  4567? Okay, verify ho gaya. Ab kya karna hai?
+caller:  Acha, thank you Aunty. Ab aapko ₹50 ka security charge deposit karna padega. Tabhi account fully secure ho jayega.  Payment karne ke liye, is UPI ID pe send karein – secureAirtelpay@upi.  Jaldi karein, offer limited time ke liye hai.
+receiver: ₹50?  Security charge?  Airtel toh kabhi aise nahi bola.  Yeh kuch ghalat lag raha hai.
+caller:  Aunty, mat late karein! Account hack ho jayega. ₹50 hi aapki puri security ke liye zaruri hai.  Payment karte hi aapko confirmation message mil jayega.

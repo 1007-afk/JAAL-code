@@ -1,0 +1,10 @@
+caller: Namaste! Kaise ho aap? Hum dono ko ek bahut badi opportunity mili hai - Sharma Ji ne apne house ke decoration ke liye ek unique chandelier ki order di hai. Aur humari company ne usse bana diya hai, bahut shandaar hai!
+receiver: Namaste! Mein bhi accha hoon. Chandelier? Sharma Ji? Kahaani sunao.
+caller: Haan, Sharma Ji Delhi mein rahte hain, unhone humein kaha ki unhe ghar mein ek aisa chandelier chahiye jo poora light reflect kare aur bahut stylish bhi ho. Humein uski copy banaayi hai, aur woh dekhkar Sharma Ji bahut khush honge!
+receiver: Delhi mein Sharma Ji? Interesting! Woh kya material se bana hua hai chandelier? Aur yeh copy banaane mein kitna time laga?
+caller: Woh gold aur silver se bana hua hai, aur ekdum shiny hai! Banao mein sirf 5 din lage, Sharma Ji ne humein told that they are very happy with it. Unhone humein ₹12000 ka cheque bheja hai, aur humko wo refund karna hai.
+receiver: ₹12000? Itni paise? Kya koi mistake hai? Aur cheque kab bheje gaya? Sharma Ji ne tumhein kya kaha?
+caller: Haan, mistake nahi hai! Sharma Ji ne humein kaha ki unhe cheque bank account mein transfer karna hai. Agar tum bhi aise chandelier istemilna chaaho, toh humko ₹11000 dena hoga, aur hum tumhare bank details le lenge. Tumhe pasand ayega!
+receiver: Bank details? Mujhe thode din do, mein sochta hoon. Sharma Ji ka cheque number batao, fir hi kuch decide kar sakta huon.
+caller: Haan, cheque number hai 7894561230. Fir aap cheque transfer karke humein confirmation dedo. Yeh offer sirf aaj raat ka hai!
+receiver: Raat ka? Seriously? Sharma Ji ka naam toh suna, par yeh offer mein koi trust nahi hai.

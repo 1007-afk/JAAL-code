@@ -1,0 +1,6 @@
+caller: Hello, sir? This is from BharatPe support. We've noticed unusual activity on your BharatPe account. It looks like someone might be trying to access it.
+receiver: Oh really? What kind of activity? I haven't done anything different.
+caller: Sir, there was a small withdrawal attempt of 200 Rupees. To secure your account, we need you to verify a small processing fee of 75 Rupees. Just to confirm it's really you.
+receiver: 75 Rupees? Why do I need to pay a fee to secure my account? That sounds a bit strange, doesn't it? BharatPe never asked me for money before.
+caller: Sir, this is a new security protocol to prevent fraud. It’s a one-time charge. Just send 75 Rupees to this UPI ID: 8800227799. Once that's done, your account will be fully secured. Quick, please!
+receiver: Wait a minute… 8800227799? That's not a BharatPe UPI ID. I’m calling BharatPe support directly. Don't call me again.

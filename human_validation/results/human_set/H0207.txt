@@ -1,0 +1,8 @@
+caller: Namaste Madam, mein Axis Bank Cyber Cell se Rohit Sharma bol raha hoon. Aapke account mein kuch suspicious activity detect hui hai.
+receiver: Suspicious activity? Kya hua? Mein toh aaj kisi bhi transaction ka nahin kiya.
+caller: Haan Madam. Ek online transaction attempt kiya gaya tha, lekin woh fail ho gaya. Security ke liye, humein aapke account details verify karne ki zaroorat hai. Aapka OTP bataiye please.
+receiver: OTP? Lekin maine toh koi transaction nahin kiya. Aur aapko OTP kyun chahiye? Main toh kabhi bhi phone par OTP share nahin karta.
+caller: Madam, yeh ek urgent matter hai. Agar aap OTP nahin denge toh humko account suspend karna padega. 24 hours ke andar account freeze ho jayega. Woh bhi sab ka sab paisa. Aapka loss hoga.
+receiver: Freeze ho jayega? Theek hai, theek hai. Dekhiye, mein scared hoon. Mere pass OTP hai, lekin mein confirm karna chahta hoon. Aap mujhe Axis Bank ka official helpline number de sakte hain? Mein khud check karta hoon.
+caller: Madam, time nahi hai. Process bahut fast hai. Jo bhi OTP hai usko bataiye. Just 4 digits ka number hai Madam. Account ko secure karne ke liye.
+receiver: Okay, wait a second. Let me just check something…

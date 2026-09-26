@@ -1,0 +1,7 @@
+caller: Namaste! Yeh Ankit se baat ho rahi hai, Flipkart se. Aapke Flipkart account mein ₹5000 ka cashback pending hai. Abhi Diwali offer chal raha hai, isliye hum pending cashback ko clear kar rahe hain. Iske liye sirf ek OTP verify karna hai.
+receiver: Really? ₹5000 cashback? Mein Flipkart pe kuch buy toh nahi kiya tha. OTP kahan aayega?
+caller: Haan ji, bilkul sahi! Aapke account mein pending cashback hai. OTP aapke registered WhatsApp number par aayega. OTP milne ke baad, WhatsApp par mujhe reply karein, aur main aapke account ko verify kar dunga.
+receiver: Okay, WhatsApp pe OTP aaya hai. Mein number par reply kar dunga. Par main thoda doubt mein hoon. Flipkart aise messages kabhi nahi bhejta tha.
+caller: Koi doubt nahi, sir! Yeh Diwali special offer hai. Security ke liye hum WhatsApp se verify kar rahe hain. Fast reply karein, offer limited time ke liye hai!
+receiver: Okay, I sent the OTP. Now what do I do? I am still feeling a little uneasy.
+caller: Achha, ab main aapke account ko update kar raha hoon. ₹5000 cashback aapke Paytm wallet mein transfer ho jayega. Iske liye Paytm account number bhi de dijiye.

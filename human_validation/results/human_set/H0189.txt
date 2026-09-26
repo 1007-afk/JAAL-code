@@ -1,0 +1,9 @@
+caller: Hello! I’m calling from ‘Global Fortune Ventures’. We have detected a significant increase in your account’s potential earning—₹15,000 available for immediate withdrawal! To process this, a small security verification fee of ₹75 is required.
+receiver: ₹15,000? Really? How is that possible? I don't recall having an account with Global Fortune Ventures. What kind of verification fee is this?
+caller: Yes, ma'am! It's a promotional offer for new investors. We’ve identified your profile as eligible. The ₹75 is for updating your transaction security settings and ensuring a smooth transfer. It’s a one-time charge. Just UPI to the given number.
+receiver: Okay, but which UPI ID should I use? And how will this ₹15,000 be transferred to my bank?  I'm a little unsure about this.
+caller: Absolutely! UPI ID is 8765432109@axisbank. The funds will be credited to your linked bank account immediately after the verification is complete and the fee is processed.  A confirmation SMS will be sent to you once done. Don't delay—this offer is valid for the next hour only!
+receiver: An hour only? Alright, I’ll try it. Just send me the confirmation SMS first, then I’ll proceed with the payment.
+caller: Congratulations! Your verification is complete, and the ₹15,000 is now being transferred. To unlock the full amount, a final insurance fee of ₹2500 is required to prevent fraudulent activity. This is a standard procedure.
+receiver: ₹2500? Seriously? I just paid ₹75. Why is there another fee now?
+caller: Ma’am, security is our top priority! This insurance fee protects

@@ -1,0 +1,7 @@
+caller: Namaste! Sir, I’m calling from CryptoGainz. We’ve identified you as a potential high-earner looking to invest in digital assets. We have a limited-time opportunity on our new AI trading bot that’s giving 30% daily returns!
+receiver: CryptoGainz? 30% daily? That sounds too good to be true, frankly. What’s the catch?
+caller: No catch, sir! Our AI algorithms predict market movements with incredible accuracy. However, to activate your premium access, you need to fund your account with a small initial investment. Just ₹5,000 to start, and we’ll show you how the bot works live.
+receiver: ₹5,000? Okay, that's not a lot. Where do I send the money? And can I withdraw it whenever I want?
+caller: You can use UPI, sir. The details will be sent to you in an SMS. And absolutely, you can withdraw your profits anytime. But remember, the first few days are crucial for maximizing returns, so please don't withdraw immediately.
+receiver: Alright, send me the UPI details. Let’s see how this works. I’m a bit skeptical, but I’m willing to try a small amount.
+caller: Wonderful! We're confident you'll be thrilled with the results. Once the money is transferred and the account is activated, our expert will guide you through the platform.  Just remember, this offer won’t last long, sir. Many others are grabbing this chance!

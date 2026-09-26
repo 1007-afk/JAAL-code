@@ -1,0 +1,7 @@
+caller: Namaste, sir? This is Anika calling from Axis Bank's KYC verification department. We’ve noticed some discrepancies in your account details and need to urgently update your information to prevent suspension. Do you have a moment?
+receiver: Haan, Anika? Kya discrepancies hain? I was just checking my account online, everything seemed fine.
+caller: Sir, our system flagged an unusual login attempt from a foreign IP address. To secure your account and avoid any potential fraud, we require you to verify your Aadhaar number for immediate updating. It's a standard procedure to safeguard your funds.
+receiver: Aadhaar number? Over the phone? That doesn't sound right. I've heard about scams where they ask for Aadhaar. Why can’t I do this online, through the Axis Bank app?
+caller: Sir, for security reasons, this process is only conducted over the phone. The app isn't fully updated to handle this specific type of verification. We are trying to prevent hackers accessing your account and emptying it completely.  Failure to update your Aadhaar immediately will result in your account being locked for security reasons.
+receiver: Locked? Okay, okay, hold on. Just to be sure, what's my customer ID? And can you confirm the last four digits of my account number? Let’s verify that you're genuinely from Axis.
+caller: Absolutely, sir. Your customer ID is AXB-789456 and the last four digits of your account are 1234. Now, for the Aadhaar verification, can you please provide the full Aadhaar number so we can proceed with the security update?

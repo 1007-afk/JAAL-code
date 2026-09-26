@@ -1,0 +1,6 @@
+caller: Hello, is this Mr. Verma? This is Raj from BlueSwift Courier. We have a package for you from Meesho, but there's been a slight issue with the address verification.
+receiver: Haan, bolie. Meesho ka package? Kya problem hai?
+caller: Sir, the pin code doesn’t quite match our records. To confirm delivery, we need you to quickly verify a one-time password we’ve sent to your registered mobile number. Just tell me the OTP, sir.
+receiver: OTP? Kaise? Meesho toh kabhi OTP nahi maangta. Yeh kuch gadbad lag rahi hai.
+caller: Sir, it's a security measure.  Meesho has outsourced address verification to us. We need to confirm it's you. It's a very quick process, and the package will be delivered today itself. Please provide the OTP, sir. It starts with a 7.
+receiver:  7 se shuru hone wala OTP? Ek minute. Mein Meesho app check karta hoon… Wait, mujhe kuch SMS nahi aaya.  Yeh to fake lag raha hai.

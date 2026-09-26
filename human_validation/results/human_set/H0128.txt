@@ -1,0 +1,7 @@
+caller: Hello, is this Ms. Sharma? I'm calling from the Directorate of Revenue Intelligence, Delhi. We've flagged some unusual activity linked to your bank account, specifically regarding a large international transaction.
+receiver: Hello? Yes, speaking. What’s this about? Which bank account are you referring to?
+caller: Yes, Ms. Sharma. We've noticed a remittance of a substantial amount, originating from overseas, with details indicating it might be linked to illegal gold smuggling. Don't be alarmed, we just need to verify some information to clear things up. Can you confirm your account number for verification purposes?
+receiver: Illegal gold smuggling? That’s ridiculous! I haven't received any money from overseas. My account number is [Invent a plausible 12-digit Indian bank account number, e.g., 123456789012]. But why aren't you calling from the bank itself?
+caller: Ms. Sharma, this is a sensitive matter, and protocol dictates we contact directly from the DRI. We need to ascertain whether you authorized this transaction. To proceed, we require a quick OTP verification sent to your registered mobile number to ensure your identity. Please provide the last four digits of your mobile number so we can send the OTP.
+receiver: OTP? Wait a minute. This sounds very suspicious. I'm not giving you any OTP. I'm calling my bank right now to check this. You can keep your OTP and your gold smuggling nonsense.
+caller: Hello, is this Ms. Sharma? I’m calling from the Directorate of Revenue Intelligence, Delhi.

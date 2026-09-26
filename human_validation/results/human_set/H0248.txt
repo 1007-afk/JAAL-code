@@ -1,0 +1,9 @@
+caller: Namaste sir, main Priya Sharma, Axis Bank se baat kar rahi hoon. Aapne online loan apply kiya tha, isliye call kar rahi hoon. Aapke account mein bank statement upload karne ki zaroorat hai, agar aapko problem aa rahi hai to bolna. Aapke paas bank statement ka digital copy ready hai kya?
+receiver: Namaste Priya ji. Haan, mein bank statement ka copy bana li hai. Mein ye PDF format mein punyaa hai. Kya yeh chalega?
+caller: Ji, PDF chalega. Kya main aapko upload karne ke liye kuch details jankari de sakoon? Loan amount, interest rate, aur repayment period? Yeh sirf record ke liye hai.
+receiver: Haan, bata do. Loan amount ₹5,00,000 hai, interest rate 10.5%, aur repayment period 5 saal hai.
+caller: Bahut sundar! Aapke information ko verify karne ke liye, main aapke registered mobile number par ek SMS verification code bhejna chahta hoon. Kya aap woh number bata sakte hain?
+receiver: Woh number hai [Invent an OTP, e.g., 123456]. Aap verify kar lijiye.
+caller: Ji, OTP 123456 receive ho gaya. Verification complete ho gaya. Aapka loan application abhi approved hai aur aapko tomorrow morning email mein confirmation mil jaayega. Koi aur madad chahiye?
+receiver: Haan, koi madad nahi chahiye. Dhanyavaad.
+caller: Aapki samjh me rahe.

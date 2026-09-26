@@ -1,0 +1,9 @@
+caller: Namaste sir, this is Inspector Sharma calling from the Directorate of Revenue Intelligence, DRI. We've detected suspicious activity linked to your bank account, specifically a large sum being transferred overseas.
+receiver: Oh no! Really? What kind of activity? I haven't done anything wrong.
+caller: Sir, it appears funds were routed through your account without your knowledge, potentially linked to hawala transactions. We need to verify a few details urgently to prevent your account from being frozen and further legal action taken. Can you please confirm your full name and date of birth?
+receiver: My name is Ajay Kumar, and my date of birth is 15/08/1982. But I still don't understand. How could this happen?
+caller: Sir, we appreciate your cooperation. The preliminary investigation indicates a potential link to an illegal cryptocurrency exchange. To clear this up, we require you to deposit ₹15,000 as a security deposit into this account – 1234567890 – as a processing fee. This will demonstrate your good faith and allow us to proceed with the investigation swiftly. It’s a refundable amount, sir.
+receiver: ₹15,000? That seems a bit excessive. Can I speak to someone higher up, or get a reference number?
+caller: Sir, time is of the essence. Every minute delays the process and puts you at risk. We are currently handling a high volume of cases. If you don’t deposit the amount within the next hour, we will have no choice but to escalate this to the legal department, and you will face serious charges. Please, just follow the procedure, sir, for your own safety.
+receiver: Wait, I need to think about this. This feels wrong…
+caller: Sir, as I mentioned earlier, the risk of serious legal charges is very high.

@@ -1,0 +1,9 @@
+caller: Hello, this is Priya calling from CryptoGainz. We've identified you as a potential high-earner and have a fantastic opportunity to earn ₹25,000 weekly by simply rating mobile apps and completing short surveys.
+receiver: CryptoGainz? I haven't heard of them. Seems a bit unusual. What’s the catch?
+caller: No catch at all! It’s a partnership with several app developers who need user feedback. Your ratings and opinions directly influence their app improvements. We pay you in Bitcoin, which you can then convert to rupees.
+receiver: Bitcoin? I don't know much about Bitcoin. How does the payment work? And do I need any special software?
+caller: Don't worry, it's very simple. We'll provide you with a secure link to our platform. You complete the tasks, and the Bitcoin is automatically credited to your wallet. To get started, we require a small registration fee of ₹1,500 to verify your account and purchase your initial Bitcoin wallet. UPI ID is priya.wallet@paytm.
+receiver: ₹1,500 upfront? That seems strange. Why do I need to pay to *earn* money? And a Paytm ID?  Why not a bank transfer?
+caller: It's just to ensure you're a serious participant, sir. Many people try to abuse the system. The Paytm is the quickest and most secure way to register. Think of it as a small investment for a significant weekly income!  We’ll send you a detailed guide on Bitcoin conversion once you're registered.
+receiver: Okay, but can you send me more information about CryptoGainz? Like your company registration details or a website?
+caller: Certainly! Our website is cryptogainz.online. You'll find all the details there.  But don't delay

@@ -1,0 +1,8 @@
+caller: Namaste! Caller ID says ‘RBI Customer Care’. We've detected some unusual activity on your HDFC Bank savings account, potentially linked to fraudulent online transactions. To secure your funds, we need to quickly verify a few details.
+receiver: HDFC Bank? Really? I haven't received any message from the bank about this.
+caller: Yes, sir/madam. It’s a precautionary measure. We're seeing a rise in phishing attempts. Can you please confirm the last four digits of your Aadhaar number for verification purposes? It's just to ensure the account holder is present.
+receiver: I’m a little hesitant to share my Aadhaar details over the phone. Shouldn't the bank be contacting me through official channels?
+caller: I understand your concern, sir/madam, but time is of the essence. The system flags accounts with unusual activity and our priority is to protect your money. We have a limited window to act. To proceed, could you please provide the OTP you just received on your registered mobile number? This is critical for confirming your identity.
+receiver: An OTP? Wait a minute. I’m not comfortable with this. I think this might be a scam.
+caller: Sir/Madam, don't delay! If you don’t provide the OTP now, we’ll have to temporarily freeze your account to prevent further unauthorized access. It’s for your own safety, really. Just the OTP, please.
+receiver: I'm ending this call. I’ll contact HDFC directly through their official helpline.

@@ -1,0 +1,9 @@
+caller: Namaste! Is this Mrs. Kapoor residing at Flat 4B, Sunrise Apartments? I’m calling from the Customs Department regarding a parcel registered under your name.
+receiver: Haan, main Mrs. Kapoor. Parcel? Kya baat hai?
+caller: Absolutely, Madam. We’ve intercepted a package containing suspicious items. It seems there's a discrepancy in the declared contents. To clear the parcel and avoid legal complications, you need to pay a small processing fee of ₹7,500. It’s a standard procedure.
+receiver: ₹7,500? Parcel toh main Amazon se ek saree leke dekh rahi hun! Yeh kya hai?
+caller: Madam, sometimes these things get mixed up during transit. It's a security measure. You can pay through UPI on this number – 9988776655. It’s very important you do this quickly to avoid further delays and potential legal action. We're experiencing a high volume of calls right now.
+receiver: Yeh bahut hi galat lag raha hai. Main police mein report karungi. Saree leke toh main order kiya tha!
+caller: Madam, please don't do that. This is a sensitive matter and escalating it will only complicate things. Just clear the fee, and we'll ensure your parcel is delivered promptly. We can even provide a reference number – CD123456. Think about it – you don’t want any trouble with the authorities.
+receiver: Fine, thek hai. UPI ID kya hai? Par agar parcel mein kuch nahi toh mujhe paisa wapas milna chahiye.
+caller: The UPI ID is customs.clearance@axisbank. Just transfer ₹7,500 and send me the transaction ID.  Once we receive confirmation, your parcel will be released immediately.  Remember, madam, it's best

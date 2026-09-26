@@ -1,0 +1,11 @@
+caller: Namaste! Suno, tumhari name ka record dekha, tum bahut eligible ho! Hum ek Diwali special lottery chal rahe hain, aur tumhari selection hui hai. Tumko ₹50,000 ka cheque khola jaane wali hai, lekin fir ek small verification process karna hoga.
+receiver: Haanji, ₹50,000 ka cheque? Seriously? Kaha se mila ye offer?
+caller: Haanji, yeh ek government initiative hai, Diwali ke upar. Aur tumhari ID number tumhare application mein hai. Verification ke liye, tumko ek OTP chahiye hoga, aur phir kuch personal details jaisi ki bank account number aur Aadhaar card number lagana hoga.
+receiver: Bank account number aur Aadhaar card number? Mujhe woh details doobte hue nahi. Woh toh private information hai!
+caller: Arjun ji, yeh process compulsory hai. Agar tum verification nahi karoge, toh tumko cheque nahi milega. Tumko ₹50,000 ki loss hone wali hai. Isliye, tumhare safety ke liye, hum tumhein yeh step bata rahe hain.
+receiver: Parantu, mujhe itni hurry mein yeh sab submit karna nahi chahiye. Main pehle research kar lunga.
+caller: Arjun ji, yeh offer sirf 7 days ke liye chal raha hai. Aur humare pass bahut zyada people hain jo wait kar rahe hain. Tumhari lucky chance tumhara hai, tumko isko miss mat karna. Tumko ₹50,000 ka cheque milne ke liye, tumko aaj hi form fill karna hoga.
+receiver: Okay, fine.  Main form fill kar deta hoon.  Parantu, agar koi fraud hai toh main police mein complaint karunga.
+caller: Arjun ji, tumko koi fraud nahi hoga. Yeh totally legitimate process hai. Hum Delhi Police ke sath bhi collaboration karte hain, tumhari security ke liye.  Tumko sirf 2-3 minutes mein yeh process complete karna hoga.  OTP mila ke, details enter karo.  Agar koi problem aaye, toh mere helpline number pe call karo - 9876543210.
+receiver: Theek hai, main OTP check kar raha hoon.  Aapka helpline number save kar li hai.
+caller: Bahut sundar!  Tumka interest dekhkar acha laga.  Form fill karne ke liye thank you.  Aapko ₹50,000 ka cheque soon mil jaega.  Happy Diwali!

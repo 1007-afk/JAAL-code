@@ -1,0 +1,6 @@
+caller: Namaste! Mera naam Rohan hai, Flipkart customer care se. Aapke Flipkart account mein ek delivery address update ka attempt hua hai. Security ke liye, kindly OTP share karein.
+receiver: Haan, theek hai. OTP check kar leta hoon. Flipkart app mein koi notification aaya tha kya?
+caller: Haan ji, app mein bhi notification milega. OTP hai 485927. Iska use karke update confirm karein taaki aapka package safe ruke.
+receiver: Arrey yaar, OTP aaya tha lekin Flipkart app se nahi. Yeh number se aaya hai. Koi galti toh nahi?
+caller: Sir, technical issue ho sakta hai. Package deliver karne mein delay nahi honi chahiye. Please OTP share karein, hum process complete kar denge. Humara system automatic hai.
+receiver: Theek hai, ek minute. (pause) Sir, mujhe abhi Flipkart se call aaya tha, aur woh keh rahe hain ki koi address update attempt nahi hua hai. Is number se baat maat karo, scam lag raha hai!

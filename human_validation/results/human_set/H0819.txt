@@ -1,0 +1,6 @@
+caller: Namaste! Main BharatCashLoans se Rahul bol raha hoon. Aapko urgent loan chahiye kya? Koi bhi amount, kisi bhi purpose ke liye, credit score koi matter nahi. Bataiye aapka naam kya hai?
+receiver: Haan, main Priya Sharma hoon. Loan ki zaroorat toh hai, lekin mujhe acchi offer pasand hai. Kitna interest lagega?
+caller: Priya ji, BharatCashLoans mein hum best interest rates offer karte hain! ₹50,000 se ₹25 lakh tak ka loan sirf 1% EMI ke saath! Aur approval bhi sirf 5 minute mein. Aapki salary kitni hai, Priya ji?
+receiver: ₹50,000 ka loan mujhe chahiye. EMI 1% toh bahut kam lag raha hai. Par main scared hoon, kyunki kabhi-kabhi yeh offers fake hoti hain.
+caller: Priya ji, trust us! Hum government-approved company hain. Aapko sirf bank account details aur OTP dena hai, tabhi loan process start ho jayegi. Aur ek verification ke liye, aapko ₹2500 ka processing fee deposit karna padega.
+receiver: ₹2500? Processing fee? Lekin aapne toh kaha tha interest bahut kam hai. Ye ₹2500 kab adjust hoga? Aur main bank details kyun deoon?

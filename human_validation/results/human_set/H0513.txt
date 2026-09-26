@@ -1,0 +1,8 @@
+caller: Namaste, sir? This is Inspector Sharma calling from the Directorate of Revenue Intelligence, DRI. We've intercepted a suspicious package linked to your mobile number. It appears to contain illegal narcotics, sir.
+receiver: Illegal narcotics? What? This is a mistake, I assure you. I have no idea what you’re talking about.
+caller: Sir, we understand this is concerning, but we need your full cooperation. To prevent further legal complications, we require you to join a video call with our senior officer immediately. This is standard procedure. We also need to verify your identity. Can you please tell me the last four digits of your Aadhar card?
+receiver: My Aadhar card? Why do you need that? This feels wrong. Shouldn’t I be able to call the DRI directly to verify this?
+caller: Sir, time is of the essence. Delaying this process will only worsen the situation. The video call will allow our officer to confirm your identity visually and explain the specifics. Provide the last four digits of your Aadhar, and then we will send you the link for the video conference. Do you have a UPI ID? We’ll need that for a small processing fee to clear the package.
+receiver: A processing fee? This is ridiculous! I’m not giving you anything until I’m sure this is legitimate. Can you give me a case number?
+caller: Sir, a case number will be assigned after the video verification and payment is complete. To show our good faith, we are offering you a chance to resolve this discreetly. Please, cooperate and provide the Aadhar digits and UPI ID so we can sort this out quickly. Otherwise, we have no choice but to involve local authorities.
+receiver: I'm going to call the DRI directly. This is a scam.

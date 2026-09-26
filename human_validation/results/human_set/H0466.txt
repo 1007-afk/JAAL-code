@@ -1,0 +1,8 @@
+caller: Namaste! Mai Flipkart se Rohan bol raha hu. Aapke naam par ek order aaya hai, tracking ID hai FLP789XYZ.
+receiver: Oh, really? Flipkart? I don't remember ordering anything.
+caller: Haan sir, order confirm hai. Lekin delivery ke dauran ek choti si problem ho gayi hai. Payment gateway me kuch error aa gaya.
+receiver: What kind of error? What needs to be done?
+caller: Sir, OTP verify karna padega taaki delivery resume ho sake. Mein SMS karega, OTP mujhe bataiye.
+receiver: OTP? That sounds suspicious. Why can't Flipkart verify it themselves?
+caller: Sir, security ke liye OTP zaroori hai. Abhi deliver ho jayega aapko. Abhi OTP bataiye please.
+receiver: No, I’m not giving you any OTP. I’ll call Flipkart customer care directly. Goodbye.

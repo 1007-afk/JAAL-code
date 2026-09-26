@@ -1,0 +1,8 @@
+caller: Namaste, sir? Yeh Customs Department se bol raha hoon. Aapki ek parcel mein illegal items milaye gaye hain. Case number hai CUS-2024-789.
+receiver: Illegal items? Yeh kya keh rahe hain aap? Mera toh koi parcel nahi aaya hai. Main toh kuch bhi order nahi kiya tha.
+caller: Sir, aapko galatfeehi nahi kar rahe hain. Parcel aapke naam se aaya hai aur usmein suspicious items nikale gaye hain. Legal procedure ke according, aapko kuch amount bharvan hoga taaki case ko close kiya ja sake.
+receiver: Kitna amount bharvan hoga? Aur main yeh kaise confirm kar sakta hoon ki yeh sach mein Customs Department se call hai? Yeh toh scam lag raha hai.
+caller: Sir, amount hai ₹12,500. Yeh amount online payment ke zariye bharvan hoga, main aapko ek secure link bhejta hoon. Aur confirm karne ke liye, main aapko ek OTP number bheju, woh aap mujhe bataiyein. Iske bina case close nahi hoga.
+receiver: ₹12,500? Yeh bahut zyada hai! Aur OTP number bhi nahi deni chahiye. Main abhi police mein report karunga. Aapka phone number block kar raha hoon.
+caller: Sir, aapko koi baat samajh nahi aa rahi hai. Isko seriously leiyein! Agar aap cooperate nahi karenge, toh legal action lena padega aur aapko court mein bhi jaana padega. Woh bhi bahut expensive hoga, sir. Aapki zindegi barbaad ho jayegi. 
+receiver: Sir, main abhi koi bhi amount nahi bharunga. Aapko stop karo, aur mujhse koi contact nahi karna. Main abhi police mein report karunga, aur unhe sab bataunga.

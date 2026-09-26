@@ -1,0 +1,8 @@
+caller: Namaste! Main Paytm Quick Loan se Rahul bolta hoon. Aapki Paytm account mein loan ke liye approval aaya hai. ₹75,000 tak ka loan mil sakta hai, sirf ek chote verification process se.
+receiver: Paytm Quick Loan? Mujhe koi notification nahi mila.
+caller: Notification check karein, sir. Verification ke liye, humein sirf aapka PAN card number aur bank account ka last four digits chahiye. Security ke liye.
+receiver: PAN card number? Mujhe thoda doubt ho raha hai. Paytm toh direct message nahi karta.
+caller: Sir, security update hai. Agar aap update nahi karenge, toh aapki account block ho jayegi aur loan bhi nahi milega. Aapko ₹75,000 urgent chahiye na?
+receiver: Account block ho jayegi? Aur meri account mein paisa bhi freeze ho jayega?
+caller: Haan, sir. Jaldi karein. PAN card number aur bank account number de dijiye. Jab verification ho jayega, toh aapko loan amount kab milna chahiye?
+receiver: Okay, thoda wait kar raha hoon. Mein apne dost se baat karta hoon.

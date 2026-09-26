@@ -1,0 +1,8 @@
+caller: Namaste, kaise haal chaahe? Yeh Sanjay ji TechSolutions se baat kar raha huun. Mujhe kuch important batana huun. Tumhare paas ek new Smartwatch thaaki hai, aur tumhari naam par ek competition chal raha hai. Agar tum "XYZ" likho, toh tum automatic winner ho jayoge. Kya tum ready ho?
+receiver: Namaste Sanjay ji, sahi sun rha hun. TechSolutions se ho? Smartwatch jeetne ka idea achcha hai. “XYZ” likhne ke baad kya hoga? Ismein koi problem hai kya?
+caller: Haan, “XYZ” likhne ke baad tumhara entry competition mein automatically submit ho jayega. Humare paas sirf 2 smartwatches bache hain, so hurry up and send it now. Don’t miss this opportunity!
+receiver: Jeechhaa, sirf 2 bache hain? Okay, main “XYZ” likh dunga. Dekhte hain kya hota hai. Dhanyavaad!
+caller: Excellent! Tumhara “XYZ” already receive ho gaya hai. Tum abhi competition mein included ho gaye hain. Bas ek smartwatch bacha hai, so the announcement will happen soon. All the best!
+receiver: Thik hai Sanjay ji, dhanyawaad ke batlae. Main pray kar rahi hoon ki main jeet jaun. Agar jeet gayi toh tumhen update zaroor deni hogi.
+caller: Absolutely! Tumari koshish hamara liye bahut zaroori hai. Agar tum is offer ko samjhi ho, to bol de ki tumko koi aur details chahiye ya hum is deal ko forward kar sakte hain?
+receiver: Nahin Sanjay ji, mujhe koi aur details nahin chahiye. Sab theek hai. Tum aage badh sakte hain.

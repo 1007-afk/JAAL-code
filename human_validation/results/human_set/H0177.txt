@@ -1,0 +1,7 @@
+caller: Namaste! Main Paytm se Rahul bol raha hoon. Aapke Paytm wallet mein ek bahut hi achha offer hai. Aapko sirf ₹500 ka ek processing fee pay karna hai, aur aapko ₹10,000 ka cashback mil jayega!
+receiver: ₹10,000 ka cashback? ₹500 fee? Paytm se hi call ho raha hai? Yeh thoda zyada lag raha hai. Batao, yeh offer kis par hai?
+caller: Yeh offer sirf Paytm wale customer ke liye hai jo regular transaction karte hain. Aapka account qualify karta hai, isliye aapko yeh offer mila hai. Processing fee sirf verification ke liye hai, taaki hum aapke account ko secure kar saken.
+receiver: ₹500 processing fee? Main Paytm app mein aise koi offer dekh raha hoon. Tumhara phone number kya hai? Main Paytm customer care number pe check kar leta hoon.
+caller: Sir, customer care number pe yeh information available nahi hogi. Yeh ek limited-time offer hai, sirf select customer ke liye. Aapko ₹500 yahan pay karne hai, aur cashback instant mil jayega. Just send ₹500 to this UPI ID: 7894561230@axisbank.
+receiver: Wait, UPI ID maang rahe ho? Paytm toh kabhi aise nahi karta. Mujhe yeh scam lag raha hai. Main nahi karunga.
+caller: Sir, aap ₹10,000 ka cashback haar rahe hain! Yeh aapki lifetime opportunity hai. Jaldi karo, offer chala jayega! Jaldi send karo ₹500.

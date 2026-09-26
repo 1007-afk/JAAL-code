@@ -1,0 +1,6 @@
+caller: Hello, is this Priya Sharma? We’re calling from ‘LoanExpress India.’ Your loan application has been preliminarily approved for ₹75,000.
+receiver: LoanExpress India? Really? That's great news! I applied, yes. But I haven't heard anything back.
+caller: Yes, ma'am. We just need to verify a few details. Can you confirm your date of birth and the last four digits of your PAN card? It’s a standard security procedure.
+receiver: My date of birth is 12/08/1992 and the last four digits are 4567. Is everything alright?
+caller: Perfect, ma’am. One moment… Okay, everything checks out. However, our system shows a small processing fee of ₹8,500 is required upfront to activate the loan and prevent fraud. It will be refunded immediately upon loan disbursement.
+receiver: ₹8,500? That seems a bit high, doesn’t it? I thought processing fees were much lower. And why upfront?

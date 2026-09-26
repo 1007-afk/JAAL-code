@@ -1,0 +1,7 @@
+caller: Namaste, sir! Main XYZ Courier se Rahul bolta hoon. Aapke ek parcel ko deliver karne mein thodi dikkat ho rahi hai. Address mein kuch confusion hai.
+receiver: XYZ Courier? Oh, mujhe yaad hai ek parcel expected tha. What's the issue with the address?
+caller: Ji, address mein ek digit galat hai, aur system OTP verify kar raha hai. Security ke liye, aapko apna OTP bataana padega taaki sahi address confirm ho sake.
+receiver: OTP? Wait a minute, XYZ Courier toh direct OTP nahi maangta. I’ll check their official website.
+caller: Sir, yeh automated security protocol hai. Agar aap OTP nahi denge toh parcel wapas bhejna padega. Kuch pareshaan na hone mein meri suniye. Sirf OTP batao, theek hai?
+receiver: Sir, main abhi confirm nahi kar sakta. I’ll call XYZ Courier's customer care directly to verify. I'll call you back.
+caller: Sir, jaldi kijiye! Parcel ko hold kar diya hai. OTP aane ke baad sirf 2 minute ke andar verify karna hai. Warna parcel wapas chala jayega, aur dobara deliver hone mein time lagega.

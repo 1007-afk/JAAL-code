@@ -1,0 +1,6 @@
+caller: Hello, this is Akash from Zomato customer care. We've detected unusual activity on your account and a payment of ₹799 has been attempted. To prevent fraud, could you please verify your OTP?
+receiver: Zomato? What unusual activity? I haven't made any order recently. And why would Zomato call me directly to ask for an OTP? This sounds fishy.
+caller: Madam, it's a security measure. Our system flagged a potential fraudulent transaction. This is to protect your account and money. Just a quick OTP and we’ll resolve it. Don't worry, it's standard procedure. Please share the OTP so I can cancel the pending payment.
+receiver: Standard procedure? I've never heard of Zomato asking for OTPs over the phone. What’s your employee ID? And can you give me a reference number for this alleged fraudulent transaction? I need to be sure before giving out anything.
+caller: Madam, employee ID is not something we share over the phone for security reasons. The reference number is ZC-7892. It's a sensitive matter so we need to act fast. This payment is being processed right now! Just give me the OTP, and I'll cancel it immediately. Otherwise, ₹799 will be deducted from your account.
+receiver: ZC-7892? Okay, hold on a second. Let me just quickly check the Zomato website... (pause) ...You know what? This is a scam. Zomato doesn't operate like this. I’m reporting this number.

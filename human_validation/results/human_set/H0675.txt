@@ -1,0 +1,7 @@
+caller: Namaste! Main Ankit Verma, LoanFirst se baat kar raha hoon. Aapne apni online loan application submit kiya tha, uske baare mein confirm karne ke liye call kar raha hoon.
+receiver: Haan, ji. Maine toh apply kiya tha, lekin mujhe confirmation nahi mili.
+caller: Theek hai sir. Aapke account mein kuch pending documents hain, jo verify karne ki zarurat hai. Kya aap bank statement aur latest salary slip ready rakhte hain?
+receiver: Haan, bank statement hai. Salary slip bhi available hai. Bataiye kya karna hai.
+caller: Bahut accha! Ab aapko ek OTP milega apne registered mobile number par. Woh OTP mujhe bata dijiye, security check ke liye.
+receiver: Okay, wait... Aa gaya OTP. Yeh hai 876543.
+caller: Shukriya sir! OTP verify ho gaya hai. Ab, aapka loan approve ho gaya hai, lekin processing fees ke ₹2,500 deposit karne honge. Account details mai aapko send kar dunga, please confirm.

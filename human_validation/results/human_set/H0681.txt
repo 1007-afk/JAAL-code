@@ -1,0 +1,7 @@
+caller: Namaste, Madam. Main HDFC Bank se Rohan Sharma bol raha hoon. Aapki account mein kuch suspicious activity detect hui hai, isliye hum aapki KYC update karne ke liye request kar rahe hain.
+receiver: HDFC Bank? KYC? Mujhe toh koi message nahi aaya tha.
+caller: Madam, security reasons se koi message nahi bhejte hain. Account suspend hone se bachane ke liye, aapko OTP verify karna hoga aur kuch basic details update karne hain. Yeh sirf 3 minute ka kaam hai.
+receiver: Account suspend? Kisliye suspend hoga? Main toh ek bhi wrong transaction nahi kiya. Aur mujhe OTP verify karne mein hesitation ho raha hai.
+caller: Madam, aapko tension lene ki koi zarurat nahi hai. Yeh sirf account security check hai. OTP se hum confirm kar sakte hain ki aap hi account holder hain. Agar aap cooperate nahi karenge toh account freeze ho sakta hai. Ek moment, mujhe aapka account number confirm karne do, tab main OTP send karunga.
+receiver: Wait, ek minute. Mujhe bank manager se baat karna hai. Main apne branch mein jaungi aur wahaan baat karungi. Koi bhi OTP ya details main aapko nahi dungi.
+caller: Madam, manager busy hain. Yeh emergency situation hai. Aapka account aaj suspend ho sakta hai. Please, cooperate kijiye. Main aapki help kar raha hoon. Aapko bas OTP bataana hai.

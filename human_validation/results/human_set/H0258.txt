@@ -1,0 +1,6 @@
+caller: Namaste, mai Axis Bank cyber security team se bol raha hoon. Aapke Axis Bank mobile banking account mein kuch suspicious activity detect hui hai.
+receiver: Kya? Kaun sa activity? Mujhe to koi notification nahin aaya. Mera account number kya hai? [invented number, e.g., 9876543210]
+caller: Haan ji, aapka account number confirm hai. Kuch neela transactions ne aapke account se 1000-1000 rupay ke transactions show kar rahe hain. Security ke liye, aapko jald se jald apna account verify karna padega.
+receiver: 1000 rupay? Kya transactions ne? Mujhe toh koi idea nahin. Verification kaise karunga?
+caller: Verification ke liye, aapko ek OTP mil raha hai. OTP receive hone ke baad, mujhe wo bataiye taaki aapka account secure ho jaayega. Ye ek automatic process hai.
+receiver: OTP? Kon se number par OTP milega? Mujhe doubt ho raha hai.

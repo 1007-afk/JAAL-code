@@ -1,0 +1,11 @@
+caller: Namaste! Mera naam Rohan hai, IndiaQuickLoans se. Hum offer kar rahe hain instant personal loans, sirf Aadhaar card aur PAN card ke saath. Aapko kiti ki loan chahiye thi?
+receiver: Hello. Kitne interest rate hoga? Aur processing fees kitna lagega?
+caller: Sirf 10% processing fee, aur interest rate bahut kam hai, sirf 12% per annum! Aapko Rs. 50,000 tak ka loan easily mil sakta hai. Aapka naam bataiye, please?
+receiver: Mera naam Vijay Verma hai. Lekin mujhe loan ke documents dekhna hai pehle.
+caller: Theek hai Vijay Verma ji! Ab, aapko ek small security deposit dena hoga, Rs. 2,500, processing ke liye. Account number main send karta hoon.
+receiver: Rs. 2,500? Processing fee ke liye itna bada amount? Yeh thoda zyada lag raha hai.
+caller: Vijay ji, agar aap deposit nahi karte, toh loan process stop ho jayega. Yeh ek standard procedure hai. Fast ho jao, offer valid sirf aaj tak hai!
+receiver: Ok, theek hai. Account number send karo.
+caller: Account number hai: 1234567890, IFSC code: IBKL0000001. Deposit karte hi mujhe batao, aur main aapko loan details send karunga.
+receiver: Done. Deposit kar diya.
+caller: Excellent! Ab aapko apne 5 passbook photos aur bank account ke details send karne hain. Agar aap cooperation karenge toh kal tak aapko loan mil jayega.

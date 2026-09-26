@@ -1,0 +1,7 @@
+caller: Namaste! Main Swiggy se Rohan Sharma bol raha hoon. Aapko Swiggy Dine Out pe ek special offer mila hai! ₹300 ka discount aapke next order pe, sirf OTP verify karne se.
+receiver: Swiggy Dine Out? Discount? Kya baat hai?
+caller: Haan ji! Yeh ek limited time offer hai sirf select customers ke liye. Aap unmein se ek hain. Aapka OTP share karein, aur ₹300 ka discount instantly activate ho jayega.
+receiver: OTP? Swiggy kabhi OTP maangta hai? Main Swiggy app pe check karta hoon.
+caller: Haan ji, suniye. System update ho raha hai. OTP verification ke bina discount activate nahi hoga. ₹300 ka discount haar jaane se pehle OTP share karein! Jaldi karein, offer abhi khatam ho rahi hai.
+receiver: ₹300 discount? Kaash main app pe check karta. Par main abhi busy hoon. Main baad mein check karta hoon.
+caller: Jihaan! Par yeh offer phir nahi milega! OTP sirf ek baar verify karna hai aur ₹300 ka discount aapka. Koi risk nahi, sirf ek OTP. Please share karo!

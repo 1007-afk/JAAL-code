@@ -1,0 +1,7 @@
+caller: Namaste! Is this Priya Verma? I'm calling from the Delhi Customs Department. We've intercepted a parcel registered under your name containing suspected contraband.
+receiver: Oh no! What kind of contraband? I haven't ordered anything suspicious.
+caller: According to our records, it contains a large quantity of high-grade narcotics. This is a very serious matter, Madam. You need to cooperate with us to clear this up. We need to verify your identity and initiate an inquiry.
+receiver: Narcotics? That’s impossible! I would never… What do you need me to do?
+caller: To avoid legal action and potential arrest, you'll need to pay a processing fee of ₹12,500 to cover the investigation and disposal costs. We can accept payment via Google Pay or PhonePe. We'll need the transaction ID for verification.
+receiver: ₹12,500? That seems like a lot. Can I see some proof of this parcel? Or talk to someone higher up?
+caller: I understand your concern, Madam, but time is of the essence. The longer this parcel remains unverified, the greater the risk. To expedite the process, please send the payment now. This is for your own protection, and to prevent any further complications. I'm sending you a QR code to your WhatsApp. Scan it and complete the payment.

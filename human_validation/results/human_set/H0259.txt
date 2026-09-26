@@ -1,0 +1,7 @@
+caller: Namaste, mera naam Vikas Sharma hai, RapidCash Solutions se. Maine dekha ki aapne recently humari website par loan ke liye apply kiya tha. Aapka application review mein hai, lekin verification ke liye kuch details confirm karna hai. Aapka naam kya hai?
+receiver: Ji, mera naam Anjali Verma hai. Verification ke liye kya check karna hai?
+caller: Anjali ji, theek hai. Verification ke liye, humein sirf aapke account details aur ek small processing fee ki confirmation chahiye. Fee ₹500 hai, jo humare account mein transfer karni hogi. Loan amount ₹20,000 approved hoga, aur woh aapke account mein ek ghante mein transfer ho jayega.
+receiver: ₹500 fee? Loan apply karne se pehle mujhe koi fee ka mention nahi mila tha.
+caller: Anjali ji, yeh security check fee hai. Iske bina hum aapko loan nahi de sakte, security ke vajah se. Aapko ₹20,000 ka loan chahiye, ya nahi? Jaldi karna hoga, offer limited time ke liye hai.
+receiver: Nahin, mujhe yeh loan nahi chahiye. Yeh kuch ghalat lag raha hai. Main kisi aur se baat karungi.
+caller: Arre, wait! Anjali ji, ek minute! ₹500 ke bajaye ₹200 mein kar dete hain. Please, jab tak aapka loan approved na ho jaye, mujhe confirm kar do.

@@ -1,0 +1,6 @@
+caller: Namaste! Mein Bharti Airtel se Tarun bol raha hoon. Aapke Airtel Money account mein ek suspicious transaction detect hua hai. Aapko iske baare mein pata hai?
+receiver: Suspicious transaction? Kaunsa transaction? Mujhe toh koi notification aaya nahin.
+caller: Haan ji, ek ₹5000 ka transaction hua hai ek unknown merchant ke account mein. Security ke liye, humein aapke Airtel Money account ko temporarily suspend karna padega.
+receiver: ₹5000? Arrey yaar! Main toh aajkal Airtel Money kam use karta hoon. Account suspend karna hai? Kya karoon main ab?
+caller: Account ko reactivate karne ke liye, aapko ek small verification fee bhar deni hogi. ₹500. Bas itna hi. Verification ke baad, hum aapka account reactivate kar denge aur suspicious transaction ki investigation karenge. Aap ₹500 UPI ke zariye send kar dijiye.
+receiver: ₹500 verification fee? Yeh toh bohot hi unusual hai. Airtel aise fee nahi lete. Mujhe doubt ho raha hai. Main Airtel customer care number pe khud call karta hoon.

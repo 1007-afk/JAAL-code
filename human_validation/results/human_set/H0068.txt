@@ -1,0 +1,20 @@
+caller: Namaste sir, main HDFC Bank se baat kar raha hoon. Aapko ek new debit card chahiye na? Iske liye humein aapke pan card aur mobile number ki zarurat hogi.
+receiver: Oh, HDFC? Debit card? Dekhte hain. Mein abhi ghar par hoon, mein online huon. Mobile number to hai, lekin pan card nahi. Kaisa hai aapka internet speed?
+caller: Koi problem nahi sir, hamein aapke bank account ka IFSC code bhi chahiye. Agar aapko koi khushi nahin hai toh humein technically woh possible nahi hoga.
+receiver: IFSC code? Bhai, seriously? Mein toh sirf debit card lene wala hoon. Mujhe koi tension nahi hai. Mera naam Ajay hai, Delhi mein rehta hun.
+caller: Ji sir, Ajay ji. Mein aapko tomorrow evening call karunga, Delhi mein abhi 5:30 PM ka time hai. Aapka IFSC code submit karein.
+receiver: Thoda sa delay karo yaar, mein abhi kuch kaam mein busy hoon. Mein Gurgaon mein hoon, Gurgaon ka hoon.
+caller: Okay sir, mai aapko next week call karunga. Aapka name Ajay hai, and you're in Gurgaon. Please provide your IFSC code.
+receiver: Fine, I’ll give it later. Bye.
+caller: Namaste sir, main HDFC Bank se baat kar raha hoon. Aapko ek new debit card chahiye na? Iske liye humein aapke pan card aur mobile number ki zarurat hogi.
+receiver: Oh, HDFC? Debit card? Dekhte hain. Mein abhi ghar par hoon, mein online huon. Mobile number to hai, lekin pan card nahi. Kaisa hai aapka internet speed?
+caller: Namaste sir, main HDFC Bank se baat kar raha hoon. Aapko ek new debit card chahiye na? Iske liye humein aapke pan card aur mobile number ki zarurat hogi.
+receiver: Oh, HDFC? Debit card? Dekhte hain. Mein abhi ghar par hoon, mein online huon. Mobile number to hai, lekin pan card nahi. Kaisa hai aapka internet speed?
+caller: Koi problem nahi sir, hamein aapke bank account ka IFSC code bhi chahiye. Agar aapko koi khushi nahin hai toh humein technically woh possible nahi hoga.
+receiver: IFSC code? Bhai, seriously? Mein toh sirf debit card lene wala hoon. Mujhe koi tension nahi hai. Mera naam Ajay hai, Delhi mein rehta hun.
+caller: Ji sir, Ajay ji. Mein aapko tomorrow evening call karunga, Delhi mein abhi 5:30 PM ka time hai. Aapka IFSC code submit karein.
+receiver: Thoda sa delay karo yaar, mein abhi kuch kaam mein busy hoon. Mein Gurgaon mein hoon, Gurgaon ka hoon.
+caller: Okay sir, mai aapko next week call karunga. Aapka name Ajay hai, and you're in Gurgaon. Please provide your IFSC code.
+receiver: Fine, I’ll give it later. Bye.
+caller: Namaste sir, main HDFC Bank se baat kar raha hoon. Aapko ek new debit card chahiye na? Iske liye humein aapke pan card aur mobile number ki zarurat hogi.
+receiver: Oh, HDFC? Debit card? Dekhte hain. Mein abhi ghar par hoon, mein online huon. Mobile number to hai, lekin pan card nahi. Kaisa hai aapka internet speed?

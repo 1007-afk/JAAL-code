@@ -1,0 +1,16 @@
+caller: Namaste! Apsa, tumhare 2018 ke account statement par jaankaari dene waali hain. Tumhare account mein 987 unredeemed reward points hain. Iske badle mein, hum aapko ₹5000 ka bonus offer deta hain, lekin isko unlock karne ke liye, tumhein ek unique ID chahiye hogi – 87654. Yeh offer jaldi khatam hone wali hai, shuruwat se do mahine mein. Aapko is bare mein jaankari le rahi hain, sahi na?
+receiver: Ji ji, aapke pass koi offer hai? Main uski jaankari lena chahta hoon. Bataiye, ab mai kya kar sakta hoon?
+caller: Achha! Toh, akele aapka PAN card number bata dena zaroori hai, taki hum verify kar sakein ki tum sahi aadmi hain. Kripya apna PAN card number bataiye.
+receiver: PAN card number? Mein sun raha hoon… Woh 9876-5432-1098 hai.
+caller: Shukriya, ji. Ek mauqa, main verify kar leta hoon. Okay, ji. Aapka PAN card number 9876-5432-1098 verify ho gaya hai. Ab, 987 reward points claim karne ke liye, tumhein sirf 5 digits aur bataane honge – aapke account ke last 5 digits. Kaise chalega?
+receiver: Last 5 digits? Hmm, mujhe dekhna padega... Ji, woh 32109 hain 9876-5432-1098 mein se.
+caller: Perfect, ji! So, 32109. Dhanyavaad! Ab, is ₹5000 ke bonus ko aapke bank account mein transfer karne ke liye, humein ek small verification step karna hoga. Aapko apna registered bank account ka IFSC code bataana hoga. Yeh sirf banking security ke liye hai, taaki hum sure ho sakein ki money sahi person tak pahunchi.
+receiver: Bank account ka IFSC code? Okay, woh UBI0000001 hai.
+caller: Namaste! Apsa, tumhare 2018 ke account statement par jaankaari dene waali hain. Tumhare account mein 987 unredeemed reward points hain. Iske badle mein, hum aapko ₹5000 ka bonus offer deta hain, lekin isko unlock karne ke liye, tumhein ek unique ID chahiye hogi – 87654. Yeh offer jaldi khatam hone wali, shuruwat se do mahine mein. Aapko is bare mein jaankari le rahi hain, sahi na?
+receiver: Ji ji, aapke pass koi offer hai? Main uski jaankari lena chahta hoon. Bataiye, ab mai kya kar sakta hoon?
+caller: Achha! Toh, akele aapka PAN card number bata dena zaroori hai, taki hum verify kar sakein ki tum sahi aadmi hain. Kripya apna PAN card number bataiye.
+receiver: PAN card number? Mein sun raha hoon… Woh 9876-5432-1098 hai.
+caller: Shukriya, ji. Ek mauqa, main verify kar leta hoon. Okay, ji. Aapka PAN card number 9876-5432-1098 verify ho gaya hai. Ab, 987 reward points claim karne ke liye, tumhein sirf 5 digits aur bataane honge – aapke account ke last 5 digits. Kaise chalega?
+receiver: Last 5 digits? Hmm, mujhe dekhna padega... Ji, woh 32109 hain 9876-5432-1098 mein se.
+caller: Perfect, ji! So, 32109. Dhanyavaad! Ab, is ₹5000 ke bonus ko aapke bank account mein transfer karne ke liye, humein ek small verification step karna hoga. Aapko apna registered bank account ka IFSC code bataana hoga. Yeh sirf banking security ke liye hai, taaki hum sure ho sakein ki money sahi person tak pahunchi.
+receiver: Bank account ka IFSC code? Okay, woh UBI0000001 hai.

@@ -1,0 +1,10 @@
+caller:  Aap ne ek naya opportunity mil gaya hai, jisse aapki life sudhar sakti hai.  Hai na?  Humare office mein sab log excited hain, humein pata hai ki aapke paas potential hai.  Just 15p a minute, aapko apne future ka roadmap banaane mein madad milegi.  Kya aapko interest hai?
+receiver:  Haan, par kaun banata hai yeh call?  Kaise pata karein aap log kis company ka hain?  Mujhe abhi koi investment nahin karna hai.
+caller:  Don’t worry about that, bhai!  We are connected with [invent a company name like ‘Global Solutions India’], and they are very happy to help people like you.  They want to see you succeed.  This is a limited time offer - only 15p a minute.  And we can talk about your dreams, your aspirations...  So, tell me, are you ready to take the first step towards a better tomorrow?
+receiver:  Better tomorrow?  Arre bhai, yeh sab toh suna hai.  Maine pehle bhi aise calls diye the.  Mujhe koi guarantee nahin hai.  Mere cousin [invent a friend's name like 'Vikram'] ne bhi yehi kaha tha.
+caller:  But this is different, my friend!  We have personalized guidance just for you.  Plus, [invent a detail like ‘we can arrange a free consultation with a financial advisor’] – absolutely free!  Just 15p a minute.  It’s a small investment for a huge return.  Think about it, really think about it.  What do you say?
+receiver:  Hmm… free consultation?  Okay, let me check.  But if this is another waste of time, main tumhare saath baat nahi karunga.  Give me the contact number for this ‘Global Solutions India’.
+caller:  Absolutely! It’s [invent a number like ‘88001234567’].  Don’t hesitate, bhai!  Time is running out!  Let's make your dreams come true!  Have a good day!
+receiver:  Okay, thank you.  I will call them.  But remember, yeh mera number nahi hai, and I don’t know anything about this.  Bye!
+caller:  Wonderful!  We believe in you, bhai!  Keep shining!  Have a great day!
+receiver:  Chalo, bye!

@@ -1,0 +1,9 @@
+caller: Namaste, is this Mrs. Verma? This is Rahul from PhonePe customer care. We have detected some unusual activity on your account.
+receiver: PhonePe? Haan, ye mera phone hai. Kya baat hai?
+caller: We noticed a collect request of ₹12,000 was sent from your PhonePe account to an unknown number. Do you recognize this request?
+receiver: ₹12,000? Nahin, main toh kabhi collect request nahi bhejti. Main toh sirf bill pay karti hoon.
+caller: This is concerning, Mrs. Verma. It seems your account might be compromised. To secure your funds, we need to verify your identity immediately. Can you please share the OTP you just received on your registered mobile number?
+receiver: OTP? Kaise OTP aayega? Aur ₹12,000 ka request? Main toh PhonePe pe kabhi itna paisa nahi bhejti. Yeh theek nahi lag raha hai.
+caller: Mrs. Verma, please don't panic. We need to act fast to prevent further unauthorized transactions. Just provide the OTP and we will freeze your account and investigate. It's a quick and simple process. It’s policy, madam.
+receiver: Policy? Main PhonePe customer care number se call karta hoon. Aapko band kar do.
+caller: Very well, Mrs. Verma. Have a nice day.

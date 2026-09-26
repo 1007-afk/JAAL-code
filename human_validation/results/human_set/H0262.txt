@@ -1,0 +1,6 @@
+caller: Namaste! Sir, this is Raj from SwiftTrack Courier. We have a package addressed to you, but there’s a problem with the delivery address. It’s showing as incomplete. Could you please verify your address details?
+receiver: Hello? SwiftTrack? What package? I wasn't expecting anything. What's the sender?
+caller: It's from Meesho, sir. Looks like a phone case. The system needs a one-time password to confirm the address. It's a security protocol. Could you please provide the OTP you just received on your registered mobile number?
+receiver: Meesho? I did order something, but I haven’t received any OTP. Are you sure this is legitimate? Meesho would never ask for an OTP like this.
+caller: Sir, it’s very important to confirm the address quickly to avoid the package being returned. There's a small delivery fee of ₹350 that needs to be cleared to proceed. Can you make a quick payment through UPI?
+receiver: ₹350? For a phone case from Meesho? That’s ridiculous! I’m not paying anything until I verify this with Meesho directly. Give me a reference number for the package.

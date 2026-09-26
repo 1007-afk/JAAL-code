@@ -1,0 +1,11 @@
+caller: Namaste! Main FastCash Solutions se Atul bol raha hoon. Aapko ₹75,000 tak ka personal loan chahiye tha, hai na? Approval process bahut easy hai, sirf kuch details chahiye.
+receiver: Ji haan, mujhe loan chahiye tha. Bataiye kya process hai?
+caller: Great! Pehle, aapka naam aur phone number confirm kar sakte hain? Aur aapka occupation kya hai? Yeh sirf verification ke liye hai.
+receiver: Mera naam Anita Sharma hai. Phone number 9876543210 hai. Main ek teacher hoon.
+caller: Bahut accha, Anita Sharma ji. Toh, hum aapko loan approve kar sakte hain, lekin humein aapki ek recent photo chahiye, verification ke liye. Aadhar card photo bhi chalega.
+receiver: Photo? Verification ke liye photo ki zaroorat hai? Yeh thoda ajib lag raha hai.
+caller: Haan, Anita ji, security ke liye. Aur agar aap loan dene mein fail ho gayi toh hum aage contact kar payenge. Koi chinta mat karo, humko photo sirf verification ke liye chahiye. Otherwise, we can't proceed.
+receiver: Okay, ek pal rukiye, main photo send kar deti hoon.
+caller: Excellent! Ab, aapko ₹75,000 ka loan sirf ₹8,000 processing fee ke saath mil jayega. Aapko first installment 15 din mein clear karna hoga.
+receiver: ₹8,000 processing fee? Itna zyada lag raha hai.
+caller: Anita ji, hum sabse best rate provide kar rahe hain. Agar aap fee nahi pay karte toh loan nahi milega. Don’t delay, offer valid only for today. Otherwise, we move to next client.

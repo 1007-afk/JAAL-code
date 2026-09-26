@@ -1,0 +1,9 @@
+caller: Hello, this is Rahul from HDFC Bank security. We've noticed some suspicious activity on your account and need to verify your identity immediately to prevent fraud.
+receiver: Oh no! Suspicious activity? What's happened?
+caller: There's been an attempt to update your KYC details with incorrect information. To secure your account and avoid it being frozen, we need to confirm a few details. First, can you please tell me your Aadhaar number?
+receiver: My Aadhaar number? Over the phone? Is that safe?
+caller: Absolutely safe, madam. It's standard protocol. We need it to cross-reference with our records. Just give me the last four digits.
+receiver: Okay… it's 4567.
+caller: Thank you. Now, to finalize the verification, can you please share the OTP you just received on your registered mobile number? This is for extra security.
+receiver: OTP? Wait a minute... something feels wrong. Why do you need my OTP?
+caller: The OTP is crucial, madam. It ensures that you are the rightful account holder and prevents unauthorized access. Without it, we cannot complete the verification process and your account will be temporarily suspended.

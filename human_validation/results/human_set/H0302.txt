@@ -1,0 +1,7 @@
+caller: Namaste, sir? Main Airtel Payments Bank se bol raha hoon. Aapke Airtel Money account mein kuch unusual activity dikhi gayi hai. Account security ke liye, aapko KYC update karna hoga.
+receiver: KYC update? Lekin mera KYC toh recently hi karwaya tha. Kya hua?
+caller: Haan sir, lekin system mein kuch technical issue aa gaya hai. Isliye aapko ek baar phir se verify karna padega. Aapko ek OTP milega, woh mujhe bata dijiye.
+receiver: OTP? Main OTP kabhi bhi kisi ko nahi bataata. Airtel toh aise message nahi karta.
+caller: Sir, yeh urgent hai. Agar aapko OTP nahi milega, toh aapka account suspend ho sakta hai. Main aapki help karna chahta hoon. Aapko ₹500 ka loss bhi ho sakta hai.
+receiver: ₹500? Account suspend? Theek hai, ek minute. Dekhta hoon message. Hmmm, OTP aaya hai - 987654.
+caller: Shukriya sir. Ab main aapko ek link bhejuunga. Woh link par click karke aapke bank details confirm karwa lenge. Isse account safe ho jaega. Jaldi kijiye, sir.

@@ -1,0 +1,6 @@
+caller: Namaste, is this [Receiver's Name]? My name is Rohan from Axis Bank Security. We've noticed some unusual activity on your Axis Bank account, specifically a few attempted international transactions.
+receiver: Haan, bolie. What kind of transactions? I haven’t made any international transactions recently.
+caller: Sir, there were three attempts to transfer money to accounts in Dubai. We blocked them immediately to protect your funds, but we need to verify you. For security purposes, could you please share the OTP you just received on your registered mobile number?
+receiver: OTP? Why do you need my OTP? Axis Bank never asks for OTP over the phone. That seems really risky.
+caller: Sir, this is a standard verification procedure. We are following protocol. If you don't share the OTP immediately, we might have to temporarily freeze your account for security reasons. We just need to confirm it's you.  Aapka account suspend bhi ho sakta hai. Please cooperate.
+receiver: Freeze my account? This is getting more and more suspicious. Let me call Axis Bank's customer care directly and confirm this. Give me a moment.

@@ -1,0 +1,17 @@
+caller: Namaste! Namaste! Suno, suno! Mujhe ek chota sa sawaal puchna hai, aur isse aap ₹5000 kama sakte hain! Text karo apna jawaab ‘Aapka Naam’ number 78999, samajh? Itni simple! Kaise hai aap?
+receiver: Namaste! Theek hoon, thank you. ₹5000? Seriously? Yeh bahut achcha laga. Apna naam… hmm… ‘Ram Sharma’ bolti hoon. Kya koi special rules hain?
+caller: Arre, koi rules nahi hain! Bas apna naam text karo – ‘Ram Sharma’ – number 78999 par. Jaldi karo, sirf 5 attempts hain! Time over!
+receiver: Okay, okay. Mein text kar dungi. ‘Ram Sharma’ number 78999 par. Thoda wait karna padega. Isse prize milega?
+caller: Haanji! Prize milega! ₹5000 ka cheque aapke naam par dikhao jaayega. But keep it confidential, okay? Only winners get this opportunity. Just 2 more chances!
+receiver: Confidential? Cheque? Woh toh sab badi exciting baat hai! Mein text kar diya hai. ‘Ram Sharma’ number 78999. Ab kya karna hai?
+caller: Great job! Aapne sahi text kiya hai. ₹5000 ka cheque shuru karne ke liye aapko verify karna hoga. Send me your Aadhar card number and bank account details immediately!
+receiver: Aadhar card number? Bank account details? Haanji, lekin yeh kitna risky lag raha hai. Kya aapki website secure hai?
+caller: Don't worry! It's completely safe. We just need these details to process your winnings. It's standard procedure, you understand? Only 1 attempt left!
+receiver: But... but it feels strange. Main verify karne wala nahi hoon.
+caller: Arre, don't be shy! This is how we confirm your identity and ensure you're the real winner. If you don't provide these details, you won't receive your prize. Last chance!
+receiver: Okay, fine. Mein deliver kar deta hoon.
+caller: Excellent! Thank you so much! Now, please send a copy of your driving license too, just for confirmation purposes.
+receiver: Driving license? Really? Why?
+caller: Just to be absolutely sure! Please send a clear photo of your driving license to 88888.  It’s mandatory!
+receiver: Okay, okay. Main deliver kar dungi.
+caller: Wonderful!  Now, wait for an SMS with your winning amount and instructions on how to claim your prize.  Congratulations!

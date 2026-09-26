@@ -1,0 +1,6 @@
+caller: Namaste! This is Anjali calling from HDFC Bank fraud prevention department. We've noticed some unusual login attempts from a foreign IP address on your account.
+receiver: Oh no! Really? What’s happening? Is my money safe? I'm a bit worried.
+caller: Don't panic, Madam. We’re calling to secure your account. It appears someone is trying to gain unauthorized access. To verify you, we need to quickly update your KYC details.
+receiver: KYC? But I did that recently. What details do you need? And how do I know you're actually from HDFC?
+caller: It’s a standard security protocol. We just need your Aadhaar number and the OTP that will be sent to your registered mobile number. This will lock down your account immediately and prevent further access.
+receiver: My Aadhaar number? Isn't that a bit risky? Shouldn't I call HDFC directly to confirm this?

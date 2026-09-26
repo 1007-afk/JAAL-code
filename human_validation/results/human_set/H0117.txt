@@ -1,0 +1,7 @@
+caller: Namaste sir, this is Amit from Loan Express. We saw you applied for a personal loan recently. Just confirming a few details to process your application faster. Do you have your Aadhaar card handy?
+receiver: Haan, yes I have it. What do you need it for?
+caller: Wonderful! We need to quickly verify your details. Can you please tell me the last four digits of your Aadhaar number? Just to confirm, sir. For security purposes only.
+receiver: Okay, it’s 4567.
+caller: Excellent, sir! Verification complete. Your loan is approved for ₹75,000. However, there's a one-time processing fee of ₹8,000 that needs to be deposited urgently into our company account.
+receiver: ₹8,000? That’s a lot! Why is it so much? And what is the account number?
+caller: Sir, this is standard procedure. Without it, the loan cannot be disbursed. The account details are: [Invent a bank account number and IFSC code]. Please transfer immediately. Otherwise, we'll have to cancel the loan and your application will be rejected. We can also send morphed photos of you to your contacts if you don't pay.

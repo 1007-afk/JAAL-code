@@ -1,0 +1,7 @@
+caller: Namaste sir, this is Anjali from QuickLoan India. We’ve reviewed your loan application and it’s almost approved! Just need to confirm a few details to prevent fraud. Could you please confirm your full name and date of birth for verification?
+receiver: Hello Anjali. My name is Rajeev Kumar and my date of birth is 15th August 1988.
+caller: Thank you, Mr. Kumar. Everything seems to be in order. To activate your loan of ₹75,000, we require a small processing fee of ₹3,500. This will secure your loan and ensure swift disbursement. Can you transfer this to the given UPI ID: quickloan.pay@hdfcbank?
+receiver: Three thousand five hundred? For a loan of seventy-five thousand? That seems quite high. Is that really necessary?
+caller: Absolutely, sir. This is a standard procedure to verify your commitment and protect against fraudulent applications. Without it, we cannot guarantee the loan's activation. Think of it as an insurance against potential risks. Please, hurry now – this offer is valid only for the next hour. We don't want you to miss out.
+receiver: Okay, fine. Let me transfer the money. Just send me the transaction ID once I've done that so I know it’s been received.
+caller: Wonderful, Mr. Kumar! The loan will be disbursed immediately after the transaction reflects in our account. However, there's been a slight issue detected during the final verification. We need one more small fee – ₹2,000 - as a security deposit to prevent unauthorized access. This is a new policy.

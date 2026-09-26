@@ -1,0 +1,8 @@
+caller: Namaste, sir? Main State Bank of India se Rahul bol raha hoon. Sir, aapke account mein suspicious activity detect hua hai.
+receiver: Kya? Suspicious activity? Mujhe batao kya hua?
+caller: Sir, ek international transaction attempt hua hai, ₹12,000 ka. Account secure karne ke liye, aapko ek OTP mil raha hoga aapke register mobile number par. Please share that OTP with me immediately.
+receiver: Wait, wait. Main abhi phone check karta hoon. Par ₹12,000? Woh bhi international?
+caller: Haan sir, urgent hai. Agar aap OTP nahi share karenge toh account suspend karna padega, security ke liye. Time bahut kam hai.
+receiver: ₹12,000 bahut zyada hai. Main kisi bhi OTP ko share nahi karunga jab tak mujhe confirm nahi ho jata. Aapka employee ID number bataiye, main check karunga.
+caller: Sir, employee ID number confidential hai. Mai aapko assure karta hoon, yeh account security ke liye hai.  Just share the OTP, sir. Account block hone se bachane ke liye.
+receiver:  Yeh scam lag raha hai. Main call cut kar raha hoon.

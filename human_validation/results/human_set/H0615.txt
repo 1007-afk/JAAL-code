@@ -1,0 +1,9 @@
+caller: Hello, is this Rahul Sharma? I'm calling from 'CreditWave Solutions'. We've pre-approved you for a personal loan of ₹75,000 with incredibly low interest! Just need to verify a few details to release the funds.
+receiver: CreditWave Solutions? I don’t remember applying for any loan. What details do you need? And how did you get my number?
+caller: No worries, sir! We partner with various banks. Just confirm your date of birth and the last four digits of your bank account number for security purposes. It’s a quick process, and the money will be in your account within the hour! We’re offering this fantastic rate just for a limited time.
+receiver: Wait a minute. Date of birth and bank details? That sounds risky. Are you sure you’re a legitimate company? Can you give me a license number or website?
+caller: Absolutely! Our license number is CW-2047-FIN. You can check us out at CreditWaveSolutions.co.in. We’re fully compliant. We just need a small processing fee of ₹999 to activate the loan. This is standard procedure.
+receiver: ₹999 upfront? That's unusual. I've never heard of a loan requiring a processing fee before releasing the money. I think I'll pass.
+caller: Sir, think about it! ₹75,000 at such a low interest rate!  This offer won't last. Plus, a small fee ensures your loan’s security. We can also help you clear any existing debts. Don't miss this chance to improve your financial situation. Just send the ₹999 to the UPI ID – CreditWavePay@axis.
+receiver: No, thank you. I’m reporting this number. Goodbye.
+caller: Sir, please!

@@ -1,0 +1,6 @@
+caller: Hello, this is Priyank from LoanExpress. We've noticed you recently applied for a personal loan, and we're happy to inform you that you're pre-approved for a quick loan of ₹50,000. Just a small verification fee of ₹750 is required to process the loan.
+receiver: LoanExpress? I don’t remember applying for a loan. And a verification fee? That seems unusual. Could you tell me more about the application process?
+caller: Absolutely! You likely filled out a form online – it’s a very popular one. The fee is just to verify your bank details and ensure everything is secure. We need to confirm your UPI ID to proceed. Please share it so we can finalize the loan.
+receiver: Hold on a minute. I’m still not convinced. Why didn’t I receive any confirmation emails or SMS about this application? And why do I need to pay before receiving the loan? This smells fishy.
+caller: Sir, sometimes emails go to spam. Don't worry about that. This is a fast-track approval – that's why it's so quick! If you don’t pay the fee now, the offer will expire in just 30 minutes. Other applicants are waiting to grab this deal! Just send the ₹750 to the UPI ID I’ll provide.
+receiver: Look, I'm ending this call. I'm reporting this to the cybercrime helpline. You are a scammer. Goodbye.

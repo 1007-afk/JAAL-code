@@ -1,0 +1,7 @@
+caller: Namaste! Sir/Madam, hum Reliance Digital Se bol rahe hain. Aapko ek achha-sa ‘work from home’ opportunity mila hai. Ghar baithe extra income kamaane ka mauka!
+receiver: Reliance Digital? Work from home? Kya work karna hai? Aur kitna income ho sakta hai?
+caller: Sir/Madam, aapko online apps ko rate aur reviews karne ke liye bolenge. Ek bahut hi simple kaam hai, aur daily ₹1000-₹1500 tak kama sakte hain. Payment UPI se hoga.
+receiver: ₹1500? Really? Aur registration fee kitna hai? Sab kuch free toh nahi hai na?
+caller: Sir/Madam, sirf ₹200 ka registration fee hai, yeh system activation charge hai. Payment karke aapko ek link milega, wahan se aap kaam shuru kar sakte hain. Bahut easy hai!
+receiver: ₹200? Okay, fine. UPI ID batao.
+caller: Sir/Madam, link check karein, payment details wahan hi hai. Jaldi karein, offer limited time ke liye hi hai!

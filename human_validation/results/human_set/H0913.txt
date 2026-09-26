@@ -1,0 +1,21 @@
+caller: Namaste, SBI Bank se baat kar raha hoon. Aapke online banking transaction ko verify karne ke liye call kiya hai.
+receiver: Haan, boliye. Mein recently ek transfer kiya tha, uska status check karna chahta hoon.
+caller: Haanji, transfer ka status check karne ke liye, humein aapke DigiLocker ID aur Mobile Verification Code (IVR) chahiye. Aur agar aapne kabhi UPI transactions use kiya hai toh uska UPI ID bhi bataiye.
+receiver: DigiLocker ID? Woh maine upload bhi nahi kiya hai. IVR code toh main check kar sakta hoon, lekin UPI ID toh mujhe yaad nahi hai. Maine Paytm se payment kiya tha, lekin UPI ID nahi dekha tha.
+caller: Sir, UPI ID sirf Paytm nahi, BharatPe, Google Pay, PhonePe par bhi hota hai. Humein yeh all details chahiye verification ke liye. Agar aapne kabhi loan liya hai toh uska account number bhi bataiye, taaki hum verification process complete kar sakein.
+receiver: Loan? Main ne koi loan nahi liya. Yeh sab kahan se pata chala? Mujhe abhi toh sirf transfer ka status lena hai. Koi OTP wala option nahi hai? Ya phir transaction reference number de do, warna account block ho jayega.
+caller: Sir, OTP se verification nahi ho sakti. Security reasons ki wajah se humein yeh details chahiye. Aapka DigiLocker ID, Mobile Verification Code, UPI ID aur agar aapne kabhi loan liya hai toh uska account number. Ek baar yeh details mil jayein toh hum verification confirm kar denge.
+receiver: Seriously? DigiLocker ID aur loan account number? Yeh to bahut zyada puchte hain! Mein toh sirf apne regular account ka status dekhna chahta hoon. Koi alternative nahi hai? Mujhe abhi reply karna hai, thode waqt do.
+caller: Sir, samjh sakta hoon aapko yeh zaroori lagana bandhi hai. Lekin yeh details verification ke liye bahut important hain. Aapka DigiLocker ID aur loan account number bataiye. Bas, aapka Mobile Verification Code (IVR) bhi bataiye. Yeh verification jaldi se ho jaaye toh achcha hai.
+receiver: Okay, fine. DigiLocker ID hai [Receiver's DigiLocker ID], Mobile Verification Code hai [Receiver's Mobile Verification Code] aur loan account number hai [Loan Account Number]. Woh UPI ID toh mujhe yaad nahi hai, sorry.
+caller: Dhanyavaad. Verification jaldi se ho jayega. Aage kya karna hai?
+receiver: Haan, boliye. Mein recently ek order diya tha, uska delivery date kab hai?
+caller: Haanji, order ka delivery date check karne ke liye, humein aapka Banking Details aur Address Proof chahiye. Aur agar aapne kabhi Prime Membership leta hai toh uska Membership ID bhi bataiye.
+receiver: Banking Details? Mein toh online payment karta hoon, bank account number yaad nahi hai. Address proof? Mein toh sirf home address deta tha. Prime Membership? Woh bhi bahut purani order thi.
+caller: Sir, Security Reasons ki wajah se humein yeh details chahiye. Aapka Bank Account Number, Address Proof aur Prime Membership ID. Agar aapne kabhi cashback claim kiya hai toh uska Transaction ID bhi bataiye.
+receiver: Cashback? Mein cashback claim nahi kiya hai. Yeh sab kahan se pata chala? Mein toh sirf meine order diya tha. Koi OTP wala option nahi hai? Ya phir order number bata do.
+caller: Sir, OTP se verification nahi ho sakti. Security Reasons ki wajah se humein yeh details chahiye. Aapka Bank Account Number, Address Proof, Prime Membership ID aur Transaction ID. Ek baar yeh details mil jayein toh hum verification confirm kar denge.
+receiver: Seriously? Bank account number aur address proof? Ye to bahut zyada puchte hain! Mein toh sirf apne order ka status dekhna chahta hoon. Koi alternative nahi hai?
+caller: Sir, samjh sakta hoon aapko yeh zaroori lagana bandhi hai. Lekin yeh details verification ke liye bahut important hain. Aapka Bank Account Number, Address Proof, Prime Membership ID aur Transaction ID bataiye. Bas, aapka Mobile Number bataiye. Yeh verification jaldi se ho jaaye toh achcha hai.
+receiver: Okay, fine. Bank Account Number hai [Bank Account Number], Address Proof hai [Address Proof], Prime Membership ID hai [Prime Membership ID] aur Transaction ID hai [Transaction ID]. Mein toh sirf meine order diya tha, yeh sab kahan se pata chala?
+caller: Dhanyavaad. Verification jaldi se ho jayega. Aage kya karna hai?

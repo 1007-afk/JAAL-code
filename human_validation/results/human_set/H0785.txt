@@ -1,0 +1,7 @@
+caller: Namaste, is this Mrs. Verma? This is Akash from BlueDart Courier. We have a package for you, but there's a slight issue with the delivery address. It needs urgent verification.
+receiver: Haan, bolie. Package ka kya hua? Mujhe koi message nahi aaya tha.
+caller: Ma’am, we’ve flagged a potential mismatch between the address on the package and the one in our system. To avoid a return to sender, we need you to confirm a few details. Could you please share the last four digits of your ID proof for verification? Just a security measure.
+receiver: ID proof? Delivery ke liye ID proof ki zarurat hai? Aise to kabhi nahi suna. Aur last four digits bataane se address verify ho jayega? Yeh thoda suspicious lag raha hai.
+caller: Ma’am, it's standard procedure for high-value deliveries. We’re dealing with sensitive items, and it’s a precaution against fraudulent deliveries. It’s just to ensure the package reaches the correct recipient, and there's a ₹500 processing fee we need to confirm you're authorised to receive the package. It’ll be refunded upon delivery, of course.
+receiver: ₹500? Aur woh bhi delivery se pehle? Mainko kuch samajh nahi aa raha hai. BlueDart aise nahi chalti. Main directly BlueDart office jaungi.
+caller: Ma’am, you can absolutely do that, but the office is currently closed for staff training. This is a time-sensitive matter, and we are the only ones authorized to resolve it right now.  To proceed and avoid delays, we’ll need those last four digits to update the delivery system. It’s only a moment’s inconvenience for a valuable package.

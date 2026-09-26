@@ -1,0 +1,7 @@
+caller: Hello? Is this Priya Sharma? I’m calling from SpeedyLoans24x7. We’ve pre-approved you for a personal loan of ₹75,000. Very easy process, just a few details to confirm.
+receiver: Oh, really? I didn't apply for any loan. Are you sure you have the right person?
+caller: Yes, madam. Your Aadhaar and PAN details matched perfectly. We're just verifying a few things. For security purposes, can you tell me the last four digits of your Aadhaar? It’s a standard procedure.
+receiver: That sounds a bit risky. I’m not comfortable sharing that information over the phone. Could you send me some details or an official letter?
+caller: Madam, this is a limited-time offer, and we need to process it quickly. If you don’t confirm now, the offer will expire. Also, a small processing fee of ₹200 is required to activate the loan. You can send it via UPI.
+receiver: ₹200 just to activate a loan? And still asking for my Aadhaar digits? This is getting suspicious. I think I’ll pass, thank you.
+caller: Madam, you're making a huge mistake! This is a fantastic opportunity to clear your debts and improve your credit score. Think about it – ₹75,000 instantly! Just the UPI ID, please? Don’t let this chance go.

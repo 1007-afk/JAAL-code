@@ -1,0 +1,8 @@
+caller: Namaste! Kaise haal hai? Tumhare liye bahut khushi hai! Ek bahut badi shuruat hai tumche liye - tumhara naam Sanjay Sharma hai, aur tum ₹5,000 ka prize jeet gaye ho! Wow! Ye ek special offer hai, jahaan tumhare account mein ₹5,000 transfer kar diye jayenge! Agar tum verify kare toh sab chotiyo ho jayega. Toh agar tum chaaho toh 09876543210 par call kijiye. Tumhe sirf 3 minute ka time hai!
+receiver:  Arey yaar! Jeet gaya? Mein Sanjay Sharma? Wo kya? ₹5,000? Maaf karna, par mujhe samajh ni aata. Koi lottery nahi hai, hai kya?
+caller:  Arre, woh lottery nahi, Sanjay ji! Yeh ek government sponsored campaign hai! Tumhara account number batao, phir hum check karenge ki tum jeet gaye hain ya nahi. Ismein koi galti nahi hai!  Baki, sirf 2 minute bache hain, jaldi se call kijiye!
+receiver: Account number? Mein unki website par jaaunga aur pata karunga.  Yeh number bhi kitna hai? Aur yeh campaign kab se chal raha hai?  Mujhe koi confirmation letter bhi nahi mila.
+caller:  Aapko number yaad rakhna hai, Sanjay ji! Yeh ek urgent matter hai!  Account number batao, phir hum tumhein confirm karenge.  Ismein delay nahi ho sakta, sirf 1 minute bache hain!  Agar tum call ni karte, toh tum lose ho jayoge!
+receiver:  Wait! Wait!  Mein soch raha hoon...  Aap ne kaha ₹5,000?  Aur yeh account number ka kya hoga?  Mujhe yeh sab dubara maangne ki zaroorat nahi hai!
+caller:  Arre, Sanjay ji, tum confuse ho rahe ho!  Tum jeet gaye ho!  Bas call karo, aur tumhari prize ready hai!  Abhi sirf 45 seconds bache hain!  09876543210 par call kijiye!
+receiver:  Okay, okay! Main call kar raha hoon...

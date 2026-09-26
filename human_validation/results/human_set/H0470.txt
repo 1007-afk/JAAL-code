@@ -1,0 +1,7 @@
+caller: Namaste, is this Mr. Verma? This is Priya from Paytm Rewards. We've noticed you're eligible for a special cashback offer of ₹500 on your next PhonePe transaction! Just a quick verification process.
+receiver: Paytm Rewards? ₹500 cashback? Mujhe toh koi notification nahi mila. Woh kaise?
+caller: Sir, it’s a limited-time offer for loyal Paytm users. To activate it, we need to confirm your registered email address and the last three digits of your UPI pin. It’s a security measure, sir.
+receiver: UPI pin? Mujhe woh batana hai? Woh toh confidential hai. Isko koi share nahi karte hain.
+caller: Sir, please understand, this is to prevent fraudulent activity on your account. Without this verification, the ₹500 cashback will expire. I can process the reward immediately. It is also a security protocol for PhonePe.
+receiver: ₹500 cashback? Okay, let me think... Email address is verma.rajeev@gmail.com. But UPI pin… Still a bit hesitant.
+caller: Sir, the offer ends in 10 minutes! Don’t miss out on the ₹500 cashback! Just the last three digits, please. We are just verifying your account security. This is important.

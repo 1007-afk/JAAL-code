@@ -1,0 +1,9 @@
+caller: Hello sir, mene sunnaa hai aap Amazon pe shopping karte hain?
+receiver: Haan, karta hun. Kyu?
+caller: Sir, Amazon ne ek naya loyalty program launch kiya hai. Jab aap cashback claim karne jate hain, to system ne ek verification process start kiya hai. ₹10,000 cashback claim karne ke liye, aapko sirf ₹500 processing fee bhar deni hai.
+receiver: ₹10,000 cashback? Mein toh nahi jaanta tha. Processing fee kahan bharu?
+caller: Sir, aapko ek secure link pe jaana hai. Main aapko OTP send karunga, usse verify karke fee bhar dijiye. Link yeh hai: bit.ly/amazon-verify. Jaldi kijiye, offer limited time ke liye hai.
+receiver: Bit.ly ka link? Yeh thoda suspicious lag raha hai. Amazon direct message hi karta hai na?
+caller: Sir, security ke liye link short kiya gaya hai. Aap tension mat lijiye. Phir bhi, ₹500 bharne ke baad aapko ₹10,000 mil jayenge. Just confirm kijiye ki aapka naam Rajesh Sharma hai, aur phone number 9876543210 hai.
+receiver: Haan, yeh mera naam aur number hai. Par main abhi confirm nahi kar sakta. Mein Amazon se direct contact karta hun.
+caller: Sir, aapko bilkul confirm karna chahiye! ₹10,000 aapka hai, sirf ₹500 bhar dijiye! Offer khatam ho jayega. Please jaldi kijiye!

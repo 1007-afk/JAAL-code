@@ -1,0 +1,9 @@
+caller: Namaste! Mera naam Rahul Sharma hai, BharatLoan Solutions se. Aapka naam Priya Verma hai, correct? Aapki credit report bahut achchi hai, aur hum aapko Rs. 50,000 tak ka personal loan instant approve kar sakte hain.
+receiver: BharatLoan Solutions? Haan, mera naam Priya Verma hi hai. Rs. 50,000? Kitna interest hoga? Aur processing fees kya hai?
+caller: Interest rate sirf 12% per annum hai, aur processing fee bhi bahut kam hai – sirf Rs. 2,500. Bahut simple hai, aapko bas apna PAN card aur bank statement online submit karna hai.
+receiver: PAN card aur bank statement? Kya yeh secure hai? Main online document share karne se thodi hesitant hoon. Aur mujhe OTP karke verify karna hoga?
+caller: Haan, bilkul secure hai. Hum encrypted connection use karte hain. Aur haan, verification ke liye aapko OTP bhi dalna padega, bas aapki safety ke liye. OTP aapke registered mobile number par aayega. Please share it soon, offer limited time ka hai.
+receiver: Theek hai, phir mein OTP share karta hoon. Check kar raha hoon… Okay, OTP hai 123456. Ab bataiye, next step kya hai?
+caller: Thank you! Verification complete ho gaya hai. Ab, aapko Rs. 5,000 security deposit ke taur pe apne account se humare account mein transfer karne hai. Yeh sirf ek formality hai, Rs. 50,000 aapko abhi hi mil jayenge. Account details mein aa jayenge.
+receiver: Security deposit? Loan toh approve ho gaya tha, ab security deposit kyun? Yeh toh bilkul sahi nahi lag raha.
+caller: Priya ji, ghabraiye mat. Yeh process har loan

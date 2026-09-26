@@ -1,0 +1,6 @@
+caller: Namaste sir, mai Indian Customs se Rohan Sharma bol raha hoon. Aapke naam par ek parcel aaya hai Gujarat se.
+receiver: Customs? Gujarat se parcel? Mujhe toh koi parcel yaad nahi. Kya likha hua hai parcel par?
+caller: Parcel par aapka naam aur address likha hua hai sir. Lekin parcel mein illegal items mile hain, drug trafficking se related.
+receiver: Illegal items? Drug trafficking? Yeh kya bol rahe hain aap? Mujhe toh kuch pata hi nahi.
+caller: Sir, is matter mein aage ki jankari ke liye aur legal process complete karne ke liye, aapko ₹8000 deposit karne honge. Account details mai aapko SMS karunga.
+receiver: ₹8000? Aur legal process? Yeh bahut hi suspicious lag raha hai. Mujhe SMS mat karo. Mai police mein report karunga. Mai koi payment nahi karunga.

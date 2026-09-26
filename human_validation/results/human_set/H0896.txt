@@ -1,0 +1,7 @@
+caller: Namaste uncle, mai Paytm ka customer care se bol raha hu. Aapke account mein ek suspicious transaction attempt hua hai, 5000 rupay ka.
+receiver: Kya? 5000? Mujhe koi notification nahi aaya.
+caller: Ji, system mein dikh raha hai. Security ke liye, aapko ek OTP verify karna hoga, aur phir mai aapke account ko secure kar dunga.
+receiver: Theek hai, theek hai. OTP bhejo zara.
+caller: Aapko OTP 987654 mil raha hai. Vahi OTP mujhe bataiye, aur main aapko safe kar dunga. Jaldi bataiye uncle, hacker paas aa rahe hain.
+receiver: Arrey yaar, ye OTP wrong dikh raha hai. Paytm app mein koi OTP nahi aaya.
+caller: Aap apne phone ke network ko check karein, uncle. Hacker koi bhi tricks use kar sakte hain. Jaldi karo, warna aapka account hack ho jayega aur paisa chala jayega.

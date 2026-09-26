@@ -1,0 +1,10 @@
+caller: Namaste! Main XYZ Courier se baat kar raha hoon. Aapke naam par ek parcel aaya hai, lekin address mein kuch problem hai.
+receiver: XYZ Courier? Kya address mein problem hai? Mujhe toh koi intimation nahi aaya.
+caller: Haan sir, system mein dikh raha hai ki aapka address incomplete hai. Parcel deliver karne se pehle, humein confirm karna hai ki aap sahi address provide kar sakte hain aur payment detail bhi.
+receiver: Payment detail? Parcel ke liye payment toh delivery ke baad hi hota hai na?
+caller: Woh toh hota hai, lekin is baar company ne ek naya rule banaya hai – delivery se pehle security check ke liye ₹200 ka verification fee dena padega. Paytm se kar sakte hain.
+receiver: ₹200? Yeh toh scam lag raha hai! Main police mein complaint kar dunga.
+caller: Sir, please! Yeh company policy hai. Agar aap fee nahi denge, toh parcel return ho jayega. Mere paas authority hai, sir. Jaldi karo.
+receiver: Theek hai, ₹200 Paytm se transfer karta hoon. Paytm number batao.
+caller: Haan sir, ek minute… number hai 9876543210. Aur OTP jaldi batao.
+receiver: Okay, sending the money now...

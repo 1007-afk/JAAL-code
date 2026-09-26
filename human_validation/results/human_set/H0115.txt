@@ -1,0 +1,8 @@
+caller: Hello? Hello, can you hear me properly?  Aapki suno sahi aa rahi hai na? Dekho, main aapko bata raha hun, aap hamare premium user list mein se hain, aur isliye aapko free 50GB data pack ke draw mein join karne ka opportunity milega.  Bas aapko 'ACCEPT' message reply mein karna hai.  Chahiye aapko accept karein?  Accept karein?
+receiver: Oh, hi there! Yes, I am hearing you clearly.  50GB data pack, you say?  That’s quite nice.  ‘ACCEPT’ message, you said?  Okay, fine, I will accept.  Thank you!
+caller: Wonderful! That's great news, madam/sir. And just a reminder, you only have two chances left for this amazing offer!  Just verifying, is this [Invented Name, e.g., Ms. Patel's] mobile number?  For accurate record keeping, please.  Aapka number sahi hai na?
+receiver: Yes, this is [invented name, e.g., Priya Singh]'s number. Two chances left? Okay, thanks for letting me know.
+caller:  Shandar! Ms. Priya Singh, aapka entry confirm ho gaya hai.  Aapke paas abhi sirf 1 entry baki hai, isliye jaldi se decide karein.  Kya aap apne neighbour ya koi cousin bhai ko bhi is scheme ke bare mein bataana chahenge? Unhe bhi eligibility hai!
+receiver: Oh wow, just one entry remaining?  Interesting.  I might tell my neighbour, but I'm a little hesitant. Let me consider it.  Thank you for the information!
+caller:  Arre, koi baat nahi, Ms. Priya Singh!  Main samajh raha hun.  Aapko phir yaad daraan, aapke paas abhi sirf 0 entries bache hain for this 50GB data pack draw.  Don't lose this incredible opportunity! Agar aapko kuch aur pata chalta hai ya koi confusion hai, toh bilkul puch sakte hain.
+receiver: Zero entries now? Really?  Okay, thank you.  No further questions at this time.  I'll wait to see what happens.

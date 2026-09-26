@@ -1,0 +1,9 @@
+caller: Namaste! Congratulations! You’ve been selected to win ₹50,000 as part of our Diwali special lottery! Just call our support team on 9876543210 between 11 AM and 6 PM to confirm your win and receive instructions.
+receiver: Hello? Seriously? ₹50,000? Is this legitimate, or are you trying to trick me? I've received these calls before, so I'm very cautious. Can you tell me how I actually won?
+caller: Absolutely! This is completely genuine, no fraud involved, beta! It’s your good fortune! You need to simply call us back on 9876543210. We will guide you through the process of claiming your prize. And absolutely nothing needs to be purchased, nor any bank details shared – promise! Your name would help us assist you better.
+receiver: Okay, okay, thanks for confirming. My name is Priya Patel. So, I just call back and talk to someone? What if they suddenly ask for an ID or address? I don't want to give out personal information.
+caller: Exactly, Priya ji! That's precisely what you need to do. Call the number and let them know you received the notification. They’ll then explain the next steps. Don’t worry, there's nothing hidden or complicated. When it’s time to claim the prize, we’ll clarify everything clearly. If you have any further questions, feel free to ask.
+receiver: Right, Priya ji. So, just call and they handle it. Is there a deadline for claiming this prize, though? Like, how many days do I have to call?
+caller: Completely, Priya ji! No hurry, relax. Just call the number. And yes, there’s a small deadline, so call quickly to avoid missing out on your reward. The number is 9876543210, and you can call between 11 AM and 6 PM.
+receiver: Alright, fine. I’ll try calling soon. Thank you for all the details.
+caller: You are most welcome, Priya ji! Have a happy Diwali!

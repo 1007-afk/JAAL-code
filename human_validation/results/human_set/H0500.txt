@@ -1,0 +1,8 @@
+caller: Namaste! Is this Ms. Verma, registered to mobile number ending in 789? This is Ashish Kumar calling from ‘QuickCash India’. We have fantastic news! Your loan application has been pre-approved for ₹2,50,000. To finalize it, we just need to verify a few details. Are you there?
+receiver: Haan, main Ms. Verma hoon. QuickCash India? Pre-approved loan? Kitne interest ka hai?
+caller: Wonderful! The interest rate is only 8%, a very special offer for our valued customers. Now, for verification, please visit our secure portal at quickcashverify.in. You’ll need to enter your PAN card number and a one-time password (OTP) that we'll send to your WhatsApp. Quickcashverify.in, remember that.
+receiver: Quickcashverify.in? Okay, main dekhti hoon. PAN card number and OTP? It's a bit fast, isn't it?
+caller: Don't worry, it’s a standard security measure, Ms. Verma. Time is of the essence, though! We have limited slots available for this offer, and many applicants are waiting. Have you received the OTP on WhatsApp yet? Quickly enter it on the portal.
+receiver: Haan, OTP aa gaya hai. 456789. Enter kar diya. Now what?
+caller: Excellent! Everything seems to be in order. Now, just a small processing fee of ₹7,500 is required to activate your loan. It will be credited back to you once the loan is disbursed. You can deposit it to the given UPI ID: quickcashpay@axisbank. Please hurry, this is the final step.
+receiver: ₹7,500? Processing fee? Loan disbursal ke baad credit ho jayega? Yeh thoda… suspicious lag

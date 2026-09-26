@@ -1,0 +1,7 @@
+caller: Namaste, sir. This is Priya Sharma calling from Axis Bank's KYC verification department. We noticed some unusual activity on your account.
+receiver: Unusual activity? What kind of unusual activity? I haven't done anything different.
+caller: Sir, our system flagged a potential transaction originating from a foreign IP address. To secure your funds and prevent unauthorized access, we need to update your KYC details immediately. For this, we need your Aadhaar number and the last four digits of your PAN card, please.
+receiver: Wait a minute. Axis Bank never asks for Aadhaar or PAN over the phone. That's a security risk.
+caller: Sir, this is a new security protocol. We understand your concern, but failing to comply will result in your account being temporarily suspended. It's just a precaution to protect you from fraud. Now, could you please provide the information?
+receiver: No, I will not give you my Aadhaar or PAN. I’m going to call Axis Bank directly to confirm this. You are a scammer.
+caller: Sir, please don't be stubborn. If you don't cooperate now, your account will be blocked permanently. We are just trying to help you. Provide the OTP sent to your registered mobile number, so that we can start the verification process.

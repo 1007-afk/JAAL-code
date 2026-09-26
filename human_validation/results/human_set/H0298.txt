@@ -1,0 +1,7 @@
+caller: Namaste, sir? Main Cybercrime Investigation Department se Special Officer Verma bol raha hoon. Aapke naam par ek illegal parcel delivery ka case register hua hai, sir.
+receiver: Illegal parcel? Mere naam se? Main toh kabhi parcel order nahi kiya. Yeh kya bol rahe hain aap?
+caller: Ji sir, system mein dikh raha hai ki aapke address par ek suspicious parcel aaya tha, jismein illegal items the. Legal process mein, humein jankari verify karni hogi. Aapka bank account number chahiye hoga humein confirm karne ke liye, sir.
+receiver: Bank account number? Kyun? Mujhe yeh kuch galat lag raha hai. Cybercrime Department ki taraf se aapko mere bank account ka number kyun chahiye? Koi OTP ya link bhejo aap, main verify karunga.
+caller: Sir, OTP send karna legal process ka hissa nahi hai. Humko direct verify karna hai, sir. Yeh case bahut serious hai, sir. Agar aap cooperate nahi karenge, toh humko aapki arrest warrant bhi nikalni padegi. Bank account number do jaldi, please.
+receiver: Arrest warrant? Sir, ek minute. Main police station ka number dhoondhta hoon aur confirm karta hoon. Aapko wait karna hoga.
+caller: Sir, time bahut kam hai. Un criminals ne aapke naam ka misuse kiya hai, sir. Agar aap cooperate karenge toh aapko koi problem nahi hogi. Bank account number jaldi do.

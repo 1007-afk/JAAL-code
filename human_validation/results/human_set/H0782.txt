@@ -1,0 +1,8 @@
+caller: Hello, is this Rajan Verma? I’m calling from SwiftLoans. We've reviewed your application for a personal loan of 2 lakhs. It's almost approved.
+receiver: Haan, boliyega. SwiftLoans se? Haan, main Rajan Verma hi hoon. Loan ke baare mein sunkar khushi hui.
+caller: Wonderful! Just a few final verification steps, sir. To protect your account, we need to confirm some details. Could you please share the last four digits of your debit card? Just for security purposes.
+receiver: Debit card ke last four digits? Itne sensitive details phone pe? It’s a little risky, isn't it?
+caller: Sir, this is standard procedure. We’re ensuring you are the rightful owner. Without this, we can't complete the approval. Plus, we've detected some suspicious activity on your account – we need to secure it quickly.
+receiver: Okay, fine. The last four digits are 4589. But please, tell me when the loan will be credited.
+caller: Thank you, sir. Just one more thing. Your account seems flagged for potential fraud. To unlock it and complete the loan disbursement, we require a small processing fee of ₹5,000, sent to this UPI ID: 9876543210. This is a one-time fee, sir.
+receiver: ₹5,000? I didn’t see anything about a processing fee in the application! This doesn’t seem right.

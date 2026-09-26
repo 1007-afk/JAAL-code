@@ -1,0 +1,8 @@
+caller: Namaste, sir. This is Rohan calling from BlueSwift Logistics. We have a package addressed to you, but there's been a slight issue with the delivery. It appears there's an outstanding customs fee of ₹2800.
+receiver: Customs fee? Maine toh kuch order nahi kiya tha. Kya delivery hai ye?
+caller: It’s a parcel from Flipkart, sir. The label is a bit damaged, which triggered the fee. It contains some electronics, looks like. We need to clear this before we can deliver it. You can pay it online through a secure link we’ll send.
+receiver: Flipkart se mujhe kuch nahi mila hai. Aur koi secure link mat bhejo. Main bank details kisi se share nahi karunga.
+caller: Sir, please understand, we need to verify the payment before proceeding. We’re just following protocol. Otherwise, the package will be returned to the sender and you’ll lose it. We can offer a small discount if you pay now – ₹500 off.
+receiver: ₹500 discount? Toh package return hoga agar main nahi deta? Wait, let me check my Flipkart account.
+caller: Exactly sir. Time is running out. The discount is only available for the next 15 minutes. We’ve already tried contacting you several times via SMS, but it seems you haven't received them. Pay now to avoid complications and get the ₹500 discount.
+receiver: Okay, wait, let me just quickly check something. I’ll call you back in a few minutes.

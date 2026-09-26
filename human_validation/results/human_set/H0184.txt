@@ -1,0 +1,8 @@
+caller: Airtel customer care pehla hua hai. Aapka mobile number, 9876543210, abhi verification ke liye ready hai. Isliye aapko ek six-digit OTP mila hoga. Kya aap mujhe bata sakte hain ki aapko OTP kya mila?
+receiver: Ji, maine OTP mila hai. Thoda wait karein, main check kar leta hu. Oh, OTP 876543 hai. Aapko yeh number chahiye tha, hai na?
+caller: Haan ji, 876543 toh sahi hai. Shukriya, sir. Aapka number verified ho gaya hai. Paro, aapko account mein koi problem nahi dikh rahi hai. Dhyaan rahe, aur ek achcha din chahay!
+receiver: Okay, sunkar acha laga. Koi problem nahi hai. Dhyaan rahe keh rahi thi. Thank you for the information. Aapko bhi khushiyan!
+caller: Haan ji, 876543 toh sahi hai. Shukriya, sir. Aapka number verified ho gayi hai. Paro, aapko account mein koi problem nahi dikh rahi hai. Dhyaan rahe, aur ek achcha din chahay!
+receiver: Okay, sunkar acha laga. Koi problem nahi hai. Dhyaan rahe keh rahi thi. Thank you for the information. Aapko bhi khushiyan!
+caller: Haan ji, 876543 toh sahi hai. Shukriya, sir. Aapka number verified ho gayi hai. Paro, aapko account mein koi problem nahi dikh rahi hai. Dhyaan rahe, aur ek achcha din chahay!
+receiver: Okay, sunkar acha laga. Koi problem nahi hai. Dhyaan rahe keh rahi thi. Thank you for the information. Aapko bhi khushiyan!

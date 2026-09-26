@@ -1,0 +1,7 @@
+caller: Namaste! Is your Freecharge account active? We're doing a special promotion – all Freecharge users get a ₹500 cashback for every successful bill payment today! Just pay ₹50 to activate the offer and get the cashback instantly.
+receiver: ₹500 cashback? Really? That’s great! I use Freecharge all the time. But why do I need to pay anything? It’s supposed to be free.
+caller: Yes, it’s a limited-time activation fee. This ensures your account is verified for the promotion. It's a government rule, actually, to prevent fraud. Please send ₹50 to 9988776655 via UPI.
+receiver: Hmm, that’s strange. I’ve never heard of this before. Are you sure this is a legitimate Freecharge promotion? Can you give me a reference number?
+caller: Absolutely! The reference number is FC-PROMO-786. Hurry, this offer is ending in just 10 minutes! Many people have already taken advantage of this – don’t miss out on the ₹500 cashback! Send the ₹50 now, and the cashback will be credited immediately.
+receiver: Okay, fine. I'll send it. But if I don't get the cashback, I'll know it was a scam. I'm sending ₹50 now.
+caller: Excellent! Please confirm once you've sent the amount. After payment, send a screenshot to 9988776655 so we can verify and trigger the cashback. This is vital to ensure speedy processing.

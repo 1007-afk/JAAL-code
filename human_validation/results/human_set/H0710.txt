@@ -1,0 +1,8 @@
+caller: Hello sir/madam, this is Rupali calling from FreeCash Rewards India. We have a special cashback offer just for you.
+receiver: FreeCash Rewards? Haan, suna hai. Kya offer hai?
+caller: Sir, you've been selected for a ₹500 cashback bonus on your next PhonePe transaction. To claim it, you just need to complete a small verification process.
+receiver: ₹500? Verification ke liye kya karna hai? Koi charge toh nahi lagega na?
+caller: No sir, absolutely no charges. Just a one-time security deposit of ₹50 to ensure you’re the rightful owner of the account. It will be refunded immediately after the cashback is processed.
+receiver: ₹50 deposit? Kahan karna hai yeh deposit? Koi link bhej do. Aur PhonePe support number bhi dedo, main khud check karunga.
+caller: Sir, please use this link: bit.ly/freecash-verify. It’s a secure link. The PhonePe helpline is 022-62809100 but it can be busy, so this link is the fastest way. Aap jald karo, offer limited time ke liye hai!
+receiver: Wait a minute… bit.ly? Yeh thoda fishy lag raha hai. Main PhonePe app se direct check karta hun. Shukriya, lekin mujhe nahi lagta.

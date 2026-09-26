@@ -1,0 +1,8 @@
+caller: Namaste! Main XYZ Courier se baat kar raha hoon. Aapke naam par ek parcel aaya hai, lekin delivery address mein kuch problem hai.
+receiver: XYZ Courier? Kya parcel hai? Mujhe toh koi order yaad nahi aa raha. Aur address mein kya problem hai?
+caller: Parcel ek mobile phone ka hai, Xiaomi Redmi Note 13 Pro. Address mein pin code galat hai, woh 411001 bata rahe hain, lekin hamare system mein 411005 dikh raha hai. Yeh sort karne ke liye, aapko apne bank account se ₹250 ka verification fee bhar dena hoga.
+receiver: ₹250 verification fee? Yeh toh galat lag raha hai. XYZ Courier ne kabhi bhi verification fee nahi mangi. Mujhe koi order confirm karwa dijiye, parcel ka tracking number bataiye.
+caller: Tracking number main abhi nahi de sakta, verification ke baad hi. Yeh scam nahi hai, sir. Hamara policy hai ki address sahi karne ke liye verification fee bharte hain. Aapko sirf ₹250 bharne hain, aur parcel kal subah tak deliver ho jayega.
+receiver: ₹250? ₹250 bhi woh bhi online pay karna padega? Main phone kar ke confirm karunga XYZ Courier office se, aur police ko bhi report karunga agar koi fraud hoga.
+caller: Arre, itni jaldi kyun kar rahe hain? Yeh offer sirf abhi hi valid hai, ₹250 fee bhar dijiye, aur aapka naya phone kal subah tak aapke haathon mein hoga.
+receiver: Nahi, main nahi bharunga. Koi scam hai yeh. Mai XYZ Courier office ka number dhundhunga aur wahaan baat karunga.

@@ -1,0 +1,8 @@
+caller: Hello, this is Priya calling from LoanExpress. We've pre-approved you for a quick loan of ₹50,000. Very easy process, just a few details to confirm.
+receiver: Oh really? That's great! I could really use some extra cash right now. What details do you need?
+caller: First, we just need to verify your OTP, the one-time password sent to your phone. It's a security measure, totally standard procedure. Please read it out to me.
+receiver: Okay, it’s 458291. But, how much will this loan actually cost me back?
+caller: Excellent! Now, regarding repayment, the total amount due, including all processing fees and interest, will be ₹65,000. You’ll have 3 months to pay it back in easy installments. It’s a small price to pay for such a fast loan!
+receiver: Sixty-five thousand? That seems a bit steep, doesn't it? Isn’t there a smaller fee or something?
+caller: Look, Mr. Verma, if you don't pay back as agreed, we have to take drastic steps. We have a dedicated recovery team, and they will share some of your personal contacts’ pictures to them as a warning. Understand? This is very serious. Just pay the ₹65,000 and everything will be fine.
+receiver: What?! You’re threatening me? Sharing my contacts’ pictures? That’s completely illegal and unacceptable! I’m ending this call right now!

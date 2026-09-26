@@ -1,0 +1,8 @@
+caller: Namaste! Is this Mr. Verma? My name is Ankit, calling from SwiftShip Logistics. We are holding a parcel addressed to you, but there’s been an issue with the delivery address. It seems there’s a mismatch between the address on the package and the one we have on file.
+receiver: Haan, woh mein hoon. Verma hi hoon main. Package? Kya hai package mein? Mujhe toh koi order yaad nahi aa raha.
+caller: Sir, it’s from Zomato. A large order of biryani and sweets. It’s quite expensive, sir, around ₹4500. We need to verify the address and payment details to proceed with delivery. We can’t release the parcel until confirmation. Can you please give me the last four digits of your debit card for verification?
+receiver: ₹4500? Zomato ka? Aur debit card number? Nahin, bhai, yeh toh galat lagta hai. Mein toh Zomato se kuch order nahi kiya tha. 
+caller: Sir, sometimes these promotions are automatic. Don't worry, it’s just a security check. For your safety, could you please share the OTP you’ll receive on your registered mobile number? It’s a one-time password to verify your identity and release the parcel.
+receiver: OTP? Suniye, mujhe kuch samajh nahi aa raha. Main police mein report karunga agar yeh fraud hai.
+caller: Sir, please understand, we're just following protocol. It's a standard procedure to protect our customers. Without the OTP, we cannot guarantee the safe delivery of your parcel. I am showing the delivery address as plot number 12, sector 11. Is that correct?
+receiver: Nahin, bhai. Woh address mera nahi hai. Aur main OTP bhi nahi dunga. Yeh scam hai, mujhe pata hai. Bye

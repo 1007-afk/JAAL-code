@@ -1,0 +1,8 @@
+caller: Namaste, speaking with Mr. Sharma? This is Inspector Verma from the Directorate of Revenue Intelligence. We’ve detected an unusual activity linked to your bank account – a significant sum of ₹12,000 was transferred to a cryptocurrency exchange registered in Dubai.
+receiver: Haan, main hi hoon. ₹12,000? Cryptocurrency? Main toh kabhi nahi kiya. Yeh kaise hua?
+caller: Ji, Mr. Sharma, we believe your account may have been compromised. To prevent further unauthorized transactions and potential legal issues regarding money laundering, we need to verify your details. Can you please provide the OTP you just received on your registered mobile number?
+receiver: OTP? Legal issues? Dekhiye, mujhe yeh sab zyada suspicious lag raha hai. Main OTP nahi dunga. Kya aap mujhe senior officer se baat karne ka mauka de sakte hain?
+caller: Mr. Sharma, this is a very serious matter. Delaying the verification process will only complicate things and raise further suspicion. We need to act quickly. For your own protection, please provide the OTP. We’re trying to secure your funds, sir.
+receiver: Secure my funds? Aap log chori kar rahe hain, aur mujhe secure kar rahe hain? Main police station mein report karunga!
+caller: Mr. Sharma, please, do not make threats. Just provide the OTP and we can resolve this immediately. We need to confirm your identity before we can proceed with the investigation. Think of your reputation, sir.
+receiver: Reputation? My reputation is fine! Main kabhi bhi cryptocurrency nahi chalaunga. Yeh ek sakht farzi hai!

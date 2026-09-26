@@ -1,0 +1,26 @@
+caller: Hello there! We’ve connected you to our lottery reward center. You’ve been randomly selected to win either a luxurious weekend getaway to Goa or a whopping $8000 USD prize! To receive your winnings, we need to verify some information. The service fee is only $2.75 per minute, lasting up to 15 minutes. Are you ready to claim your reward?
+receiver: Hello! Oh wow, really? A trip to Goa or $8000? That sounds amazing! I am listening. This is very exciting. What do I have to do?
+caller: Wonderful! First, let’s confirm your identity. Could you please tell us your first and last name?
+receiver: My name is Rohan Kumar. Okay, what will you be asking?
+caller: Thank you, Rohan. And for security purposes, could you share your year of birth? Just a quick one, please.
+receiver: It’s 1988. Anything else?
+caller: Great, Rohan. Now, to process your claim and ensure everything goes smoothly, can you give me your complete street address, including apartment number and zip code? We need this for sending you the official documents.
+receiver: My address is 3B, Silverwood Heights, Maple Avenue. Zip code is 90210. Is that all?
+caller: Namaste! We've reached your premium rewards hotline. You've been fortunate enough to win a grand vacation package to Kerala or a substantial INR 60,000 prize money! To proceed with claiming your victory, a small processing charge of ₹2.99 per minute applies, valid for up to 12 minutes. Are you eager to accept your prize?
+receiver: Namaste! Seriously? Kerala or 60,000 rupees? That's unbelievable! I'm here, listening carefully. Tell me what needs to happen.
+caller: Fantastic! Let's begin by verifying your details. Please state your full name as it appears on your identification document.
+receiver: Mera naam hai Anjali Patel. What are you asking now?
+caller: Shukriya, Anjali. For security reasons, could you kindly provide your date of birth? Just a simple question.
+receiver: Meri janmadin hai 2nd January, 1995. Any other questions?
+caller: Dhanyavaad, Anjali. Now, to finalize your claim and ensure accurate delivery, could you share your postal address – house number, street name, city, and pincode? We require this for dispatching the necessary paperwork.
+receiver: Address? Okay. My address is 7/4, Vikas Colony, Rajpur Road. Pincode is 122018. Is that all?
+caller: Hello! We've connected you to our lucky draw support team. Congratulations, you've been chosen to win either a lavish cruise to Mauritius or a significant €7500 prize! To activate your claim, we need to verify a few details. There's a nominal connection fee of €2.50 per minute, with a maximum call time of 10 minutes. Are you ready to start receiving your prize?
+receiver: Hello! Wow, seriously? Mauritius or €7500? That’s great news! I'm listening. What do I need to do?
+caller: Wonderful! Let’s quickly confirm your identity. Can you please tell us your full name?
+receiver: My name is Vijay Singh. What exactly are you going to ask?
+caller: Thank you, Vijay. And for security, could you share your year of birth? Just a fast question, okay?
+receiver: It’s 1979. Anything more?
+caller: Perfect, Vijay. Now, to finalize your claim and ensure smooth delivery, could you please provide your full residential address, including building number, street name, city, and postal code? We need this to send you the confirmation letter and voucher.
+receiver: Address? Alright. My address is Flat No. 202, City Lights Tower, Main Street. Postal code is 10001. Is that all?
+caller:  Namaste! You’ve been selected to win either a deluxe tour to Dubai or a generous amount of ₹45,000! To claim your prize, we need to verify some details. The service charge is just ₹2.75 per minute, and the call lasts up to 12 minutes. Are you ready to receive your winnings?
+receiver: Namaste! Really? Dubai or ₹45,000? That’s fantastic!

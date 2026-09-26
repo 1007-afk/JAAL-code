@@ -1,0 +1,6 @@
+caller: Namaste, main ICICI bank se Rohit Sharma bolta hoon. Sir, aapke account mein ek suspicious transaction attempt hua hai, Gujarat se.
+receiver: Gujarat se? Maine toh koi transaction nahi kiya. Yeh kya ho raha hai?
+caller: Haan sir, ek attempt tha, lekin humne woh block kar diya hai. Ab aapke account ko secure karne ke liye, humein aapka KYC update karna padega. Iske liye aapka Aadhaar card number aur OTP bataiye.
+receiver: OTP? Aadhar number? ICICI bank aise phone par details maangta hai? Mujhe toh kuch galat lag raha hai.
+caller: Sir, security ke liye hi toh. Gujarat se attempt hone ke wajah se humein urgent verification karna padega. Agar aap cooperation nahi karenge, toh aapka account freeze bhi ho sakta hai.
+receiver: Freeze?  Dekho, main phone kar ke ICICI bank se verify kar lunga. Tumhara koi proof hai ki tum ICICI se ho?  Tumko mein koi bhi detail nahi dene wala. Main abhi call cut kar raha hoon.

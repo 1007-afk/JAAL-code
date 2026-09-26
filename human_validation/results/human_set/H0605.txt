@@ -1,0 +1,9 @@
+caller: Hello, is this Mrs. Sharma? My name is Inspector Verma, calling from the Delhi Customs Department. We have intercepted a parcel addressed to you containing suspicious items.
+receiver: Haan, main Mrs. Sharma bolti hoon. Kis parcel ki baat kar rahe hain aap? Mujhe koi parcel order karne ya aane ka koi message nahi mila.
+caller: Mrs. Sharma, this parcel was shipped internationally and flagged during routine screening. Preliminary findings suggest it contains components potentially linked to illegal cryptocurrency mining operations.
+receiver: Cryptocurrency mining? Lekin main toh cryptocurrency mein kuch nahi karti. Yeh galat hai! Kya proof hai aapke paas?
+caller: We have evidence, Mrs. Sharma. To clear this up and prevent further legal complications, you need to pay a small processing fee of ₹15,000 to expedite the investigation. You can deposit this amount to the account number I will provide.
+receiver: ₹15,000? Aur agar main payment nahi karti toh kya hoga? Mere upar case ho jayega? Main police station mein jaungi aur complaint karungi.
+caller: Mrs. Sharma, please understand, this is to protect you. Failure to cooperate will result in a formal investigation and potential charges. We are trying to resolve this amicably. The account details are…
+receiver: (Silence)
+caller: Mrs. Sharma? Are you there? This is a serious matter.

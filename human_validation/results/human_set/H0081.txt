@@ -1,0 +1,8 @@
+caller: Namaste! Main BharatPay se Rohit bol raha hoon. Aapke BharatPay wallet mein ₹10,000 ka cashback offer live hai! Yeh offer sirf aaj ke liye hai, isko claim karne ke liye, ₹500 activate karne ke liye send karna hoga.
+receiver: BharatPay? ₹10,000 cashback? Activate karne ke liye ₹500 send karna padega? Yeh kaise hoga?
+caller: Haan ji, bilkul! BharatPay ne yeh special offer launch ki hai apne loyal customers ke liye. ₹500 activation fee ke baad, cashback automatically aapke wallet mein add ho jayega. ₹500 ko 'ACTIVATE' number 88888 pe send karein.
+receiver: ₹500 message pe send karna hai? Aur yeh cashback kab milega? Koi link ya app download karna hai kya?
+caller: Haan ji, ₹500 ko SMS ke zariye send karna hai. Cashback aapko 24 hours ke andar mil jayega. Koi app download karne ki zarurat nahi hai. Yeh process totally secure hai, BharatPay se hi call hai. Bas 'ACTIVATE' number 88888 pe send karein. Jaldi karein, offer khatam hone wala hai!
+receiver: Jaldi kar raha hoon, lekin mujhe doubt ho raha hai. ₹500 send karne ke baad cashback milega ya nahi? BharatPay ka helpline number dedo, main khud confirm karta hoon.
+caller: Haan ji, trust me! BharatPay ka helpline number 1800-123-4567 hai. Lekin offer limited time ke liye hai, agar aap abhi send nahi karenge, toh yeh offer miss ho jayegi. Aapka decision aapke haath mein hai.
+caller: Suno, bahut log claim kar rahe hain! Bas ek last chance

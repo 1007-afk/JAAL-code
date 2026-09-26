@@ -1,0 +1,11 @@
+caller: Namaste, sir! Mera naam Rohan hai, SmartCash Solutions se. Aapko urgent loan chahiye kya? Credit score kam hone ki chinta mat karein, hum sabko help karte hain.
+receiver: Hello, I’m a bit short on funds right now, but not desperately needing a loan. What are the rates like?
+caller: Sir, humare rates industry mein sabse achhe hain! Sirf 5% processing fee, aur phir EMI aapki convenience ke hisaab se set karenge. Aapko kitne rupay chahiye the, sir?
+receiver: 20,000 rupees would be helpful. But 5% processing fee sounds a bit high.
+caller: Sir, woh sirf ek small fee hai! Agar aap agree karte hain, toh main aapka account verify karunga. Aapka full name aur date of birth bataiye, please.
+receiver: My name is Rajesh Kumar, and my date of birth is 15th August, 1985. What documents do you need?
+caller: Thoda wait karein, Rajesh ji… Perfect! Loan approve ho gaya hai. Account number aur IFSC code bataiye, sir, so we can transfer the funds. Aur kal se aapko daily ₹2000 rupay ka call aata rahega, ‘processing charges’ ke naam se.
+receiver: Daily calls? What processing charges? I thought the fee was just 5% upfront. This sounds fishy.
+caller: Rajesh ji, aapko ek misunderstanding hai. Yeh ek standard procedure hai. Agar aap cooperate karte hain toh sab kuch sorted ho jayega. Account details do, please.
+receiver: No, I’m not comfortable with this. I think I’ll look elsewhere for a loan. I’m ending this call now.
+caller: Rajesh ji, aapko yeh decision regret karenge! Hum aap

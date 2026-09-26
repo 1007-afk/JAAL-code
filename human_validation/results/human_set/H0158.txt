@@ -1,0 +1,7 @@
+caller: Namaste sir, main Axis Bank security department se Rahul Sharma bol raha hoon. Aapke account mein ek suspcious login attempt detect hua hai.
+receiver: Suspicious login? Kaun logon ne try kiya? Batao kya hua?
+caller: Sir, humein exact details abhi pata nahi hain, lekin aapki security ke liye isko verify karna bahut zaroori hai. Aapse request hai ki aap apna naam aur dob confirm karein.
+receiver: Mera naam Rajesh Kumar hai, aur dob 15/08/1978. Par naam aur dob se kya verify hoga? Logon logon ne login karne ki koshish ki toh bank ko toh pata hona chahiye na?
+caller: Sir, verification process ka ek part hai yeh. Aapka dob confirm karne ke baad, hum ek OTP bhejenge aapke registered mobile number pe. Woh OTP enter karne se aapka account secure ho jaayega.
+receiver: Theek hai, OTP bhijhao. Par main ek baat kehta hoon, kuch gadbad lagi hai. Yeh OTP kaunsa number pe aayega? Main ek check karta hoon.
+caller: Sir, OTP aapke Axis Bank registered mobile number pe aayega. Jab OTP aa jaaye, toh mujhe bataiye, main isko verify karunga aur aapka account secure kar dunga.

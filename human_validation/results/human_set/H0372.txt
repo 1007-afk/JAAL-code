@@ -1,0 +1,13 @@
+caller: Namaste, is this Dr. Verma? I’m calling from the Zenith Financial Security Services. How are you doing today?
+receiver: Haan ji, main hi Dr. Verma bol raha hoon. Main theek hi hoon, aap kaise hain? Aur aap Zenith Financial se kaun bol rahe hain?
+caller: Wonderful to speak with you, Dr. Verma! We’re experiencing an unprecedented surge in investment opportunities and wanted to bring one directly to your attention – a chance for substantial gains.
+receiver: Substantial gains? Yeh toh sunne mein hi achchha laga. Kya kind ka opportunity hai, aur kaise aapko is mein benefit milega?
+caller: We’ve noticed a promising new venture, a small tech startup called ‘Innovate Solutions’, ticker symbol ISL8. Our experts believe it could see a phenomenal rise, potentially exceeding 400% within the next six months.
+receiver: Innovate Solutions? ISL8? Yeh bataiye, yeh kya karte hain? Aur 400% growth ka koi solid reason hai, ya just speculation hai?
+caller: Absolutely, Dr. Verma. Innovate Solutions is developing AI-powered diagnostic tools for hospitals, and they’ve secured a major contract with a leading healthcare provider. Our analysts have thoroughly investigated their financials and projections, and we’re confident in this trajectory.
+receiver: AI diagnostics... Hospitals... This sounds like a big risk. Can you tell me more about that contract? And how long will this potential growth be available? What’s the timeframe for seeing these returns?
+caller: Certainly. The contract is worth approximately $15 million over three years, guaranteeing a steady stream of revenue for Innovate Solutions. We project this growth to materialize within the next twelve to eighteen months, giving you ample time to capitalize on this exciting opportunity.
+receiver: $15 million? That’s quite a figure. But still, 400% growth is a lot to ask for. Can you assure me there are no hidden fees or charges involved?
+caller: Of course, Dr. Verma! There are absolutely no hidden fees. This is a completely transparent investment opportunity. We simply want to connect you with a fantastic prospect.
+receiver: Okay, okay. Thank you for the information. I'll consider it.
+caller: Excellent! You can reach us at 91-8888-XXXXX if you have any further questions. Have a wonderful day!

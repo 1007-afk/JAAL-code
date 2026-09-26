@@ -1,0 +1,7 @@
+caller: Namaste sir, this is Inspector Sharma calling from the Delhi Customs Department. We’ve intercepted a package registered under your name containing suspicious items.
+receiver: Suspicious items? What kind of items? I haven't sent any package.
+caller: Sir, the contents are flagged as potentially related to money laundering activities. We need to verify your identity and details immediately to prevent further legal complications. Could you please provide your Aadhaar card number for verification?
+receiver: Wait a minute, Inspector. Why would you be calling me for this? Shouldn't you be contacting me through official channels? This feels a bit fishy.
+caller: Sir, due to the sensitive nature of the investigation, we are prioritizing direct contact to ensure discretion. To clear things up quickly, we need to confirm a small payment of ₹15,000 as processing fee to release the package after verification. You can pay via UPI.
+receiver: ₹15,000? That’s a lot of money! And you want me to pay before you’ve even told me what’s in the package? This is definitely a scam. I’m hanging up.
+caller: Sir, please! This is a final warning. If you don’t make the payment immediately, a warrant will be issued against you. We have all your details, and the legal proceedings will begin shortly. Think about it!

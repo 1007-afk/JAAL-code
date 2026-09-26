@@ -1,0 +1,6 @@
+caller: Namaste, sir. Mein Freecharge support se Rahul bolta hoon. Aapke Freecharge wallet mein 10,000 ka cashback offer chal raha hai, lekin claim karne ke liye kuch verification steps complete karna padega.
+receiver: Cashback? Freecharge pe? Mujhe toh koi notification mila hi nahi. Verification ke steps kya hain?
+caller: Haan sir, yeh limited time offer hai. Verification ke liye aapko ek small processing fee bharvani hogi, sirf ₹299. Yeh fee verification process ke liye hai aur cashback claim karne mein madad karegi.
+receiver: ₹299? Processing fee? Freecharge toh kabhi aise fees lete nahi. Yeh kuch gadbad lag rahi hai.
+caller: Sir, security ke liye hai. ₹299 fee bharne ke baad, aapka cashback instantly credit ho jayega. Aapko paytm ya phonepe se payment karna hoga, sir.
+receiver: Okay, batao payment kaise karna hai? Aur mujhe confirm karo ki offer sahi hai. Main ek moment ke liye online check bhi karta hoon.

@@ -1,0 +1,8 @@
+caller: Hello sir, mai Amazon se bol raha hoon. Aapko ek achha cashback offer mila hai, ek lottery mein.
+receiver: Amazon? Lottery? Mujhe kuch yaad nahi aa raha.
+caller: Ji sir, aapne kuch din pehle ek scratch card fill kiya tha Amazon par, aur aap ek lucky winner hain! Aapko ₹50,000 ka cashback mil raha hai.
+receiver: ₹50,000? Sunne mein toh acha lag raha hai, lekin mujhe doubt ho raha hai. Lottery mein toh kabhi kuch jeeta nahi.
+caller: Sir, yeh real hai! Processing fee bahut kam hai, sirf ₹2,500, isko verify karne ke liye. Aapko Amazon Pay wallet mein deposit karna hoga.
+receiver: ₹2,500 processing fee? Aur Amazon Pay mein deposit karna hai? Yeh toh zyada suspect lag raha hai. Mein kisi ko bhi paisa nahi dene wala.
+caller: Sir, yeh security process hai. ₹2,500 fee deposit karne se aapka account secure rahega aur cashback aapke account mein deposit ho jayega. Koi aur tarika nahi hai. Jaldi karo, offer limited time ke liye hai!
+receiver: Limited time? Arey, yeh toh har dafa bolte hain. Mein kisi bhi app mein koi bhi paisa deposit nahi karunga. Koi bhi OTP ya kuch bhi nahi. Mein complaint karunga.

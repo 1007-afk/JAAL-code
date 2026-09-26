@@ -1,0 +1,9 @@
+caller: Namaste sir, main Tata Digital Support se hoon. Aapke Vodafone number ko update karne ke liye humein kuch information ki zaroorat hai. Aapko ek six-digit OTP WhatsApp par bheja gaya hai. Plzzz woh OTP bataiye.
+receiver: Oh, hai kya? Ek minute dena hai. Jaise jaise message aaya hai, dekh leta huon.Haan, aaya hai. OTP hai 789456. Aap ne kya kaha? Haan, 789456.
+caller: Shukriya sir, verification complete hua. Ab mein aapko ek small request karna chahta hun. Aapke credit card details ki last four digits bataa sakte hain?
+receiver: Credit card ki last four digits? Jeechha, ek second wait kar rahe hain. Koi problem hai? Caller ID bhi confuse karta hai.
+caller: Haan sir, hurry up karo. Yeh account verification process bahut important hai. Aur agar aap yeh detail nahi dega to aapki service suspend ho jayegi. Plzz, four digits bata dijiye.
+receiver: Arey yaar, actually mera credit card number yaad nahi aa raha hai. Kya yeh seriously required hai? Ismein koi aur way nahi hai? Maybe I can check my online banking?
+caller: Nahin sir, yeh absolutely necessary hai. Account ko secure rakhne ke liye hume credit card details chahiye. Aapko yaad nahi hai kaunsa card aapne register kiya tha? Thoda patience kijiye sir. Yeh our time bhi waste ho raha hai.
+receiver: Sir, mene kaha na, mujhe genuinely yaad nahi aa raha. Mein dono accounts ki details bhi nahi pata. Kya aapko koi alternate solution nahi mil sakta?
+caller: Arre, see sir, humari system mein record check karna padega. Aapka account number aur credit card details bina uske kaam nahi karte. Aapko thoda cooperate karna hoga. Just give me those four digits, please.

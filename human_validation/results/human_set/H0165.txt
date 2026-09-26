@@ -1,0 +1,7 @@
+caller: Namaste, sir. Yeh Indian Customs se Rohit Sharma bolta hoon. Aapke naam par ek parcel aaya hai Mumbai customs warehouse mein, lekin usmein illegal items mile hain.
+receiver: Illegal items? Sir, main toh kabhi parcel order nahi kiya. Mein toh bas apne ghar pe baithe hoon. Kya items hain?
+caller: Sir, parcel mein kuchh electronic gadgets hain jo import regulations ka violation karte hain.  Yeh aese hi chhod dein toh aapko legal trouble ho sakta hai, sir. Case register ho sakta hai.
+receiver: Case register? Mein toh kuch bhi import nahi kiya. Mujhe yeh kaise pata chala? Woh parcel kiska naam se aaya hai?
+caller: Sir, parcel aapke naam se aaya hai, aur receiver ka address bhi aapka hi dikh raha hai.  Agar aapko isse clear karna hai, toh aapko humare clearing fees pay karna padega, ₹15,000.  Ek UPI ID de deta hoon, jisko pay karein, aur hum parcel release kar denge.
+receiver: ₹15,000? Sir, yeh zyada lag raha hai. Mein police station mein jaake complain karna chahta hoon. Aapka name aur police station ka address do.
+caller: Sir, police mein complain karne se case aur aur badhega. Yeh clearing fees pay karein aur case close ho jayega.  Dekhiye, time is of essence here. Main aapko ek confidential UPI ID de raha hoon, ₹15,000 pay karein aur sab clear ho jayega, otherwise, we'll have to involve the higher authorities. UPI ID is 9876543210@upi.

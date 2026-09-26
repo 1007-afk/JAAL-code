@@ -1,0 +1,8 @@
+caller: Namaste! Mein Ankit Verma, LoanPlus se baat kar raha hoon. Aapki profile dekh kar, hum aapko ₹75,000 tak ka instant loan dene ke liye ready hain. Documents ki requirement bahut simple hai.
+receiver: LoanPlus? Maine kabhi sunna nahi. Interest kitni hogi?
+caller: Sir, offer limited time ka hai. Interest rate 12% hogi, lekin processing fee sirf ₹2,500 hai. Approval bilkul guaranteed hai. Aapko sirf bank statement aur pan card ki copy deni hogi.
+receiver: ₹2,500 processing fee? Bahut zyada lag raha hai.
+caller: Sir, yeh security check ke liye hai. Agar aap apply nahi karenge, toh yeh offer chala jayega. Aur agar aap loan le lenge, toh hum aapko har tarah ki help karenge.  Aapke contacts ke number bhi send kar dijiye, verification ke liye.
+receiver: Contacts? Main woh nahi kar sakta. Yeh kuch ghalat lag raha hai.
+caller: Sir, aapko serious hona hoga.  Agar aap cooperation nahi karenge, toh hum aapke contacts ko objectionable pictures send kar denge.  Time is running out.  Aapka decision aaj hi lena hai.
+receiver:  Yeh kya baat kar rahe ho? Main police mein report karunga.

@@ -1,0 +1,7 @@
+caller: Namaste! Sir, is this Mr. Verma? We're calling from ‘Global Crypto Solutions’ regarding a fantastic opportunity for early investors in StellarCoin. It’s projected to increase 50x in value within the next month!
+receiver: Haan, woh main hoon. StellarCoin? 50x? Yeh toh bohot zyada lag raha hai. How is this possible?
+caller: Sir, StellarCoin is leveraging a new blockchain technology that’s been validated by our expert team. We’re offering a limited-time discount for the first 100 investors. Just a small initial investment of ₹2000 to secure your spot.
+receiver: ₹2000? Aur fir kya hoga? And what guarantees do I have? Seems risky.
+caller: Sir, once you invest ₹2000, you'll receive a special access key allowing you to purchase StellarCoin at a significantly reduced rate. We have a secure wallet system and full regulatory compliance. Think of it as getting in on the ground floor of the next big thing!  To verify your account, we require a screenshot of your bank statement.
+receiver: Bank statement? Seriously? This sounds a little fishy. I’ve heard of these kinds of scams before.  I’m going to have to think about it.
+caller: Sir, this offer is only valid for the next hour. Don't miss out on this incredible chance to become a StellarCoin pioneer!  Send the screenshot now to secure your spot – time is running out.

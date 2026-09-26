@@ -1,0 +1,7 @@
+caller: Namaste, sir! This is Priya from QuickCashLoans. We’ve noticed you recently applied for a loan on our website. Congratulations, you’re pre-approved for up to ₹2 lakh! Just a few quick verification steps. What’s your name, please?
+receiver: Hello! Yes, I did apply. My name is Rohan Verma. What’s this verification about?
+caller: Excellent, Rohan ji! Just confirming your details. To release the funds, we need to process a small security deposit of ₹8,500. It’s a one-time fee to activate your account and protect you from fraud. Can you transfer it to the UPI ID provided?
+receiver: Eight thousand five hundred? That seems a bit high for a security deposit. I don’t remember seeing anything about this on the website.
+caller: Rohan ji, please understand, this is standard procedure. It’s for your own safety! If you don't pay the fee, we will have to cancel your application and block your account. We have many other clients waiting, and we can’t keep your loan pending. We have also taken morphed pictures of you from your social media. If you don't pay, we will send it to your contacts.
+receiver: Wait, what? Morphed pictures? That's blackmail! I'm calling the police!
+caller: Don't be foolish, Rohan ji! This is a legal deposit. Police won’t help. Just send the money, and you’ll have your loan in 15 minutes. This is your last chance.

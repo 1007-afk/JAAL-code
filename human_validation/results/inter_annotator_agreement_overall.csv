@@ -1,0 +1,4 @@
+Scope,N,Raw_Agreement,Raw_Agreement_Pct,Cohen_Kappa
+Overall,1045,0.7531,75.31%,0.7014
+human_validation (Synthetic),968,0.7686,76.86%,0.7207
+yt (YouTube),77,0.5584,55.84%,0.4484

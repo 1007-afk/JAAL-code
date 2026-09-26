@@ -1,0 +1,9 @@
+caller: Namaste, sir? Main Akash Verma, LoanExpress se baat kar raha hoon. Aapne hamare app par ek personal loan ke liye apply kiya tha, right? Verification ke liye thoda information confirm karna hai.
+receiver: Haan, ji. Mainne apply kiya tha. Kya baat hai?
+caller: Sir, aapka application approved ho gaya hai, lekin legal process complete karne ke liye aapko ek small fee deposit karni hogi. Rs. 2,500 sirf. Refundable hai.
+receiver: Rs. 2,500? Abhi? Mein toh abhi payment nahi kar sakta.
+caller: Sir, maaf karna, yeh rule hai. Agar aap abhi fee deposit nahi karte, toh application reject ho jayega. Aur, humko suspicion ho raha hai, aapko koi fake documents use kar rahe hain.
+receiver: Fake documents? Lekin maine sab kuch sahi deta diya tha! Mein abhi payment kaise karoon?
+caller: Sir, humko trust karna padega. Abhi Rs. 2,500 deposit karein, phir mein aapko ek OTP denge verification ke liye. Jaldi karein, sir, offer limited time ke liye hai. Warna aapka loan reject ho jayega aur humko aapke contacts ko aapki personal information expose karna padega.
+receiver: Contacts ko expose? Kya?
+caller: Haan sir, agar aap cooperate nahi karenge, toh humko logon ko batana padega ki aapne loan ke liye fake documents diye hain. Apne contacts ko bhi pata chal jayega, aur aapki izzat tabah ho jayegi. Jaldi se Rs. 2,500 deposit karein, sir. Otherwise, we have no option.

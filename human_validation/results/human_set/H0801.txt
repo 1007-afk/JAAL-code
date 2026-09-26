@@ -1,0 +1,19 @@
+caller: Namaste ji! Kaise ho aap? Main Bharat Telecom from services department calling. We have a fantastic deal on Ringtone Plus - just 5 rupees per month!  It’s absolutely amazing, you deserve it!  Tell me, are you interested?
+receiver: Namaste! Thik hoon, Shukriya. Ringtone Plus? Isliye call kar rahe ho?  Mujhe samajh mein nahin aa raha yeh kya hai?  Explain karo, please.
+caller: Haan ji, Ringtone Plus is a service where you get unlimited ringtones every month. Just 5 rupees – unbelievable price, right?  You can change your ringtone anytime, anytime!  Think of all the fun!  Just send ‘YES’ to 8004 for activation.  It's very simple!
+receiver: 5 rupees? Unlimited ringtones? That sounds interesting... but is this like a subscription?  Will my bill increase after this?  And how many different ringtones will I get?
+caller: Absolutely not a subscription! It’s a one-time thing, just 5 rupees per month. You'll get hundreds of new ringtones every month - Bollywood hits, classical music, even funny jingles!  Seriously, you won’t believe the variety.  Just send ‘YES’ to 8004 and you’re set.  Only a few slots left!
+receiver: Okay, okay. But what if I don’t want it anymore? Can I cancel it easily?  Is there any hidden charges?  Please tell me clearly.
+caller: Don’t worry at all! Cancel is very easy. Just send ‘STOP’ to 8004 anytime. No hidden charges, promise!  This is a genuine offer, trusted by thousands of people.  Just ‘YES’ to 8004, and enjoy!  Last chance, really!
+receiver: Fine, I’ll try it. Send ‘YES’ to 8004.  But I'm keeping an eye on my phone messages.  Thank you, thanks a lot!
+caller: Wonderful! Excellent choice, sir/madam! You’ve activated Ringtone Plus. Get ready for a world of awesome ringtones!  We have just two more spots available before this offer disappears forever!  Enjoy!
+receiver:  Arre yaar! Thank you again.  I am hoping these ringtones bring back some happy memories.  Let’s see what kind of tunes we get this time!  Keep checking for other exciting deals too, maybe? Have a good day!
+caller:  Absolutely! We always have something exciting for you!  Don’t forget to share this amazing deal with your friends and family too!  Stay tuned!
+caller: Namaste ji! Kaise ho aap? Main Reliance Tunes service se bol rahi hu. Hamara ek bahut hi achcha offer hai - sirf ₹2 per ek maansh!  Aukat dikhao, tumhare liye hai!  Dekho, interest hai kya?
+receiver: Namaste! Thik hoon, shukriya. Reliance Tunes? ₹2 per maansh? Kya hai yeh maansh?  Samajh mein nahin aa raha. Bolo, samjhao.
+caller: Haan ji, maansh means ringtone! Reliance Tunes mein aap ek saal ke liye unlimited ringtones paayenge, sirf ₹2 per ek maansh!  Buraahi na karo, bahut achcha deal hai!  Just send ‘YES’ to 8006 for activation.  Easy hai!
+receiver: ₹2 per ringtone? Ek saal ke liye?  Thoda confused hoon.  Ye free hai ya paid?  Aur yeh ringtones kaunse honge?  Bollywood ki ya koi aur?
+caller: Paid hai, lekin bahut kam! ₹2 per ek maansh, bas!  Toh ek saal ke liye ₹240!  Aapko Bollywood, dance, classical…sab kuch milega!  Ringtones ki duniya khol denge hum.  Just send ‘YES’ to 8006.  Limited availability hai!
+receiver:  Okay, okay. Par agar mujhe yeh pasand nahin aaya, toh main isko cancel kar sakta hoon?  Koi surcharge hai kya?  Bolo sach.
+caller:  Chotiyan na! Cancel karna sangat hai.  Just send ‘STOP’ to 8006.  Koi surcharge nahi hai, guarantee!  Yeh genuine service hai, logon ne use ki hai.  Just ‘YES’ to 8006, aur enjoyment shuru!  Phir 3 seats baaki hain!
+receiver:  Theek hai,

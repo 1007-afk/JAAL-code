@@ -1,0 +1,11 @@
+caller: Hello, is this Priya Verma? This is Urgent from Bluestar Courier. We have a package for you, but there's an issue with the payment details.
+receiver: Haan, woh main hoon. Package? Kya package hai? Mujhe toh koi order nahi yaad aa raha.
+caller: Yes, ma'am. It’s a high-value item, seems like a mobile phone. The payment gateway flagged a discrepancy, so we need to verify a small amount to release it. It’s only ₹250 to confirm.
+receiver: ₹250? Kyon? Mein toh kuch order nahi kiya hai. Yeh kuch gadbad lag rahi hai.
+caller: Ma’am, security protocol. It’s standard. We just need you to send it through UPI to this number: 9876543210. Once that’s done, we'll immediately dispatch your phone. It's a limited-time offer to clear the hold.
+receiver: UPI? Lekin mein toh kuch order nahi kiya hai! Aur mujhe koi suspicious message bhi nahi aaya hai. Aapko meri personal details ka access nahi hona chahiye.
+caller: Ma’am, please don’t worry. We are just following protocol to prevent fraud. This is a secure system, and we’ll confirm the delivery address once the payment is done. Just ₹250 ma’am, and the phone is yours.
+receiver: Okay, wait a minute. Let me check something. (pause)
+caller: Yes, ma’am? What do you need to check? We can’t hold the package indefinitely, and the offer expires soon.
+receiver: Actually, I just spoke to my husband and he said he ordered a phone online, but it was from a different courier service. So, this is definitely a scam. I'm reporting your number.
+Scammer

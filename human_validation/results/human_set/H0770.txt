@@ -1,0 +1,8 @@
+caller: Namaste, sir. Main Swiggy customer support se Rahul bol raha hoon. Aapke Swiggy account mein ek pending payment hai, ₹850 ka.
+receiver: ₹850? Mujhe toh koi order yaad nahi aa raha.
+caller: Sir, ek urgent delivery ke account mein kuch problem ho gaya tha. Payment automatically cut ho gaya tha, lekin delivery complete nahi ho paayi. Ab aapko ₹850 clear karne hai.
+receiver: Aur ab main payment kaise karoon? Swiggy app mein toh kuch dikh nahi raha.
+caller: Sir, aapko ek OTP milega, woh mujhe bataiye. Aur apna debit card number bhi bataiye. Payment gateway mein problem hai, isliye hum direct process kar rahe hain.
+receiver: Debit card number? Ye to sahi nahi lag raha. Main Swiggy app se hi check karta hoon.
+caller: Sir, time bahut kam hai. ₹850 clear nahi karenge toh aapka account suspend bhi ho sakta hai. Aapka naam bataiye, please.
+receiver: Mein abhi kuch bhi nahi bataaonga. Mein police mein report karunga.

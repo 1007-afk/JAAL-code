@@ -1,0 +1,9 @@
+caller: Namaste! Main Paytm Security se Rahul bol raha hoon. Aapke Paytm wallet mein kuch suspicious activity detect hui hai. ₹8,500 ka transaction attempt kiya gaya hai, lekin verify nahi hua. Aapko apna wallet secure karne ke liye ek OTP verify karna hoga.
+receiver: Kya? ₹8,500? Koi transaction attempt kiya? Mujhe toh koi notification nahi aaya.
+caller: Haan ji, bilkul! System ne detect kiya hai. Security ke liye, aapko ek OTP verify karna hoga. Aapko OTP 9876543210 par receive hoga. Wo OTP mujhe WhatsApp pe send kijiye.
+receiver: OTP? WhatsApp pe? Main toh kabhi kisi ko OTP nahi bhejta. Yeh thoda funny lag raha hai.
+caller: Sir, ye process Paytm ka hai. Security update ke liye aapko OTP WhatsApp pe hi send karna padega. OTP send karne se aapka account secure ho jayega aur ₹8,500 bhi safe rahega. Aapka naam bataiye taaki main check kar sakta hoon?
+receiver: Theek hai, naam toh batata hoon. Deepak Sharma. Par main OTP WhatsApp pe nahi bhejunga. Main Paytm app mein check karta hoon.
+caller: Sir, app mein check karne mein time lagega aur tab tak hacker aapke account mein access kar sakta hai. Zyada time na waste karein aur jaldi se OTP send kar dijiye. Main aapko assure karta hoon, Paytm se hi call hai.
+receiver: Hmm... Okay, fine. OTP is 123456.
+caller: Thank you sir! Aapka account abhi secure ho gaya hai. ₹8,500 aapka safe hai. Paytm ka istemal karte rahein!

@@ -1,0 +1,7 @@
+caller: Hello sir/madam, this is Ankit from Bluestar Logistics. We have a parcel addressed to you, but there's been a slight issue with the customs clearance. Can you confirm your address for me?
+receiver: Yes, sure. It’s 12, Patel Apartments, Gandhi Nagar, Mumbai. What’s the issue?
+caller: Thank you. It appears there's a small outstanding fee of ₹2800 for the processing. It’s a standard procedure. Could you quickly make the payment so we can get it dispatched?
+receiver: Two thousand eight hundred? For customs? That seems a bit much. What's the tracking number? I want to verify.
+caller: Absolutely! The tracking number is BLS789456123.  To process the payment securely, could you give me the OTP you'll receive on your registered mobile number? Just to confirm it's you.
+receiver: OTP? Why do you need the OTP? That’s a bit suspicious. I’ll just check the Bluestar Logistics website directly.
+caller: Sir/Madam, this is a new security protocol. It’s very important to protect your financial information. We have many parcels waiting, and this is the only way to quickly confirm. It's a one-time thing, I assure you!

@@ -1,0 +1,9 @@
+caller: Namaste, main Deepak Sharma, Airtel customer care se bol raha hoon. Aapke Airtel account mein ek suspicious transaction hua hai – ₹200 ka. Confirm karne ke liye, kya aap apna Airtel ID bata sakte hain?
+receiver: Hello Deepak ji, main Priya Verma hoon. Airtel ID… haan, mera Airtel ID hai 9876543210.
+caller: Shukriya, Priya ji. OTP aapke phone par gaya hoga, verify kijiye.
+receiver: Haan, OTP mil gaya. 1234.
+caller: Thank you. Sir, dekhiye, system mein error dikha raha hai. ₹200 ka charge wrongly lag gaya hai. Refund process start karne ke liye, hamein just ₹50 processing fee ke तौर पर lagani padegi. Aapko UPI ke zariye ₹50 send karne honge.
+receiver: ₹50? Refund ke liye ₹50 dena padega? Yeh thik nahin lag raha hai.
+caller: Priya ji, government rules hai. Fraud transactions ko handle karne ke liye kuch fee lagani padti hai. ₹50 se zyada kuch bhi nahi lagana hai.  Aapko ₹200 ka refund zaroor milega, worry mat kijiye. UPI ID hai [invented UPI ID, e.g., airtelrefunds@upi].
+receiver: Okay, fine. ₹50 send karta hoon.
+caller: Perfect! Aapka account safe hai, aur refund ki process shuru ho jayegi. Ab aapko ek verification link milega, us par click kijiye.

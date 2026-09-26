@@ -1,0 +1,9 @@
+caller: Namaste, main Akash Sharma, State Bank of India se baat kar raha hoon. Aapke account mein kuch ajeeb transactions dikh rahe hain, sir.
+receiver: Haan, bolo? Kuch galat transactions? Kya hua?
+caller: Ji haan, sir. Kuch suspicious activity dikh raha hai. Aapke naam par ₹12,000 ek online gaming platform par transfer hue hain. Aapne kiya ye?
+receiver: Nahin, maine nahi kiya! Main toh gaming bhi nahi karta!
+caller: Sir, security ke liye, mujhe aapka Aadhaar card ka last 4 digits aur ek OTP chahiye hoga jo aapko SMS se milega, tabhi hum account secure kar sakte hain. Account suspend bhi ho sakta hai warna.
+receiver: Arey yaar, Aadhaar number?! Samajh mein nahi aa raha hai.
+caller: Sir, ye security check hai. Bina iske aapka account hack ho sakta hai. OTP jaldi bataiye, sir. Time bahut kam hai.
+receiver: Thik hai, thik hai... OTP hai [Receiver provides OTP].
+caller: Dhanyavaad, sir. Aapka account ab secure hai. Koi chinta nahi. Jaldi hi aapke account se ₹500 refund bhi transfer kar diya jayega.

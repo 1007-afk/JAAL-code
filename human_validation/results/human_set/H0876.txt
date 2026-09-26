@@ -1,0 +1,10 @@
+caller: Namaste, main Akash se bol raha hoon, Flipkart Customer Care se. Aapke naam par ek saree ka order aaya hai, order ID FC45892. Lekin payment mein kuch problem ho rahi hai.
+receiver: Haan, theek hai. Mujhe yaad hai order ka. Kya hua?
+caller: Sir, payment gateway se error aa raha hai. Account secure karne ke liye, aur payment complete karne ke liye, aapko ek OTP confirm karna hoga jo aapke registered mobile number par aayega.
+receiver: OTP? Flipkart aise OTP maangta hai?
+caller: Haan ji, security protocol hai. OTP aane ke baad mujhe bataiye, main verify karunga. Yeh sirf 2 minute ka kaam hai. Bilkul secure hai, sir.
+receiver: Okay, wait kar raha hoon.
+caller: Sir, OTP aaya na? Mujhe bataiye.
+receiver: Haan, aaya. 123456 hai.
+caller: Shukriya sir. Ab mujhe aapke bank account details dedo taaki main payment complete kar sakun. Just last 4 digits of your card number.
+receiver: Bank details? Yeh toh galat lag raha hai!

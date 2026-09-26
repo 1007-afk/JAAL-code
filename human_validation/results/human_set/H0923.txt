@@ -1,0 +1,13 @@
+caller: Hello? Is this Mr. Sharma? We’ve got some fantastic news regarding your recent investment with Global Growth Solutions! Congratulations, you’ve been selected as a top performer!
+receiver: Haan, main Mr. Sharma hoon. Kya baat kar rahe ho? Investment ke bare mein kah rahe ho?
+caller: Absolutely! We’re offering you an exclusive bonus – a guaranteed 15% return on your portfolio within the next 7 days! This is only available to our elite investors like yourself. But there's a small processing fee of ₹500 to secure this incredible opportunity. Please call us back immediately at 9876543210.
+receiver: 15% return? Seriously? Kaisa possible hai? Processing fee bhi hai? ₹500?
+caller: Yes, it’s completely legitimate and safe. We’ve audited all our investments thoroughly. Just need to transfer the ₹500 to this account number: 1234567890. Once that’s done, the bonus will be automatically credited to your account. Don't delay, this offer expires in 24 hours!
+receiver: Wait, wait. Account number bata rahe ho? Transfer karne se pahle sab kuch confirm karna chahiye. Mera name kya hai?
+caller: My name is Priya, and I’m calling from Global Growth Solutions. We want to ensure you get the best possible outcome.  Just trust us, Mr. Sharma, and you won’t regret it. Only one slot remaining for this exceptional bonus!
+receiver: Arre Priya ji, thanks. Haan, main dekhoon website pe. Itne sare options hain. Main pehle kabhi Global Growth Solutions se invest nahin kiya hai.
+caller: That’s perfectly fine! We welcome new investors like you. The 15% return is absolutely assured if you follow our simple instructions. Just confirm the transfer of ₹500 and you’ll see the results!
+receiver: Okay, okay. Main soch rahi hoon. Sirf 15% return hai? Koi risk nahin hai?
+caller: Risk is minimal, sir. We use advanced algorithms to manage our investments. And remember, this offer is valid only until midnight tonight! Don’t miss out on this golden opportunity!
+receiver: Arre yaar, midnight? Itni hurry kyun hai? Okay, okay. Main decide karungi.
+caller: Please, Mr. Sharma, don’t hesitate. This is your chance to maximize your returns! Just a quick confirmation and you’re set!

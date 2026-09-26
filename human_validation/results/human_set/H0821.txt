@@ -1,0 +1,7 @@
+caller: Hello, this is Rahul from ICICI bank security department. We've detected unusual activity on your account and need to verify some details to prevent fraudulent transactions. Can I speak to the account holder, Mr. Rajesh Patel?
+receiver: Haan, boliyega. Main Rajesh Patel hi hoon. Kya hua? Unusual activity matlab kya?
+caller: Mr. Patel, we've noticed a failed login attempt from a foreign IP address. To secure your account, we need to confirm a few details. First, can you please provide the last four digits of your PAN card? It’s a standard security protocol.
+receiver: PAN card details phone pe? Yeh thoda suspicious lag raha hai. Bank aise details poochta hai kya? Aur foreign IP address se attempt?
+caller: Sir, for your safety, we must verify the information quickly. We cannot risk your funds. If you don’t cooperate, we might have to temporarily suspend your account for security reasons. Please provide the last four digits of your PAN card. It’s just a quick verification.
+receiver: Okay, okay, pareshani ho rahi hai. Let me check. The last four digits are [Invented PAN digits]. But why do you need this now? And how do I know this is really ICICI bank?
+caller: Thank you, Mr. Patel. That confirms your identity. Now, to proceed with the final verification step, we need you to share a one-time password (OTP) that we have just sent to your registered mobile number. Please tell me the OTP.

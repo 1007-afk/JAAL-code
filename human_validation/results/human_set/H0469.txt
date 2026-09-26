@@ -1,0 +1,8 @@
+caller: Namaste! Mera naam Rahul hai, CryptoGain se call kar raha hoon. Humare platform par ek limited time offer chal rahi hai – aapke ₹5000 invest karne par ₹15,000 tak ka profit kama sakte hain! Is offer ka faida uthaane ke liye, aapko ek OTP receive hoga, woh share karein?
+receiver: CryptoGain? Main pehle kabhi suna nahi. ₹15,000 ka profit? It sounds too good to be true. Can you tell me more about the investment?
+caller: Bilkul! Yeh ek naya blockchain project hai, ‘MetaVerse Mining’. Ismein aapki investment cryptocurrency mining ke liye use hogi.  Mining ka kaam kaafi profitable hai, isliye hum aapko itna high return offer kar rahe hain.  Just need the OTP to verify your account.
+receiver: Okay, I am a little nervous. What is the risk involved? And where can I find more information about ‘MetaVerse Mining’?
+caller: Risk bahut kam hai! Hum ek secure platform hain aur aapki investment insured hai.  Website ka naam MetaVerseMining.tech hai, par abhi verification ke liye OTP zaroori hai.  Sirf ₹5000 se aap ₹15,000 kama sakte hain, imagine karo!
+receiver:  I’ll check the website first. I'm not sharing the OTP until I'm sure it's legitimate.  Can you give me a contact number I can call if I have questions?
+caller:  Arey, OTP bina share kiye toh account verify nahi hoga!  Aap time waste kar rahe hain aur offer miss kar rahe hain!  Koi contact number dene ka rule nahi hai, sir.  Just send the OTP please.  ₹15,000 aapka intezaar kar raha hai!
+receiver:

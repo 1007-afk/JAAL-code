@@ -1,0 +1,8 @@
+caller: Namaste, are you the lucky participant of the ‘Golden Lottery’ draw? This is an automated message informing you that you’ve won a brand new Samsung Galaxy S23 smartphone! Please dial 9876543210 to confirm your win and arrange for delivery. Congratulations!
+receiver: Namaste! Haan, main hoon. Golden Lottery? Samsung Galaxy S23 jeeta hoon? Seriously? That’s fantastic news! I will definitely call 9876543210 immediately. Shukriyaa!
+caller:  Arey yaar, sunke bohot khushi hui!  Just give us a quick call back at 9876543210, and we’ll guide you through the simple steps to claim your prize. We only have a limited number of phones left this month.
+receiver: Okay, matlab jaldi karna hai? Alright, I’m calling now. Thanks for letting me know!
+caller: Exactly! You heard correctly, there are only 4 smartphones remaining for this month, so you need to act fast.  Don’t delay, call 9876543210 today!
+receiver: Arre, sirf 4 phones bache hain? Okay, okay, I’m picking up my phone and dialing that number right away. I really don’t want to lose this opportunity! Thank you for reminding me!
+caller: Absolutely! You heard correctly, there are only 2 phones remaining for this month, so you need to act fast. Don’t delay, call 9876543210 today!
+receiver: Oh no, just 2 left?  I’m dialing now – seriously, I’m calling! Yaar, thank you for urging me, otherwise I would have completely forgotten about this!

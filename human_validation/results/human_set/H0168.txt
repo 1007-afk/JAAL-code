@@ -1,0 +1,10 @@
+caller: Hello sir/madam, this is Akash from Airtel Payments Bank. We've noticed some unusual activity on your account.
+receiver: Unusual activity? What kind of activity?
+caller: Yes sir, a small transaction of ₹250 was attempted from your UPI linked to your Airtel number. To secure your account, we need to verify you immediately.
+receiver: ₹250? I didn't authorize that. What do you need me to do?
+caller: Sir, we just need a one-time password sent to your registered mobile number to confirm you’re the account holder. Can you please share that OTP?
+receiver: Wait a minute. Why do you need the OTP? Shouldn’t I be calling Airtel directly?
+caller: Sir, for security reasons, we cannot take calls. Sharing the OTP through this secure line is the fastest way to resolve this and prevent fraudulent access. Please share it now.
+receiver: Okay, the OTP is 123456.
+caller: Thank you, sir. Just to be completely sure, could you also confirm the last four digits of your bank account number linked to this Airtel number?
+receiver: Why do you need that? This is starting to feel wrong.

@@ -1,0 +1,9 @@
+caller: Namaste! Kaise haal hai? Main Bharat Telecom se baat kar raha hu. Tumhara phone number [Receiver's Phone Number] hai na? Humne tumhare account mein ek special offer mila hai - Free Bollywood Hits ringtone!
+receiver: Namaste! Theek hai, mera phone number [Receiver's Phone Number] hai. Bollywood Hits ringtone? Bahot acha! Batao, kya karna hai?
+caller: Haanji, tumhein sirf ek click mein free download mil jayega! Parle, tumhari phone number verify karne ke liye ek small security check karna hai. Kya aapko [Receiver's Name] ka address malum hai? Humne tumhare profile mein dekha hai.
+receiver: Haanji, mujhe meri address malum hai - [Receiver’s Address]. Kyunki main recently shift hua tha. Okay, what's this security check?
+caller:  Aapko ek simple question puchna hai - 'Sunita' aur 'Amit' ki shadi kab hui?  Agar jawab sahi hai, tabhi tumhein ringtone milegi. Isse tumhari genuine identity check hone wali hai.
+receiver: Sunita aur Amit ki shadi?  Haanji, woh 2018 mein Mumbai mein hui thi! Correct?
+caller:  Perfect! [Receiver’s Name], tumhein abhi SMS mein ek activation code milega. Woh code tumhare phone mein enter karna hai jab aapko notification de.  Simple hai, hai na?  Koi aur sawaal nahi hai?
+receiver:  Theek hai, SMS ka wait karunga. Activation code milenge toh enter kar dunga. Shukriya!
+caller:  Aapke din khush rahe! Bharat Telecom se aapko alag alag offers continously milte rahenge.  Thank you!

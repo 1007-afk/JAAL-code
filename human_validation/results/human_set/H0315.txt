@@ -1,0 +1,13 @@
+caller: Namaste sir, dis is Vikrant from Digital Connect. I’m calling about your recent enquiry on our Smart Home Security System. Did you receive our message about the limited time discount?
+receiver: Namaste Vikrant ji, yes I did receive it. It sounds like a good deal, but I want to understand the system better. What exactly does it include?
+caller: Absolutely! This is the SecureHome Pro – it’s designed especially for people like you who value their safety and peace of mind. It includes motion sensors, door/window alarms, and a remote monitoring app. And we're offering 60% off the initial installation cost.
+receiver: Sixty percent? That’s impressive! But what about the monthly subscription fee? Is that included in the discount?
+caller: No, no, sir. The discount is purely on the installation. The monthly subscription covers the cloud storage and 24/7 professional monitoring. It’s just ₹899 per month.  We’ve also got a free smart bulb as an added bonus.
+receiver: A free smart bulb… okay. But can you walk me through how the alarm works when someone tries to enter my house?
+caller: Certainly! When a sensor detects movement inside, it immediately sends a notification to your smartphone. You can then view live footage from the camera installed at your main entrance via the app. If it detects something suspicious, it automatically alerts our central monitoring station.
+receiver: And what happens if the monitoring station receives an alert?
+caller: They will immediately contact you and, if they don’t hear back from you within a minute, they’ll dispatch local police or fire services, depending on the situation. We ensure immediate response, sir.
+receiver: That sounds reassuring. But I'm worried about privacy. How secure is the data collected by the system?
+caller: Completely secure, sir! All data is encrypted using military-grade encryption. Plus, we adhere to strict privacy regulations. Your information is always confidential.
+receiver: Hmm, okay. So, just to clarify, the initial installation is discounted, and there’s a separate monthly fee for monitoring. Right?
+caller: Exactly, sir! And remember, we only have two units left at this price. Don't miss out on this incredible opportunity! Book today before it’s too late.

@@ -1,0 +1,7 @@
+caller: Namaste, Madam. This is Akash from Swiggy Customer Care. We noticed an unusual transaction of ₹1250 on your account. It appears there was an attempted unauthorized order.
+receiver: ₹1250? What? I didn't place any order like that. What's happening?
+caller: Yes, Madam. To secure your account and prevent further fraudulent activity, we need to verify a few details. Could you please share the OTP you received on your registered mobile number?
+receiver: OTP? Why do you need my OTP? Isn’t that risky? You should be able to check on your end, right?
+caller: Madam, due to security protocols, we must verify your identity through OTP verification. It’s a standard procedure to prevent unauthorized access. Please share the OTP so we can block the suspicious order immediately. The order number is SWG-78432.
+receiver: Okay, fine. Just tell me, what was the order?
+caller: The order was placed for a large quantity of gourmet chocolates and some expensive imported tea. Quite unusual for your typical Swiggy orders, isn't it? Now, the OTP please? It's very important.

@@ -1,0 +1,11 @@
+caller: Namaste! Main Swiggy se Rahul bolta hoon. Aapke account mein kuch problem hai.
+receiver: Swiggy se? Kya hua?
+caller: Sir, aapne kal raat ko ek order kiya tha, lekin delivery ke der se hone ke karan refund process mein kuch dikkat aa rahi hai.
+receiver: Haan, mujhe yaad hai. Lekin main to refund check kar raha tha, sab theek dikh raha tha.
+caller: Sir, security ke liye, mujhe aapka OTP chahiye hoga. Yeh sirf ek verification process hai.
+receiver: OTP? Kyun? Main direct Swiggy app mein check kar sakta hoon.
+caller: Sir, system mein kuch technical issue hai. Apne OTP ko share karne se aapka refund jaldi process ho jayega aur aapka account secure rahega. Please share the OTP.
+receiver: Okay, the OTP is 123456.
+caller: Sir, thank you for your cooperation. Now, for security purposes, please share the last four digits of your bank account number.
+receiver: Bank account number? That seems suspicious...
+caller: Sir, our system is flagging unusual activity due to the delayed refund. We need this to prevent fraud. The OTP has already triggered the refund, but this extra step is required for absolute security.

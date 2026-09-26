@@ -1,0 +1,8 @@
+caller: Namaste ji, aapne mujhe call kiya tha na? Main Bharat Telecom se baat kar raha hoon. Aapko ek bahut shukriya voucher mila hai! ₹15,000 ka reward hai! Ji haan, sach hai! Agar aap is voucher claim karna chahte hain, toh mujhe sirf kuch information chahiye. Aapka voucher ID hai AB789. Ye offer sirf 6 ghante ke liye chalega, so hurry up!
+receiver: Wow! ₹15,000 ka voucher? Achcha achcha, sun li. AB789 voucher ID?  Theek hai, sunta hun. Kya details chahiye aapko? Aur sirf 6 ghante? Itni jaldi?
+caller: Haan ji, bilkul. Pehle, kya aap mujhe apna bank name bata sakte hain?  Taaki main verify kar saku ki aap India mein hain.  Aur aapko yeh voucher genuinely mila tha ya koi promotion?
+receiver: Haan ji, mera bank name hai HDFC Bank. Aur mujhe yeh voucher actually my favourite shop mein mila tha, Flipkart! Mujhe vishwas nahin ho raha!
+caller: Shukriya ji. Aur kya aap mujhe apna full address bata sakte hain, madam/sir?  Taaki main record mein update kar saku.  Aapka house number, street name, city, state?
+receiver: Haan ji, mera address hai 123, Patel Nagar, Mumbai, Maharashtra. Aur ₹15,000 ka voucher sach mein hai?  Yeh Flipkart wala offer hai, sahi?
+caller: Ji Madam, absolutely true! Yeh Bharat Telecom ne aapke loyalty ke liye diya hai.  Main aapka address record mein update kar raha hoon.  Ab, voucher ko aapke account mein transferring ke liye, hume ek small charge lena hoga.  Ye ₹300 hoga, online pay karna hoga. Iske baad ₹15,000 aapki account mein deposit ho jayengi.  Kya aap yeh ₹300 transfer karne ke liye ready hain?
+receiver: ₹300? Charge? Suno, ye toh bahut confusing hai. Voucher mil rahi thi, ab uske liye bhi money dena padega?  ₹300 online kaise pay karna hoga?  Aur agar maine ₹300 diye aur ₹15,000 nahi aaye toh?  Koi aur option nahi hai?

@@ -1,0 +1,7 @@
+caller: Namaste, sir? This is Inspector Sharma from the Directorate of Revenue Intelligence. We’ve detected unusual cryptocurrency transactions linked to your bank account, specifically involving Binance.
+receiver: Inspector Sharma? Cryptocurrency? I do some online shopping, that’s it. I don't use Binance. What’s going on?
+caller: Sir, our records show significant amounts of Bitcoin being routed through your account and then transferred overseas. This strongly suggests involvement in illegal forex trading and money laundering. We need to verify some details urgently to prevent further complications.
+receiver: Forex trading? Money laundering? That's ridiculous! I’m a small shopkeeper, Sharma ji. I sell clothes in Chandni Chowk. This must be a mistake.
+caller: Sir, we understand this is concerning, but these are serious allegations. We've also flagged suspicious activity on your WhatsApp related to encrypted messaging apps, used often for these kinds of transactions. To clear your name and avoid legal proceedings, you need to deposit 50,000 rupees into this designated account number: 1234567890.
+receiver: 50,000 rupees? But I haven’t done anything wrong!  I'll call my son, he's a lawyer. I need to check this first. 
+caller: Sir, delaying this will only make things worse. Your son's lawyer won't be able to help you against a Directorate investigation. This account needs clearing immediately; otherwise we will have to issue a warrant.

@@ -1,0 +1,8 @@
+caller: Namaste! Mera naam Inspector Verma hai, Kolkata Customs se. Aapke naam par ek parcel aaya hai, jo Jaipur se aa raha hai. Parcel mein illegal items paaye gaye hain.
+receiver: Kya? Illegal items? Mainne toh koi parcel order nahi kiya hai.
+caller: Madam, aisa lagta hai ki kisi ne aapke naam ka upyog karke beqasur parcel bheja hai. Rules ka violation hone ke karan, parcel ko release karne se pehle aapko kuch formalities complete karni padengi.
+receiver:  Formalities kya hain? Mujhe kuch samajh nahi aa raha. Main toh kabhi parcel order bhi nahi karti.
+caller: Madam, aapko ek small fine bharne hoga, tak ki parcel aapke naam par release ho sake. Rs. 15,000 ka fine hai.  Aapko ek UPI ID dene hoga, payment ke liye.
+receiver:  Rs. 15,000? Yeh bahut zyada lag raha hai! Aur mujhe kisi ne parcel bheja hi nahi. Main police station mein report karungi!
+caller: Madam, police station mein report karne se kuch nahi hoga.  Parson ko release karna hai, aur yeh process customs department hi kar sakti hai. Agar aap cooperate karein, toh parcel kal tak aapke ghar pahunch jayega.  Dekhiye, time bahut kam hai, Madam. Quick payment kijiye, warna parcel confiscat ho jayega.
+receiver:  Chalo theek hai, mujhe bank se baat karke dekhti hu. Par agar yeh scam nikalta hai, toh main tumhe chorh nahi sakungi.

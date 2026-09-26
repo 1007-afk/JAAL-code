@@ -1,0 +1,6 @@
+caller: Namaste! I am calling from HDFC Bank’s KYC verification department. There's been an unusual transaction flagged on your account linked to a new online shopping portal, 'TrendyDeals'. The amount is ₹7,890. It requires immediate attention to prevent fraudulent activity.
+receiver: HDFC Bank? KYC verification? ₹7,890? I don’t remember any such transaction. Which date are you referring to?
+caller: It happened just an hour ago. To secure your account, we need to verify your details. Can you please provide the last four digits of your Aadhaar card and the OTP you just received on your registered mobile number? It’s a standard security measure.
+receiver: Aadhaar number? OTP? Over the phone? I’ve heard about these scams. Why can’t you just tell me the transaction details instead of asking for sensitive information?
+caller: Ji, I understand your concern. But due to RBI guidelines, we need to quickly verify your identity. The transaction is being held pending your confirmation. If we don’t hear from you within the next fifteen minutes, we will be forced to temporarily freeze your account.
+receiver: Freeze my account? Fifteen minutes? Okay, hold on a second. Let me quickly call HDFC customer care directly from their official number on their website to double-check this. Don’t hang up.

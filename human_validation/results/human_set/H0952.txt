@@ -1,0 +1,10 @@
+caller: Namaste! Sir, is this Mr. Rajesh Kumar? We are calling from QuickCash Loans, a government-approved loan service. You recently applied for a personal loan online, correct?
+receiver: Haan, ji. Main Rajesh Kumar hi hoon. Loan apply kiya tha, par abhi koi information nahi mili.
+caller: Excellent! Your loan application has been pre-approved for ₹75,000. Just to verify your details, could you please share the last four digits of your bank account number? This is for security purposes only.
+receiver: Account number? Kyon? Loan approved hai toh paisa kab aayega?
+caller: Sir, for immediate disbursement, we need to run a quick security check. Just the last four digits, please. Once verified, the money will be in your account within 30 minutes. If you refuse, we will have to cancel the loan, and it might affect your credit score.
+receiver: Credit score? Yeh kya bol rahe ho? Main koi information nahi dunga. Tum log fraud kar rahe ho!
+caller: Sir, don’t be alarmed! We are just following procedure. Now, to process the loan, we need a small verification fee of ₹5,000 to be deposited into our secure account. This is a one-time charge and will be deducted from your loan amount later. Send it to UPI ID: quickcashloans@xyz.
+receiver: ₹5,000? Fraud! Main police mein report karunga!
+caller: Sir, don’t be hasty! This is a crucial step. You’ll lose the loan opportunity. We also have pictures of you and your family. Send the ₹5,000 to secure your family's safety.
+receiver: What? Photos? This is extortion! I'm ending this call right now.

@@ -1,0 +1,8 @@
+caller: Namaste! I am calling from BlueSpark courier services. We have a package addressed to you, but there’s a small issue with the delivery address.
+receiver: Oh, really? What's the issue? I was expecting a delivery today.
+caller: Yes, it seems there was a slight error in the pin code entered during the online order. To ensure safe delivery, we need to verify a few details. Could you please share the last four digits of your phone number associated with the order?
+receiver: Why do you need that? Isn't that a security risk?
+caller: It’s standard procedure, ma’am. We need to confirm you’re the rightful recipient.  Plus, there’s a small ₹350 customs clearance fee required before we can proceed with the delivery. You can pay it through a secure link I’ll send you.
+receiver: ₹350? I didn’t see anything about a fee when I ordered.
+caller: It was added recently due to new government regulations. It’s a one-time charge. Just click the link and complete the payment, and your package will be delivered within the next two hours.  To avoid any delays, please do it quickly.
+receiver: Okay, send the link. I’ll check it out.

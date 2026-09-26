@@ -1,0 +1,7 @@
+caller: Namaste! Mai hu Rohan, Blue Dart Courier se. Aapke naam par ek parcel aaya hai, lekin address verification ke bina hum deliver nahi kar sakte.
+receiver: Blue Dart? Mujhe to koi order yaad nahi. Kya parcel mein koi tracking number hai?
+caller: Haan ji, tracking number hai BD12345678. Parcel mein ek smart phone hai, value bahut zyada hai. Security protocol ke wajah se, naam aur address verify karna zaroori hai. Please call 9876543210 for verification.
+receiver: Smart phone? Main toh koi phone nahi order kiya tha. Aur phone number bhi suspicious lag raha hai.
+caller: Yeh ek promotional offer hai, sir. Aapko smart phone free mein mil raha hai. Lekin verification bina, hum deliver nahi kar sakte. Jaldi kijiye, offer sirf aaj ke liye hai. 9876543210 pe call karke OTP receive karein.
+receiver: OTP? Theek hai, main check karta hu. (pause) Acha, OTP mila hai - 4578.
+caller: Bahut achha! OTP sahi hai. Ab hum parcel deliver kar denge. Aapko 2 ghante mein parcel mil jayega. Dhanyavaad!

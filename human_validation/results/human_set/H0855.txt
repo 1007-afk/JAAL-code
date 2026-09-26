@@ -1,0 +1,11 @@
+caller: Namaste, sir. Main Rahul Verma, QuickCash Solutions se baat kar raha hoon. Aapne hamari website se ₹50,000 ka personal loan apply kiya tha, usliye call karta hoon. Aapke account mein kuch details confirm karne hain.
+receiver: Haan, ji. Mainne apply kiya tha. Kya details confirm karne hain?
+caller: Ji sir, aapka bank account number aur OTP check karna hai. Verification ke liye sirf 30 second lagega. Account number check kar sakta hoon?
+receiver: Haan, ji. Account number… ₹1234567890.
+caller: Thank you sir. Now, aapke registered mobile number pe ek OTP ayega. Woh OTP mujhe bata dijiye. Security ke liye, sir.
+receiver: Okay, wait… Aa gaya. 789012.
+caller: Absolutely! Verification complete ho gaya hai. Sir, aapse maf karna padega. Hamara system dikha raha hai ki aapke naam pe pending dues hain. ₹15,000 clear karne hain tabhi loan release hoga.
+receiver: ₹15,000? Lekin maine to sirf ₹50,000 ka loan liya tha!
+caller: Sir, ye pending dues hain, jisse loan release mein problem ho raha hai. Aapko isko clear karna padega, warna hum loan cancel kar denge aur aapka naam blacklisted ho jayega.
+receiver: Blacklisted? Aur ₹15,000 kahan se laoon?
+caller: Sir, aapko koi aur option nahi hai. Isko jald se jald clear karna padega. Bahut urgent hai, sir.

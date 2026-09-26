@@ -1,0 +1,7 @@
+caller: Hello sir, this is Ankit from FastCash Rewards. We've noticed you’ve recently used PhonePe for a transaction. As a thank you, we’re giving you a chance to win a ₹10,000 cashback.
+receiver: Really? ₹10,000? That’s great! How do I claim it?
+caller: Just a simple verification process, sir. We need to verify your account quickly. Could you please share the last four digits of your PhonePe registered UPI ID?
+receiver: My UPI ID? Why do you need that? Isn't that a bit risky? I've heard about scams where they ask for this.
+caller: Sir, absolutely not! It's just a security measure. We need to make sure it's genuinely you claiming the reward. It's standard practice. Plus, we'll send you a small test transaction of ₹1 to confirm.
+receiver: A test transaction? Okay, that sounds a little safer. But where will you send it? And how do I know this is really FastCash Rewards and not someone trying to steal my money?
+caller: We'll send it to your PhonePe wallet, sir. To confirm it’s us, just check your PhonePe app transaction history after a few minutes. You’ll see a small amount and a notification from FastCash Rewards. Just complete the verification and the ₹10,000 will be credited to your account instantly!

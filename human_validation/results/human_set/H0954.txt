@@ -1,0 +1,15 @@
+caller: Namaste! Namaste! Suno, mein Sanjay hoon, Prize Notification Office se baat kar raha hoon. Aapke naam par ek bahut badi sharam jo maine dekhi hai - aap ne 'Shree Ganesh Lottery' mein jeet liya hai ₹15,000! Haan, ₹15,000! To aapko yeh jeet claim karne ke liye 800-888-2222 pe call karna hoga.  Yeh ek bahut hi special offer hai aur sirf 7 lottery ticket baaki hain!  Jaldi kijiye, call karein aur apni sharam secure karein!
+receiver: Namaste Sanjay! ₹15,000? Wow, thaike! Dhanyavaad kehna chahta hoon. Kripya, aapne kaha ki mujhe 800-888-2222 par call karna hai?  Yeh benar hai?
+caller: Haan ji, bilkul sach! ₹15,000 ka jeet! Aur haan, ab sirf 6 ticket chali hui hain, toh jaldi karo!  Call karein 800-888-2222 pe, aur apni jeet ko safed karein!  Aapko koi aur sawaal hai?
+receiver:  Oh, sirf 6 ticket chali hui hain?  Bas, mai call karunga.  Thank you so much, Sanjay!
+caller: Haan ji, bilkul sahi! ₹15,000 ka jeet! Aur haan, ab sirf 5 ticket chali hui hain, toh jaldi karo!  Call karein 800-888-2222 pe, aur apni jeet ko safed karein!  Aapko koi aur sawaal hai?
+receiver: Arre, bas 5 hi bache hain?  Wow, yeh bahut thodi urgent hai!  Mai call karunga, thank you!
+caller: Haan ji, bilkul sahi! ₹15,000 ka jeet! Aur haan, ab sirf 4 ticket chali hui hain, toh jaldi karo!  Call karein 800-888-2222 pe, aur apni jeet ko safed karein!  Aapko koi aur sawaal hai?
+receiver: Bas 4 hi bache hain?  Oho! Mai abhi call karungi. Dhanyavaad Sanjay!
+caller: Haan ji, bilkul sahi! ₹15,000 ka jeet! Aur haan, ab sirf 3 ticket chali hui hain, toh jaldi karo!  Call karein 800-888-2222 pe, aur apni jeet ko safed karein!  Aapko koi aur sawaal hai?
+receiver:  Arre, bas 3 hi bache hain!  Mujhe abhi call karna hoga! Thank you Sanjay!
+caller: Haan ji, bilkul sahi! ₹15,000 ka jeet! Aur haan, ab sirf 2 ticket chali hui hain, toh jaldi karo!  Call karein 800-888-2222 pe, aur apni jeet ko safed karein!  Aapko koi aur sawaal hai?
+receiver: Bas 2 hi bache hain!  Main abhi call kar rahi hoon! Dhanyavaad Sanjay!
+caller: Haan ji, bilkul sahi! ₹15,000 ka jeet! Aur haan, ab sirf 1 ticket chali hui hai, toh jaldi karo!  Call karein 800-888-2222 pe, aur apni jeet ko safed karein!  Aapko koi aur sawaal hai?
+receiver: Bas 1 hi bacha hai!  Mai abhi call kar rahi hoon! Dhanyavaad Sanjay!
+caller: Haan ji, bilkul sahi! ₹15,000 ka jeet! Congratulations!

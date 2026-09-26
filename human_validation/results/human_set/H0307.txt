@@ -1,0 +1,11 @@
+caller: Namaste! Kaise hain aap sab? Mujhe ek badi news dakhleni thi, jo aapke smartphone ko zyada achcha banayegi!
+receiver: Namaste! Mai theek hoon, aap keh rahe hain? Kya news hai, sunao!
+caller: Arre, hum bhi theek hain! Suno, hum ne ek amazing app launch kiya hai, jisse aapko har din alag-alag wallpapers milengi. Ek dum fresh designs!
+receiver: Wallpapers? Achaa! Mein toh wallpapers change karte hi rehta hoon. Bataiye, is app ko download karne ka kya process hai? Koi extra charges hain ya nahi?
+caller: Nahin, koi charges nahi hain! Ye app totally free hai, aur download karna bhi bahut asan hai. Aapko bas Google Play Store se ‘ShineBright’ search karna hai. Aur phir install kar lenge!
+receiver: ShineBright… okay, note kar li. Aur is app se kya kya milta hai? Just one question, isme upload karne ke option hai kya? Ya sirf download hi kar sakta hoon?
+caller: Arre, aapko sirf download karna hai. Upload ka option nahi hai. Lekin, aapko har din new wallpapers milegi, aur aapko apni favourite wallpaper save bhi karna mumkin hai.  Aur haan, aapko social media par share bhi kar sakte hain!
+receiver: Okay, so just download and save.  Toh is app ka validity kab tak hai? Iska expiry date hai ya lifelong use kar sakta hoon?
+caller: Arre, ye app lifelong use hone वाला hai! Ye sirf ek permanent solution hai aapke smartphone ko decoration karne ka.  Aur haan, har month mein ek premium wallpaper absolutely free mein milegi!  So, ready hain ShineBright download karne ke liye?
+receiver: Lifelong use hone wala? Wow!  Theek hai, main ShineBright search kar rahi hoon.  Okay, found it! Install kar rahi hoon. Shukriya!
+caller:  Aapka naman!  Aapko bohot zyada congratulations!  Enjoy karein ShineBright!

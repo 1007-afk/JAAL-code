@@ -1,0 +1,7 @@
+caller: Namaste! Hello, is this Priya Verma? I’m calling from Global Trade Solutions. We’ve identified you as a potential candidate for a lucrative online trading opportunity with a leading international firm, Stellar Investments.
+receiver: Hello? Global Trade Solutions? Trading opportunity? What kind of opportunity?
+caller: Absolutely! It’s a fantastic chance to earn extra income by evaluating market trends and predicting stock movements. It’s very simple, really. We pay ₹500 per correct prediction.  You’ll receive daily trading signals via WhatsApp. No experience needed!
+receiver: ₹500 per prediction? Sounds a bit too good to be true. What’s the catch? And how do I get started?
+caller: No catch at all! Just a small activation fee to verify your account and grant you access to the signals. It’s ₹2500, a one-time payment only.  Once activated, you can start earning immediately! We use PayTm for verification - very secure, you see.
+receiver: ₹2500? Hmm, I'll have to think about it.  Can I see some examples of these "trading signals" first?
+caller: Absolutely! To demonstrate, here’s one right now: Buy Reliance Industries, target price ₹3100. Quick, it’s going up fast!  To unlock all signals and start earning, please send the ₹2500 to this PayTm number: 9123456789. Hurry, this is a limited-time offer!

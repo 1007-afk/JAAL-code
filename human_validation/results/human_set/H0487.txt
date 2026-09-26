@@ -1,0 +1,6 @@
+caller: Namaste! Main Vijay se baat kar raha hoon, Flipkart Customer Care se. Aapke Flipkart account mein ek pending payment hai, ₹789.95. Iski wajah se aapka account suspend ho sakta hai.
+receiver: Oh, really? Flipkart account? Mujhe koi notification nahi mila. Aur ₹789.95? Main toh kuch order nahi kiya tha recently.
+caller: Haan ji, system mein dikh raha hai ki aapne ‘TrendyGadgets’ se kuch products order kiye the. Payment fail ho gaya tha, isliye hum call kar rahe hain. Account active rakhne ke liye, aapko OTP verify karna hoga. Main aapko abhi SMS karunga.
+receiver: OTP? Thoda wait karo, mujhe check karne do. Ek minute.  Yeh message mujhe nahi mila.
+caller: Sirf ek minute lagega. OTP aane ke baad mujhe bata dena.  Ye important hai, otherwise aapka account lockdown ho jayega. Mein aapko lockdown se bacha sakta hoon, just give me the OTP.
+receiver: Wait a minute, mujhe doubt ho raha hai. Flipkart Customer Care number toh online available hai. Main khud check karti hoon.  Yeh number bhi to check karta hoon.  I am calling Flipkart directly.

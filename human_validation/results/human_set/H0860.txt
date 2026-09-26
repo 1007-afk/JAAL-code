@@ -1,0 +1,7 @@
+caller: Namaste sir, Flipkart customer care se bol raha hoon. Aapke Flipkart wallet mein 5000 Rupees ka suspicious transaction detect hua hai. Security ke liye, humein aapki verification ki zaroorat hai.
+receiver: Kya? 5000 Rupees? Mujhe toh koi notification aaya nahi. Aur Flipkart customer care wale aise call karte hain?
+caller: Ji sir, security protocol ka hissa hai yeh. Aapko bataane ke liye call kar rahe hain, taaki aap confirm kar sakein. Hum aapko kuch questions poochenge, aapka PAN card number aur last 4 digits bata dijiye.
+receiver: PAN card number bata dunga? Yeh thoda fishy lag raha hai. Flipkart aise puchta hai kya? Aur mujhe koi OTP nahi mila?
+caller: Sir, OTP process abhi ongoing hai. PAN card number se hum verify kar lenge ki account aapka hi hai. Thoda time lagega, lekin aapka wallet secure ho jayega. Bas ek baar cooperate karein.
+receiver: Theek hai, last 4 digits bata ta hoon, lekin agar kuch bhi gadbad hui toh main Flipkart customer care mein complaint karunga. Batao, kya number hai?
+caller: Excellent sir. Ab hum aapko ek secure link bhejenge, usmein aapka OTP enter karein. Isse aapka account completely secure ho jayega. Link: bit.ly/flipkartsecure

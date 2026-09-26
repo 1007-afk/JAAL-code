@@ -1,0 +1,17 @@
+caller: Namaste! Kaise haal chaand saal? Yeh mera Vijay Kumar hai. Aapke liye ek bahut badi khabar hai. Aap ne recently online shopping ki thi na?
+receiver: Haan, mein thik hoon.  Haan, dekho, ye call wahi ke bare mein hai. Mein aapko batata hoon ki aapne ₹5000 ka jackpot jeeta hai!
+caller: Wah, amazing!  Aapko ₹5000 ki voucher milegi, lekin isko unlock karne ke liye aapko humein ₹250 ka registration fee dalna hoga.  Yeh sirf 10 minute ka time hai.
+receiver: Registration fee?  Kyun?  Bhi toh ₹5000 milega!
+caller:  Haan, par humare system mein yeh process karna zaroori hai.  Agar aap yeh fee de denge, toh aapki voucher immediately unlock ho jayegi.  Just 8 minutes remaining!
+receiver:  Okay, okay, mein samajh gaya.  ₹250 de dunga. Kahaan padhna hai?
+caller:  Online payment karna sahi rahega.  Humare website par jao – www.example-prize.com.  Bas apna bank account details daliye.  Agar koi problem aaye toh mujhe batana.  Mein aapki madad karenge.  5 minutes!
+receiver:  Website… woh address batao phir baar.  Mein check kar raha hoon.  Aur agar koi option hai offline payment ka?
+caller:  Offline payment hone mein zyada time lagega, aur humare timings bhi limited hain. Online karna hi sahi rahega.  4 minutes!
+receiver:  Okay, mein online payment kar raha hoon.  Bank details…  Mein check kar raha hoon.  Kya koi discount bhi mil sakta hai?
+caller:  Discount?  Nahin, yeh special offer hai.  Yeh opportunity sirf aaj ke liye hai.  3 minutes!
+receiver:  3 minutes!  Mein payment kar raha hoon…  Wait, wait…  Payment complete!  Ab kya?
+caller:  Excellent!  Voucher aapki email id pr send ho gayi hai.  Check karein.  Agar koi problem aaye toh mujhe batana.  2 minutes!
+receiver:  Email id check kar raha hoon…  Aapka email id kya hai?  Main aapko confirm kar saktahoon.
+caller:  Aapko confirmation nahin lena hai.  Voucher aapki registered email id pr automatically send ho jayegi.  1 minute!
+receiver:  1 minute!  Mein email check kar raha hoon…  Aapka number kya hai?  Main aapko phir call karunga.
+caller:  Mein aapko phir call nahin karunga.  Mein aapki prize deliver karunga!  Jaldi karo!  Last chance!

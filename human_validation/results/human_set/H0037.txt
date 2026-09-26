@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Sharma? I’m Rajeev from ‘SoulConnect’ – what a lovely profile you have! I’ve been looking for someone like you. I'm in Dubai for work right now, things are pretty hectic. I’m having a weird issue with my bank card here, it keeps getting declined.
+receiver: Hi Rajeev! Thanks! Dubai, wow! That’s quite a trip. Bank card issues are the worst, especially when you’re traveling. Anything I can do?
+caller: Actually, yes! It’s a long story, but I need to quickly transfer a small amount to my sister in India for an urgent medical bill. My bank is being a nightmare. Would you mind terribly doing a small transfer of, say, ₹5,000 through PayNearby? It would honestly mean the world to me. I’ll pay you back double as soon as I get back next week.
+receiver: ₹5,000? And you want me to do it through PayNearby? That feels a little... risky, doesn't it? I barely know you.
+caller: I understand your hesitation, Priya. But I’m sending you a photo of my passport and a copy of the hospital bill, so you can see it’s real. This is a genuine emergency, I promise.  And I wouldn't ask if it wasn't truly needed. Please, just this one small favour. I’ll give you my phone number too: 9876543210, so you know it’s me.
+receiver: Okay, alright. Let me see those documents first. And I’ll need to be absolutely sure everything’s legit before I even consider it. This feels very strange, Rajeev.
+caller: Wonderful! Here are the images - you can see my name and passport number clearly.

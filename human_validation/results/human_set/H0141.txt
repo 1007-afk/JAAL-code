@@ -1,0 +1,7 @@
+caller: Namaste! Main Rupay Seva se Ankit bol raha hoon. Aapke Rupay wallet mein ₹3,800 ka pending transaction hai. Refund process start karne ke liye, ‘APPROVE’ type karke 99887 pe message karein. ₹5 processing fee lagega, lekin ₹3,800 vapas mil jayenge.
+receiver: Rupay wallet? Mujhe toh koi transaction pending nahi dikh raha. Rupay Seva se aap call kar rahe hain? Confirm karein.
+caller: Haan ji, confirm! Aapka Rupay wallet number [Victim's Phone Number] hai, right? System mein dikh raha hai, transaction pending hai. Jaldi karein, refund window band hone wala hai. ₹5 fee sirf verification ke liye hai.
+receiver: ₹5 fee? Aur mujhe Rupay app mein toh kuch bhi nahi dikh raha. Maine toh kabhi bhi Rupay wallet use nahi kiya. Yeh kuch gadbad lagi.
+caller: Sir, galatfeeha mat karna! Yeh system error hai, lekin humara team aapko help karega. ‘APPROVE’ message send karein, verification complete ho jayega, aur refund process start ho jayega. ₹3,800 aapke wallet mein vapas deposit ho jayega.
+receiver: Haan, lekin main message kyun send karoon? Fee laggi toh meri? Aur maine toh kabhi Rupay wallet hi nahi use kiya! Tumko report kar dunga.
+caller: Sir, please don’t be so harsh. This is a limited-time offer to resolve the system error. Send the message now and we'll reverse the ₹5 fee immediately once the refund is processed. Don't miss out on your ₹3,800!

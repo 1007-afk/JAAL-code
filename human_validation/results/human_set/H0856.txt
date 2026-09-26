@@ -1,0 +1,8 @@
+caller: Namaste! I hope you’re doing well. My name is Vikram, and I’m reaching out from “Connect Hearts,” a premium matchmaking service. I believe you recently registered interest in finding a meaningful connection? We have a potential match for you that I think you'll find very interesting.
+receiver: Oh, hello Vikram. Yes, I did sign up a while back. Don't remember much about it, to be honest. What’s this about a potential match?
+caller: Wonderful! We’ve found someone who shares similar interests and values – a very special lady named Priya. She’s a doctor, quite accomplished, and looking for someone genuine. To ensure compatibility, we need to quickly verify a few details. Can you confirm your city of residence?
+receiver: My city is Bangalore. What’s this all about exactly? Why verify my city? Doesn't feel very secure.
+caller: Absolutely fair question! It’s a standard security protocol. Priya is also in Bangalore, and we want to ensure a local connection. Now, to finalize the introduction, could you please share the last four digits of your phone number? Just for verification purposes, of course.
+receiver: Last four digits? That sounds a bit weird, Vikram. I’m not sure I’m comfortable sharing that. Is there any other way to verify?
+caller: I understand your hesitation, but our security systems are top-notch. It’s crucial to prevent fake profiles and ensure Priya’s safety. Think of it this way, it's about protecting her privacy too. Let’s just say 4567, just to see if it works. Then I can show you her profile?
+receiver: Okay, fine. 4567. Let's see this profile then.

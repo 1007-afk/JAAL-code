@@ -1,0 +1,8 @@
+caller: Namaste! Yeh Akash se bol raha hoon, Swiggy Customer Care se. Aapke Swiggy account mein ek unusual activity detect hui hai, sir. Ek order ₹3800 ka register hua hai jo aapne nahi kiya.
+receiver: ₹3800? Oh no! Main to koi order nahi kiya. Kya hua hai?
+caller: Ji bilkul! Hamko confirm karna hai ki yeh aapki id se hi kiya gaya tha. Isko secure karne ke liye, mujhe aapka OTP chahiye hoga, jo aapko Swiggy app se mila hai. Tabhi main order ko cancel kar paunga.
+receiver: OTP? Par aise ₹3800 ka order kaise ho sakta hai? Mujhe to kuch yaad nahi. Aur Swiggy app mein OTP mat puchho, yeh risky hai.
+caller: Sir, time bahut kam hai. Agar aap OTP nahi denge, toh yeh amount chala jayega aur account bhi block ho sakta hai. Main ek Swiggy employee hoon, aur bas aapki help kar raha hoon. Please OTP do, ek minute ka kaam hai.
+receiver: Theek hai, ek minute. Par fir main Swiggy customer care se direct baat karunga, okay?
+caller: Absolutely! OTP bhijvao, aur main confirm kar dunga.
+receiver: Ok, sending it now...

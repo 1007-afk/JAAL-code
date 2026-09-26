@@ -1,0 +1,10 @@
+caller: Namaste! Yeh Sunny Sharma hai, DigiRewards se. Aapko ek special offer mila hai - OnePlus 12 Pro mobile phone! Agar aap ek small quiz mein participate karte hain, toh aap jeet sakte hain! Kaise hai aap?
+receiver: Namaste ji! Main theek hoon. DigiRewards se Sunny ji? OnePlus 12 Pro? Wah! Koi sawaal hai?
+caller: Haan ji! First question: America ki main city kaunsi hai?  Yeh ek very easy question hai, bilkul saari logon ke pata hoga!
+receiver: Umm... America?  Main toh India mein hoon, par mujhe pata hai. America ki main city New York hai, na?
+caller: Absolutely correct! New York hai!  Amazing!  Aapse kuch aur sawaalon ka test karna chahte hain.  Next question: Japan ki sabse talli nadi kaunsi hai?  Agar aap sahi jawaab denge, toh aap OnePlus 12 Pro jeet sakte hain!
+receiver: Japan?  Hmm... Japan ki talli nadi...  Tokyo River?  No, that’s not it.  Wait… Suso no! Suso no hai!  Right?
+caller: Exactly! Suso no hai!  Perfect!  Aapne ek sawaal sahi jawab diya hai.  Ab aapko ek aur sawaal puchna hai. China ka sabse bada mountain kaunsa hai?  Agar aapko pata hai, toh aap jeet sakte hain!
+receiver: China ka sabse bada mountain?  Arre yaar!  Main toh paisa jeetna chahta hoon!  China mein jaakar dekhna padega.  Hmm... Mount Everest?  Is it?
+caller: Correct! Mount Everest hai!  Congratulations!  Aapne teeno sawaalon ke sahi jawaab dene ka faisla kiya hai, aur aap ab OnePlus 12 Pro jeetne ke bahut kareeb hain!  Aapko ek final step karna hai - sirf ek SMS bhejna hai: WIN12PRO to 85678.  Uske baad aapko confirmation message milega, jisse aapko pata chalega ki aapko mobile phone kaise milega.  Thoda intezaar karein, aapka prize bahut nazdeek hai! Dhanyavaad!
+receiver: Okay! WIN12PRO send kar deta hoon. Thoda intezaar karo.  OnePlus 12 Pro jeetna, yeh bohot exciting laga!  Thank you, DigiRewards! Bye bye!

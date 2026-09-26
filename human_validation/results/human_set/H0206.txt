@@ -1,0 +1,11 @@
+caller: Namaste! Mai Flipkart Customer Care se Rohit bol raha hoon. Aapko ek cashback offer mila hai apne Flipkart account par. ₹2500 cashback!
+receiver: ₹2500 cashback? Flipkart se? Sachchi?
+caller: Haan ji, totally sachchi! Yeh ek limited-time offer hai. Cashback claim karne ke liye, aapko sirf apne UPI ID verify karna hoga.
+receiver: UPI ID? Kyun verify karna padega? Maine abhi tak kabhi verify nahi kiya.
+caller: Yeh security check hai, ji. Humara system aapki UPI ID ko check karta hai ki account aapka hi hai. Yeh bahut simple process hai.
+receiver: Theek hai, batao kya karna hai. Par mujhe thoda doubt ho raha hai.
+caller: Aap apne PhonePe app mein jayein, ‘Add Bank Account’ section mein jayein, aur apna UPI ID enter karein. Hamare system mein verification complete ho jayega.
+receiver: PhonePe mein add bank account… aur phir? Mujhe OTP milega na?
+caller: Haan, OTP milega, woh mujhe bata den. Yeh OTP sirf verification ke liye hai, cashback claim karne ke liye. Hurry up! Offer ending mein hai!
+receiver: Wait a minute… mujhe yaad aa raha hai, Flipkart Customer Care kabhi bhi PhonePe app ka naam nahi lete. Isko confirm toh kar leta hoon.
+caller: Arre bhai, abhi offer claim kar lo! ₹2500 cashback miss mat karo! Aur OTP send kar den jaldi karo!

@@ -1,0 +1,9 @@
+caller: Namaste, sir? Mein ICICI bank se Aakash bol raha hoon. Aapke account mein ajeeb transactions ki activity dikhi gayi hai.
+receiver: ICICI bank? Yeh kaun bol raha hai? Maine toh koi transaction nahi kiya.
+caller: Sir, aapko immediate verification karna hoga. Account secure rakhne ke liye, mujhe aapki KYC details ki zarurat hai. Account suspend hone se bachne ke liye jaldi karna hoga.
+receiver: KYC? Phone pe? Bank toh aise nahi karta. Mujhe kuch OTP aaya nahi hai.
+caller: Sir, OTP aapke phone pe gaya hoga. Jaldi check karein. Aur account number bhi bata dijiye, verification ke liye.
+receiver: Account number batauga? Kya proof hai ki tum ICICI se ho?
+caller: Sir, aapko bank website pe meri ID check kar sakte hain. Account number bataiye, please. Time bahut kam hai.
+receiver: Theek hai, mera account number hai [account number yahaan daalen]. Lekin main phir bhi doubt kar raha hoon.
+caller: Thank you, sir. Ab aapka Aadhaar card ka last 4 digits bataiye, taaki verification complete ho jaye.

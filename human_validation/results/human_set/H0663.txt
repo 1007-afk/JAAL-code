@@ -1,0 +1,13 @@
+caller: Namaste! Main Sanjay hu, India Telecom se call kar raha hun. Hum log ek special offer leke aaye hain, jahaan hum sabhi customers ko free internet data de rahe hain. Kya aapka mobile number India Telecom mein registered hai?
+receiver: Hello Sanjay, yes my number is registered with them. But I’ve never heard about any free data offers.
+caller: Haan, pata hai, ye ek limited time ka offer hai, sirf aaj ke liye. Aur aapka number, Delhi mein registered hai, sahi na? Just checking the details.
+receiver: Yes, correct. My number is registered in Delhi.
+caller: Good, good. Ab, verification ke liye, humein ek OTP chahiye. Aapko ek message aa jaayega, usse reply karein. OTP recieve karne ke liye aapka address bhi confirm karna hoga - 123, Patel Colony, Jaipur.
+receiver: Wait, why do you need my address?
+caller: Sir, yeh sirf OTP verification ke liye hai. Apne account ko safe rakhne ke liye humein aapki address par verification karna padta hai. It’s standard procedure.
+receiver: That doesn't sound right. Can you just verify my number instead?
+caller: Nahin, OTP ke bina aapko credit nahi milegi. Aur yeh offer sirf aaj raat 8 baje tak chalega. Agar aap miss kar dete hain, toh koi chance nahi hai.
+receiver: Okay, fine. I'll get the OTP.
+caller: Acha, OTP recieve kar lijiye aur mujhse share karein. Agar koi problem ho toh boltein. Congratulations, aapko free data mila!
+receiver: Okay, I got the OTP and sent it.
+caller: Shandar! Verification complete ho gaya. Aapko free data abhi-abhi visible ho jayega. Enjoy your free data!

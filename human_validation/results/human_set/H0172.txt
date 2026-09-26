@@ -1,0 +1,6 @@
+caller: Namaste! Is this Mrs. Verma? My name is Amit from BlueSwift Courier. We are experiencing a slight delay with your recent Flipkart order – tracking ID FW87654. It seems there’s an issue with the delivery address verification.
+receiver: Oh, really? I was expecting a package today. What's the problem exactly? Everything looks correct on my Flipkart account.
+caller: Yes, ma'am. Our system flagged a potential mismatch. To ensure safe delivery, we need to quickly verify your OTP. Please share the one-time password sent to your registered mobile number. It's just a standard security procedure.
+receiver: OTP? Why do I need to give you an OTP for a delivery? Isn't that a bit strange? I’ve never had to do that before.
+caller: Ma'am, it's to protect your package from being delivered to the wrong address. It’s a precautionary measure to prevent fraud. Think of it as added security for you. Please share the OTP so we can proceed.
+receiver: Wait a minute. Let me just quickly check my Flipkart app… Oh dear. This doesn’t look right at all. Thank you, I think I realize now this is a scam. I won't be sharing any information.

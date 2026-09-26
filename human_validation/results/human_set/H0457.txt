@@ -1,0 +1,7 @@
+caller: Hi Priya! This is Rohan, remember me from DreamHearts? Been thinking about you a lot. Just landed in London for a short business trip, feeling a bit homesick.
+receiver: Rohan! Oh wow, London! That's amazing! How’s it going? Missed you too! How’s the trip so far?
+caller: It’s alright, just a lot of meetings. The weather is gloomy, makes me miss your sunshine! Listen, I’m in a bit of a tricky situation – my wallet was stolen. I need to send a crucial document tonight, but I’m short on funds for a courier. Could you possibly send me 5000 rupees? I’ll pay you back the moment I get back home.
+receiver: Oh no! That's terrible, Rohan! 5000 rupees… okay, I can do that.  Just send me your UPI ID, and I’ll send it right away.  Are you sure you’ll be alright?
+caller: Thank you so much, Priya! You're a lifesaver! Here’s my UPI: rajshree.verma78@okobank.com. I'll be eternally grateful. Once I’m back, I’ll treat you to a fancy dinner, my treat!
+receiver: Okay, UPI sent. Hope everything goes well, Rohan. Be safe!
+caller: Wonderful! Thank you again, sweetheart. Now, about those photos you sent me... I’ve been thinking about them a lot. It’s getting cold here, and I need a little warmth… Could you send me a few more? Just to brighten up my day?

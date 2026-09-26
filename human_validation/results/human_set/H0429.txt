@@ -1,0 +1,7 @@
+caller: Hello, is this Mr. Verma? We're calling from EasyPay Rewards. You’ve recently made a purchase from BharatMart, and you’re eligible for a ₹500 cashback. To process it, we just need to quickly verify a few details.
+receiver: Oh, really? From BharatMart? I did buy something last week. What details do you need?
+caller: Great! Just confirm the last four digits of the card you used for the purchase. And can you tell me which EasyPay wallet you use – PhonePe, Paytm, or something else?
+receiver: It was my debit card, ending in 4321. And I use GPay, Google Pay.
+caller: Perfect, Mr. Verma. Now, to securely transfer the ₹500 cashback to your GPay, we need a small OTP verification code. It’s a standard security measure. Can you give me the OTP you just received on your phone?
+receiver: An OTP? Hold on… I’m a little unsure about giving an OTP for cashback. Shouldn't BharatMart or GPay handle this? Is this really from EasyPay?
+caller: Absolutely, sir! This is a streamlined process to make it quicker for you. We’re trying to enhance customer experience, and this is part of that.  Just the OTP, please. We'll also send you a confirmation email shortly, you can verify it then.

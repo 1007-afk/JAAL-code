@@ -1,0 +1,7 @@
+caller: Namaste, is this Priya Sharma? This is Akash from BharatPe support. We’ve noticed some unusual activity on your BharatPe account and need to verify your details urgently to prevent potential fraud.
+receiver: BharatPe? What kind of unusual activity? I haven’t done anything different.
+caller: Our system flagged a few smaller transactions going out to a new merchant – seems like a phishing attempt to test your credentials. To secure your account, we need to run a quick verification. Can you please confirm the last three digits of your UPI linked bank account?
+receiver: Why do you need my bank account details? BharatPe people never asked me this before. It feels risky.
+caller: Ma’am, it's standard protocol now due to increased security threats. Just three digits – it’s a quick check. Think of it as confirming you’re the rightful owner. We can also send you a verification link to your registered email. Which is easier for you?
+receiver: A link to my email sounds better. Send it, please. And which merchant are these suspicious transactions going to? I want to know.
+caller: Absolutely, Ma’am. The link has been sent. It’s a priority security update, so please click it right away. Regarding the merchant, it’s a new online wallet service called ‘QuickPay Earn’. They’re offering very high cashback rates, which is why our system flagged it as potentially fraudulent. Just complete the verification, and we’ll handle everything from here.

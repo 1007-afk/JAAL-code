@@ -1,0 +1,10 @@
+caller: Namaste! Kaise chal raha hai? Suno, tumhein pata hai kya, ab tum Bihar mein call kar sakte ho sirf ₹3 per minute! Ji haan, ₹3! Koi upfront charge nahi, jaldi jaldi call lagayiye. Bas yeh special number dial kijiye: 97235 67890. Ya phir tum apni website par bhi ja sakte ho: www.vishvconnect.in. Tumhein iske baare mein koi extra details chahiye?
+receiver: Arey yaar! Bihar mein ₹3 per minute? Wah, yeh toh bahut hi interesting hai! Website ka address phir se bataoge? Aur yeh number, 97235 67890, isko har baar call karte samay dial karna padega ya fir ek baar dial kar ke use save kar lenge?
+caller: Website ka naam hai www.vishvconnect.in. Aur yeh number, 97235 67890, tumko har baar call karne se pehle dial karna hoga. Yeh ek baar ka setup nahi hai, balki har call ke liye pehle yeh number dial karna hoga, phir tum Bihar mein apna number dial kar sakte ho. Simple hai na? Koi confusion nahi!
+receiver:Haan, samajh mein aa gaya. To matlab, jab main Bihar mein call karna chaahunga, pehle 97235 dial karna hai, aur phir apna number. Theek hai, clear ho gaya. Dhanyavaad, bohat achhi information di jubli. Iske baare mein kuchh aur bataana hai?
+caller: Bas yeh do cheezon yaad rakhna hai: pehle 97235 67890 number dial karna hai, aur dusri Bihar mein apna number. Agar koi bhi sawal ho, toh website www.vishvconnect.in par dekho. Kya tum kuch aur poochhna chaaho?
+receiver:Haan, samajh gaya. Baarish ka season hai, to kya aapke paas raincoats bhi available hain? Mujhe apne bachchon ko protect karne ki zaroorat hai.
+caller: (हल्की हँसी) Haan, tumhare liye bhi option hai. Hamare website par raincoats ke options bhi hain. Check karo, www.vishvconnect.in. Kuch aur chahiye?
+receiver: Nahin, thank you. Aaj ke liye itna hi kaafi hai. Aapki madad ke liye dhanyavaad!
+caller: Aapka swagat hai! Bihar mein call karna shuru karo, ₹3 per minute.  Aur agar kisi desh mein call karna chaaho toh hamara website check karein.  Aapko koi assistance chahiye?
+receiver: Nahin, abhi koi assistance nahi chahiye. Dhanyavaad!

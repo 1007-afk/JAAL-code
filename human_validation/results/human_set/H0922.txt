@@ -1,0 +1,7 @@
+caller: Namaste sir, mera naam Rohit hai, mai Axis Bank KYC department se baat kar raha hoon. Aapke account mein kuch suspicious activity detect hui hai.
+receiver: Kya suspicious activity? Mujhe toh kuch pata nahi hai.
+caller: Ji sir, ek international transaction ka attempt hua hai, jo aapne nahi kiya hai. Account secure rakhne ke liye, aapko kuch details verify karni hogi, warna humko account suspend karna padega.
+receiver: Account suspend? Aur kya details verify karni hogi? Mujhe yeh sab phone pe seekhna comfortable nahi lag raha hai.
+caller: Sir, worry mat karein. Bas aapka naam, aadhaar number ke last 4 digits, aur OTP jo aapko aapke registered mobile number par milega, woh hi verify karna hai. Isse aapka account safe rahega. Abhi 24 hours ka time hai, sir.
+receiver: Aadhaar number? Aur OTP bhi? Sir, ye thik nahi lag raha hai. Main koi OTP share nahi karunga. Koi official email ID dijiye jahaan main confirm kar sakta hoon.
+caller: Sir, OTP bilkul safe hai, account ki verification ke liye hi hai. Agar aap verify nahi karenge toh account freeze ho jayega. Sir, aapko aage ki steps ke liye 9876543210 par call karna hoga aur OTP share karna hoga, bina delay ke.

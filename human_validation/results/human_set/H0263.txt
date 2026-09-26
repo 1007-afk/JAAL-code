@@ -1,0 +1,8 @@
+caller: Namaste, is this Ms. Sharma? I am calling from Paytm KYC verification team. We've noticed some unusual activity on your account and need to confirm your details to prevent any unauthorized transactions.
+receiver: Paytm? Really? I use Paytm a lot. What unusual activity are you talking about?
+caller: Yes, ma’am. It seems someone attempted to add a new device to your account from an unknown location. We need to verify your identity to secure your funds. Could you please share the one-time password (OTP) you just received on your registered mobile number?
+receiver: Wait a minute. I didn't receive any OTP. And why would Paytm call me directly? Shouldn’t they send an SMS or something?
+caller: Ma’am, due to increased security threats, we’ve started verifying directly over the phone. This is a standard procedure.  Without the OTP, we’ll have to temporarily suspend your account as a precautionary measure. Just a quick 4-digit OTP, please.  For your safety.
+receiver: Suspend my account? That doesn't sound right. Can you give me a reference number for this call and your employee ID, so I can check with Paytm directly?
+caller: Ma’am, I understand your concern, but providing reference numbers would compromise our security protocols. The OTP is all we need right now. Please, share it so we can prevent any potential fraud. We also need to confirm your Aadhaar last four digits for further verification to lift the temporary suspension.
+receiver: Aadhaar? Now you want my Aadhaar details too? This is getting fishy. I'm not giving you anything until I verify this with Paytm myself. I'm ending this call.

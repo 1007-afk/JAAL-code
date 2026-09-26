@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Sharma? We're calling from Loan Express India. You were pre-approved for a personal loan of ₹75,000 with very low interest!
+receiver: Oh really? That’s good to hear. I could use a loan. What’s the interest rate?
+caller: Just 8%, Priya Ji! Very competitive. To process the loan quickly, we need a few details. First, could you tell me your current occupation and monthly salary? Also, we need a small processing fee of ₹3,500 to verify your account.
+receiver: A processing fee? That seems a bit high. I didn’t see anything about a fee when I applied.
+caller: It’s a security measure, Priya Ji, to prevent fraud. It’s a one-time charge. Once your loan is approved, we'll refund it! But you must pay it immediately to lock in this fantastic rate.  Don’t miss out - this offer is only valid for the next hour!
+receiver: Okay, hold on. Can you send me a link to your website so I can check the terms and conditions myself?
+caller: Unfortunately, our website is temporarily under maintenance due to high traffic. It’s best to complete the verification over the phone right now to secure your loan. Delaying will mean losing the opportunity. Please send the ₹3500 to this UPI ID: loanexpress.india@axis.

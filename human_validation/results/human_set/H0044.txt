@@ -1,0 +1,8 @@
+caller: Hello, is this Mr. Rajesh Verma? I’m calling from the Cybercrime Investigation Cell. We've detected suspicious activity linked to your bank account, involving a large sum of money being transferred overseas.
+receiver: Cybercrime? Yeh kya bol rahe hain? Account mein koi suspicious activity?
+caller: Yes, sir. It appears funds have been routed through several shell companies, potentially linked to illegal drug trafficking. We need to verify your identity and prevent further transactions. Please don’t panic, we’re here to help.
+receiver: Drugs? Mere account se? Mujhe toh koi bhi idea nahi hai! Main toh kabhi abroad transfer nahi kiya.
+caller: Sir, to clear your name and avoid arrest, you need to cooperate. We require you to deposit ₹15,000 into this secure government account: 7890123456. This is a refundable security deposit to prove your innocence.
+receiver: ₹15,000? Refundable? Aur arrest? Wait, wait, mujhe thoda time do. Main check karta hoon.
+caller: Sir, time is critical. If you delay, a warrant will be issued for your arrest and your assets will be seized. This is a serious matter, and we are currently on video call with other officials who are monitoring you. Do not hang up!
+receiver: Video call? Kis se baat kar rahe hain aap? Main police station jaake report karunga!

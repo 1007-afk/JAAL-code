@@ -1,0 +1,9 @@
+caller: Namaste! Main Bharat Post ki taraf se Rahul bol raha hoon. Aapke naam par ek parcel aaya hai, lekin address kuch kam lag raha hai.
+receiver: Oh, really? What parcel is it? I wasn’t expecting anything.
+caller: Parcel number is BP789456123. Ye ek electronic gadget hai, Bangalore se. Address verify karna hai taaki delivery time pe hojaye.
+receiver: What gadget is it? And why didn’t I get a delivery notification?
+caller: Woh notification system mein technical fault tha, sir. Abhi verify karna hai. Keval delivery confirm karne ke liye, mujhe aapka OTP chahiye.
+receiver: OTP? Why do you need my OTP? That sounds suspicious.
+caller: Sir, security ke liye. Yeh rule hai. Agar aap OTP nahi denge, toh parcel return ho jayega.
+receiver: Return? No, I want the parcel. But I'm not giving you my OTP. I will call Bharat Post directly.
+caller: Sir, please! Jaldi karo! Parcel kal tak return ho jayega! Just the OTP, please!

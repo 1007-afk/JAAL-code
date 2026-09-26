@@ -1,0 +1,9 @@
+caller: Namaste! Kaise ho? Main Ajay Kumar, Digital Rewards India se baat kar raha hu. Tumhara naam jankara hai! Tumne recently Flipkart pe ₹5000 ka gift voucher win kiya hai!
+receiver: Oh wow! Flipkart pe ₹5000 ka voucher? Seriously? Main toh bahut khushi hui! Mera naam Sanjay Patel hai.
+caller: Sanjay ji, congratulations! Toh, agar tum ye voucher use karna chaaho, toh humein kuch information chahiye. Pehle, tumhara pin code batao, bhai. Isliye hum yeh voucher tumhein deliver kar sakte hain.
+receiver: Pin code? Haan, mera pin code hai 400001. Mujhe abhi pata nahi hai yeh voucher kaise milega, lekin pin code toh bata doonga. Aapka naam kya hai? Just Sanjay Patel hi bolo na?
+caller: Sanjay ji, mera naam Ajay Kumar hai. Aur Digital Rewards India ek officially registered company hai. Yeh voucher sirf Flipkart par hi valid hai, bhai. Kuch confusion mat karo. Abhi humein tumhara bank account number chahiye, jisse hum voucher ko transfer kar sakte hain.
+receiver: Bank account number? Bhai, seriously? ₹5000 ka voucher, aur bank account number maange rahe ho? Koi commission ya fees toh nahi lagna hai? Mujhe jitni appreciation hai, woh tumhari taraf se milani chahti hoon.
+caller: Priya ji, bilkul mat dang hai. Yeh sirf verification ke liye hai. Humare paas GST registration hai, dekho bhai. Aur tumhe koi paisa bhi nahi dena hai. Yeh toh tumhari prize hai! Abhi bas tumhara WhatsApp number batao, jisse hum aapko updates de sakte hain.
+receiver: WhatsApp number? Haan, mein WhatsApp bhi provide kar sakti hoon. Mera number hai 8800987654. Yeh voucher kitne dinon mein milega? Matlab delivery time kya hai?
+caller: Sanjay ji, voucher 7-10 dinon mein aapke doorstep pe deliver ho jayega. Enjoy karo!

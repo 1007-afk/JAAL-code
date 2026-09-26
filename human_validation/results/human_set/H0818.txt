@@ -1,0 +1,9 @@
+caller: Namaste, main Priya Verma, QuickCash Solutions se baat kar rahi hoon. Aapne hamari website par loan ke liye apply kiya tha, na?
+receiver: Haan, ji. Maine kal apply kiya tha. Kya update hai?
+caller: Ji, aapka application approved ho gaya hai! ₹75,000 ki loan aapko mil sakti hai, bas kuch formalities complete karni hai. Hamara system ek small verification fee maangta hai, ₹2,500.
+receiver: ₹2,500 verification fee? Loan se pehle?
+caller: Ji, bilkul. Yeh security ke liye hai aur hamara process hai. Iske baad aapko loan amount instantly mil jayega. Aapki bank details mujhe send karein, main transfer process start karungi. Aur ek baat, aapke phone mein bahut pictures hain na? Just a formality, humein ek photo verify karni hogi, so we make sure aap genuine applicant hain.
+receiver: Photo? Kiske liye photo? Yeh toh suspicious lag raha hai.
+caller: Arre, koi tension nahi lene ka! Bas ek selfie, tabhi hamara system aapko confirm karega.  Aapko ₹75,000 urgently mil rahe hain, so just cooperate.  Aapka naam aur dob batao?
+receiver: Nahi, main nahi dungi.  Yeh scam hai!
+caller: (audible sigh) Theek hai, theek hai. Jaldi karo, offer limited time ke liye hai. Miss kar denge toh phir milenge paagal ho jayenge.

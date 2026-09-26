@@ -1,0 +1,6 @@
+caller: Namaste sir, mein ICICI Bank se Rahul Sharma bol raha hoon. Aapke account mein kuch suspicious activity detect hui hai. Security ke liye, aapko zaroori hai verification karna hai.
+receiver: ICICI Bank? Mein toh koi activity nahi dekh raha. Verification ke liye kya karna hai?
+caller: Sir, humein aapke account number, PAN card number aur ek OTP verify karna hai jo aapke registered mobile number par bheja jayega. Yeh sirf 2 minute ka kaam hai, aur aapke paiso ko safe rakhega.
+receiver: PAN card number phone pe?! Yeh thoda risky lag raha hai. Mein branch mein jaakar hi verify karunga.
+caller: Sir, branch mein line bahut lambi hogi, aur yeh process time-consuming hai. Agar aap verify nahi karenge, toh humko account freeze karna padega. Account freeze hone par aap bank se kuch bhi nahi kar payenge. Just OTP share karo, please.
+receiver: Freeze? Haan, lekin OTP share karne se zyada secure hoga bank mein jaana. Mein nahi dunga OTP. Call cut kar raha hoon.

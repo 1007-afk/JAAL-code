@@ -1,0 +1,7 @@
+caller: Namaste! This is Ankit from BharatPay customer care. We've noticed a new cashback offer available exclusively for our loyal customers like you. You're eligible for a ₹750 cashback on your next transaction!
+receiver: BharatPay? Really? I didn't get any notification about this. What’s the catch?
+caller: No catch at all, sir! It’s just a limited-time promotion. To activate it, we need to quickly verify your details. Could you please share the OTP you just received on your registered mobile number? It’s for security purposes only.
+receiver: OTP? Why do I need to give you the OTP? Customer care doesn't ask for OTPs, do they? Seems fishy.
+caller: Sir, this is extremely urgent. The offer is expiring within the next 10 minutes! If you don't verify now, you'll miss out on the ₹750 cashback. It's a fantastic opportunity! Think of all the things you can buy.  Just the OTP, please.
+receiver: Ten minutes? ₹750? But I still don’t trust this. Can you tell me your employee ID or something to confirm you are really from BharatPay?
+caller: Sir, I understand your concern, but I'm currently assisting multiple customers. Providing my ID will delay the process and you will lose the cashback.  Please, just enter the OTP so we can quickly process your eligibility.  Don’t let this opportunity pass you by!

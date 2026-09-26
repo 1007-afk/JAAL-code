@@ -1,0 +1,7 @@
+caller: Namaste, mai Priya se baat kar rahi huun, BharatPay Security Department se. Aapke BharatPay account mein ek suspicious transaction hua hai, ₹250 ka.
+receiver: BharatPay? Haan, main BharatPay use karta huun. ₹250 ka transaction? Mujhe toh koi transaction yaad nahi aa raha.
+caller: Haan ji, woh ek online shopping transaction tha, jo aapne approve nahi kiya tha. Security ke liye, humein aapka account verify karna hai. Please aapka BharatPay UPI ID bataiye?
+receiver: UPI ID? Kyon? BharatPay mein toh UPI ID confidential hota hai. Main UPI ID phone pe nahi batata.
+caller: Sir, chinta mat karna. Yeh standard procedure hai fraud se bachne ke liye. Agar aap cooperate karenge toh hum jaldi se aapke account ko secure kar denge. Aapka UPI ID bataiye, please.
+receiver: Nahin, nahin. Main BharatPay customer care number se contact karunga. Aapko band kar do.
+caller: Sir, please mat karaiye. Agar aapko yeh transaction block karwana hai toh jaldi se detail share kar dijiye. Nahi toh humko isko fraudulent hi mana padega.

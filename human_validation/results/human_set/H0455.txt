@@ -1,0 +1,8 @@
+caller: Namaste, sir. Main Axis Bank se Ankit Sharma bol raha hoon. Aapke naam par ek new online banking account open hua hai. Security ke liye, humein aapke KYC details verify karne hain.
+receiver: Axis Bank? Mujhe toh koi account open karne ka koi message nahi aaya. Aur KYC details? Main phone par aise details share nahi kar sakta.
+caller: Sir, yeh ek automatic process hai. Account open hote hi hum call karte hain. Yeh fraud prevention ke liye hai. Aapka Aadhaar card number aur OTP bataiye, please. Thode se log try kar rahe hain fake accounts open karne ke, aur humein check karna padta hai.
+receiver: Sir, main bank branch jaakar verify karwa loonga. Online aise details dena mujhe safe nahi lag raha.
+caller: Sir, branch mein line bahut lambi hogi. Aur yeh system automatic hai. Agar aap OTP nahi denge, toh account suspend ho sakta hai. Aapko inconvenience hogi. Just the last 4 digits of your Aadhaar card, please?
+receiver: Account suspend ho jayega? Par maine toh koi account nahi kholwa. Aur OTP bhi nahi dena chahta.
+caller: Sir, please, mat chinta karein. Yeh sirf 2 minute ka kaam hai. OTP den aur main check karunga ki aap sahi owner hain. Agar aap cooperate karenge toh aapka account secure rahega, aur aap online banking ka fayda le sakte hain.
+receiver: Theek hai, lekin mujhe zyada trust nahi ho raha.

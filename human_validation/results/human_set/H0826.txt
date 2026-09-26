@@ -1,0 +1,7 @@
+caller: Namaste, sir? Main BlueDart courier se baat kar raha hoon. Aapke ek parcel mein kuch problem aa gayi hai. Payment address verify karwaane ke liye kuch details chahiye.
+receiver: Haan? Kyon, kya hua parcel se? Mujhe toh koi notification nahin mila.
+caller: Sir, system mein dikh raha hai ki delivery ke samay address incomplete hai. Verification ke liye, please apna OTP share karein jo aapko aapke registered mobile number par aaya hai.
+receiver: OTP? Par kyun? BlueDart toh aise nahin karta. Main BlueDart ki website check karta hoon.
+caller: Sir, security ke liye hum OTP verify karte hain. Agar aap website par check karenge toh koi information nahin dikhegi, kyuki yeh system mein automatic update ho gaya hai. Jaldi se OTP share karein, warna parcel return ho sakta hai.
+receiver:  Wait a minute.  Itni jaldi why? Let me call BlueDart directly.  Yeh kuch gadbad lag rahi hai. I’m not giving you anything.
+caller: Sir, please don't do that! This is a one-time procedure for security reasons. We can't delay the delivery any further, otherwise, the package will be sent back to the sender. Just share the OTP so we can proceed.

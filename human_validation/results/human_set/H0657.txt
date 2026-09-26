@@ -1,0 +1,17 @@
+caller: Namaste ji! Aapse baat karna acha laga. Abhi hum is shopping ki deal bata rahein hain, sahi na? ₹5000 har mahine jeetne ka chance hai! Imagine karo, kitna kharida lagta! Aur yeh sangat shuru karne ke liye, ek simple SMS submit karna hai. Aap ne soch rahi hai, kya? Agar jeete toh kya lena chahte the?
+receiver: Haan ji, ₹5000 har mahine! Wow! Mein toh ek laptop lena chahta tha, mera toh bohot zamana ho gaya hai. Pehle kabhi koi lottery ya lucki draw mein participate nahi kiya, yeh pehli baar hai.
+caller: Oh, laptop! Excellent choice! ₹5000 se toh ek achha laptop bhi mil sakta hai! Aur yeh participation bahut aasan hai. Liye, aapko ek SMS bhejna hai. Just type ‘WIN’ and send it to 98765. Ismein ₹200 per month hai, aur aapko har mahine ₹5000 jeetne ka chance milega! Kya aapko yeh cost samajh aaya?
+receiver: ₹200 per month? Woh toh thik hai. Par yeh continuous payment hai ya ek baar ka entry fee hai? Mujhe samajh mein nahi aa raha.
+caller: Ji ji, woh continuous payment hai. Hum aapko har mahine ₹200 charge karenge, aur iske badle mein aapko ₹5000 jeetne ka mauka milega. Ismein koi problem nahi hai, hai na? Jab aapne ‘WIN’ SMS bheja hoga, tabhi aap automaticallly har mahine draw mein shaamil ho jayenge.
+receiver: Okay, okay. Toh matlab agar main WIN SMS kareduun, toh agle mahine se apne aap paise katne lageinge? Aur agar mujhe isme exit karna hai, toh kaise cancel hoga yeh subscription? Koi option hai?
+caller: Ji haan, exactly! Jab aapne ‘WIN’ SMS bheja hoga, toh agle mahine se payments start ho jayenge. Aur cancellation… hmm… cancellation process bohat easy hai. Aapko hamein ek reply SMS bhejna hai – ‘CANCEL’ and send it to 98765. Hum aapko phir confirmation dungae.
+receiver: Cancel karne ka option hai? Good! Toh main ‘CANCEL’ message daalkar subscribe thodi aur wait karunga?
+caller: Ji haan, absolutely! Just send that ‘CANCEL’ message, and we will immediately process it. Aapko ek confirmatiion message pata chalega.  Agar aapko koi confusion hai toh humaare helpline number par call kar sakte hain - 1800-XXX-XXXX.
+receiver: Helpline number dekho. Shukriya ji!
+caller: Aapki aasmanv wish ki sab kuch poora ho!
+caller: Namaste ji! Aapse baat karna acha laga. Abhi hum is shopping ki deal bata rahein hain, sahi na? ₹3000 har sheedi jeetne ka chance hai! Imagine karo, kitna kharida lagta! Aur yeh sangat shuru karne ke liye, ek simple WhatsApp message submit karna hai. Aap ne soch rahi hai, kya? Agar jeete toh kya lena chahte the?
+receiver: Haan ji, ₹3000 har sheedi! Wow! Mein toh ek smartwatch lena chahta tha, mera toh bohot zamana ho gaya hai. Pehle kabhi koi contest ya lucky draw mein participate nahi kiya, yeh pehli baar hai.
+caller: Oh, smartwatch! Very good choice! ₹3000 se toh ek excellent smartwatch bhi mil sakta hai! Aur yeh participation bahut aasan hai. Liye, aapko ek WhatsApp message bhejna hai. Just type ‘SHINE’ and send it to 88778. Ismein ₹150 per month hai, aur aapko har sheedi ₹3000 jeetne ka chance milega! Kya aapko yeh cost samajh aaya?
+receiver: ₹150 per month? Woh toh thik hai. Par yeh continuous payment hai ya ek baar ka entry fee hai? Mujhe samajh mein nahi aa raha.
+caller: Ji ji, woh continuous payment hai. Hum aapko har mahine ₹150 charge karenge, aur iske badle mein aapko ₹3000 jeetne ka mauka milega. Ismein koi problem nahi hai, hai na? Jab aapne ‘SHINE’ WhatsApp message bheja hoga, tabhi aap automaticallly har mahine draw mein shaamil ho jayenge.
+receiver: Okay, okay. Toh matlab agar main SHINE message kareduun,

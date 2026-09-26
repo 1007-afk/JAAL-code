@@ -1,0 +1,7 @@
+caller: Namaste sir, mein Priya Verma, Bajaj Finserv se baat kar rahi hoon. Aapne online personal loan ke liye apply kiya tha, verification ke liye call kar rahi hoon. Aapke aadhaar card ki copy ready hai kya?
+receiver: Haan, hai. Kya aur chahiye? Mein bahut ghaba ghaba busy hoon.
+caller: Ji sir, aadhaar card chalega. Aapka application ID XYT987654321 hai, confirm karte hain. Aur OTP aapke registered number par bheja jayega, woh bhi bataiye.
+receiver: OTP aa gaya hai. Yeh hai 789012. Verify kar lijiye.
+caller: Ji sir, OTP 789012 confirm ho gaya. Bahut achha. Ab aapko ₹10,000 ka loan sanction ho gaya hai, lekin processing fee ke liye ₹5000 aage se deposit karne honge.
+receiver: ₹5000? Loan lene ke liye paise dene padenge? Yeh to galat hai! Mein abhi nahi karunga.
+caller: Sir, yeh system ka rule hai. Agar aap deposit nahi karte, toh loan cancel ho jayega aur aapka credit score bhi affect hoga. Jaldi karo, time kam hai!

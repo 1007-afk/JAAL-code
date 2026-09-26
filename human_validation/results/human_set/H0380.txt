@@ -1,0 +1,8 @@
+caller: Namaste sir, thank you for answering. We’re reaching out regarding some unanswered calls from this number, 9876543210. Did you perhaps miss any messages from us? We just wanted to ensure you received the vital update.
+receiver: Hello, yes, I saw a few missed calls on my phone. What was the update about?
+caller: Arre, don’t worry! It was an important notification about your recent purchase from ‘Shine Decor’. We tried to contact you to confirm the delivery address. Just let me quickly verify your name and location so everything goes smoothly.
+receiver: Shine Decor? Yes, I bought a new sofa set from them last week. Can you please proceed?
+caller: Excellent! Please provide your full name and address, so we can finalize the confirmation and make sure it arrives at your doorstep on time.
+receiver: My name is Priya Sharma, and my address is Sector 16, Patel Nagar, Delhi, and my pincode is 110007. Kindly verify if this is correct.
+caller: Shukriya, Priya ji! Your address is Sector 16, Patel Nagar, Delhi, pincode 110007. That looks perfect. Now, to fully secure your delivery, we need to send a verification code to your mobile number. Will you kindly verify that this is the same number where you receive SMS alerts? This is simply for security purposes.
+receiver: Yes, it’s 9898765432. Send the verification code now.

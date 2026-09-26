@@ -1,0 +1,7 @@
+caller: Namaste! Hope you're doing well. I came across your profile on ‘MeetHearts’ – you seem like a wonderful person. I’m Raj, originally from London but currently working in Dubai on a construction project.
+receiver: Namaste! Thank you. That's kind of you to say. Dubai, wow! That’s quite a long way from London. What kind of construction?
+caller: It's a huge luxury resort. Long hours, but the pay is good. I’m saving up to bring my parents over here. It’s been so long since I’ve seen them. I was thinking of you and wondering if you would like to see some pictures of the resort. It's breathtaking!
+receiver: That's lovely. Family is important. Sure, I'd love to see some pictures. Sounds like a really impressive project. It must be hard being away from your parents.
+caller: Thank you. I sent them. My bank is giving me a lot of trouble with the transfer to my parents' account in Delhi. Apparently, there's a small legal hold. They need about 35,000 rupees to clear it quickly and get the money moving. Can you possibly help me out, just for now? I’ll pay you back as soon as I get paid next week, I promise!
+receiver: 35,000 rupees? That’s quite a lot. I'm not sure I’m comfortable sending that much money to someone I just met online, Raj. Can't you ask your employer for an advance?
+caller: I tried, but they're saying it's against company policy. They said I should use my personal network. It's just a temporary thing, I swear. Think of it as helping a friend in need. Please? I'll send you a screenshot of the bank

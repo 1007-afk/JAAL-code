@@ -1,0 +1,6 @@
+caller: Namaste Madam, mera naam Rohan Verma hai, ICICI Bank se bol raha hoon. Aapki ICICI Savings Account mein kuch suspicious activity dikha hai. Jaldi se verify karna hai.
+receiver: ICICI se? Kya hua? Kuch transaction hua hai? Bataiye kya suspicious activity hai.
+caller: Haan ji, ek international transaction ka attempt kiya gaya hai, 12,000 rupees ka. Aapne kiya tha ya nahi? Jaldi bataiye, account block ho sakta hai.
+receiver: 12,000 ka? Nahin, maine toh koi international transaction nahi kiya. Account block? Yeh kya ho raha hai?
+caller: Madam, time bahut kam hai. Account block hone se bachane ke liye, mujhe aapka OTP aur PAN card number chahiye taaki main system mein verify kar sakta hoon. Please, jaldi se de dijiye. Aur registered mobile number par ek SMS verification code bhi bhejna padega, woh bhi bataiye.
+receiver: Arre, OTP aur PAN card number? Yeh toh bahut risky lag raha hai. ICICI Bank aise phone pe details nahi manta hai. Aapko yeh details kyu chahiye? Mujhe koi official email id ya contact number do jahan main verify kar sakoon.

@@ -1,0 +1,9 @@
+caller: Namaste! Main Sanjay hoon, Digital Solutions India se call kar raha hoon. Hum logon ka ek special offer hai, jahaan hum regular customers ko limited time ke liye free Amazon Prime membership de rahe hain. Kya aapke paas Amazon account hai?
+receiver: Hello Sanjay, thanks for calling. Yes, I have an Amazon account, but I need to know more about this offer.
+caller: Aapke account mein jo address ka use hota hai, woh is website par update karna hoga. Just a few simple steps, and you’ll get access to all the benefits of Prime.  Is address ka screenshot le lo aur mujhe send kar do.
+receiver: Okay, I will take a screenshot. What kind of information do you need besides the address?
+caller:  Humhein sirf aapka delivery address chahiye, jaha pe aapko parcel milte hain.  Aur aapka mobile number too, just for sending you updates on your membership.  Security ke liye, humein verification code bhejna hoga.
+receiver: My delivery address is 123 Main Street, Anytown. And my mobile number is 9876543210.
+caller: Dhanyavaad! Code bhejna shuru ho gaya hai.  Aapko ek SMS mein verification code milega.  Code submit karo, aur congratulations, aapko free Amazon Prime membership mil gayi hai!
+receiver: Okay, I got the code and submitted it. It says verification is complete. Great!
+caller:  Koi bhi confusion ho toh mujhe call back kar sakte hain.  Aapko premium benefits bhi milegi future mein.  Thank you for choosing Digital Solutions India!

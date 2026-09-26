@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Sharma? I'm calling from IndusInd Bank's security department. We've detected some unusual activity on your account.
+receiver: Unusual activity? What kind of unusual activity? I haven't done anything different.
+caller: Yes, ma'am. There’s been an attempted transaction from a foreign IP address. To secure your account and prevent any unauthorized access, we need to verify your details. Could you please provide your Aadhaar number and the last four digits of your debit card?
+receiver: My Aadhaar number? Over the phone? That sounds incredibly risky. Why can't you just block the card or something?
+caller: Ma'am, time is of the essence. If we don't verify immediately, the fraudulent transaction might go through. It's a standard security protocol. Once we have these details, we'll issue a temporary block and send you an OTP to confirm. Please cooperate, and we’ll resolve this quickly.
+receiver: Temporary block?  Look, I'm not comfortable giving out my Aadhaar and debit card details over the phone. Any reputable bank would never ask for this. I'm going to call IndusInd Bank directly to verify this call. Please don't call me again.
+caller: Ma'am, please don’t be hasty. This is a serious matter. If you don't provide the information now, we might have to freeze your account permanently to protect you. Just a few seconds, ma'am, and this will be sorted.

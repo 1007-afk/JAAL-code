@@ -1,0 +1,8 @@
+caller: Namaste! Main Vijay Sharma, Flipkart Customer Care se baat kar raha hoon. Aapke recent order number FLP789456 mein ek choti si problem hai.
+receiver: Flipkart? Kya problem hai? Mujhe toh koi notification nahin mila.
+caller: Haan ji, delivery ke dauraan package damage ho gaya hai. Lekin, humara team ek special compensation offer kar raha hai, jismein aapko ₹5000 ka Flipkart voucher mil sakta hai.
+receiver: ₹5000 voucher? Package damage hogaya tha? Mein abhi Flipkart app check karta hoon...yeh toh wrong lag raha hai.
+caller: Haan ji, verify karne ke liye, humein aapke bank account details ki zaroorat padegi, jisse voucher aapke account mein transfer ho sake. Sirf verification ke liye, promise!
+receiver: Bank account details? Nahin, main woh share nahi karunga. Yeh toh scam lag raha hai.
+caller: Aapko maaf karna, Sir. Policy ke according, verification mandatory hai. Agar aap share nahi karenge, toh hum compensation offer cancel kar denge.
+receiver: Cancel karo! Main Flipkart customer care se direct baat karunga.

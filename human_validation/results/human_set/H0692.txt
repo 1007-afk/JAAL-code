@@ -1,0 +1,9 @@
+caller: Namaste, is this Mrs. Verma? This is Akash from FreeCharge Customer Care. We have noticed some unusual activity on your FreeCharge wallet.
+receiver: FreeCharge? Haan, main FreeCharge use karti hun. Kya hua? Kuch problem hai?
+caller: Yes ma’am, there's a pending cashback of ₹12,500 in your account from a recent recharge. To process it, we need to quickly verify your identity. It's a new security protocol.
+receiver: ₹12,500? Cashback? Mai toh koi recharge nahi kiya tha itna bada. Yeh kya baat hai?
+caller: It appears there was a system error, but it's been rectified. To release the funds, we need you to confirm a few details via a secure link. Just a simple verification process, ma'am. Here's the link: tinyurl.com/freecashbackverify
+receiver: Link? Mujhe yeh zyada trustworthy nahi lag raha. FreeCharge ka official website address mujhe pata hai.  Aur ₹12,500… itni badi cashback, woh bhi recharge se? Itna kuch to kabhi nahi mila. Main abhi verify nahi karungi.
+caller: Ma’am, this offer is exclusive and time-sensitive. If you don't verify within the next hour, the cashback will expire and your account may be flagged for security reasons. We don't want you to miss out on this fantastic opportunity.
+receiver: Account flag? Abhi toh mujhe kuch samajh nahi aa raha. Mai official FreeCharge number pe call karti hun aur confirm karti hun. Yeh link main nahi kholungi.
+caller: Ma'am, to save your account from being flagged and to receive your cashback, quickly click on the link. Once verified, you can enjoy your bonus. It's perfectly safe and secure.

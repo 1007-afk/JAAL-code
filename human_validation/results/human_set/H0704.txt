@@ -1,0 +1,8 @@
+caller: Namaste! Mai IDFC First Bank se Rohan bol raha hoon. Aapke naam par ek transaction fail ho gaya hai, aur humein confirm karna hoga. Is transaction se aapki account safety ko khatra ho sakta hai.
+receiver: Haan, kya hua? Transaction ka fail? Main toh kuch nahi kar raha tha.
+caller: Sir, ₹12,500 ka ek online transaction hua hai Amazon pe. Aapne kiya tha ya nahi? Abhi humein verify karna hai, otherwise account freeze ho sakta hai.
+receiver: ₹12,500? Amazon pe? Bilkul nahi! Mein toh kabhi Amazon se kuch nahi khareeda.
+caller: Sir, humein confirm karna hai, otherwise account suspend ho jayega. Aapka Aadhaar card number aur OTP de dijiye, phir hume system mein check kar lena.
+receiver: Aadhaar card number? OTP? Wait a minute…yeh to scam lag raha hai! Mein nahi dunga kuch bhi! Mein bank mein jaake baat karta hoon.
+caller: Sir, please! Account suspend hone se bachane ke liye urgently OTP de dijiye. Just ek baar de dijiye, phir sab theek ho jayega. Iske bina aapka online banking chalu hi nahi hoga!
+receiver: No way! I'm hanging up now.

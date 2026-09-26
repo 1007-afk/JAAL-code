@@ -1,0 +1,7 @@
+caller: Namaste, I’m calling from the Directorate of Revenue Intelligence, DRI. We’ve detected an unusual activity linked to your bank account – a large sum of money was transferred overseas from a shell company suspected of involvement in illegal gold smuggling.
+receiver: Illegal gold smuggling? What are you talking about? I don't even deal in gold. Who transferred the money?
+caller: Ji, the amount is ₹12 lakh. It was transferred through a cryptocurrency exchange linked to a known criminal organization. We need to verify your identity and assess your potential involvement, even if unknowingly. Can you please provide your PAN card details for quick verification?
+receiver: PAN card details over the phone? That sounds incredibly risky! Why do you need my PAN card? Can't you verify it through some official database?
+caller: Sir, time is of the essence. Our investigation is ongoing, and we need to act swiftly to prevent further illegal transactions. For your own security, we need to cross-reference your details immediately. Delaying this could lead to further complications and legal action against you. We will need a video call to verify your identity and show you the evidence.
+receiver: A video call? Okay, wait a minute. Let me get my phone ready. But I am recording this call.
+caller: Absolutely sir, you are welcome to do so. Just make sure the video is clear, and you are in a well-lit area. Now, can you confirm your date of birth and mother's maiden name for verification purposes? We just want to clear this up quickly and ensure your financial safety.

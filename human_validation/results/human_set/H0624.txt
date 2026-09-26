@@ -1,0 +1,9 @@
+caller: Namaste! Is this Priya Verma? This is Akash from QuickPost Courier. We’re calling about a parcel addressed to you. It's a high-value item, and there’s been a slight issue with the customs clearance.
+receiver: Oh, really? What’s the issue? I wasn’t expecting anything particularly valuable.
+caller: Yes, ma’am. There's a small discrepancy in the declared value. To release the parcel, we need to verify your identity. Could you please share the OTP you receive on your registered mobile number? It's just a standard security protocol.
+receiver: An OTP? That sounds a bit strange. Why can’t I just go to the local QuickPost office and sort this out?
+caller: Ma’am, due to high volumes, the local offices are overwhelmed. This is a much faster process. We need to confirm you’re the recipient. And there's a small handling fee of ₹250 to cover the expedited processing. Can you confirm the OTP and make the payment through this link I'll send you?
+receiver: ₹250? And an OTP? I’m starting to feel a bit uncomfortable about this. I’ve never had to pay a fee to release a parcel before. Let me check the QuickPost website to see if this is a standard procedure.
+caller: Ma’am, please don't waste time. This is a limited-time offer to resolve the issue quickly.  If you delay, the parcel will be returned to the sender, and you'll lose it. The OTP is essential to confirm you are the one who placed the order and to prevent fraudulent access. Just send the OTP and pay the handling fee. 
+receiver: Okay, hold on a second. Let me call QuickPost customer care and verify this first. I'll call you back.
+Scammer

@@ -1,0 +1,7 @@
+caller: Hello sir/madam, this is Akash from PhonePe support. We've noticed unusual activity on your account and need to verify some details to prevent fraudulent transactions.
+receiver: Okay, what kind of unusual activity? I haven't done anything different.
+caller: Yes sir, there was a failed UPI transaction attempt from a different location. To secure your account, we require you to share your PhonePe UPI PIN for verification. It's a standard security protocol.
+receiver: My UPI PIN? Over the phone? That sounds risky. I've heard about scams where people ask for that.
+caller: Sir, please don't worry. We’re not asking for the full PIN. Just the first four digits will suffice for initial verification. We're just confirming you are the account holder. Think of it as a quick check like a bank does.
+receiver: Alright, fine. The first four digits are 1234.
+caller: Thank you, sir. Now, to complete the verification, we need to send a small test transaction of ₹1 to your linked bank account. Could you please provide the last four digits of your bank account number so we can confirm the transaction details?

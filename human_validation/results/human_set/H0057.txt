@@ -1,0 +1,11 @@
+caller: Namaste! Suno, tumhare naam pe samjho, Rohan. Tumne toh suna hoga Sharma Ji ke business ka? Woh bol rahe hain ki unhone ek surprise offer deka hai, aur tumhari selection hone wali hai! Yeh ek digital wallet campaign hai, aur sirf 10 spots available hain, tum dono mein se ek.
+receiver: Haanji, Sharma Ji ka business… woh digital wallet wala hai, sahi? Aur sirf 10 spots? Wow, okay! Bataiye, ab main kya karna hoo?
+caller: Haanji, Sharma Ji ka business… woh digital wallet wala hai, sahi? Aur sirf 10 spots? Wow, okay! Bataiye, ab main kya karna hoo? \n\nHaanji, bilkul! Sharma Ji ne kaha hai ki humari selection hone ke baad, aapko sirf ek small verification step karna hoga. Ismein aapko apni bank account number aur IFSC code dena hoga. Yeh sirf agar aap genuine user hain, taki hum paisa transfer kar sake. \n\nAapko ek email aaega, usme ek link hoga. Us link par click karte hue form bhar denge.  Yeh process bohot easy hai, just 3-4 minute mein complete ho jaega.  Aapko ₹5000 jeet sakte hain!
+receiver: ₹5000 jeet sakta hoon? Seriously? Okay, bataiye, form mein kya-kya puchhoge?
+caller: Seriously? Haanji, ₹5000 jeet sakta hoon? Okay, bataiye, form mein kya-kya puchhoge? \n\nForm mein aapko apni basic details honge – name, address, mobile number, aur ID proof ka screenshot.  Sharma Ji ne kaha hai ki security ka matlab hai, lekin yeh bilkul legitimate hai.  Agar aapko koi confusion ho, toh mujhe bataiye, main aapki help karne ke liye hoon.  Ab sirf 8 spots bache hain, jaldi karo!
+receiver: Okay, okay, I understand.  I will fill the form now. But what if I don’t get selected?
+caller: Don't worry about that! Sharma Ji ne kaha hai ki har ek participant ko chance milega.  But yaan, competition hai, so jaldi karo.  Ab sirf 7 spots bache hain, hurry up!  Click on the link, fill the form, and see what happens.  Is it clear to you?
+receiver: Yes, clear. I am filling the form now. Thanks!
+caller: Great!  Sharma Ji ne said that once you submit the form, you will receive an SMS confirming your application. And remember, only 6 spots remaining!  Don’t delay, apply now!
+receiver: Okay, I have submitted the form. What's next?
+caller: Congratulations! Sharma Ji wants you to keep an eye on your inbox for further instructions. And just a reminder - only 5 spots left! Go, go, go!

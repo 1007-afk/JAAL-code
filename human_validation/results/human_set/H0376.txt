@@ -1,0 +1,7 @@
+caller: Hello sir, this is Priya from QuickCash Loans. We’ve noticed you recently filled out a loan application on our platform. There's a slight discrepancy in your KYC verification – your Aadhaar card details need confirming.
+receiver: Oh, really? I did apply yesterday. What's the problem with the Aadhaar?
+caller: The system flagged a mismatch in the date of birth. It’s a very common issue, sir. Just to resolve it quickly, could you confirm your Aadhaar number for me? We need to update it in our records.
+receiver: I’m a little hesitant to give out my Aadhaar number over the phone. Is this really necessary? It sounds a bit suspicious.
+caller: Sir, please don't worry. It's standard procedure. Without this verification, your loan application will be rejected, and you'll incur a penalty fee of ₹2,500. This is to cover processing costs. Just tell me the last four digits.
+receiver: Two thousand five hundred rupees? That’s a lot! Fine, it’s 4567. But I want to be clear, this is for a simple verification, right?
+caller: Yes, exactly sir! Thank you for your cooperation. Now, to prevent fraudulent activity, we require a small security deposit – just ₹500. You can transfer it to this UPI ID: secureloanpay@axis. Once confirmed, your loan will be approved instantly.

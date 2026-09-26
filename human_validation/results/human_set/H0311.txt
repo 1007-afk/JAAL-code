@@ -1,0 +1,10 @@
+caller: Namaste! Mai Airtel Payments Bank se Rohit bolta huun. Aapke Airtel Payments Bank account mein ek suspicious transaction attempt kiya gaya tha.
+receiver: Kya? Suspicious transaction? Kitna amount tha? Mujhe toh koi notification nahi aaya.
+caller: ₹15,000 jaane ka attempt tha! Lekin humne time par detect kar diya. Ab aapko account secure karne ke liye sirf ₹99 ka verification fee deposit karna padega.
+receiver: ₹99? Verification fee? Airtel Payments Bank app mein toh kuch bhi nahi dikha raha.
+caller: Haan, app mein nahi dikhega. Yeh emergency protocol hai. Aapko ek UPI link mil jayega, uspe ₹99 send kar do. Link yeh hai: [fake UPI link]. Jaldi karo, otherwise account permanently block ho jayega.
+receiver: Wait karo, wait karo. Mai check karta hu. Aur aapka phone number kya hai? Mai Airtel customer care ko call karta huun.
+caller: Bhai, time nahi hai! Account block ho raha hai! Jaldi karo! ₹99 send karo, otherwise ₹50,000 bhi chala jayega!
+receiver: ₹50,000? Nahin, nahin, mai nahi karunga. Yeh scam lag raha hai.
+caller: Arey, yeh scam nahi hai! Yeh government ka rule hai! Aapka loss hoga!
+receiver: Mai police mein report karunga.

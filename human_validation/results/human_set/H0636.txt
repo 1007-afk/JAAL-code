@@ -1,0 +1,8 @@
+caller: Namaste! This is Priya calling from CryptoGainz Pro. We're seeing a lot of interest in our new AI-powered trading bot, and you've been flagged as a potential high-earner!
+receiver: CryptoGainz Pro? I don’t recall signing up for anything. What’s this about?
+caller: Don’t worry, sir/madam! It’s just a special opportunity. Our bot analyzes the market and makes profitable trades for you – no experience needed. Right now, we're offering a 30% bonus on your initial investment. Minimum investment is just ₹5000.
+receiver: ₹5000? And what kind of returns are we talking about? There are a lot of scams out there, you know.
+caller: Absolutely understand your caution! With our bot, people are seeing returns of 15-20% *per week*! We have a referral link to deposit. It's super easy – just use your UPI or bank transfer.
+receiver: 15-20% per week? That sounds too good to be true. Can I speak to someone who’s already using the bot and seen these returns?
+caller: Of course! We can connect you. But first, to unlock the referral link and get that 30% bonus, you’ll need to complete a small verification deposit of just ₹2000. This activates your account and proves you're serious.
+receiver: Wait a minute… ₹2000 *after* you said the minimum investment was ₹5000? Something doesn't sound right. I think I’ll just do some more research.

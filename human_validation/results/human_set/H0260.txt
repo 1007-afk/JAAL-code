@@ -1,0 +1,8 @@
+caller: Namaste, main Ankit Verma, QuickCash Solutions se bol raha hoon. Aapki financial needs ke bare mein baat karne ke liye call kiya hai. Kya aapko urgent paison ki zarurat hai, sir?
+receiver: Hello, haan, thoda bahut urgent hai. Kya hai?
+caller: Sir, hum QuickCash Solutions mein instant personal loans provide karte hain, koi bhi credit check nahi. Aapko jitne bhi paise chahiye, hum aapko de sakte hain. Kitne paise chahiye the, sir?
+receiver: Actually, mujhe ₹30,000 tak ki loan chahiye thi, ek medical emergency ke liye.
+caller: Theek hai, sir. ₹30,000 aapko aasani se mil jayenge. Lekin, humara ek small processing fee hai, ₹800. Account mein transfer hone se pehle deposit karna padega.
+receiver: ₹800?  Yeh kitna zyada lag raha hai! Loan ke pehle?
+caller: Sir, ye security verification charge hai. Iske bina, hum aapko loan nahi de sakte.  Agar aapko loan chahiye toh isko deposit kardo. Agar aapko loan nahi chahiye toh bataiye.
+receiver: Okay, fine. Account number dedo.

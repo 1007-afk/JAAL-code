@@ -1,0 +1,7 @@
+caller: Hello sir, is this Mr. Verma? Good evening! I'm calling from SecureTrade Investments. We’ve noticed significant trading potential in your portfolio and have a limited-time opportunity for you.
+receiver: SecureTrade? I don’t recall opening an account with you.
+caller: No worries, sir! It’s a referral program. A colleague, Mr. Khanna, recommended you. We’re offering a chance to invest in a new AI-driven crypto mining pool – guaranteed 12% daily returns for 30 days. It’s called NovaChain.
+receiver: 12% daily? That sounds… too good to be true. What’s the initial investment?
+caller: Just a small starting amount, sir. Let’s say 25,000 rupees to start. It's a very low risk, high reward situation. We need the funds transferred to this UPI ID: 7894561230@axisbank.
+receiver: I'm still hesitant. Can you provide some documentation, like a registration certificate or proof of the NovaChain mining pool?
+caller: Absolutely, sir! I'll email you the documents right away. Just confirm the email address you’d like me to use. A small investment now will yield a very big return, trust me. We have limited slots only.

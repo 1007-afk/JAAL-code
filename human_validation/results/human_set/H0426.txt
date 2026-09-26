@@ -1,0 +1,9 @@
+caller: Namaste ji, bahut mazaaq hai! Aapne do ‘SparkleVision’ 4K smart TVs jeete hain! Kya baat hai! Aapka naam pooch sakta hoon?
+receiver: Arre yaar! Shukriya! Mera naam Priya Patel hai. Itni khushi hui, naam bhi bhool gayi thi! Sach mein? Do TVs?
+caller: HaanHaan, Priya ji! Suna hai aap bahut lucky hain aaj! Aapko ye donon TVs lena hai, lekin verification karna hoga. Aapke registered mobile number pe ek OTP gaya hoga, bataiye kya mila?
+receiver: OTP? Jee, ek minute, check karta hoon. 1... 7... 6... 3... 9.
+caller: Excellent, Priya ji! Bahut shukar hai. Yeh OTP verification ke liye tha. Ab, TVs ko claim karne ke liye, ek chota sa GST tax pay karna hoga, yeh delivery aur installation ke liye hai. Aur ek important baat, yeh offer bahut limited hai, aapke liye sirf 4 TVs bache hain! Aapko yeh kaise deliver karna hai, uska address bataiye, please?
+receiver: Tax? Mein toh jeeta hoon, tax kyun deta hai? Aur sirf 4 bache hain? Peeche se do bol rahe the. Address toh… ek minute, mujhe pata karna hai. GST tax kitna hai aur kaise pay karna hai?
+caller: Ji Priya ji, actually pehle toh bohot zyada TVs the, par aapke jaisi lucky winners ne sab claim kar li hain! Aapke liye bas 3 TVs bache hain ab, aur yeh premium collection hai. Delivery aur installation ke liye sirf Rs. 1299 ka GST tax hai. Yeh aapko UPI through app karna hoga, ek secure link bhejoonga. Address bataiye, jahan yeh TVs deliver karne hain?
+receiver: Rs. 1299? UPI? Aur sirf 3 bache hain? Yeh toh pagalpan lag raha hai! Maine toh jeeta hai, toh mujhe hi milne chahiye na? Koi aur mode of payment nahi hai? Aur yeh TV kaunse brand ki hain? Kuch detail toh de dijiye.
+caller: Ji Priya ji, woh to Samsung ke hain! Bahut achhi quality hai. Agar aapko koi problem hogi toh humein contact karna ho ga, humari customer care number hai…

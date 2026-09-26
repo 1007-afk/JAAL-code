@@ -1,0 +1,6 @@
+caller: Namaste, Madam! Main Flipkart Customer Care se Rohit bolta hoon. Aapke account mein ek pending delivery hai, lekin address verify hone mein thodi dikkat aa rahi hai.
+receiver: Oh, really? Kya issue hai? Mujhe toh koi notification nahi aaya. Mera naam Sunita hai.
+caller: Sunita ji, system mein dikh raha hai ki OTP verify nahi hua. Isliye delivery ruk gayi hai. Verify karne ke liye aapko ek OTP mil sakta hai, woh bataiye.
+receiver: OTP? Flipkart kabhi OTP maangta hai? Mujhe toh yehi lag raha hai kuch ghalat hai.
+caller: Sunita ji, security ke liye OTP zaroori hai. Agar aap verify nahi karengi, toh parcel wapas kardo dena padega. Ek baar verify kar lijiye, fir main aapko tracking number de dunga.
+receiver: Theek hai, suniye. Main OTP check kar ke bataungi. Par mujhe aur details do, parcel mein kya hai? Aur woh tracking number bhi bataiye jo aap de sakte ho.

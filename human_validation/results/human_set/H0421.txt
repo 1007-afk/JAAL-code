@@ -1,0 +1,8 @@
+caller: Namaste, this is Inspector Sharma from the Delhi Customs Department. We have intercepted a package registered under your name containing suspicious items.
+receiver: Kya? Package? Mujhe koi package register karne ka koi yaad nahi. Mainne kabhi parcel nahi bheja.
+caller: Sir, the package originated from overseas and is flagged for narcotics and counterfeit currency. We need to verify your involvement to prevent legal repercussions. A fine of ₹25,000 is required to clear the package and close the investigation.
+receiver: ₹25,000? Narcotics? Yeh toh bahut serious allegation hai. Mujhe koi notice ya email aaya hai? Aapka naam aur department ID bataiye.
+caller: Sir, official notices are sent electronically, but there’s been a system glitch. I can’t disclose my ID over the phone for security reasons. To avoid arrest and further investigation, please transfer the ₹25,000 to this UPI ID: customs.clearance@paytm.
+receiver: Arrest? System glitch? Yeh bahut hi shaky lag raha hai. Main koi bhi payment nahi karunga jab tak main Delhi Customs se baat nahi karta. Aapka phone number ek baar aur bataiye, main check karta hoon.
+caller: Sir, delaying the payment will escalate the matter. We're under pressure to resolve this quickly. This is your final chance to cooperate. Pay now to avoid severe consequences.
+receiver: Haan... Okay... Thoda time dijiye, main apne lawyer se baat karta hoon.

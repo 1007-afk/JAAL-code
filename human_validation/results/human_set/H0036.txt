@@ -1,0 +1,7 @@
+caller: Hello, this is Priya from LoanExpress. We’ve reviewed your loan application and it’s almost approved! Just need a final verification step to unlock the ₹50,000. Can you confirm your full name and date of birth for me?
+receiver: Yes, sure. My name is Rajesh Kumar, and my date of birth is 15/08/1985.
+caller: Thank you, Rajesh. To ensure complete security, we require a small refundable processing fee of ₹2,500. This will activate your loan and protect you from fraud. You can send it through UPI to 8765432109@axisbank.
+receiver: Two thousand five hundred rupees? For a loan I was already approved for? That seems a bit odd, doesn’t it? Is this standard procedure?
+caller: It is a one-time security measure, Rajesh. We’ve had a lot of fraudulent applications lately. Once the payment is confirmed, your loan will be instantly disbursed. Think of it as insurance against someone else using your details. We’re doing this to protect you.
+receiver: Okay, but I’m still not completely comfortable. Could you please send me a screenshot of the official LoanExpress website showing this processing fee? Just to be sure.
+caller: Unfortunately, due to our current system upgrade, we can’t provide screenshots at the moment. We want to release your loan as fast as possible. Just trust us, Rajesh. Once you send the ₹2,500, you’ll have your money within minutes. Don't delay, or someone else might apply for the loan first!

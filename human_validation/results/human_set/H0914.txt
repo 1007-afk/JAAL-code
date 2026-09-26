@@ -1,0 +1,7 @@
+caller: Hello, is this Rohit Sharma? We are calling from LoanExpress India. We have pre-approved you for a personal loan of up to ₹30,000! Very quick approval, no credit check needed.
+receiver: Really? That’s great! I do need some money for a medical bill. What do I need to do?
+caller: Wonderful! First, to verify your identity, could you share the last four digits of your Aadhar card and your bank account number? It’s a standard security procedure.
+receiver: Wait a minute. Why do you need my Aadhar number? I’ve heard about scams doing this.
+caller: Sir, don’t worry. This is completely secure. We need it to link your account and disburse the loan immediately. Just those last four digits, please. Also, could you confirm the OTP we just sent to your phone?
+receiver: I didn’t receive any OTP. And I’m not comfortable giving out my Aadhar details over the phone. It feels suspicious. I think I'll just hang up.
+caller: Sir, please don't be hasty! This is a genuine opportunity. If you disconnect now, your loan approval will be cancelled, and you’ll lose the chance.  We can process it instantly, just need that OTP and the last four digits.

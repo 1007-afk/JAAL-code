@@ -1,0 +1,7 @@
+caller: Namaste! I saw your profile on DesiHearts, and I must say, you're very captivating. I’m Rohan, an architect. What are you doing this evening?
+receiver: Namaste Rohan. I’m just relaxing at home, watching a movie. An architect, that’s interesting! What kind of projects do you work on?
+caller: It's a fascinating career! I specialize in designing luxury villas, mostly for clients abroad. Been so busy lately, I barely have time for myself, you know? I was hoping to find someone special to share some nice moments with. What about you, Priya? What do you do?
+receiver: That sounds quite demanding. I work as a teacher, teaching English to high school students. It's fulfilling, but sometimes exhausting. I enjoy reading and cooking in my free time.
+caller: Teaching, wonderful! You must be so patient. Listen, I’m facing a bit of a problem. I’m flying to Mumbai next week for a big project, but my credit card is blocked. Could you possibly send me ₹5000 as a temporary loan? I'll pay you back the moment I get my salary.
+receiver: ₹5000? That’s a lot to lend to someone I just met online. I'm not really comfortable with that, Rohan. I'm sorry.
+caller: Priya, I understand your hesitation, but I'm in a real bind. It’s just for a few days. I really need this to sort things out. I’ll send you photos of my passport and bank statement to prove I’m who I say I am. Please, just this once?

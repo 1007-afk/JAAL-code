@@ -1,0 +1,8 @@
+caller: Hello, Madam! Is this Priya Sharma? I am calling from Global Crypto Investments. We've noticed your trading potential and have an exclusive opportunity for you.
+receiver: Global Crypto Investments? I don't think I've heard of them. What kind of opportunity is this?
+caller: We are offering a chance to earn ₹5000 per day by simply rating mobile apps and completing short surveys. Very easy work, Madam, literally just a few minutes a day. We pay via Paytm, instantly.  First, you need to deposit ₹2500 as a security deposit to unlock the app access.
+receiver: ₹2500? For rating apps? That seems a bit much, doesn’t it? Are you sure this is legitimate?
+caller: Absolutely, Madam! It’s just to ensure you're a serious participant. We need to verify your commitment. This is a limited-time offer, and many others are already earning big. Once you’ve completed a few tasks and earned your first payout, the deposit is returned with your earnings, plus a bonus!  Think of it as an investment in your future income.
+receiver: Hmm, I still don’t know... It sounds too good to be true. Can I see some testimonials or proof of other people earning?
+caller:  Madam, testimonials are readily available on our website, globalcryptoinvestments.net. However, the spaces are filling up fast. Don't miss out on this amazing chance to earn extra money from home! Just send the ₹2500 to the Paytm number 9876543210, and I’ll send you the app link immediately.
+receiver: Okay, I’ll think about it and get back to you.

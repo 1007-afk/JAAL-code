@@ -1,0 +1,13 @@
+caller: Namaste! Kaise haal chal? Yeh mera Digital Rewards Company ka address hai. Aapko ₹50,000 ka lottery prize mila hai aur aapko isko collect karne ke liye call kiya gaya hai.
+receiver: Namaste! Haan, meri taraf se. Lottery prize? Wah! Matlab kitna time hai?
+caller: Bahut achha! Sirf 3 minute bache hain. Aapko humare helpline number 8800-23-45-67 par call karna hai. Iske baad aapko verification ke liye bank details jankari deni hogi.
+receiver: Ok, 3 minute? Fine, mein abhi call karta hoon. Bank details kahan se milegi?
+caller: Aapke profile mein hi sare details hain. Aur agar koi confusion ho toh mujhse poochne mein hechahi nahin. Mein aapki madad karne ke liye hoon.
+receiver: Theek hai. Helpline number 8800-23-45-67? Mein woh number check kar raha hoon.
+caller: Yes, exactly! Just 2 minute remaining. Agar koi bhi problem aaye toh mujhe bina delay ke batana. Mein aapki prize ko deliver karne ke liye taiyaar hoon.
+receiver: 2 minute? Arrey yaar! Main abhi call kar raha hoon. Agar uthaaya toh good, nahi toh...  Aapko kaise pata chala ki mai lottery lagta hu?
+caller:  Koi baat nahi! Important hai sirf prize collect karna. Aapko jitni zaruri bank details dein.  Jaldi karo!
+receiver:  Okay, mein abhi call kar raha hoon. Thoda nervous bhi ho raha hun.
+caller:  Relax! Mein aapki madad karne ke liye hoon.  Mein aapko assure karta hun ki aapka prize safe rahega.  Just one minute left!
+receiver: One minute? Okay, mein abhi utha raha hoon!  Main bank details deta hun.
+caller:  Excellent! Thank you very much.  Agar koi bhi question ho toh mujhe call karte rehna.  Aapka prize jaldi se deliver hone wali hai!

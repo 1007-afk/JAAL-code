@@ -1,0 +1,8 @@
+caller: Namaste, mai hu Rahul Verma, Indian Customs Department se. Aapke naam par ek parcel aaya hai Gujarat se, jismein illegal items paye gaye hain. Case number is IND-445892.
+receiver: Illegal items? Mujhe to koi parcel yaad nahi. Main Gujarat mein kabhi parcel nahi bheja. Yeh kya ho raha hai?
+caller: Madam, parcel track ho raha hai, lekin sender ka naam confidential rakha gaya hai. Isi liye aapko call kar rahe hain. Aapko parcel release karne ke liye ₹8,500 ka fine bharvana padega. Thode se paise hain, lekin aapko legal trouble se bachna hai.
+receiver: ₹8,500? Aur parcel Gujarat se aaya hai? Main toh Delhi mein rehti hu.  Tumhara department Gujarat mein contact karein, mujhe kyun disturb kar rahe ho? Koi receipt ya document bhi nahi dikhate?
+caller: Madam, yeh protocol hai. Direct contact karne se security risk badhti hai. Aapko online payment karna hoga, payment link main aapko bhej doonga. Jab payment verify ho jayega, parcel aapke address par dispatch ho jayega. Aapko koi receipt nahi milegi, system mein record hai.
+receiver: Online payment? Nahin, main koi bhi payment nahi karungi. Tumhara call mujhe fake lag raha hai. Main cybercrime cell mein complaint karungi agar tumne mujhe aur disturb kiya.
+caller: Madam, please! Yeh last chance hai. Agar aap payment nahi karenge, toh humko case escalate karna padega, aur aapko court mein bhi jaana padega. ₹8,500 bahut kam hai, is case mein serious consequences ho sakti hain. Please, fast action lo.
+receiver: Bilkul nahi. Tumhara number block kar rahi hu. Aur main cyber cell ko report karungi.

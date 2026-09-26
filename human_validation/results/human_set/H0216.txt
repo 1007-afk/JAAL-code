@@ -1,0 +1,9 @@
+caller: Namaste! Main Ankit, LoanExpress se baat kar raha hoon. Aapka recent online form dekhne ke baad, hume lagta hai aap ek personal loan ke liye eligible hain. Kitni amount chahiye aapko?
+receiver: Hello, LoanExpress? Kitna interest rate hoga? Aur processing fees kitna lega?
+caller: Sir, LoanExpress mein interest rate bahut low hai, sirf 9% per annum. Processing fees sirf 500 rupay hai. Yeh offer sirf limited time ke liye hai. Aapka PAN card aur bank statement ready hai na?
+receiver: Haan toh, ready hai. Lekin mujhe loan amount kitna mil sakta hai? Mujhe urgent 20,000 rupay chahiye.
+caller: Bilkul! Aapko 20,000 rupay mil jayenge. Sirf ek verification ke liye aapka OTP bataiye. OTP aapke mobile number par ayega.
+receiver: The OTP is 123456. Ab kya karna hai?
+caller: Thank you! Sir, loan approved ho gaya hai. Lekin, sir, aapse ek chhoti si request hai. Loan amount activate karne ke liye, aapko sirf 2000 rupay advance security deposit ke taur pe jama karne honge.
+receiver: 2000 rupay? Lekin tune toh bola tha sirf 500 rupay fees hai!
+caller: Sir, rules change hote hain. Agar aap 2000 rupay jama kar denge, toh loan aapke account mein 10 minute mein transfer ho jayega. Trust me, sir. Otherwise, loan cancel ho jayega.

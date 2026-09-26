@@ -1,0 +1,6 @@
+caller: Namaste! I'm Vikram from 'Eternal Hearts'. We’ve detected unusually high activity on your profile - someone’s been staring at your photos for hours. They’re shy, and asked us to reach out discreetly. Interested in knowing who? Just send ‘CHECK’ to 7788990011, it’s only ₹75 per message. If you're not, simply reply 'STOP'. Kya bolte ho?
+receiver: Eternal Hearts? Really? This is a bit weird. Someone staring at my photos? Who would be so shy? ₹75 just to find out? Sounds like a waste of money.
+caller: Haan, beta, I understand it seems a little strange. But imagine, it could be someone special! A soulmate perhaps? Don't miss this opportunity - chances like these are rare! Just send ‘CHECK’ to 7788990011. Only ₹75, and you might be surprised.
+receiver: Ugh, fine. Okay, I’ll send the message. But if this is some random person trying to scam me, I'm reporting you. Send CHECK.
+caller: Excellent choice! Now, to verify your interest and prevent bots, please share your favourite childhood memory in just a few words. This confirms you’re a genuine person looking for connection.
+receiver: Seriously? A childhood memory? This is getting ridiculous. My favourite memory was building sandcastles with my grandfather at Juhu beach. Happy now?

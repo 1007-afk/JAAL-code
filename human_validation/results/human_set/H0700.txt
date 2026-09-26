@@ -1,0 +1,8 @@
+caller: Hello? Sir, this is Inspector Verma from the Directorate of Revenue Intelligence. We're investigating a potential case of illegal import and money laundering linked to your IP address.
+receiver: Directorate of Revenue Intelligence? Yeh kya baat kar rahe hain aap? Main toh bas internet pe browsing kar raha tha.
+caller: Sir, our cyber forensics team has detected suspicious transactions originating from your network. It appears a package containing undeclared goods was shipped under your registered address. This is a serious matter, sir. To avoid legal proceedings and potential asset seizure, we need you to cooperate.
+receiver: Package? Mere address pe? Main toh kabhi package nahi liya, aur main aise illegal kaamo mein nahi sambandhit hoon.
+caller: Sir, we need to verify your details urgently. We have evidence, but to finalize the investigation and prevent further complications, we require a small processing fee of ₹7,500 to cover investigation costs and administrative charges.  We'll need it immediately to show good faith.
+receiver: ₹7,500? Sir, yeh toh scam lag raha hai. Main police mein report karunga agar aapne mujhe disturb karna chhod diya. Main kisi bhi tarah ka payment nahi karunga.
+caller: Sir, please don’t be hasty. This is about protecting your assets and avoiding arrest. We can’t risk jeopardizing the investigation. We are offering a one-time opportunity to resolve this quickly and discreetly. Just send the payment to this UPI ID: 9876543210@ybl. 
+receiver: UPI ID? Sir, yeh toh seedha scam hai! Main abhi police ko call karta hoon aur apni details report karta hoon. Tumhara number block!

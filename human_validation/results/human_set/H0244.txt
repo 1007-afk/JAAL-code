@@ -1,0 +1,8 @@
+caller: Hello, is this Mr. Sharma? This is Inspector Verma from the Delhi Customs Department. We’ve intercepted a parcel at the airport containing suspicious items linked to your name and address.
+receiver: Kya? Parcel? Mere naam se? Main toh kabhi parcel nahi bheja. Yeh kya bol rahe hain aap?
+caller: Sir, it appears a parcel was sent under your name with undeclared goods. We need you to clear this immediately to avoid legal complications and potential arrest. There's a fine of ₹18,500 to be paid via UPI.
+receiver: ₹18,500? Lekin main toh kuch bheja hi nahi hai! Yeh toh galat lag raha hai. Kaise parcel mere naam se bhej sakte hain?
+caller: Sir, we’ve already verified the details with the courier company. To expedite the release, please use this UPI ID: 876543210. We’ll need confirmation of payment.  Time is of the essence sir, to avoid further action.
+receiver: Wait a minute. ₹18,500? I’ll just quickly check with the courier company myself. Give me a moment. What’s your official contact number, please?
+caller: Sir, checking is not necessary. We are extremely busy. Just pay the fine and we will release your parcel, it is simple. The UPI ID is 876543210. Don’t waste any more time, Mr. Sharma.
+receiver: Okay, hold on... I am calling my son, he is a lawyer. I will not pay anything before I crosscheck everything.

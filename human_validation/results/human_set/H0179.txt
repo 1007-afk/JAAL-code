@@ -1,0 +1,6 @@
+caller: Hello, this is Raj from BlueDart Courier. We attempted delivery of a parcel addressed to you today, but the address was unclear. Could you please confirm your address and mobile number for verification? The tracking ID is ZY789QRS.
+receiver: Hello? Haan, BlueDart ka number hai? ZY789QRS? Let me check...yes, I think I remember ordering something. What's the issue with the address?
+caller: Yes, sir/madam. There seems to be a slight discrepancy. Our system indicates a potential delivery charge of ₹350 is due for re-routing. Could you please confirm payment through a secure link to avoid the parcel being returned to sender?
+receiver: ₹350? I didn't expect any extra charges. I thought delivery was free. Could you send me a picture of the parcel so I can verify it first?
+caller: Certainly, sir/madam. However, for security purposes, before I can send you the image, could you please provide the OTP you received on your registered mobile number to verify your identity? It’s a standard procedure for all BlueDart payments.
+receiver: OTP? Why do I need to give you an OTP for a picture? That sounds a bit fishy, doesn't it? I'll just check the BlueDart website directly.

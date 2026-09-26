@@ -1,0 +1,9 @@
+caller: Namaste sir, main Bharat Telecom se Rahul bol raha hoon. Aapki mobile internet band ho rahi hai kyunki aapke account mein paisa nahi hai. Agar aap aaj same time tak paisa deposit kar dete hain, toh aapki internet band hone se bach jaayegi.
+receiver: Oho! Yeh toh achha nahi hai. Kya aap mujhe apne account balance bata sakte hain, please? Aur aapne paisa kaise deposit karna hai?
+caller: Ji sir, mera naam Rahul hai. Account balance ₹1500 hai. Paisa deposit karne ke liye aap UPI ID se transfer kar sakte hain - rahul.kumar@ubicash.com.  Agar aap aaj raat 8 baje ₹2000 deposit kar dete hain, toh aapki internet band hone ki problem solve ho jayegi.
+receiver: Arre Rahul ji, thanks for the information. So, if I deposit ₹2000 today by 8 pm, my internet will stay active? But what if I deposit less than that amount?
+caller: Sir, aapko minimum ₹2000 deposit karna hoga, warna aapki internet band ho jayegi. Isme koi compromise nahi kar sakte.  Aapko abhi hi payment karna hai, otherwise aapka data loss ho sakta hai.  Aapko koi aur question hai?
+receiver: Okay, so just to clarify, I absolutely have to deposit at least ₹2000 by 8 pm tonight, no exceptions? And what happens if I don’t pay?
+caller: Haan sir, exactly.  Aapko abhi hi payment karna hai, warna aapka data loss ho sakta hai.  Hum log aapko reminder bhi bhejenge.  Aapko koi aur query nahi hona chahiye.  Aapki SIM ka number kya hai, please?
+receiver: My mobile number is 87654YYYYY.  I am using this SIM under the name of Priya Sharma.  Please confirm these details.  I'll check my UPI app right away.
+caller: Ji Priya ji, Priya Sharma naam aur 87654YYYYY number confirm hua.  Verification complete!  Aapki internet band hone ki alert band ho gayi hai.  Aapko kisi bhi time internet use karna shuru ho sakte hain.

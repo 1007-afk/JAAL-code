@@ -1,0 +1,11 @@
+caller: Namaste, sir/madam. You’ve reached DigiConnect. Just checking if you’re available for a quick update on your internet speed. We noticed a slight dip recently, and we want to ensure you're getting the full benefit of your JioFiber connection.
+receiver: Namaste. Haan, bolna. Kya hua? Internet slow agra mein?
+caller: Exactly! That’s what we’re seeing. We've identified a potential issue with your router, and we're offering a complimentary upgrade to our latest SmartRouter Pro. It boosts speeds by up to 30%, guaranteed! Plus, we're throwing in a free portable power bank - 10000mAh - for added convenience.
+receiver: 30 percent? Interesting. Toh ye router kaise hoga? Aur power bank kitni cost ka hoga?
+caller: The SmartRouter Pro is sleek, modern design, very easy to set up. It just plugs in and works! And the power bank… well, it’s completely free, valued at ₹2000! We only have a limited number of these upgrades available, maybe around 6 left. So, let’s get this sorted for you today. Would you like me to schedule an installation?
+receiver: 6 bache hain? Okay. Fir ye router, woh kis brand ka hai? Aur power bank ka battery life kitna hoga?
+caller: It's a domestic brand, known for reliability, called ‘TechStream’. The power bank has a huge capacity - 10000mAh, enough to charge your phone multiple times. We’re practically giving this whole package away! There are only 4 slots remaining, sir. Let's make sure you don't miss out. Should I book it for you?
+receiver: 10000mAh? Wow! TechStream... never heard of them. But, 10000mAh power bank toh bahut kaam acha karega. Fir ye upgrade karne ke baad internet speed badhega?
+caller: Absolutely! Once installed, you’ll see a noticeable improvement. We’re talking consistent speeds, faster downloads, smoother streaming. And remember, the SmartRouter Pro guarantees a 30% speed boost. Don't delay, there are only 2 left! Are you ready to secure yours?
+receiver: Secure karna? Matlab, mujhe kuchh payment karna hoga?
+caller: No payment required, sir! This is entirely complimentary as a gesture of goodwill. Just need to confirm your address and a quick verification process. Let’s proceed then, shall we?

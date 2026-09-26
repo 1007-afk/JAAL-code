@@ -1,0 +1,7 @@
+caller: Namaste! Main Rohan bolta hoon, Blue Streak Logistics se. Aapke Flipkart order number FLP7892345 ke regarding ek chhoti si problem hai.
+receiver: Hello, Rohan. What's the problem with my order?
+caller: Delivery address mein ek confusion hai, sir. System mein ek extra character dikh raha hai.  Security ke liye, mujhe aapka OTP verify karna hoga.
+receiver: OTP? Why do you need my OTP for a delivery issue? That doesn’t sound right.
+caller: Haan sir, ye standard procedure hai.  Agar OTP verify nahi hua toh parcel deliver nahi kar payenge.  Yeh aapka OTP hai 123456. Please confirm karein.
+receiver: I'm not giving you my OTP. I'll call Flipkart directly to check on my order.
+caller: Sir, jaldi karein! Parcel kal tak ruk jayega, aur delivery charges apply honge agar verification nahi hoti. Please help us help you get your order!

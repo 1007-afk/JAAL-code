@@ -1,0 +1,7 @@
+caller: Namaste! Yeh Ankit se baat ho rahi hai, Flipkart se. Aapke Flipkart account mein ek pending payment hai ₹750 ka. Payment confirm karne ke liye, aapko ek OTP aur bank account number chahiye.
+receiver: Arey yaar? Mere Flipkart account mein? Mujhe toh koi notification nahi aaya.
+caller: Sir, technical issue hai. System se automatic notification nahi gaya. Aapko sirf OTP enter karna hai, aur bank account number bhi bata dena taaki payment process ho sake. Koi tension nahi hai.
+receiver: Bank account number bata dena? Yeh thoda risky toh lag raha hai, sir. Flipkart aise nahi poochta hoga.
+caller: Sir, ye security protocol hai. Payment confirm karne ke liye kuch details zaroori hai.  Aapko ₹750 ka refund milega jab hi payment confirm ho jayega.  Jaldi karna please, offer limited time ke liye hai.
+receiver: Okay… I’m a little worried, but fine. Let me check something first.
+caller: Ji ji, sir. OTP milega aapko message pe, jald se jald enter kar de, then account number batao. Bilkul safe hai!

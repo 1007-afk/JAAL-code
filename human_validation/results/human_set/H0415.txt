@@ -1,0 +1,8 @@
+caller: Namaste! Main LoanKing se Rahul bol raha hoon. Aapko urgent loan ki zaroorat hai kya? ₹50,000 se ₹3,00,000 tak, bina credit check ke! Aaiye, bataiye aapka naam kya hai?
+receiver: Haan, main Neha Sharma hoon. Loan ke baare mein bataiye. Mujhe ₹80,000 tak ka loan chahiye tha, lekin abhi main soch rahi hoon.
+caller: Bahut achhi Neha Sharma ji! ₹80,000 toh badi amount hai, lekin aapki profile dekhi toh positive lag rahi hai. Aapka kaam kya hai? Aur aap kitne saal se is field mein hain?
+receiver: Main ek boutique chalaati hoon, last 5 saalon se. Business thoda slow ho gaya hai, isliye loan chahiye tha.
+caller: Excellent! Neha ji, toh aapko loan approve karne mein mujhe koi problem nahi ho rahi. Par ek chota sa verification process hai. Aapko ₹5,000 processing fee bharne hogi, sirf insurance ke liye. Iska payment UPI se karo, main aapko detail send karta hoon. Jab fee clear ho jayegi, toh ₹80,000 aapke account mein transfer ho jayenge.
+receiver: ₹5,000? Loan milne se pehle fee bharne hogi? Yeh toh thoda funny lag raha hai.
+caller: Neha ji, yeh standard procedure hai. Yeh fee sirf LoanKing ke liye hai, aur isse aapki application safe ho jayegi. Trust me! Abhi pay karo, aur main aapko UPI ID send karta hoon. Mat late karo, offer limited time ke liye hi hai! Abhi rupaye send karo.
+receiver: Wait, mujhe sochtein hoon. Main baad mein call karti hoon.

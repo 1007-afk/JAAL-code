@@ -1,0 +1,7 @@
+caller: Hello, is this Raj Patel? I’m calling from FastCash Solutions. We saw your application online for a personal loan, and it looks promising! Just need to verify a couple of details quickly.
+receiver: FastCash Solutions? I don’t recall applying for a loan. I've been pretty busy lately. Are you sure you have the right person?
+caller: Yes, sir. Raj Patel, correct? We have your Aadhaar number here. For security reasons, we just need you to pay a small processing fee of ₹80 to activate the loan. It will be credited back to you once the loan is disbursed.
+receiver: Wait a minute. Pay a fee *before* getting a loan? That doesn't sound right. Legitimate loan companies don't do that. Could you tell me more about FastCash Solutions? What’s your registration number?
+caller: Sir, this is standard procedure to prevent fraudulent applications. We are registered with the RBI. The reference number for your loan is FC12345. You can verify on our website – it’s FastCashSolutions.in. Don't delay, sir; these offers are time-sensitive.
+receiver: FastCashSolutions.in? I’m not clicking on any links from unknown sources. This is a scam, isn't it? I’m reporting this number.
+caller: Sir, please, don’t be hasty. You're missing out on a great opportunity to resolve your financial situation. Just a quick payment of ₹80, and the ₹50,000 loan is yours. Think about it, sir!

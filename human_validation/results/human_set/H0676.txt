@@ -1,0 +1,8 @@
+caller: Namaste Madam, mai ICICI Bank se Rahul bol raha hoon. Aapki ICICI Bank account security update ke liye call kiya hai.
+receiver: ICICI Bank se? Kaunsa update? Mujhe koi message nahi aaya tha.
+caller: Madam, ek suspicious transaction detect hua hai aapke account mein. Ek online shopping site par ₹7,500 ka transaction attempt kiya gaya hai. Aapne kiya tha yeh?
+receiver: ₹7,500? Nahi, maine kuch bhi nahi kiya! Yeh toh fraud hai.
+caller: Madam, yeh serious matter hai. Account secure karne ke liye, mujhe aapka OTP aur PAN card number chahiye hoga, taaki main account lock kar sakoon aur further transactions block kar sakoon. Jaldi kijiye, otherwise account suspend ho sakta hai.
+receiver: OTP aur PAN number phone pe? Yeh toh risky hai! Main branch mein jaake verify karunga.
+caller: Madam, branch mein line lagenge aur time bhi waste hoga. Just 3 minutes ka kaam hai. Main aapko ek secure link SMS karunga. Wahaan aap details fill karein. Please, urgent hai.
+receiver: SMS link? Mujhe koi assurance nahi hai. Mai call cut kar raha hoon.

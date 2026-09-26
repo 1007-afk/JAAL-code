@@ -1,0 +1,8 @@
+caller: Hello, this is Akash from Swiggy Customer Care. We’ve noticed an unusual transaction on your account, a payment of ₹799 for an order you didn't place.
+receiver: ₹799? What? I definitely didn’t order anything for that much. I usually just order chai and samosas.
+caller: Yes, it appears a large order was placed using your Swiggy account and delivered to an address in Mumbai. To secure your account and prevent further fraudulent activity, we need to verify some details. Could you please tell me the OTP you just received on your registered mobile number?
+receiver: OTP? Wait a minute… Swiggy never asks for OTPs over the phone. This seems suspicious. Can you give me a reference number for this call?
+caller: Absolutely! Our reference number is SWG-87654. We understand your concern, and we’re here to help. Just provide the OTP, and we'll immediately flag the fraudulent order and refund your money. Without the OTP, we cannot proceed with the verification.
+receiver: No, I'm not giving you any OTP. I'm going to call Swiggy's official customer care number myself to confirm this. Thank you.
+caller: I'm sorry, ma'am, but if you don't provide the OTP right now, your account will be temporarily blocked for security reasons. We need to act fast to resolve this.
+receiver: Blocked? That’s ridiculous. You’re trying to scam me. Goodbye.

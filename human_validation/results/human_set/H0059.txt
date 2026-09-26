@@ -1,0 +1,8 @@
+caller: ain BSNL customer care se bol raha hoon. Aapka SIM card 23 ghante mein band ho jayega. Kya aap ise activate karwana chah
+receiver: Haanji, BSNL se? Arey, ye kaisa baat kar rahe hain aap? Mera SIM card band ho jayega? Yeh toh galat hai. Koi problem nahi hai mere side se toh. Aap check karein kya error hai?
+caller: Sir, please don't worry. Hum check kar rahe hain. Aapse kuch details chahiye hongi taaki hum verify kar sakein. Aapka full name aur registration mobile number bataiye please?
+receiver: Haanji, mera naam hai Rahul Sharma. Aur mera registration mobile number hai 9876543210. Aap bataiye, kya problem hai ye?
+caller: Thank you Rahul ji. Aapka number 9876543210, right? Sir, kuch technical issue aa raha hai hamare system mein. Isliye aapka SIM card automatically deactivate hone wala hai. Hum isko abhi hi fix kar sakte hain. Bas aapko ek OTP verify karna hoga. Kya aapko OTP mila hai?
+receiver: OTP? Kaisa OTP? Mujhe toh koi OTP nahi mila abhi tak. Aap ye kya bol rahe hain? Phone pe koi OTP bhej diya hai kya aapne? Ye sab kya ho raha hai?
+caller: r, don't worry. Woh OTP aapke registered email ID pe gaya hoga. Humare system mein woh automated process hai. Kindly woh OTP bataiye taaki hum SIM activate kar sakein. Please sir, time bahot kam hai.
+receiver: Email pe? Arey, mera email ID toh aapke paas registered hoga na? Mujhe email check karna padega abhi. Yeh sab itna confusing kyu hai? Main abhi email check karta hoon aur agar OTP mila toh bataunga. Please thoda wait karein.

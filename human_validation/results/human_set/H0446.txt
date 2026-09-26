@@ -1,0 +1,10 @@
+caller: Namaste, sir. This is Priya Sharma calling from Axis Bank’s KYC compliance department.
+receiver: Haan, bolo. Kya baat hai?
+caller: Sir, your Axis Bank account is flagged for temporary suspension due to incomplete KYC documentation. To avoid this, we urgently need to verify some details. Can you please provide your Aadhaar number for verification?
+receiver: Aadhaar number phone pe? Theek nahi lagta. What’s the hurry? Why can’t I do this online or at the branch?
+caller: Sir, there's been a sudden surge in fraudulent activities, and we’re prioritizing immediate verification to protect all our customers. It’s a security measure. If you don't provide the Aadhaar number within the next 15 minutes, your account will be frozen.  We can also send an OTP to your registered mobile number if that’s easier for you.
+receiver: OTP? Okay, send the OTP then. But please, quickly. Main phone par busy hoon.
+caller: Certainly, sir. The OTP is 872945. Please confirm this is received on your registered mobile number. Once confirmed, we'll guide you through the remaining steps to complete your KYC update.
+receiver: Haan, OTP mila. 872945.  But which branch are you calling from? I want to verify.
+caller: Sir, I’m calling from our central verification unit. It’s not branch-specific. To proceed with unlocking your account, I need to ask for the last four digits of your debit card. It’s a standard protocol.
+receiver: Debit card details bhi? Sirf OTP se nahi ho jayega? I am getting a very bad feeling about this.

@@ -1,0 +1,8 @@
+caller: Hello! Fantastic news! You’ve been selected for a chance to win a ‘Golden Rewards’ MEGA PRIZE – 750 rupees worth of authentic ‘Golden Rewards’ gift cards! To claim your prize, simply reply with ‘GOLD’ to 77777 and confirm your mobile number. More details can be found at www.golden-rewards.in.  Ready to see if you’re lucky?
+receiver: Hello! Seriously? 750 rupees in Golden Rewards gift cards? That’s incredible! I just need to text ‘GOLD’ to 77777 and give them my number, correct? And the website has more information, right? www.golden-rewards.in? Let’s do it!
+caller: Wonderful! Now, let’s get started with a few quick questions. First up: What’s your favorite Indian food dish? Don’t worry, this is just to tailor your reward if you happen to win!
+receiver: Okay, first question! My favorite Indian food… Definitely Butter Chicken. It’s so creamy and delicious.
+caller: Butter Chicken, superb! Many of our lucky recipients enjoy that particular dish. Moving onto the next question.  What’s your most recent purchase online?  Just something small, like a book or gadget.
+receiver: Most recent purchase? Let me think… I recently bought a new Bluetooth speaker online. It was quite affordable, aur uske sound quality bhi achchhe hain.
+caller: A Bluetooth speaker, great! Almost done! Finally, if you could travel anywhere in India, where would you go? Any place, big or small.
+receiver: Anywhere in India? Wow, that’s tough. If I had to pick one, I’d choose Goa. The beaches are beautiful, aur nightlife bhi bahut exciting hota hai.

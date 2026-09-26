@@ -1,0 +1,8 @@
+caller: Hello, this is Inspector Sharma calling from the Delhi Customs Department. We've intercepted a parcel linked to your name containing suspected contraband. It appears to be flagged for illegal items being shipped internationally.
+receiver: Customs? Illegal items? Yeh kya bol rahe hain aap? Main toh kabhi parcel nahi bheja.
+caller: Sir, the tracking information clearly shows it was sent from a Bangalore address. We need you to verify some details and pay a small processing fee of ₹7,500 to clear the parcel and avoid legal action. We’re initiating a virtual hearing via video call.
+receiver: ₹7,500? Virtual hearing? Kaise? Aur woh parcel maine nahi bheja. Batao, address kya hai?
+caller: Sir, please don’t argue. This is a serious matter. We have the address and supporting documents. To expedite the process and prevent arrest, we need the fee. We’ll be connecting you to our verification officer via Google Meet – the link is 555-123-4567. Please join immediately.
+receiver: Google Meet? Arrest? Yeh toh scam lag raha hai! Main koi fee nahi dene wala. Mujhe koi proof dikhao, koi reference number do.
+caller: Sir, time is of the essence. Delaying will only worsen the situation. This is not a scam; it's a formal legal procedure. The verification officer will present you with the evidence. The link is 555-123-4567. Please join now and resolve this quickly.
+receiver: Okay, theek hai. Main dekh leta hoon. Par agar yeh fraud nikla toh main report karunga. Mujhe link send karo.

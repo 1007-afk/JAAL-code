@@ -1,0 +1,8 @@
+caller: Namaste! Madam, mein Aarti Finance se baat kar rahi hoon. Aapke naam par ek personal loan approval aaya hai, ₹75,000 tak. Bahut hi easy terms aur minimal interest.
+receiver: Oh, really? ₹75,000? Woh bhi? Mujhe toh loan approve hi nahi hota.
+caller: Haan madam, aapki credit score achchi hai. Lekin process complete karne ke liye, ek small verification fee bharne hogi, sirf ₹3,500. Refundable hai, obviously. Account details mein message send karungi.
+receiver: ₹3,500? Phir bhi, woh bhi kaafi hai. Aur woh refund hoga? Main pakka puchhti hoon.
+caller: Haan madam, pakka refund hoga. Koi doubt nahi. Jaldi karo, offer limited time ke liye hai. Agar aap delay karte ho, toh offer expire ho sakta hai. Ek baar fee bhar do, paise aapke account mein jaldi deposit ho jayenge.
+receiver: Okay, thehn send me the account details. Par agar refund nahi hua toh?
+caller: Madam, aapko koi tension lene ki zaroorat nahi hai. Refund definitely hoga. Abhi details send kar rahi hoon. Aur listen, jab paise deposit ho jaaye toh mujhe ek message karo, ok?
+receiver: Theek hai.

@@ -1,0 +1,7 @@
+caller: Namaste! Bharat Petroleum se call hai. Aapke Bharat Petroleum pump se ₹5000 ka transaction hua hai UPI se, jo aapko pata nahi.
+receiver: Arre yaar, ₹5000? Main Bharat Petroleum pe kabhi transaction nahi kiya.
+caller: Ji, sir. Ek online fraud hua hai. Aapko apna bank account secure karna hai. ₹1000 ke processing fee bhar den, hum block kar denge. Paytm ya GPay dono se ho jayega.
+receiver: ₹1000? Processing fee? Bharat Petroleum toh free mein block karta hoga.
+caller: Sir, yeh emergency hai. Fraudsters ne aapka account compromise kar liya hai. ₹1000 fee bhar den, otherwise yeh transaction permanent ho jayega aur account hack ho jayega. Jaldi karo!
+receiver: Theek hai, theek hai. ₹1000 Paytm pe send kar deta hoon. Lekin mujhe OTP nahi dena hai. Number check kar lo.
+caller: Ji, sir. ₹1000 send kar den. OTP aapko phone pe aaega, woh humein send kar den. Jaldi kar bhai, bahut sare cases aaye hain aaj kal.

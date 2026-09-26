@@ -1,0 +1,9 @@
+caller: Hello priya! My name is Akash. I saw your profile on "MeetCute" and you're absolutely stunning. I was wondering if you’d like to chat a bit?
+receiver: Hi Akash! Thank you. You’re quite charming too. What do you do?
+caller: I work in IT, mostly remote, which is nice. It gives me time to appreciate beauty like you. I’m planning a trip to Goa next month - it’s always so peaceful there. I'd love to share some photos with you later. Just a quick question – are you doing okay financially? No pressure, just curious.
+receiver: Goa sounds lovely! And yes, I’m managing alright, thank you. Why do you ask?
+caller: Great to hear! Listen, this is a bit awkward to bring up, but my sister is in a tricky situation. She needs a small loan urgently - just ₹25,000 - for an important medical procedure. I'm trying to help her, but I'm a bit short myself. I’ll pay you back double within a week, I promise. Think of it as a small investment.
+receiver: ₹25,000? That's a lot to ask from someone we just met. And double? It sounds risky, Akash. I don’t think I can do that.
+caller: Please, priya. My sister really needs my help. It’s a matter of her health. I’m sending you a picture of her right now; you’ll see how serious this is. I really believe in our connection and I wouldn't ask if it wasn't urgent. Just this one time.
+receiver: I'm not sure about this, Akash. I think I need to think about it. I’m going to do some research.
+caller: Priya, please

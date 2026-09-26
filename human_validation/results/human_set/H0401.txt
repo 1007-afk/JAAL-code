@@ -1,0 +1,8 @@
+caller: Hello sir, kya aapka ATM card validity aaj khatam ho rahi hai? Please, aapka card on rakhiye.
+receiver: Haanji, mere haath mein hi hai. Kya ho gaya?
+caller: Achha sir, yeh suniye. Aapka ATM card jo hai na, uski validity aaj raat ko khatam ho jayegi. Agar aap abhi card on nahi rakhenge, toh transaction mein problem ho sakti hai. Aapka card abhi activate hi rahega, theek hai?
+receiver: Haanji, bilkul card mere paas hai. Toh kya karna hoga ab?
+caller: Sir, aapko koi bhi detail share karne ki zarurat nahi hai. Hum sirf yeh confirm kar rahe hain ki aapka card active rahe. Kya aapko koi alert mila hai is regards mein?
+receiver: Alert? Haanji, actually mujhe ek message aaya tha par maine uspar dhyan nahi diya. Aap kaun bol rahe hain, bank se?
+caller: Haanji sir, main bank se bol raha hoon.  Yeh message isliye aaya hai taaki aapka card activate rahe aur aapko koi bhi problem na ho.  Basically, hum yeh confirm kar rahe hain ki card active hai. Aap card ko off toh nahi kar rahe na abhi?
+receiver: Nahi nahi, card toh mere paas hi hai. Off toh nahi kiya. Toh matlab mera card abhi bhi chalega na?

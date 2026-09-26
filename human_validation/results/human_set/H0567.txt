@@ -1,0 +1,10 @@
+caller: Namaste, mai Amazon se Deepika bol rahi hun. Aapko ek achha cashback offer mila hai!
+receiver: Amazon? Cashback? Kya offer hai?
+caller: Aapke Amazon Pay Wallet mein ₹1000 cashback mil raha hai, sirf Amazon ki koi bhi product purchase karne par.
+receiver: ₹1000 cashback? Woh kaise?
+caller: Yeh offer sirf limited time ke liye hai. Verify karne ke liye, aapko apna Amazon Pay wallet OTP dena hoga.
+receiver: OTP? Haan, woh dangerous lag raha hai. Amazon kabhi OTP maangta nahi.
+caller: Arre, security ke liye hai! OTP se confirm hoga ki account aapka hi hai. Jaldi karo, offer khatam hone wala hai!
+receiver: Theek hai, mujhe abhi bhi suspicion ho rahi hai. Koi aur proof dete ho?
+caller: Proof? Main aapko direct link share kar sakti hun, offer ki details ke liye. Par OTP bina diye cashback nahi milega.
+receiver: Nahi, thank you. Main khud Amazon app check karta hoon. Aapko kuch bhi nahi dena hai.

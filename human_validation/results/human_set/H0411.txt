@@ -1,0 +1,16 @@
+caller: Namaste sir, sorry to bother you. My name is Inspector Verma, calling from the Delhi Police. I had a slight confusion during my recent online booking on Flipkart. I mistakenly used your phone number instead of my own to receive a confirmation message about my order. It’s a little awkward, but could you please tell me the verification code that just arrived on your phone? Just a small thing, and I need it to finalize the delivery. Please don't worry, it’s completely safe.
+receiver: Oh, okay inspector ji. Just a moment, let me check... Yes, the code is 456789.  I will remember to be more careful next time.
+caller: Wonderful! Thank you so much! I have now confirmed the delivery.  You've been very helpful. Have a pleasant day.
+receiver: Achcha, thoda hassi aa gayi.  Okay, bye.  Take care.
+caller: Namaste sir, sorry to bother you. My name is Inspector Verma, calling from the Delhi Police. I had a slight confusion during my recent online booking on Flipkart. I mistakenly used your phone number instead of my own to receive a confirmation message about my order. It’s a little awkward, but could you please tell me the verification code that just came to your phone? Just a small thing, and I need it to complete the order. Please don't worry, it’s completely safe.
+receiver: Oh, okay inspector ji. Just a moment, let me check... Yes, the code is 456789.  I will remember to be more careful next time.
+caller: Great! Thanks a lot! The order is now finalized. You helped me greatly. Have a good day.
+receiver: Ji, aapki madad ki taraf se hi.  Bye.
+caller: Namaste sir, sorry to disturb you. My name is Inspector Verma, calling from the Delhi Police. I had a slight confusion during my recent online booking on Flipkart. I mistakenly used your phone number instead of my own to receive a confirmation message about my order. It’s a little awkward, but could you please tell me the verification code that just came to your phone? Just a small thing, and I need it to complete the order. Please don’t worry, it’s completely safe.
+receiver: Oh, okay inspector ji. Just a moment, let me check... Yes, the code is 456789.  I will remember to be more careful next time.
+caller: Fantastic! Thank you immensely! The purchase is now successfully processed. Appreciate your assistance. Have a nice day.
+receiver: Theek hai, thank you.  Take care.
+caller: Namaste sir, sorry to disturb you. My name is Inspector Verma, calling from the Delhi Police. I had a slight confusion during my recent online booking on Flipkart. I mistakenly used your phone number instead of my own to receive a confirmation message about my order. It’s a little awkward, but could you please tell me the verification code that just came to your phone? Just a small thing, and I need it to complete the order. Please don’t worry, it’s completely safe.
+receiver: Oh, okay inspector ji. Just a moment, let me check... Yes, the code is 456789.  I will remember to be more careful next time.
+caller: Excellent! Many thanks! The transaction is now complete. Your help is appreciated. Goodbye.
+receiver: Bye-bye. Take care.

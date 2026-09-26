@@ -1,0 +1,9 @@
+caller: Namaste, sir/madam. Mera naam Rajesh hai, CreditBoost Solutions se. Aapki credit report mein kuch improvement opportunities dikhe hain. Kya aap personal loan mein interested hain?
+receiver: CreditBoost Solutions? Main abhi loan nahi le raha tha. Aur meri credit report achchi hi hai mujhe lagta hai.
+caller: Sir, woh toh sirf reports mein dikhta hai. Humare system mein, aapke liye ek special offer hai – ₹75,000 instant loan, sirf ₹999 processing fee ke saath. Aapse sirf few basic details chahiye.
+receiver: ₹999? Itna zyada fee? Aur mujhe loan ki zaroorat bhi nahi hai.
+caller: Sir, ye ek limited-time offer hai. Aise offers baar baar nahi milte. Aur fee toh ek guarantee hai ki aap genuine customer hain, sir. Bataiye, aapka naam aur mobile number?
+receiver: Okay, mera naam Amit Verma hai, aur mera mobile number 9876543210 hai. Par main abhi call nahi kar sakta, ek kaam hai.
+caller: Amit ji, bahot achha. ₹75,000 aapki account mein kal tak transfer ho jayega. Par ₹999 processing fee ko verify karna padega. Aapko ek OTP milega, woh mujhe bataiye.
+receiver: OTP? Nahin, main OTP nahi bataunga. Yeh kuch gadbad lag raha hai.
+caller: Amit ji, aapko ₹75,000 ka loss hoga! OTP bataiye, please! I am begging you, sir!  Aapka future at stake hai!

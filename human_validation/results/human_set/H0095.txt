@@ -1,0 +1,7 @@
+caller: Namaste, mai Indian Customs se bol raha hoon. Aapke naam par ek parcel airport par mila hai, jismein illegal drugs pasand kiye gaye hain.
+receiver: Kya? Illegal drugs? Mere naam par? Yeh kaise ho sakta hai? Main toh kabhi parcel nahi order kiya.
+caller: Ji sir, parcel mein drugs mili hai. Isliye aapko urgent report karna hoga. Aapko case settle karne ke liye 50,000 rupees jama karna padega. Iska payment OTP se hoga.
+receiver: 50,000 rupees? Aur OTP? Yeh fraud lag raha hai. Main police mein complaint karunga. Mujhe parcel ka tracking number batao, main check karunga.
+caller: Sir, tracking number dene se koi faida nahi hai, case already register ho chuka hai. OTP se payment karte hi case close ho jayega, aur aapko koi problem nahi hoga. Main abhi aapko video call par bring karta hoon taaki aapko sach mai sab dikhu.
+receiver: Video call? Kyun? Main kisi se bhi nahi baat karunga jab tak mujhe confirm nahi ho jata ki yeh real hai. Dikhaiye mujhe parcel ka photo, parcel receipt, kuchh toh.
+caller: Sir, video call par aapko sab document dikhaunga, trust please. Agar aapne delay kiya toh case escalate ho jayega aur aapko arrest bhi ho sakta hai. Abhi payment karna best hai.

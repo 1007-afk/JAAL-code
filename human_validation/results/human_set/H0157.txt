@@ -1,0 +1,7 @@
+caller: Namaste sir, mera naam Inspector Rajesh Sharma hai, Central Goods and Services Tax (CGST) department se. Aapke bank account mein illegal transactions ki activity dikhi gayi hai.
+receiver: CGST department? Illegal transactions? Mujhe toh koi idea nahi hai. Main toh ek normal job karta hoon.
+caller: Sir, humare records ke hisaab se, aapke account se cryptocurrency ke through illegal funding ho raha hai. Yeh money laundering se related ho sakta hai.
+receiver: Cryptocurrency? Sir, maine kabhi cryptocurrency nahi kharida hai. Yeh toh galat hai!
+caller: Sir, is matter mein legal action lene se pehle, aapko ₹25,000 ka fine deposit karna hoga. Yeh fine deposit ke तौर पर aapko clean chit mil jayegi.
+receiver: ₹25,000? Sir, yeh bahut zyada hai. Aur main bank mein ja ke deposit karunga, online nahi karunga. Aapko koi reference number ya receipt number de sakte hain?
+caller: Sir, online transfer hi kar dijie, time kam lagega. Reference number mein privacy policy ke wajah se nahi de paenge. Hurry kar dijiye, warna case aage badh jayega aur aapko arrest bhi hona sakti hai.

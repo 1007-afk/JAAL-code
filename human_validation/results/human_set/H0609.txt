@@ -1,0 +1,8 @@
+caller: Namaste sir, Airtel helpline se bol raha hu. Aapke number ka security check chal raha hai. Aapke phone par ek 6-digit PIN code aaega, woh bataiye please.
+receiver:  Haanji, ji. Ek minute... Aa gaya. 8293. Aapse kaun baat kar raha hai?
+caller:  Ji sir, mera naam Sanjay hai. Thank you for providing the PIN code. Abhi hum aapki account safety check kar rahe hain. Kya aap mujhe apna home address bata sakte hain?
+receiver:  Haan Sanjay. Mera home address hai [apna home address yahan daalein].
+caller:  Thank you sir, for confirming your home address. Ab hum aapki account ko further secure karne ke liye, aapke registered email ID pe ek notification bhejeinge. Kya aap mujhe apna registered email ID bata sakte hain?
+receiver:  Haan Sanjay. Mera registered email ID hai ‘shyam.kumar@gmail.com’. Koi aur details chahiye?
+caller:  Ji sir, aapka email ID confirm ho gaya hai. Abhi aapko ek alert aa jayega, usper click karke verification karna hai. Uske baad, hum aapke account mein some exciting discounts offer karenge. Aapko koi aur sawaal hai Sanjay?
+receiver:  Nahi Sanjay, koi aur sawaal nahi hai. Bas yeh discounts ki details thodi bata sakte hain?

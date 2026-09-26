@@ -1,0 +1,9 @@
+caller: Namaste, is this speaking with Mrs. Sharma? This is calling from the Central Board of Indirect Taxes and Customs, CBI. We are investigating a suspicious transaction linked to your bank account.
+receiver: Haan, mai hu. CBI? Kya hua? (Yes, this is me. CBI? What happened?)
+caller: Ji, Mrs. Sharma, a large sum of ₹1.2 lakh was traced to an overseas account from your account. Our records indicate this was linked to a shipment of illegal narcotics. We need to verify some details to clear you from this investigation.
+receiver: ₹1.2 lakh? Illegal narcotics? Mai toh kabhi nahi kiya aisa kuch! (1.2 lakh? Illegal narcotics? I have never done anything like that!)
+caller: Mrs. Sharma, to proceed with the verification, we need to place you on a video call with our investigating officer. This will allow him to examine your ID and confirm your identity. Refusal to cooperate may be interpreted as an obstruction of justice, and we’ll have to file a formal complaint.
+receiver: Video call? Sir, main itna busy hu. Aur CBI aise video call se kaam nahi karti hogi. (Video call? Sir, I'm so busy. And the CBI won't work like this, right?)
+caller: Mrs. Sharma, we’re operating under strict new protocols for urgent cases. We understand your hesitation, but this is necessary. We also need you to transfer ₹5,000 to a secure account to show your good faith and willingness to cooperate with the investigation. This will be refunded once you're cleared.
+receiver: ₹5,000? Sir, yeh to scam lag raha hai. Main police mein report karungi. (5,000? Sir, this looks like a scam. I'll file a report with the police.)
+caller: Mrs. Sharma

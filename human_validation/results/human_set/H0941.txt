@@ -1,0 +1,7 @@
+caller: Namaste, mai Rahul Verma bol raha hu, Blue Dart Courier se. Aapke naam par ek parcel aaya hai, lekin address mein kuch problem hai.
+receiver: Haan, theek hai. Kya problem hai? Mujhe toh koi notification nahi aaya.
+caller: Sir, system mein dikh raha hai ki aapka OTP verification pending hai. Parcel deliver karne se pehle, humein confirm karna hoga ki parcel aapke liye hi hai. Aapka OTP please?
+receiver: OTP? Lekin parcel ke liye OTP kyun? Maine toh kabhi Amazon ya Flipkart se parcel nahi order kiya.
+caller: Sir, parcel ek third-party seller se hai, jo hum deliver kar rahe hain. Yeh standard procedure hai. Agar aap OTP nahi denge toh parcel return ho jayega.
+receiver: Theek hai, ek minute. Mai check karta hu. Par mujhe yeh kuch doubtful lag raha hai.
+caller: Sir, please jaldi karo. Parcel ka delivery window closing ho raha hai. Aapka OTP batao, mai delivery confirm kar dunga.

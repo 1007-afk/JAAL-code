@@ -1,0 +1,7 @@
+caller: Namaste sir, mai Axis Bank se Rahul bol raha hoon. Aapke naam par ek suspicious transaction detect hua hai, Rs. 15,000 ka. Account secure karne ke liye, aapko kuch details verify karni hogi.
+receiver: Hello? Axis Bank? 15,000 ka transaction? Mujhe toh koi message aaya nahi. Verify karna hai?
+caller: Ji sir, account hacking ka attempt hua hai. Apne Aadhaar card ka last 4 digits bataiye, please. Security ke liye zaroori hai. Thodi der mein account block ho sakta hai.
+receiver: Aadhaar card ka last 4 digits? Yeh thoda suspicious lag raha hai. Bank aise details manta hai? Mein branch mein jaakar check karta hoon.
+caller: Sir, time kam hai. Account suspend hone se pehle, fast action lijiye. OTP bhi bataiye jo aapko SMS pe aa raha hai. Isse ham confirm kar lenge ki aap sahi owner hain.
+receiver: OTP? Sir, mujhe toh koi OTP nahi aaya. Aur mujhe koi pressure nahi chahiye. Mein bank ke official number se call karta hoon. Aap ka number bataiye.
+caller: Sir, ye security protocol hai. Koi aur option nahi hai. Account suspend nahi hone dena hai. Jaldi bataiye OTP.

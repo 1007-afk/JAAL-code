@@ -1,0 +1,8 @@
+caller: Namaste, sir? Main Bharat Bank se Rohit bol raha hoon. Aapke UPI account mein kuch suspicious activity detect hui hai.
+receiver: Suspicious activity? Kya hua? Mujhe toh koi notification nahi aaya.
+caller: Sir, ek attempt kiya gaya tha ₹12,000 transfer karne ka, lekin fail ho gaya. Ab aapka account block ho sakta hai agar aap verify nahi karte.
+receiver: ₹12,000? Kaun transfer kar raha tha aur kahan? Mujhe toh koi idea nahi hai.
+caller: Sir, security ke liye, humein aapka OTP verify karna hoga. Phir hum account unlock kar denge. OTP bhejo please.
+receiver: OTP? Wait karo, Bharat Bank ka customer care number mujhe dikhao. Mein khud verify karta hoon.
+caller: Sir, abhi aapko phone pe hi verify karna hoga. Otherwise, account permanent block ho jayega. ₹12,000 ka loss bhi ho sakta hai. OTP jaldi bhejo.
+receiver: Account permanent block? Yeh toh zyada hi dramatic lag raha hai. Mein abhi kisi se bhi baat nahi karunga. Main apne bank branch jaunga.

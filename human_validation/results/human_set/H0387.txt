@@ -1,0 +1,9 @@
+caller: Namaste! This is Riya from Zepto customer care. We've detected some unusual activity on your account. It appears someone attempted to place a very large order for electronics, but the payment failed.
+receiver: Oh really? That’s concerning. I haven't placed any large orders recently. What electronics are we talking about?
+caller: It was a Samsung 8K TV and a few high-end phones, sir. The system flagged it immediately as potentially fraudulent. To secure your account and prevent further issues, we need to verify a one-time password sent to your registered mobile number.
+receiver: A one-time password? Okay, that sounds standard. Just to be safe, can you confirm the last four digits of my registered phone number?
+caller: Certainly, sir. The last four digits are 7890. The OTP is 4528. Please read it back to me to confirm you received it. And quickly, please, we have many people waiting.
+receiver: 4528. Okay, I've read it back. What happens now? Do I need to re-enter my payment details? I’m a little hesitant about doing that over the phone.
+caller: No payment details are needed, sir. Now, just to fully secure your account, we need to confirm you can access your Zepto app. Could you please briefly allow our representative to remotely access your phone's screen to ensure there are no malicious apps installed? It's a standard security protocol.
+receiver: Remotely access my phone? Absolutely not! That sounds incredibly suspicious. I’m ending this call right now. I'll handle this directly through the Zepto app. Thank you.
+caller: Sir, please wait! This is a standard procedure. Without this verification, your account will be temporarily suspended. We don't want that to happen

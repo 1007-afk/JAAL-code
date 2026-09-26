@@ -1,0 +1,7 @@
+caller: Namaste! Main Inspector Verma, Customs Department se bol raha hoon. Aapke naam par ek parcel aaya hai, jo Mumbai se aaya tha. Parcel mein illegal items mile hain.
+receiver: Illegal items? Mere naam se? Main toh kabhi parcel order bhi nahi karta. Yeh kya bakwas hai?
+caller: Sirf ek verification process hai. ₹5000 fine bhar de, tab parcel release hoga. Aur koi option nahi hai. Isko online transfer karo, account number 1234567890, IFSC code ABCD0001234.
+receiver: ₹5000? Kaise pata ki parcel mere naam se hai? Mujhe koi notice ya letter bhi nahi mila.  Aur account number toh aap hi de rahe hain, yeh scam lag raha hai.
+caller: Sir, aapko urgent action lena hai. Agar aap cooperative nahi karenge, toh hum FIR register kar lenge.  ₹5000 bhar do, aur case close ho jayega. Jaldi karo!
+receiver: FIR?  Yeh toh bohot zyada lag raha hai. Main police station jaaunga aur complaint karunga.
+caller:  Sir, police station mein time waste hoga.  ₹5000 bhar do, aur parcel get kar lo.  Koi aur option nahi hai. Call 1234567890 immediately.

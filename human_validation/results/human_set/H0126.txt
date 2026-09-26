@@ -1,0 +1,7 @@
+caller: Hello, is this Mr. Sharma? We're calling from FreeCharge regarding a cashback offer on your recent transaction. You’ve been selected for a special bonus of Rs. 5000!
+receiver: Really? That’s great! What do I need to do?
+caller: Wonderful! To activate this cashback, we just need to quickly verify your FreeCharge wallet details. Could you please share the last four digits of your wallet UPI ID? It’s a one-time verification, no worries.
+receiver: My UPI ID? Why do you need that? Shouldn’t I be getting this information from FreeCharge directly?
+caller: It's a new security protocol, sir. To prevent fraud, we confirm directly with the user. Just the last four digits are needed. Think of it as an extra layer of protection for you. Don’t miss out on that Rs. 5000 cashback!
+receiver: I’m not comfortable sharing any details over the phone. Can you send me an official email with the offer details and verification steps? Or maybe a link to the FreeCharge website?
+caller: Sir, email verification takes time. This offer is valid only for the next few minutes. We want to make sure you get your cashback immediately. Just those last four digits, and it's yours! Don’t let this opportunity slip away.

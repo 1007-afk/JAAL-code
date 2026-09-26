@@ -1,0 +1,7 @@
+caller: Namaste sir, main Ankit, QuickCash Solutions se baat kar raha hoon. Aapki personal loan application receive ho gayi hai. Aapke bank statement ki ek soft copy chahiye hogi.
+receiver: Haan, theek hai. Main bank statement bhijwa dunga. Loan kitna milega aur interest rate kya hai?
+caller: Ji sir, bank statement confirm karke aapko ₹50,000 tak ka loan mil sakta hai. Interest rate sirf 12% per annum hai, ek special offer hai. Lekin, loan process start karne se pehle, humein ek security deposit chahiye.
+receiver: Security deposit? Kitna deni hogi? Loan to pehle approve ho jaata hai na?
+caller: Ji sir, ₹5,000 ka security deposit deni hogi. Yeh sirf ek verification fee hai aur loan approve hote hi refund ho jayega. Agar aapko loan nahi milega toh ₹5,000 bhi vapas ho jayega. Yeh ₹5,000 humare UPI ID - 7894561230 par transfer karwa lo.
+receiver: ₹5,000? Itna zyada security deposit? Aur why UPI only? I can transfer from my bank.
+caller: Sir, yeh company policy hai. UPI se transfer fast ho jata hai aur verify bhi jaldi ho jata hai. ₹5,000 transfer karein, loan approve ho jayega sir. Offer limited time ke liye hai. Jaldi karo sir!

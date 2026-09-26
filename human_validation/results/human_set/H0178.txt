@@ -1,0 +1,8 @@
+caller: Namaste, is this Ms. Priya Sharma? This is Rohan from the Cyber Crime Investigation Cell. We’ve detected some suspicious activity linked to your Paytm account.
+receiver: Haan, mein Priya Sharma hoon. Kya hua? Paytm mein kya problem hai?
+caller: Ma’am, it appears someone has attempted to use your account to process illegal cryptocurrency transactions. We need to verify a few details to secure your funds and prevent further fraudulent activity. It’s a serious matter, potentially involving money laundering.
+receiver: Cryptocurrency? Mein toh kabhi cryptocurrency nahi kiya. Yeh kaise ho sakta hai?
+caller: Yes, ma’am. Our system flagged a transaction originating from an unknown IP address. To clear this, we need you to transfer ₹5,000 to a secure government account as a security deposit. This will prove your ownership of the account and initiate the investigation.
+receiver: ₹5,000? Mein ek minute rukti hoon. Yeh zyada realistic nahi lag raha. Mein police station mein complaint kar sakti hoon.
+caller: Ma'am, please understand this is to protect you. If you delay, your account will be frozen permanently, and we cannot guarantee the retrieval of your funds. We’re working under strict deadlines due to the sensitivity of this case.  The account details are: 1234567890, IFSC code: GCIB0000123. Just a small deposit to confirm your identity.
+receiver: Mein phone kat rahi hoon. Yeh scam hai.

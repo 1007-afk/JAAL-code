@@ -1,0 +1,7 @@
+caller: Namaste, mai ICICI Bank se Rohit Verma bol raha hoon. Aapke account mein kuch suspicious activity detect hui hai. Security ke liye, humein aapke account details verify karne hain.
+receiver: ICICI Bank se? Kaun si activity suspicious hai? Mujhe toh kuch yaad nahi aa raha.
+caller: Sir, ek online transaction attempt hua hai jo aapne kiya nahin hai. Hum chahte hain ki aap jaldi se verify karein taaki aapke account ko secure kiya ja sake. Iske liye, mujhe aapka Aadhaar card ka last 4 digits aur ek OTP chahiye jo hum aapke registered mobile number par bhejenge.
+receiver: Aadhaar card ka number aur OTP phone par dena safe nahin hai, sir. Main bank mein jaakar verify karunga.
+caller: Sir, bank mein jaane mein time lag jayega aur aapke account ko risk mein daal sakte hain. Ye verification process bas 2 minute mein ho jayegi. Agar aap cooperate karenge toh main aapko ek verification reference number bhi de dunga. Please sir, zyada time na waste karein.
+receiver: Verification reference number? Theek hai, mujhe woh number batao pehle. Phir main OTP dene ka sochunga.
+caller: Sir, verification number generate karne ke liye mujhe aapka last 4 digits Aadhaar number chahiye. Varna system verification nahi kar payega.

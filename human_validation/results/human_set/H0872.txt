@@ -1,0 +1,9 @@
+caller: Namaste! Main Priya, Axis FastLoans se baat kar rahi hoon. Aapka naam kya hai?
+receiver: Ji, mera naam Suresh hai. Axis FastLoans? Mai toh koi loan apply nahi kiya tha.
+caller: Haan Suresh ji, humein aapke naam se ek application mila hai. Kuch formalities complete karne hain. Aapko ₹10,000 tak ka instant loan mil sakta hai. Verify karne ke liye, mujhe aapka PAN card number pata hona chahiye.
+receiver: PAN card number? Kyun? Yeh to risky lag raha hai.
+caller: Koi tension nahi Suresh ji. Yeh sirf verification ke liye hai. Agar aap verify nahi karte, toh loan process ruk jayega. Aur agar aap delay karte hain, toh humko majbur hona padega aapki contacts ko message bhejna padega, ki aapko loan ke liye apply kiya tha.
+receiver: Contacts ko message? Kya bolenge?
+caller: Hum sirf inform karenge ki aapne loan ke liye apply kiya hai, aur verification pending hai. Jaldi karein, warna aapko nuksan hoga. Aapka PAN card number bataiye, please.
+receiver: Thik hai, ek minute. Mujhe yeh sab kuch doubtful lag raha hai.
+caller: Jaldi karo Suresh ji, time guzar raha hai. Loan offer limited time ke liye hi hai. Aapka PAN number bataiye jald se jald.

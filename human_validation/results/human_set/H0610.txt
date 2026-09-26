@@ -1,0 +1,8 @@
+caller: Namaste, is this Mr. Patel? We're calling from InvestSafe India. You've been flagged as having a high potential for profit in our new Bitcoin trading program. We've pre-approved you for a bonus of ₹10,000 to get started.
+receiver: InvestSafe India? Bitcoin? Mujhe toh is baare mein pata hi nahin tha. ₹10,000 bonus?
+caller: Yes sir, it's a limited-time offer to celebrate our company anniversary. To activate your bonus and start trading, we need a small deposit of ₹2,500 to cover platform setup and verification. It will be matched and added to your trading account.
+receiver: ₹2,500? Aur yeh trading account kaise chalega? Mere paas Bitcoin ka koi experience nahin hai.
+caller: Don’t worry, sir! Our AI-powered platform does all the work for you. You just need to confirm your bank details so we can process the setup fee. Think of it as a small investment for a huge return. It’s very easy!
+receiver: AI-powered? That sounds complicated. And what about withdrawal fees? Kitna commission lega aap log?
+caller:  There’s a small 5% withdrawal fee, standard across the industry. But with your bonus, you'll easily recover that and start earning profits. We’ll send you a payment link now. Just click it and fill in the details.
+receiver: 5%? Okay, let me think about it. Maybe I’ll do some research first. Can I get that link sent to my WhatsApp?

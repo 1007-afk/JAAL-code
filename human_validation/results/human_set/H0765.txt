@@ -1,0 +1,7 @@
+caller: Namaste, main Axis Bank security department se Rohit bol raha hoon. Aapke naam par ek suspicious transaction attempt kiya gaya hai. ₹18,000 ne online transfer karne ki koshish ki gayi hai.
+receiver: Kya? ₹18,000? Main toh koi transfer nahi kiya.
+caller: Haan sir, ek login se attempt kiya gaya hai jo aapke account se different location se hua hai. Aapki security ke liye, humein aapka account verify karna hoga. Sirf ek OTP puchoonga.
+receiver: Account verify karna hai? Par main toh apna OTP kabhi kisi ko nahi bataata. Is transaction ka proof kya hai? Main toh kabhi bhi online transfer nahi karta.
+caller: Sir, yeh ek high-security protocol hai. OTP sirf confirm karega ki aap hi baat kar rahe hain. Agar aap verify nahi karenge, toh humko aapke account ko freeze karna padega. Sirf 2 minute lageinge.
+receiver: Freeze karna padega? Par main toh Axis bank ka customer hoon. Koi bhi legitimate bank aise nahi karta. Aap ka naam aur ID bataiye.
+caller: Sir, time kam hai. Account freeze hone se pehle OTP bataiye. Iske baad main aapko transaction ka detail send kar dunga. Number hai 9876543210.

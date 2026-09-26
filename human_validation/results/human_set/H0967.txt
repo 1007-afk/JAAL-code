@@ -1,0 +1,8 @@
+caller: Namaste, is this Mr. Sharma? I’m calling from the Cyber Crime Investigation Cell. We’ve detected unusual activity linked to your Paytm account. Specifically, several small transactions to crypto wallets originating from overseas.
+receiver: Haan, mein hi hoon. Paytm? Crypto? Yeh kya bol rahe ho? Main toh kabhi crypto mein transaction nahi kiya.
+caller: Ji, sir, we have the records. They happened late last night. Amounts ranging from ₹500 to ₹2000 each. To prevent further unauthorized access and potential legal action, we need to verify your identity and secure your account.
+receiver: ₹500? ₹2000? Are you sure it’s my Paytm? I’ve been checking my transactions, nothing seems off. And why are you calling me instead of sending an SMS?
+caller: Sir, this is a sensitive matter. SMS is not secure enough. To confirm, can you please provide the last four digits of your Aadhaar card and the OTP you’ll receive on your registered mobile number for verification? It’s a standard security protocol.
+receiver: Aadhaar card? OTP? Wait a minute… this feels wrong. Cyber Crime Cell doesn't ask for Aadhaar digits over the phone. Why would they need that? And what crypto wallets are you talking about exactly?
+caller: Sir, we understand your apprehension, but time is of the essence. These transactions are flagged as suspicious and may indicate a phishing attempt. To clear you and prevent any legal repercussions, please provide the information quickly. Failure to cooperate could lead to a temporary freeze on your account.
+receiver: Freeze my account? Okay, hold on. I'm going to call Paytm directly to check my account. Give me a moment. This is too much to just blindly trust.

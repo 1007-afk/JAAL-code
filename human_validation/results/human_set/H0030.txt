@@ -1,0 +1,14 @@
+caller: Arey yaar, suno, yeh online bookkart app, usmein mujhe OTP mila hai.  They said my account was compromised. Seriously, do you believe this?
+receiver: Haan, bilkul belief hai.  OTP mil jaaye to automatically suspect hota hai.  Yeh bahut serious matter hai.  Ismein kya karna hai?
+caller: Arre, they were saying that someone might have been trying to log in from another country. And they wanted me to update my password immediately.  It sounded too good to be true, hai na?
+receiver: Yaar, definitely too good to be true.  Agar waali log genuine hain toh password change karne ke liye request karenge, but technically, OTP fraud hai.  Iska loss kaise hoga?
+caller: Exactly! That’s why I am worried. They even asked me to verify my address through an image.  Like seriously?  Kahaan se picture le li hogi woh?
+receiver:  Arre, woh toh bohut dangerous hai.  Picture lekar verification karna, yeh toh direct way hai identity theft hone ka.  Mere paas Aadhaar card hai, woh toh share nahi karunga kabhi.
+caller: Haan, Aadhaar card share karna bohot risk hai.  But they were so insistent.  They said if I don’t verify, my account will be permanently blocked.  Pressure dikhana, acha hai na?
+receiver: Yaar, pressure dikhana ek technique hai, ye bataane do.  Ye genuine nahi hote.  Unka motive sirf paisa hai.  Humne unka response check karna chahiye, ya phir helpline number check karna chahiye.
+caller:  Haan, helpline number check karoonga.  Aur unhone kaha ki mujhe screenshot bhejna hai of the message they sent.  That’s insane!  Screenshot bhejne ka kya matlab hai?
+receiver:  Screenshot bhejna, yeh toh proof banane ke liye hota hai.  Par agar screenshot mein OTP visible hai, toh yeh bohut risky hai.  OTP never share karna chahiye.
+caller: True, true.  Ab toh main confuse ho gaya hu.  Kya karu main?  Yeh bookkart app genuinely bad hai kya?
+receiver:  Bilkul bad hai.  Online apps mein trust karna important hai, par verification process mein extra caution lena chahiye.  Report karna toh karna chahiye, agar meri account hai toh.  Main bhi report karunga.
+caller:  Haan, report karunga.  Thanks for your advice, yaar.  Really helped.
+receiver:  Koi baat nahi.  Safai rakho, aur alert rahein.  And please, OTP mat share karna!

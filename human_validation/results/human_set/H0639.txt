@@ -1,0 +1,15 @@
+caller: Arre bhai, congratulations! Tumhara Aadhaar card online update karne ka time aa gaya hai. Government ne sabko update karna compulsory bana diya hai.
+receiver: Oh really? Aadhaar update karna hai? Okay, tell me more about it.
+caller: Wah, tumhari Aadahar number kya hai? Mujhe sirf tumhari number pata hona hai, rest I'll handle.
+receiver: Um... 8765432109.  Mujhe yaad nahi, meri expiry date kya hai?
+caller: Relax, relax. Don’t worry.  Aapki Aadhar card ka validity check kar raha hoon.  Toh, aapka bank account number batao, agar aapko immediately money transfer karna hai.
+receiver: Bank account number? Kahan likho main? Mobile se le lo. 1234567890.
+caller: Perfect! Now, give me your OTP. Just one digit, that's all.  For security reasons, obviously.
+receiver: OTP?  Main OTP share nahi karta.  Yeh dukandar hai!
+caller:  Arre, dukandar nahi! Main government employee hu, and I need this OTP to confirm your identity. It's for your own safety.
+receiver:  Safety?  Tumhare paas Aadhaar update karne ka koi website nahi hai.  Ye scam hai!
+caller:  Shhh!  Don’t say such things!  Agar aap bologe toh aapki Aadhar card invalid ho jayegi.  Just give me the OTP, please.  It will only take a few seconds.
+receiver:  Okay, okay!  I'm giving you the OTP - 123456.
+caller:  Thank you!  Now, your money will be transferred to your account instantly. Congratulations again!
+receiver:  Transfer hua?  Mujhe pata nahi.
+caller:  Absolutely!  Check your account now.  Enjoy your benefits!

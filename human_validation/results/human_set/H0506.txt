@@ -1,0 +1,11 @@
+caller: Namaste! Is this Mr. Sharma residing at flat 12, Sector 5? I’m calling from ‘Secure Solutions’, we have urgent information regarding your account. You’ve been selected for a premium upgrade – a completely free service! Just to activate it, you need to verify a few details through our secure portal. Are you available to speak for a minute?
+receiver: Haan, main Mr. Sharma hu. Flat 12, Sector 5. Kya baat hai? Free service? Bolo sab kuch.
+caller: Absolutely! Your account ID is XYZ123456. We detected unusual activity and want to ensure your security. Please visit https://verifyaccount.safeportal.net and enter your OTP sent via SMS. Don't delay, this offer expires in 24 hours! Only five slots left for this exclusive upgrade. How's your network connection looking right now?
+receiver: Verifyaccount.safeportal.net? OTP jo diya gaya woh mila? Main check karta hoon. Actually, mujhe OTP nahi mila. Aap bataiye, woh kaise karein?
+caller: Oh dear! That's odd. Sometimes there are technical glitches. Let me manually input your details. Could you please provide me with your date of birth and mother’s maiden name for verification purposes? This is standard procedure for all Secure Solutions clients.
+receiver: Date of birth? Maa ki mata ka naam? Yeh toh bilkul bhi nahi samjha. Kaise ho sakta hai yeh secure ho? Aap bataiye, yeh OTP kyun nahi mila?
+caller: Relax, Mr. Sharma! This is purely for identification. Once verified, the upgrade will automatically apply. Now, let’s get that DOB and mother’s name. It’s crucial for our records. And don’t worry about the security; we use state-of-the-art encryption. Just give us those details quickly! There are only three spots remaining.
+receiver: Okay, okay. Maa ki mata ka naam… woh… Sunita. Aur date of birth… 15th August 1988. But seriously, yeh system mein problem hai, hai na?
+caller: Excellent! Thank you, Mr. Sharma. We've successfully updated your profile. Your premium upgrade is now active! You’ll receive a notification shortly. Congratulations again! Just one final question - can you confirm your email address?
+receiver: Email address? Woh... mai toh bas Gmail dungi. Gmail@example.com. Acha, thoda confusion hai, lekin thanks.
+caller: Wonderful! We appreciate your cooperation, Mr. Sharma. Have a great day! Remember, Secure Solutions is always here to protect your digital well-being. Goodbye!

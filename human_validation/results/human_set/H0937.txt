@@ -1,0 +1,8 @@
+caller: Namaste! Is this Mr. Verma? This is a call from the Directorate of Revenue Intelligence, or DRI. We’ve detected some suspicious activity linked to your bank account, specifically concerning international transactions.
+receiver: Haan, main Verma hi hoon. Kya hua? Koi issue hai bank account mein?
+caller: Yes sir. Our records indicate multiple large transfers to offshore accounts in the Cayman Islands. These transactions have flagged your account for potential money laundering. We need to verify some details urgently to clear this up. Can you please confirm the last six digits of your PAN card?
+receiver: Money laundering? Yeh kya bol rahe hain aap? Aur PAN card number? Main woh phone pe nahi bata sakta. Yeh risky hai.
+caller: Sir, we understand your concern, but this is standard protocol. We need to verify your identity. A failure to cooperate will unfortunately lead to further investigation and potential legal action. There’s also a ₹7,500 processing fee to expedite the verification and clear your account. We can take that via UPI now.
+receiver: ₹7,500? Aur legal action? Yeh toh dhakke ki baat hai! Main koi payment nahi karne wala. Aapko apne records check karne chahiye. Main toh koi illegal kaam nahi karta.
+caller: Sir, time is running out. We've received reports of numerous similar cases, and we are working diligently to close them. We need your cooperation to avoid any negative consequences. If you refuse to pay the fee and provide the PAN card details, we will have to escalate this to the higher authorities, and you might face arrest and imprisonment for cooperating in a money laundering scheme.
+receiver: Arrest? Imprisonment? Yeh toh bakwaas hai! Main police mein complaint karunga!

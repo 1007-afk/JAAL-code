@@ -1,0 +1,8 @@
+caller: Namaste, sir! Main Flipkart se Rohan bolta hoon. Aapki ek order, order ID FLP789234, mein kuch problem aa gaya hai. Payment gateway fail ho gaya hai.
+receiver: Oh, really? Which order? I don’t recall placing anything recently. What’s the item?
+caller: Ji, sir, yeh hai ek Samsung Galaxy S23 Ultra. Payment fail hone ke karan delivery hold kar di gayi hai. Aapko payment complete karna hoga, otherwise order cancel ho jayega.
+receiver: A Samsung S23? I definitely didn’t order that. Are you sure you have the right person?
+caller: Haan sir, verified number hai. Payment complete karne ke liye, aapko OTP send karenge. OTP receive hone ke baad, mujhe bataiye. Thoda rupa-rup hai, lekin order save ho jayega.
+receiver: An OTP? Wait a minute, this sounds suspicious. Flipkart never asks for OTPs over the phone. I’m not giving you anything.
+caller: Sir, please! Just a one-time OTP! Otherwise, your order will be cancelled. Flipkart will lose a good customer. Aapse request hai, sir, just give me the OTP.
+receiver: No, I'm hanging up. This is a scam.

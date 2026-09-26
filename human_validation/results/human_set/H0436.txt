@@ -1,0 +1,9 @@
+caller: Namaste! Mai Axis Bank se Rahul bol raha hoon. Aapke naam par ek suspicious transaction ki report mili hai. ₹15,000 ka transaction hua hai, jo normal nahin lag raha. Account secure rakhne ke liye, humein aapki help chahiye.
+receiver: ₹15,000? Kya? Main toh koi transaction nahi kiya. Yeh kya ho raha hai?
+caller: Bilkul, sir. Hamen bhi pata nahi ki yeh kaunsa transaction hai. Account ki security ke liye, humein aapka OTP verify karna hoga. Woh SMS se aayega.
+receiver: OTP? Par aise kaise? Mujhe toh kabhi kisi ne OTP maanga hi nahi. Bank toh OTP direct account mein hi check karta hai na?
+caller: Woh purani process thi, sir. Abhi new security measures hain. Yeh OTP verify karne ke baad, hum aapka account freeze kar denge aur investigation shuru karenge. Koi aur option nahin hai, sir. Jaldi karo, warna account permanent block ho sakta hai.
+receiver: Wait, wait! Ek minute. Mujhe verify karna hai. Mai apne dost se baat karta hoon jo bank mein kaam karta hai.
+caller: Sir, aapko jald se jald verify karna hoga. Account block hone se pehle. Aapka dost bhi same process follow karta hoga. OTP jaldi do, sir. Time gujar raha hai.
+receiver: Theek hai, theek hai. Dena padega… (pause) Yeh lo OTP – 4567.
+caller: Dhanyavaad, sir! Aapka account abhi secure hai. Hum investigation shuru karenge aur aapko update denge. Aap bank ke rules follow karte rahein.

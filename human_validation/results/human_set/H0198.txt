@@ -1,0 +1,8 @@
+caller: Namaste, good day! I am calling regarding some unanswered calls coming from this number, 9876543210. Did you receive any calls from us recently? We just wanted to ensure you saw our important update.
+receiver: Hello, yes, I did see a couple of missed calls, but I was busy working on a project. What was the update about? It seemed urgent.
+caller:  Arey yaar, no worries! This was an alert about your account having a potential security issue. We were trying to contact you to advise you on how to protect yourself. Have you been logging into any new websites lately? This was related to verifying your login details, so your information stays safe. Let’s quickly check your name and location to avoid any problems.
+receiver: Oh, a security issue! Yes, I do remember seeing something about that. I think I checked my email for [Mention a plausible service, e.g., ‘Gmail’ or ‘Yahoo Mail’] recently. Can you confirm my details please?
+caller: Absolutely! Could you provide your full name and current address, so we can verify everything correctly and ensure it gets delivered properly?
+receiver: My name is Priya Sharma, and my address is Sector 16, Patel Nagar, Delhi, and my pincode is 110007. Please confirm if this is right.
+caller: Thank you, Priya ji! Your address is Sector 16, Patel Nagar, Delhi, pincode 110007. That’s perfect. Now, to completely secure your account, we need to send you a one-time password (OTP) to your registered mobile number. Would you mind confirming that number for verification purposes? This will help safeguard your account.
+receiver: Yes, the number is 9876890123. Send the OTP, please. I'm ready to proceed.

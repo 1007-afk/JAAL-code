@@ -1,0 +1,8 @@
+caller: Hello, is this Priya Sharma? We're calling from FastCash Loans. You recently applied for a personal loan online, correct?
+receiver: Yes, I did apply, but I haven’t heard anything back.
+caller: Excellent! Your application has been pre-approved for up to ₹50,000. Just a few quick formalities to complete. First, we need to verify your details. Can you confirm your date of birth for me?
+receiver: Why do you need my date of birth again? I already gave it when I applied.
+caller: Standard procedure, ma’am. Security is paramount. Also, to finalise the loan, we require a small processing fee of ₹2,500. This will be credited back to you once the loan is disbursed. Can you transfer it to the account number I'll provide?
+receiver: A processing fee? The website didn’t mention anything about a fee! This seems suspicious.
+caller: Priya ji, don't be silly! Everyone has to pay a small fee. If you don’t pay, we’ll have to cancel your pre-approval and you’ll lose the opportunity. We also have photos, which we can send to your contacts if you don't cooperate. Do you want that to happen?
+receiver: What? That's blackmail! I'm hanging up now.

@@ -1,0 +1,9 @@
+caller: Namaste! Is this Mr. Patel speaking? I'm calling from Global Crypto Solutions.
+receiver: Haan, bolie. Who's this?
+caller: Sir, we have an exciting opportunity for you! Our platform is offering a guaranteed 18% daily return on Bitcoin investments for a limited time. Many of your business associates are already seeing great success with it.
+receiver: 18% daily? That sounds too good to be true. What’s the catch? And how do I know this isn't a scam?
+caller: Sir, there's no catch! It’s a new AI-powered trading algorithm we’re using. To get started, you just need to deposit a small amount – say, Rs 5,000 – to activate your account. Once the AI starts trading, the returns will be deposited directly into your linked UPI.
+receiver: Rs 5,000? And I can withdraw that whenever I want, right? What's the website address, so I can check it out myself?
+caller: Absolutely, sir! You can withdraw anytime. The website is globalcryptosolutions.net – but be quick, the offer closes soon. Just make the deposit via UPI to the number I'll send you, and you'll be on your way to earning significant profits!
+receiver: Wait a minute. I’m seeing a lot of negative reviews online about websites with similar names. I’m going to pass on this, thank you.
+caller: Sir, please don't make a hasty decision! This is a genuine opportunity. Just one small deposit, and you’ll be amazed by the results. We are even offering a bonus of 2% on the first deposit.

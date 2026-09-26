@@ -1,0 +1,9 @@
+caller: Namaste! Is this Mrs. Sharma? My name is Inspector Verma from the Delhi Customs Department. We have intercepted a package at Indira Gandhi International Airport addressed to you.
+receiver: Haan, bolte hain. Kya baat hai? Package? Mujhe koi package nahi pata.
+caller: Mrs. Sharma, the package contained suspicious items that indicate your possible involvement in illegal cross-border transactions. Case reference number is D-4592. You need to clear this urgently to avoid arrest and prosecution.
+receiver: Illegal transactions? Yeh kya keh rahe hain aap? Main toh ek housewife hoon, Aarti Sharma. Main aise kuch nahi karti.
+caller: Mrs. Sharma, we understand this is alarming. To resolve this swiftly, we require a small processing fee of ₹15,000 to verify the contents and clear the package. You can deposit it to this UPI ID: 7890123456@axisbank. We need this done within the hour, or we will have to issue a warrant.
+receiver: ₹15,000? Warrant? Yeh logon ko koi sense hai? Main police station mein jaungi.
+caller: Mrs. Sharma, please don't make this difficult. We are just trying to help you avoid legal trouble. We will need to confirm your payment immediately. It's a simple procedure. The UPI ID again is 7890123456@axisbank. Time is running out.
+receiver: (Silence)
+caller: Mrs. Sharma, are you there? We need confirmation of payment to release your package and avoid further legal action. Please act now.

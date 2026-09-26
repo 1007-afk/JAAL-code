@@ -1,0 +1,27 @@
+caller: Hello? Is this… uh… hello?
+receiver: Haanji, main hi hoon. Kaun bol rahe hain?
+caller: Haanji, main hi hoon. Kaun bol rahe hain?
+receiver: Sorry, aapka naam pata nahi chala? Main sun nahi paaya acche se.
+caller: Haanji, main hi hoon. Kaun bol rahe hain? Sorry, aapka naam pata nahi chala? Main sun nahi paaya acche se.
+receiver: Arre koi baat nahi. Aap phone pe itni baar ‘haanji, main hi hoon’ kyun bol rahe ho? Name toh batao apna, phir baat karte hain.
+caller: Arre sorry yaar, thoda network issue hai. Main Rohan bol raha hoon. Kya haal hai? Suno, main abhi Mumbai se Delhi gaya hoon aur sach mein bahut akela feel kar raha hoon. Agar free ho toh WhatsApp par message kar dena, baat karte hain? xxSP visionsms.com Message stop to stopCost 150p 08712400603
+receiver: Oh Rohan! Welcome back yaar. Network issue tha toh batao na pehle hi. Chalo koi nahi. Haanji, bilkul free hoon main. WhatsApp par message karunga. Bas thoda time de do. Abhi thoda busy hoon, lekin karunga pakka. Aur kya haal chaal? Kaisa laga Mumbai se Delhi aake? Zara detail mein batana, abhi toh bas itna hi bolunga ki I'm here. Aur wo xxSP visionsms.com kya hai? Kuch nahi na? Theek hai, message karunga. Tension nahi lene ka.
+caller: Hello? Is this Mr. Sharma?
+receiver: Haanji, main hi hoon. Kaise hain aap?
+caller: Haanji, main hi hoon. Kaise hain aap?
+receiver: Okay, sir. Apne Aadhar card ko update karne ke liye ek request hai.
+caller: Haanji, main hi hoon. Kaise hain aap? Update kaise karein?
+receiver: Sir, government ne ye compulsory karna diya hai. Yeh aapke bank account se linked hona zaroori hai.
+caller: Haanji, main hi hoon. Kaise hain aap? Bank account? Mein samajh nahi sakta.
+receiver: Sir, agar aapko online transfer karna mushkil hai, to humein aapke liye ek agent assign karna hoga. Vo aapki madad karenge.
+caller: Haanji, main hi hoon. Kaise hain aap? Agent? Kitne paise lagenge?
+receiver: Sir, yeh totally free hai. Government ka initiative hai. Parantu, agar aapko istemaal karna hai, to ek small fee lagega. Bare minimum ₹100-₹200.
+caller: Haanji, main hi hoon. Kaise hain aap? ₹200? Fir main kya lunga?
+receiver: Sir, yeh sirf agent ko registration karne ke liye hai. Unhone aapke Aadhar card ko secure rakhne ka guarantee diya hai.
+caller: Haanji, main hi hoon. Kaise hain aap? Secure? Mein Flipkart se bhi safe feel karta hoon.
+receiver: Sir, yeh ek official government portal hai. Hamara helpline number 1800-123-4567 hai. Agar koi darr hai toh aap call kar sakte hain. Hum aapki madad karenge. xxSecureAadhaarUpdate.com Call stop to stopCost 150p 08712400603
+receiver: Oh! Okay sir. Mein sochta hoon. Helpline number check karunga. Sirf ₹100-₹200?
+caller: Haanji, main hi hoon. Kaise hain aap? Thoda zyada lagta hai. Koi alternative nahi hai?
+receiver: Sir, aap khud bhi online Aadhar card update kar sakte hain. Parantu, woh technically difficult ho sakta hai.
+caller: Haanji, main hi hoon. Kaise hain aap? Technical difficult? Mujhe nahi pata. Thank you.
+receiver: Aapka swagat hai sir. Bye bye.

@@ -1,0 +1,9 @@
+caller: Namaste! Mera naam Rahul hai, Paytm se. Aapko ek achha offer mila hai – ₹7500 ka cashback aapke Paytm wallet mein!
+receiver: Paytm se? Mujhe koi notification nahi mila. ₹7500 cashback? Yeh kaise?
+caller: Haan ji, yeh ek special promotional offer hai. Abhi claim karne ke liye, aapko bas apna registered mobile number par jo UPI PIN register hai, woh share karna hoga.
+receiver: UPI PIN? Mujhe yeh thoda suspicious lag raha hai. Paytm toh aise nahi karta.
+caller: Koi chinta mat karein, sir. Yeh ek security verification process hai. Agar aap UPI PIN nahi share karenge toh offer expire ho jayega aur aap ₹7500 ka nuksaan karenge.
+receiver: Haan, lekin UPI PIN dene se toh fraud ho sakta hai!
+caller: Sir, hum Paytm se hi baat kar rahe hain. Aapko ₹7500 ki guarantee hai. OTP nahi, sirf UPI PIN daalna hai. Jaldi karein!
+receiver: Theek hai, ek minute. Main apne Paytm account mein check karta hoon.
+caller: Bilkul, sir. Jaldi hi de dijiye, offer time-limited hai!

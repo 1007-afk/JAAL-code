@@ -1,0 +1,9 @@
+caller: Namaste, madam. This is Akash from LoanExpress. We’ve noticed you fit the profile for a quick personal loan, just ₹50,000, very easy approval.
+receiver: LoanExpress? I haven't applied for any loan. Are you sure you have the right number?
+caller: Yes, madam. Your number is registered with a recent online inquiry. To proceed, we just need a small verification fee of ₹200 to activate your account and prevent fraud. UPI is easiest.
+receiver: ₹200? For a loan I didn't even ask for? That seems odd. What's the interest rate on this loan?
+caller: The interest is competitive, madam, just 18% per annum. But you’ll get that information after the verification. Don't miss out on this opportunity to quickly get funds. Think of all the expenses you could manage.
+receiver: 18% is quite high. And still, this verification fee seems suspicious. I'm not comfortable providing UPI details.
+caller: Madam, our system shows you have a pending electricity bill. If you don’t verify now, we’ll mark your file as inactive and your credit score will be affected. Plus, we have your photo on file and will have to share it to collections.
+receiver: You have my photo? That’s a threat. I'm reporting this number.
+caller: Madam, please don’t do that. This is a misunderstanding. Send the ₹200, and everything will be sorted immediately. We'll even waive off the interest for the first month! Just a small payment to secure your future.

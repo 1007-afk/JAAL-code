@@ -1,0 +1,9 @@
+caller: Namaste sir, this is Priya Sharma calling from FastLoan India. We've noticed you recently applied for a personal loan online. We need to verify a few details to process your application. Can you confirm your full name for me, sir?
+receiver: Haan, ji. Mera naam Sunil Gupta hai. Kya verification karna hai?
+caller: Thank you, Mr. Gupta. Now, for security purposes, could you please provide the last four digits of your bank account number? It's a standard procedure.
+receiver: Account number? Is this really necessary? I am a little hesitant to share that information.
+caller: Sir, it’s for quick verification. Without it, we cannot proceed with disbursing your loan. It’s a very simple process and completely secure. If you don't provide the details, the application will be rejected.
+receiver: Okay, fine. It's 4321. But I want the loan soon.
+caller: Wonderful, Mr. Gupta! Your account is verified. Now, a small processing fee of ₹5000 is required to activate your loan. This is a one-time charge. Please send it to this UPI ID: 9876543210@ybl. You'll receive the ₹50,000 loan within 24 hours.
+receiver: ₹5000? But I applied for a ₹50,000 loan! That's a lot for a processing fee.
+caller: Sir, this is a mandatory fee as per RBI guidelines. It's very important for the loan to get approved quickly. Don’t delay; many others are applying for this limited-time offer!

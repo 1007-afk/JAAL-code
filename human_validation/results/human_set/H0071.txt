@@ -1,0 +1,7 @@
+caller: Namaste, is this Mrs. Verma? This is Rohan speaking from Airtel Security. We've noticed some unusual activity on your Airtel account – several failed SIM swap attempts originating from overseas.
+receiver: Airtel? Haan, mein Mrs. Verma. SIM swap attempts? Kya hua?
+caller: Yes, ma'am. We believe someone is trying to gain access to your number to intercept OTPs. To secure your account and prevent this, we need to verify your identity. We’ll send you a one-time password to your registered mobile number.
+receiver: Theek hai, send karo. Lekin mujhe OTP kabhi bhi kisi ko mat dena.
+caller: Absolutely, ma'am. That is our standard protocol. Just confirm the OTP you receive. It’s a six-digit number. Please tell me the OTP so I can verify your account is safe. Also, to further secure your account, can you confirm the last four digits of your Aadhaar card?
+receiver: Wait a minute! Aapko OTP mat bolna chahiye? Aur Aadhaar number bhi? Yeh to zyada lag raha hai. Airtel kabhi aise nahi karta.
+caller: Ma’am, due to the high-risk situation, this is a necessary security measure. We are taking immediate steps to protect your account from fraud. If you refuse to cooperate, we may have to temporarily suspend your account for your safety. Please provide the OTP, ma'am.

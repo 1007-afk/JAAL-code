@@ -1,0 +1,7 @@
+caller: Namaste! Main SecureFinance se bol raha hoon. Aapka naam Rajesh Verma hai na? Aapki file approved ho gayi hai personal loan ke liye, ₹75,000 tak ki. Abhi sirf processing fee bharne ki zaroorat hai.
+receiver: Oh, toh loan approve ho gaya? Mujhe sandeha tha. Processing fee kitna hai? Aur SecureFinance mein maine kabhi apply nahi kiya tha.
+caller: Ji bilkul, Rajesh Verma ji. Processing fee sirf ₹2,500 hai, aur woh bhi security ke liye. Aapne hamari website par apply kiya tha, galat number se. ₹75,000 ki loan aapki zaroorat hogi na?
+receiver: ₹2,500? Thoda zyada lag raha hai. Aur website ka naam bhi yaad nahi. Aur galat number se apply karne mein kaise ho sakta hai?
+caller: Rajesh Verma ji, agar aap abhi fee bharte hain toh loan account activate ho jayega. ₹2,500 humari side se refund bhi ho sakta hai, lekin aapko loan milna shuru ho jayega. UPI ID hai 9876543210@axisbank. Fast karo, offer limited time ke liye hai.
+receiver: Woh theek hai, lekin mein bank se check kar ke aata hoon. Mein ek minute mein call karunga.
+caller: Rajesh Verma ji, time bahut kam hai. Agar aap fee nahi bhare toh offer expire ho jayega aur aapka loan deny ho jayega. Aur agar aapne fee bhar di toh mein aapko loan details aur documents send karunga. Jaldi karo!

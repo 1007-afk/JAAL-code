@@ -1,0 +1,8 @@
+caller: Hello sir, main Bank of Baroda se bol raha hoon. Kya main Mr. Sharma se baat kar sakta hoon?
+receiver: Hello, ji. Sharma ji? Actually, aapne galat number lagaya hai. Yahan koi Sharma ji nahi rehte. Aap shayad kisi aur se connect karne ki koshish kar rahe hain.
+caller: Arre, mujhe maaf karna sir! Lagta hai maine number galat milaya. Main koi aur Mr. Sharma dhoondh raha tha. Aapka bahut-bahut shukriya, mujhe batane ke liye. Main abhi call cut karta hoon. Have a great day!
+receiver: Koi baat nahi sir. Aisi chhoti-motii mistakes ho jaati hain. Koi chinta wali baat nahi. Chaliye, aapka din bhi shubh ho!
+caller: Hello sir, I am from Bank of Baroda. I am calling regarding an important update on your account. Can I speak to Mr. Sharma please?
+receiver: Hello, ji. Sharma ji? Sorry, you've reached the wrong number again. This is not Mr. Sharma's residence. I think you're trying to contact someone else. Perhaps double-check the number you're dialing?
+caller: Oh, really sorry again, sir! Seems like I'm having a bad day with numbers. Let me double-check this. I'm looking for Mr. Rajesh Sharma, account number ending in 7890. Is there any chance he resides there? My apologies for bothering you twice.
+receiver: Arre, koi baat nahi ji, samjh sakta hoon. Lekin, mujhe bilkul yaad nahi hai ki yahan koi Rajesh Sharma naam ka rehta ho, khass kar jinka account number 7890 pe khatam ho. Shyd aapko Bank se hi number verify karna chahiye, ya phir aapko Rajesh Sharma ji ka koi aur contact number mil jaaye. Main aapko phir se yahi keh sakta hoon ki yahan wo nahi hai. Sorry.

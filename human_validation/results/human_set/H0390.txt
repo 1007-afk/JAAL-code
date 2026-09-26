@@ -1,0 +1,7 @@
+caller: Namaste, mai Indian Customs se bol raha hoon. Aapke naam par ek parcel aaya hai Mumbai customs warehouse mein, jo illegal drugs se related hai.
+receiver: Kya? Illegal drugs? Mera naam? Yeh kya keh rahe hain aap? Mai toh kabhi parcel order nahi kiya.
+caller: Ji, humare records mein aapke naam aur address se parcel aaya hai. Yeh matter serious hai aur aapko CBI investigation mein cooperate karna hoga. Agar aap cooperate nahi karte, toh humko majbूर hona padega legal action lena.
+receiver: Legal action? Wait, wait! Mai toh sach bol raha hoon, maine kuch bhi order nahi kiya. Aap se pehle, mujhe koi message bhi nahi aaya. Aap sahi bataiye, aap kaun ho aur CBI mein kaun se officer hain?
+caller: Mai Inspector Sharma hoon, CBI Cyber Crime Unit se. Aapko relax hona chahiye. Hum bas aapki madad karna chahte hain. Aur legal process start karne se pehle, humein yeh parcel clear karna hai. Iske liye aapko ₹15,000 ka fine deposit karna padega.
+receiver: ₹15,000? Yeh bahut zyada hai! Mai pehle apne bank se baat karunga aur phir dekhunga. Aur mujhe koi reference number ya officer ID number do, taaki mai verify kar sakta hoon. Yeh fraud lag raha hai.
+caller: Aapko verification number baad mein mil jayega, abhi urgent hai. Account details mai aapko message kar deta hoon. Jaldi karein, case serious hai aur time kam hai.

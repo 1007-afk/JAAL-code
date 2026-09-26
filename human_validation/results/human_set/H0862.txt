@@ -1,0 +1,8 @@
+caller: Namaste, this is Rahul Sharma calling from HDFC Bank's security department. We've detected unusual activity on your account and need to verify some details urgently.
+receiver: HDFC Bank? Really? What kind of unusual activity? My account is fine, I think.
+caller: Sir, there's been an attempt to change your registered mobile number. If we don’t confirm your details immediately, your account will be temporarily suspended for security reasons. We need your Aadhaar number and the last four digits of your debit card for verification.
+receiver: Aadhaar number and debit card details? Over the phone? That sounds risky. Can't I verify this through the HDFC NetBanking portal?
+caller: Sir, due to a new RBI directive, we have to verify these changes through a phone call for high-risk accounts. There’s no option on the website for this particular verification process. It's just a temporary measure. Delaying could result in account freezing. Please provide the information swiftly, sir.
+receiver: A new RBI directive? I’ve not seen anything about this. Okay, just to be safe, can you give me an employee ID and the branch you're calling from so I can verify with the bank directly?
+caller: Certainly sir. My employee ID is HS87654, and I'm calling from the Mumbai Central Branch verification unit. Now, could you please provide your Aadhaar number? We are almost done.
+receiver: Hold on a minute. I think I'll call the official HDFC helpline to confirm this.

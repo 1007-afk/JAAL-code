@@ -1,0 +1,10 @@
+caller: Maaf karein, subscription cancel nahi kar sakate. ‘Rajveer’ offer package mein minimum 36 months ka contract hai. Reply ‘RAJHELP’ for further details.
+receiver: Achaa, to 36 months ka contract hai? Kya aap mujhse detaen ki ye contract kaise calculate hoti hai? Aur agar mujhe koi bhi information chahiye toh kya karna parenga?
+caller: Haanji, bilkul. Dekho, 36 months ka means aapko minimum 36 mahine toh complete karna hoga. Ye tabhi se shuru hota hai jab se aapne ‘Rajveer’ package subscribe kiya tha. Agar aapko koi dhyana nahi hai ya kuch aur jaanana hai toh bas ‘RAJHELP’ likh kar reply kar dein.
+receiver: Okay, samajh gaya. To, jitni din pehle maine package subscribe kiya tha, uski calculation mein us dino ka account milega? Ya phir sirf 36 mahine hi count honge? Aur agar mujhe extension chahiye toh kya karna parenga?
+caller: Aap sahi samjhe hain. Jitne din aapko package subscribe kiya tha, uski account bhi milegi. Parantu, 36 mahine hi final count honge. Agar aapko extension chahie toh hum aapko alternate plan batayenge. Isliye, ‘RAJHELP’ message karke reply dena.
+receiver: Theek hai, to 36 mahine complete karne ke baad hi subscription cancel ho sakta hai? Aur agar maine expiry date ke bad mai cancellation request kari toh kya hoga? Koi surcharge lagega kya?
+caller: Haanji, 36 mahine complete hone ke baad hi aapko subscription cancel karne ka option milega. Cancellation charges nahi lagenge. Just 36 mahine poori karo. Aur ‘RAJHELP’ message karke reply kar dein agar koi aur sawaal ho.
+receiver: Okay, 36 mahine bad mai cancel kar sakta hu, aur surcharge nahi lagega? Aur ‘RAJHELP’ message kahan bhejna hai? SMS se ya koi app mein?
+caller: Haanji, aap normal SMS hi karenge. ‘RAJHELP’ message usi number par reply kar dein jahan se aapko initial message mila tha. Hum aapko wahaan all details bhej denge.
+receiver: Ok, to 36 mahine baad reply dunga. Aur agar main us date ke baad cancellation request kari toh kya hoga?

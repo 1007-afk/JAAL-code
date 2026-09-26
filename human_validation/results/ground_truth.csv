@@ -1,0 +1,1046 @@
+blind_id,source_dataset,original_filename,true_class
+C0001,human_validation,H0800.txt,5 - Loan / Credit App Scam
+C0002,human_validation,H0252.txt,3 - Investment / Task Scam
+C0003,human_validation,H0100.txt,8 - Legacy Telecom Scam
+C0004,human_validation,H0855.txt,5 - Loan / Credit App Scam
+C0005,human_validation,H0090.txt,8 - Legacy Telecom Scam
+C0006,human_validation,H0605.txt,4 - Digital Arrest / Government Impersonation
+C0007,human_validation,H0940.txt,8 - Legacy Telecom Scam
+C0008,human_validation,H0148.txt,8 - Legacy Telecom Scam
+C0009,human_validation,H0791.txt,7 - Dating / Romance / Sextortion
+C0010,human_validation,H0068.txt,1 - Banking / KYC / OTP Fraud
+C0011,yt,investment_money_scam__gDiFvaxFlp0.txt,3 - Investment / Task Scam
+C0012,human_validation,H0522.txt,3 - Investment / Task Scam
+C0013,yt,bank_impersonation__hTxGLK1Puo4.txt,1 - Banking / KYC / OTP Fraud
+C0014,human_validation,H0032.txt,8 - Legacy Telecom Scam
+C0015,human_validation,H0103.txt,8 - Legacy Telecom Scam
+C0016,human_validation,H0801.txt,8 - Legacy Telecom Scam
+C0017,human_validation,H0750.txt,2 - UPI / Wallet Fraud
+C0018,human_validation,H0717.txt,8 - Legacy Telecom Scam
+C0019,human_validation,H0922.txt,1 - Banking / KYC / OTP Fraud
+C0020,human_validation,H0114.txt,8 - Legacy Telecom Scam
+C0021,yt,government_police_scam__n0HnSGjsaMw.txt,4 - Digital Arrest / Government Impersonation
+C0022,human_validation,H0013.txt,2 - UPI / Wallet Fraud
+C0023,yt,lottery_prize_scam__PXQ-9u63OGM.txt,8 - Legacy Telecom Scam
+C0024,human_validation,H0549.txt,2 - UPI / Wallet Fraud
+C0025,human_validation,H0821.txt,1 - Banking / KYC / OTP Fraud
+C0026,human_validation,H0505.txt,7 - Dating / Romance / Sextortion
+C0027,human_validation,H0878.txt,2 - UPI / Wallet Fraud
+C0028,human_validation,H0859.txt,8 - Legacy Telecom Scam
+C0029,human_validation,H0107.txt,1 - Banking / KYC / OTP Fraud
+C0030,human_validation,H0391.txt,1 - Banking / KYC / OTP Fraud
+C0031,human_validation,H0895.txt,5 - Loan / Credit App Scam
+C0032,human_validation,H0777.txt,2 - UPI / Wallet Fraud
+C0033,human_validation,H0890.txt,5 - Loan / Credit App Scam
+C0034,human_validation,H0344.txt,1 - Banking / KYC / OTP Fraud
+C0035,yt,dating_romance_scam__whHtvTuWsns.txt,7 - Dating / Romance / Sextortion
+C0036,human_validation,H0846.txt,8 - Legacy Telecom Scam
+C0037,yt,lottery_prize_scam__jc3ulA0f6X8.txt,8 - Legacy Telecom Scam
+C0038,human_validation,H0374.txt,3 - Investment / Task Scam
+C0039,yt,lottery_prize_scam__Mqx_ZsH_BEc.txt,8 - Legacy Telecom Scam
+C0040,human_validation,H0157.txt,4 - Digital Arrest / Government Impersonation
+C0041,human_validation,H0003.txt,8 - Legacy Telecom Scam
+C0042,human_validation,H0534.txt,8 - Legacy Telecom Scam
+C0043,human_validation,H0673.txt,8 - Legacy Telecom Scam
+C0044,human_validation,H0367.txt,3 - Investment / Task Scam
+C0045,human_validation,H0624.txt,6 - Delivery / Customer Care Scam
+C0046,human_validation,H0724.txt,1 - Banking / KYC / OTP Fraud
+C0047,human_validation,H0240.txt,8 - Legacy Telecom Scam
+C0048,human_validation,H0755.txt,6 - Delivery / Customer Care Scam
+C0049,human_validation,H0758.txt,6 - Delivery / Customer Care Scam
+C0050,human_validation,H0585.txt,5 - Loan / Credit App Scam
+C0051,human_validation,H0618.txt,8 - Legacy Telecom Scam
+C0052,human_validation,H0209.txt,1 - Banking / KYC / OTP Fraud
+C0053,human_validation,H0617.txt,6 - Delivery / Customer Care Scam
+C0054,human_validation,H0255.txt,3 - Investment / Task Scam
+C0055,human_validation,H0294.txt,8 - Legacy Telecom Scam
+C0056,human_validation,H0348.txt,8 - Legacy Telecom Scam
+C0057,human_validation,H0420.txt,4 - Digital Arrest / Government Impersonation
+C0058,human_validation,H0835.txt,8 - Legacy Telecom Scam
+C0059,yt,upi_wallet_fraud__dk6S5vtAmPg.txt,2 - UPI / Wallet Fraud
+C0060,human_validation,H0671.txt,8 - Legacy Telecom Scam
+C0061,human_validation,H0309.txt,1 - Banking / KYC / OTP Fraud
+C0062,human_validation,H0443.txt,6 - Delivery / Customer Care Scam
+C0063,human_validation,H0397.txt,3 - Investment / Task Scam
+C0064,human_validation,H0073.txt,7 - Dating / Romance / Sextortion
+C0065,human_validation,H0423.txt,8 - Legacy Telecom Scam
+C0066,human_validation,H0573.txt,7 - Dating / Romance / Sextortion
+C0067,human_validation,H0633.txt,4 - Digital Arrest / Government Impersonation
+C0068,human_validation,H0744.txt,7 - Dating / Romance / Sextortion
+C0069,human_validation,H0018.txt,3 - Investment / Task Scam
+C0070,human_validation,H0063.txt,5 - Loan / Credit App Scam
+C0071,human_validation,H0711.txt,8 - Legacy Telecom Scam
+C0072,human_validation,H0117.txt,5 - Loan / Credit App Scam
+C0073,human_validation,H0115.txt,8 - Legacy Telecom Scam
+C0074,human_validation,H0329.txt,6 - Delivery / Customer Care Scam
+C0075,human_validation,H0525.txt,6 - Delivery / Customer Care Scam
+C0076,human_validation,H0143.txt,5 - Loan / Credit App Scam
+C0077,human_validation,H0958.txt,1 - Banking / KYC / OTP Fraud
+C0078,human_validation,H0301.txt,1 - Banking / KYC / OTP Fraud
+C0079,human_validation,H0827.txt,8 - Legacy Telecom Scam
+C0080,human_validation,H0866.txt,8 - Legacy Telecom Scam
+C0081,human_validation,H0893.txt,6 - Delivery / Customer Care Scam
+C0082,human_validation,H0071.txt,1 - Banking / KYC / OTP Fraud
+C0083,human_validation,H0004.txt,7 - Dating / Romance / Sextortion
+C0084,human_validation,H0697.txt,4 - Digital Arrest / Government Impersonation
+C0085,human_validation,H0261.txt,1 - Banking / KYC / OTP Fraud
+C0086,human_validation,H0290.txt,4 - Digital Arrest / Government Impersonation
+C0087,human_validation,H0083.txt,5 - Loan / Credit App Scam
+C0088,human_validation,H0515.txt,4 - Digital Arrest / Government Impersonation
+C0089,human_validation,H0286.txt,3 - Investment / Task Scam
+C0090,human_validation,H0245.txt,2 - UPI / Wallet Fraud
+C0091,human_validation,H0226.txt,7 - Dating / Romance / Sextortion
+C0092,human_validation,H0723.txt,1 - Banking / KYC / OTP Fraud
+C0093,yt,investment_money_scam__VvAEB0ovh0A.txt,3 - Investment / Task Scam
+C0094,human_validation,H0232.txt,6 - Delivery / Customer Care Scam
+C0095,human_validation,H0233.txt,7 - Dating / Romance / Sextortion
+C0096,human_validation,H0198.txt,1 - Banking / KYC / OTP Fraud
+C0097,yt,lottery_prize_scam__lpUtdi_BHqk.txt,8 - Legacy Telecom Scam
+C0098,human_validation,H0451.txt,8 - Legacy Telecom Scam
+C0099,human_validation,H0742.txt,1 - Banking / KYC / OTP Fraud
+C0100,human_validation,H0964.txt,6 - Delivery / Customer Care Scam
+C0101,human_validation,H0767.txt,7 - Dating / Romance / Sextortion
+C0102,human_validation,H0632.txt,4 - Digital Arrest / Government Impersonation
+C0103,human_validation,H0293.txt,8 - Legacy Telecom Scam
+C0104,human_validation,H0884.txt,5 - Loan / Credit App Scam
+C0105,human_validation,H0078.txt,8 - Legacy Telecom Scam
+C0106,human_validation,H0279.txt,5 - Loan / Credit App Scam
+C0107,human_validation,H0704.txt,1 - Banking / KYC / OTP Fraud
+C0108,human_validation,H0308.txt,8 - Legacy Telecom Scam
+C0109,human_validation,H0736.txt,8 - Legacy Telecom Scam
+C0110,human_validation,H0149.txt,8 - Legacy Telecom Scam
+C0111,human_validation,H0794.txt,1 - Banking / KYC / OTP Fraud
+C0112,human_validation,H0616.txt,3 - Investment / Task Scam
+C0113,human_validation,H0962.txt,1 - Banking / KYC / OTP Fraud
+C0114,human_validation,H0459.txt,5 - Loan / Credit App Scam
+C0115,yt,lottery_prize_scam__yZodryOQVnA.txt,8 - Legacy Telecom Scam
+C0116,human_validation,H0453.txt,1 - Banking / KYC / OTP Fraud
+C0117,human_validation,H0231.txt,7 - Dating / Romance / Sextortion
+C0118,human_validation,H0355.txt,7 - Dating / Romance / Sextortion
+C0119,human_validation,H0629.txt,6 - Delivery / Customer Care Scam
+C0120,human_validation,H0328.txt,8 - Legacy Telecom Scam
+C0121,human_validation,H0614.txt,2 - UPI / Wallet Fraud
+C0122,human_validation,H0442.txt,8 - Legacy Telecom Scam
+C0123,human_validation,H0507.txt,4 - Digital Arrest / Government Impersonation
+C0124,human_validation,H0757.txt,2 - UPI / Wallet Fraud
+C0125,yt,upi_wallet_fraud__lZPIPe9_YCU.txt,2 - UPI / Wallet Fraud
+C0126,yt,investment_money_scam__UT3vTVUrQ6I.txt,3 - Investment / Task Scam
+C0127,human_validation,H0029.txt,3 - Investment / Task Scam
+C0128,human_validation,H0774.txt,8 - Legacy Telecom Scam
+C0129,human_validation,H0747.txt,2 - UPI / Wallet Fraud
+C0130,human_validation,H0052.txt,5 - Loan / Credit App Scam
+C0131,human_validation,H0454.txt,8 - Legacy Telecom Scam
+C0132,human_validation,H0385.txt,3 - Investment / Task Scam
+C0133,human_validation,H0501.txt,1 - Banking / KYC / OTP Fraud
+C0134,human_validation,H0581.txt,4 - Digital Arrest / Government Impersonation
+C0135,human_validation,H0565.txt,8 - Legacy Telecom Scam
+C0136,human_validation,H0042.txt,3 - Investment / Task Scam
+C0137,yt,lottery_prize_scam__pO6shiQtTvo.txt,8 - Legacy Telecom Scam
+C0138,human_validation,H0085.txt,2 - UPI / Wallet Fraud
+C0139,human_validation,H0793.txt,7 - Dating / Romance / Sextortion
+C0140,human_validation,H0483.txt,5 - Loan / Credit App Scam
+C0141,human_validation,H0637.txt,5 - Loan / Credit App Scam
+C0142,human_validation,H0643.txt,8 - Legacy Telecom Scam
+C0143,human_validation,H0460.txt,8 - Legacy Telecom Scam
+C0144,human_validation,H0121.txt,4 - Digital Arrest / Government Impersonation
+C0145,human_validation,H0011.txt,1 - Banking / KYC / OTP Fraud
+C0146,human_validation,H0563.txt,7 - Dating / Romance / Sextortion
+C0147,human_validation,H0441.txt,2 - UPI / Wallet Fraud
+C0148,human_validation,H0306.txt,8 - Legacy Telecom Scam
+C0149,human_validation,H0472.txt,8 - Legacy Telecom Scam
+C0150,human_validation,H0105.txt,7 - Dating / Romance / Sextortion
+C0151,human_validation,H0857.txt,1 - Banking / KYC / OTP Fraud
+C0152,human_validation,H0653.txt,4 - Digital Arrest / Government Impersonation
+C0153,human_validation,H0500.txt,5 - Loan / Credit App Scam
+C0154,human_validation,H0411.txt,1 - Banking / KYC / OTP Fraud
+C0155,human_validation,H0487.txt,6 - Delivery / Customer Care Scam
+C0156,human_validation,H0057.txt,3 - Investment / Task Scam
+C0157,human_validation,H0493.txt,4 - Digital Arrest / Government Impersonation
+C0158,human_validation,H0292.txt,7 - Dating / Romance / Sextortion
+C0159,human_validation,H0140.txt,4 - Digital Arrest / Government Impersonation
+C0160,yt,delivery_customer_care_scam__jIsYkF3jvEY.txt,6 - Delivery / Customer Care Scam
+C0161,human_validation,H0413.txt,8 - Legacy Telecom Scam
+C0162,human_validation,H0627.txt,8 - Legacy Telecom Scam
+C0163,human_validation,H0806.txt,8 - Legacy Telecom Scam
+C0164,human_validation,H0730.txt,5 - Loan / Credit App Scam
+C0165,human_validation,H0014.txt,7 - Dating / Romance / Sextortion
+C0166,human_validation,H0048.txt,6 - Delivery / Customer Care Scam
+C0167,human_validation,H0296.txt,6 - Delivery / Customer Care Scam
+C0168,human_validation,H0118.txt,1 - Banking / KYC / OTP Fraud
+C0169,human_validation,H0919.txt,7 - Dating / Romance / Sextortion
+C0170,human_validation,H0782.txt,5 - Loan / Credit App Scam
+C0171,yt,bank_impersonation__UACp2QNuCC8.txt,1 - Banking / KYC / OTP Fraud
+C0172,human_validation,H0269.txt,2 - UPI / Wallet Fraud
+C0173,human_validation,H0929.txt,8 - Legacy Telecom Scam
+C0174,human_validation,H0554.txt,5 - Loan / Credit App Scam
+C0175,human_validation,H0951.txt,4 - Digital Arrest / Government Impersonation
+C0176,human_validation,H0768.txt,8 - Legacy Telecom Scam
+C0177,human_validation,H0009.txt,3 - Investment / Task Scam
+C0178,human_validation,H0171.txt,2 - UPI / Wallet Fraud
+C0179,human_validation,H0475.txt,1 - Banking / KYC / OTP Fraud
+C0180,human_validation,H0499.txt,7 - Dating / Romance / Sextortion
+C0181,human_validation,H0688.txt,3 - Investment / Task Scam
+C0182,human_validation,H0914.txt,5 - Loan / Credit App Scam
+C0183,human_validation,H0037.txt,7 - Dating / Romance / Sextortion
+C0184,human_validation,H0040.txt,2 - UPI / Wallet Fraud
+C0185,human_validation,H0410.txt,8 - Legacy Telecom Scam
+C0186,human_validation,H0490.txt,1 - Banking / KYC / OTP Fraud
+C0187,human_validation,H0542.txt,8 - Legacy Telecom Scam
+C0188,human_validation,H0957.txt,5 - Loan / Credit App Scam
+C0189,human_validation,H0508.txt,1 - Banking / KYC / OTP Fraud
+C0190,human_validation,H0797.txt,2 - UPI / Wallet Fraud
+C0191,human_validation,H0484.txt,5 - Loan / Credit App Scam
+C0192,human_validation,H0925.txt,6 - Delivery / Customer Care Scam
+C0193,human_validation,H0903.txt,2 - UPI / Wallet Fraud
+C0194,human_validation,H0395.txt,1 - Banking / KYC / OTP Fraud
+C0195,human_validation,H0938.txt,3 - Investment / Task Scam
+C0196,human_validation,H0094.txt,2 - UPI / Wallet Fraud
+C0197,human_validation,H0236.txt,7 - Dating / Romance / Sextortion
+C0198,human_validation,H0670.txt,8 - Legacy Telecom Scam
+C0199,human_validation,H0401.txt,1 - Banking / KYC / OTP Fraud
+C0200,human_validation,H0765.txt,1 - Banking / KYC / OTP Fraud
+C0201,human_validation,H0480.txt,6 - Delivery / Customer Care Scam
+C0202,human_validation,H0594.txt,5 - Loan / Credit App Scam
+C0203,human_validation,H0754.txt,1 - Banking / KYC / OTP Fraud
+C0204,human_validation,H0070.txt,1 - Banking / KYC / OTP Fraud
+C0205,human_validation,H0611.txt,4 - Digital Arrest / Government Impersonation
+C0206,human_validation,H0216.txt,5 - Loan / Credit App Scam
+C0207,human_validation,H0132.txt,8 - Legacy Telecom Scam
+C0208,human_validation,H0457.txt,7 - Dating / Romance / Sextortion
+C0209,human_validation,H0477.txt,1 - Banking / KYC / OTP Fraud
+C0210,human_validation,H0312.txt,1 - Banking / KYC / OTP Fraud
+C0211,human_validation,H0110.txt,5 - Loan / Credit App Scam
+C0212,human_validation,H0054.txt,4 - Digital Arrest / Government Impersonation
+C0213,human_validation,H0842.txt,4 - Digital Arrest / Government Impersonation
+C0214,human_validation,H0699.txt,8 - Legacy Telecom Scam
+C0215,human_validation,H0008.txt,8 - Legacy Telecom Scam
+C0216,human_validation,H0920.txt,6 - Delivery / Customer Care Scam
+C0217,human_validation,H0259.txt,5 - Loan / Credit App Scam
+C0218,human_validation,H0257.txt,2 - UPI / Wallet Fraud
+C0219,yt,upi_wallet_fraud__qOP82N1El7M.txt,2 - UPI / Wallet Fraud
+C0220,yt,delivery_customer_care_scam__IzMKBmNL4kY.txt,6 - Delivery / Customer Care Scam
+C0221,human_validation,H0659.txt,8 - Legacy Telecom Scam
+C0222,yt,lottery_prize_scam__REOmF6U36P0.txt,8 - Legacy Telecom Scam
+C0223,human_validation,H0509.txt,5 - Loan / Credit App Scam
+C0224,human_validation,H0195.txt,2 - UPI / Wallet Fraud
+C0225,human_validation,H0417.txt,6 - Delivery / Customer Care Scam
+C0226,human_validation,H0405.txt,8 - Legacy Telecom Scam
+C0227,human_validation,H0406.txt,1 - Banking / KYC / OTP Fraud
+C0228,human_validation,H0144.txt,7 - Dating / Romance / Sextortion
+C0229,human_validation,H0541.txt,3 - Investment / Task Scam
+C0230,human_validation,H0761.txt,7 - Dating / Romance / Sextortion
+C0231,yt,upi_wallet_fraud__l-1nf5TpqNo.txt,2 - UPI / Wallet Fraud
+C0232,yt,bank_impersonation__MmRCTRlFW7w.txt,1 - Banking / KYC / OTP Fraud
+C0233,human_validation,H0250.txt,5 - Loan / Credit App Scam
+C0234,human_validation,H0082.txt,8 - Legacy Telecom Scam
+C0235,human_validation,H0779.txt,7 - Dating / Romance / Sextortion
+C0236,human_validation,H0773.txt,7 - Dating / Romance / Sextortion
+C0237,human_validation,H0808.txt,7 - Dating / Romance / Sextortion
+C0238,human_validation,H0134.txt,6 - Delivery / Customer Care Scam
+C0239,human_validation,H0843.txt,4 - Digital Arrest / Government Impersonation
+C0240,human_validation,H0219.txt,7 - Dating / Romance / Sextortion
+C0241,yt,bank_impersonation__4WbE_xqFVi4.txt,1 - Banking / KYC / OTP Fraud
+C0242,human_validation,H0537.txt,8 - Legacy Telecom Scam
+C0243,human_validation,H0850.txt,3 - Investment / Task Scam
+C0244,human_validation,H0077.txt,8 - Legacy Telecom Scam
+C0245,human_validation,H0690.txt,7 - Dating / Romance / Sextortion
+C0246,human_validation,H0197.txt,4 - Digital Arrest / Government Impersonation
+C0247,human_validation,H0338.txt,3 - Investment / Task Scam
+C0248,human_validation,H0343.txt,8 - Legacy Telecom Scam
+C0249,human_validation,H0931.txt,8 - Legacy Telecom Scam
+C0250,human_validation,H0868.txt,6 - Delivery / Customer Care Scam
+C0251,human_validation,H0402.txt,3 - Investment / Task Scam
+C0252,human_validation,H0185.txt,8 - Legacy Telecom Scam
+C0253,human_validation,H0186.txt,6 - Delivery / Customer Care Scam
+C0254,human_validation,H0705.txt,1 - Banking / KYC / OTP Fraud
+C0255,human_validation,H0379.txt,1 - Banking / KYC / OTP Fraud
+C0256,yt,lottery_prize_scam__uQbjTtQyFgU.txt,8 - Legacy Telecom Scam
+C0257,human_validation,H0703.txt,8 - Legacy Telecom Scam
+C0258,human_validation,H0112.txt,7 - Dating / Romance / Sextortion
+C0259,human_validation,H0156.txt,8 - Legacy Telecom Scam
+C0260,human_validation,H0335.txt,8 - Legacy Telecom Scam
+C0261,human_validation,H0141.txt,2 - UPI / Wallet Fraud
+C0262,human_validation,H0720.txt,2 - UPI / Wallet Fraud
+C0263,human_validation,H0102.txt,3 - Investment / Task Scam
+C0264,human_validation,H0550.txt,6 - Delivery / Customer Care Scam
+C0265,human_validation,H0557.txt,2 - UPI / Wallet Fraud
+C0266,human_validation,H0698.txt,5 - Loan / Credit App Scam
+C0267,human_validation,H0247.txt,8 - Legacy Telecom Scam
+C0268,human_validation,H0392.txt,3 - Investment / Task Scam
+C0269,human_validation,H0358.txt,8 - Legacy Telecom Scam
+C0270,human_validation,H0274.txt,8 - Legacy Telecom Scam
+C0271,human_validation,H0899.txt,1 - Banking / KYC / OTP Fraud
+C0272,human_validation,H0588.txt,8 - Legacy Telecom Scam
+C0273,human_validation,H0438.txt,7 - Dating / Romance / Sextortion
+C0274,human_validation,H0251.txt,8 - Legacy Telecom Scam
+C0275,human_validation,H0131.txt,7 - Dating / Romance / Sextortion
+C0276,human_validation,H0792.txt,8 - Legacy Telecom Scam
+C0277,human_validation,H0539.txt,3 - Investment / Task Scam
+C0278,human_validation,H0762.txt,6 - Delivery / Customer Care Scam
+C0279,human_validation,H0679.txt,5 - Loan / Credit App Scam
+C0280,human_validation,H0781.txt,8 - Legacy Telecom Scam
+C0281,human_validation,H0242.txt,6 - Delivery / Customer Care Scam
+C0282,human_validation,H0119.txt,8 - Legacy Telecom Scam
+C0283,human_validation,H0674.txt,1 - Banking / KYC / OTP Fraud
+C0284,human_validation,H0548.txt,2 - UPI / Wallet Fraud
+C0285,human_validation,H0860.txt,2 - UPI / Wallet Fraud
+C0286,human_validation,H0023.txt,5 - Loan / Credit App Scam
+C0287,human_validation,H0215.txt,7 - Dating / Romance / Sextortion
+C0288,human_validation,H0816.txt,4 - Digital Arrest / Government Impersonation
+C0289,human_validation,H0748.txt,3 - Investment / Task Scam
+C0290,human_validation,H0056.txt,8 - Legacy Telecom Scam
+C0291,human_validation,H0602.txt,4 - Digital Arrest / Government Impersonation
+C0292,human_validation,H0331.txt,4 - Digital Arrest / Government Impersonation
+C0293,human_validation,H0512.txt,7 - Dating / Romance / Sextortion
+C0294,human_validation,H0214.txt,5 - Loan / Credit App Scam
+C0295,human_validation,H0880.txt,5 - Loan / Credit App Scam
+C0296,human_validation,H0044.txt,4 - Digital Arrest / Government Impersonation
+C0297,yt,investment_money_scam__I1EG8jf5Hgs.txt,3 - Investment / Task Scam
+C0298,human_validation,H0784.txt,1 - Banking / KYC / OTP Fraud
+C0299,human_validation,H0953.txt,1 - Banking / KYC / OTP Fraud
+C0300,human_validation,H0597.txt,1 - Banking / KYC / OTP Fraud
+C0301,human_validation,H0319.txt,8 - Legacy Telecom Scam
+C0302,human_validation,H0910.txt,5 - Loan / Credit App Scam
+C0303,human_validation,H0831.txt,8 - Legacy Telecom Scam
+C0304,human_validation,H0347.txt,6 - Delivery / Customer Care Scam
+C0305,human_validation,H0333.txt,3 - Investment / Task Scam
+C0306,human_validation,H0725.txt,3 - Investment / Task Scam
+C0307,human_validation,H0495.txt,2 - UPI / Wallet Fraud
+C0308,human_validation,H0430.txt,2 - UPI / Wallet Fraud
+C0309,human_validation,H0041.txt,8 - Legacy Telecom Scam
+C0310,human_validation,H0675.txt,5 - Loan / Credit App Scam
+C0311,human_validation,H0967.txt,4 - Digital Arrest / Government Impersonation
+C0312,human_validation,H0943.txt,8 - Legacy Telecom Scam
+C0313,human_validation,H0357.txt,8 - Legacy Telecom Scam
+C0314,human_validation,H0341.txt,1 - Banking / KYC / OTP Fraud
+C0315,human_validation,H0915.txt,4 - Digital Arrest / Government Impersonation
+C0316,human_validation,H0446.txt,1 - Banking / KYC / OTP Fraud
+C0317,human_validation,H0360.txt,2 - UPI / Wallet Fraud
+C0318,yt,bank_impersonation__5lX8TrxkBiM.txt,1 - Banking / KYC / OTP Fraud
+C0319,yt,bank_impersonation__QjT6goB9UBk.txt,1 - Banking / KYC / OTP Fraud
+C0320,human_validation,H0020.txt,6 - Delivery / Customer Care Scam
+C0321,human_validation,H0007.txt,3 - Investment / Task Scam
+C0322,human_validation,H0174.txt,4 - Digital Arrest / Government Impersonation
+C0323,human_validation,H0248.txt,5 - Loan / Credit App Scam
+C0324,yt,lottery_prize_scam__zj9iXfKMCF8.txt,8 - Legacy Telecom Scam
+C0325,human_validation,H0213.txt,8 - Legacy Telecom Scam
+C0326,human_validation,H0812.txt,8 - Legacy Telecom Scam
+C0327,human_validation,H0620.txt,8 - Legacy Telecom Scam
+C0328,human_validation,H0172.txt,6 - Delivery / Customer Care Scam
+C0329,human_validation,H0067.txt,8 - Legacy Telecom Scam
+C0330,human_validation,H0596.txt,1 - Banking / KYC / OTP Fraud
+C0331,human_validation,H0287.txt,5 - Loan / Credit App Scam
+C0332,human_validation,H0372.txt,3 - Investment / Task Scam
+C0333,human_validation,H0535.txt,8 - Legacy Telecom Scam
+C0334,human_validation,H0089.txt,5 - Loan / Credit App Scam
+C0335,human_validation,H0354.txt,8 - Legacy Telecom Scam
+C0336,human_validation,H0031.txt,5 - Loan / Credit App Scam
+C0337,human_validation,H0364.txt,3 - Investment / Task Scam
+C0338,human_validation,H0739.txt,4 - Digital Arrest / Government Impersonation
+C0339,human_validation,H0181.txt,8 - Legacy Telecom Scam
+C0340,human_validation,H0218.txt,3 - Investment / Task Scam
+C0341,yt,bank_impersonation__l9kosyjS8MI.txt,1 - Banking / KYC / OTP Fraud
+C0342,human_validation,H0753.txt,8 - Legacy Telecom Scam
+C0343,human_validation,H0545.txt,2 - UPI / Wallet Fraud
+C0344,human_validation,H0465.txt,4 - Digital Arrest / Government Impersonation
+C0345,human_validation,H0799.txt,8 - Legacy Telecom Scam
+C0346,human_validation,H0415.txt,5 - Loan / Credit App Scam
+C0347,human_validation,H0049.txt,1 - Banking / KYC / OTP Fraud
+C0348,human_validation,H0173.txt,8 - Legacy Telecom Scam
+C0349,human_validation,H0388.txt,8 - Legacy Telecom Scam
+C0350,human_validation,H0346.txt,2 - UPI / Wallet Fraud
+C0351,human_validation,H0375.txt,5 - Loan / Credit App Scam
+C0352,human_validation,H0282.txt,1 - Banking / KYC / OTP Fraud
+C0353,human_validation,H0883.txt,8 - Legacy Telecom Scam
+C0354,human_validation,H0911.txt,8 - Legacy Telecom Scam
+C0355,human_validation,H0547.txt,2 - UPI / Wallet Fraud
+C0356,yt,bank_impersonation__dI5UasyU1tE.txt,1 - Banking / KYC / OTP Fraud
+C0357,human_validation,H0945.txt,8 - Legacy Telecom Scam
+C0358,human_validation,H0726.txt,4 - Digital Arrest / Government Impersonation
+C0359,human_validation,H0151.txt,8 - Legacy Telecom Scam
+C0360,human_validation,H0841.txt,3 - Investment / Task Scam
+C0361,human_validation,H0064.txt,5 - Loan / Credit App Scam
+C0362,human_validation,H0506.txt,1 - Banking / KYC / OTP Fraud
+C0363,human_validation,H0074.txt,1 - Banking / KYC / OTP Fraud
+C0364,human_validation,H0811.txt,8 - Legacy Telecom Scam
+C0365,yt,bank_impersonation__yZbB1wONWU8.txt,1 - Banking / KYC / OTP Fraud
+C0366,human_validation,H0376.txt,5 - Loan / Credit App Scam
+C0367,human_validation,H0959.txt,7 - Dating / Romance / Sextortion
+C0368,human_validation,H0740.txt,7 - Dating / Romance / Sextortion
+C0369,human_validation,H0544.txt,6 - Delivery / Customer Care Scam
+C0370,human_validation,H0439.txt,5 - Loan / Credit App Scam
+C0371,human_validation,H0610.txt,3 - Investment / Task Scam
+C0372,human_validation,H0137.txt,8 - Legacy Telecom Scam
+C0373,human_validation,H0817.txt,8 - Legacy Telecom Scam
+C0374,human_validation,H0836.txt,2 - UPI / Wallet Fraud
+C0375,human_validation,H0169.txt,8 - Legacy Telecom Scam
+C0376,human_validation,H0138.txt,8 - Legacy Telecom Scam
+C0377,human_validation,H0694.txt,8 - Legacy Telecom Scam
+C0378,human_validation,H0667.txt,8 - Legacy Telecom Scam
+C0379,human_validation,H0377.txt,1 - Banking / KYC / OTP Fraud
+C0380,yt,delivery_customer_care_scam__7e9iepgLGvE.txt,6 - Delivery / Customer Care Scam
+C0381,human_validation,H0291.txt,1 - Banking / KYC / OTP Fraud
+C0382,human_validation,H0381.txt,1 - Banking / KYC / OTP Fraud
+C0383,yt,lottery_prize_scam__YNsK9gfWhNI.txt,8 - Legacy Telecom Scam
+C0384,human_validation,H0080.txt,7 - Dating / Romance / Sextortion
+C0385,human_validation,H0912.txt,2 - UPI / Wallet Fraud
+C0386,human_validation,H0950.txt,3 - Investment / Task Scam
+C0387,human_validation,H0303.txt,8 - Legacy Telecom Scam
+C0388,human_validation,H0210.txt,8 - Legacy Telecom Scam
+C0389,human_validation,H0180.txt,1 - Banking / KYC / OTP Fraud
+C0390,human_validation,H0389.txt,3 - Investment / Task Scam
+C0391,human_validation,H0933.txt,8 - Legacy Telecom Scam
+C0392,human_validation,H0936.txt,4 - Digital Arrest / Government Impersonation
+C0393,human_validation,H0752.txt,8 - Legacy Telecom Scam
+C0394,human_validation,H0238.txt,2 - UPI / Wallet Fraud
+C0395,human_validation,H0885.txt,5 - Loan / Credit App Scam
+C0396,human_validation,H0091.txt,2 - UPI / Wallet Fraud
+C0397,human_validation,H0701.txt,8 - Legacy Telecom Scam
+C0398,human_validation,H0207.txt,1 - Banking / KYC / OTP Fraud
+C0399,human_validation,H0253.txt,8 - Legacy Telecom Scam
+C0400,human_validation,H0337.txt,6 - Delivery / Customer Care Scam
+C0401,human_validation,H0371.txt,5 - Loan / Credit App Scam
+C0402,human_validation,H0760.txt,1 - Banking / KYC / OTP Fraud
+C0403,human_validation,H0170.txt,6 - Delivery / Customer Care Scam
+C0404,human_validation,H0693.txt,1 - Banking / KYC / OTP Fraud
+C0405,human_validation,H0260.txt,5 - Loan / Credit App Scam
+C0406,human_validation,H0696.txt,3 - Investment / Task Scam
+C0407,human_validation,H0607.txt,7 - Dating / Romance / Sextortion
+C0408,human_validation,H0874.txt,6 - Delivery / Customer Care Scam
+C0409,human_validation,H0608.txt,7 - Dating / Romance / Sextortion
+C0410,human_validation,H0621.txt,8 - Legacy Telecom Scam
+C0411,human_validation,H0805.txt,2 - UPI / Wallet Fraud
+C0412,human_validation,H0684.txt,4 - Digital Arrest / Government Impersonation
+C0413,human_validation,H0160.txt,8 - Legacy Telecom Scam
+C0414,human_validation,H0424.txt,1 - Banking / KYC / OTP Fraud
+C0415,human_validation,H0851.txt,7 - Dating / Romance / Sextortion
+C0416,human_validation,H0775.txt,1 - Banking / KYC / OTP Fraud
+C0417,human_validation,H0045.txt,2 - UPI / Wallet Fraud
+C0418,human_validation,H0941.txt,6 - Delivery / Customer Care Scam
+C0419,human_validation,H0036.txt,5 - Loan / Credit App Scam
+C0420,human_validation,H0043.txt,7 - Dating / Romance / Sextortion
+C0421,human_validation,H0966.txt,3 - Investment / Task Scam
+C0422,yt,government_police_scam__lWeWMUxie6s.txt,4 - Digital Arrest / Government Impersonation
+C0423,human_validation,H0579.txt,2 - UPI / Wallet Fraud
+C0424,human_validation,H0886.txt,7 - Dating / Romance / Sextortion
+C0425,human_validation,H0350.txt,3 - Investment / Task Scam
+C0426,yt,upi_wallet_fraud__a7XPzNEm6ng.txt,2 - UPI / Wallet Fraud
+C0427,human_validation,H0756.txt,8 - Legacy Telecom Scam
+C0428,human_validation,H0127.txt,8 - Legacy Telecom Scam
+C0429,human_validation,H0879.txt,8 - Legacy Telecom Scam
+C0430,human_validation,H0285.txt,7 - Dating / Romance / Sextortion
+C0431,human_validation,H0677.txt,5 - Loan / Credit App Scam
+C0432,human_validation,H0256.txt,8 - Legacy Telecom Scam
+C0433,human_validation,H0243.txt,2 - UPI / Wallet Fraud
+C0434,human_validation,H0731.txt,8 - Legacy Telecom Scam
+C0435,human_validation,H0061.txt,8 - Legacy Telecom Scam
+C0436,human_validation,H0489.txt,8 - Legacy Telecom Scam
+C0437,yt,bank_impersonation__IcOmg8h3pb0.txt,1 - Banking / KYC / OTP Fraud
+C0438,human_validation,H0930.txt,8 - Legacy Telecom Scam
+C0439,human_validation,H0923.txt,3 - Investment / Task Scam
+C0440,human_validation,H0196.txt,4 - Digital Arrest / Government Impersonation
+C0441,human_validation,H0038.txt,5 - Loan / Credit App Scam
+C0442,yt,investment_money_scam__5aea-KZZMGY.txt,3 - Investment / Task Scam
+C0443,human_validation,H0429.txt,2 - UPI / Wallet Fraud
+C0444,human_validation,H0892.txt,6 - Delivery / Customer Care Scam
+C0445,human_validation,H0759.txt,7 - Dating / Romance / Sextortion
+C0446,human_validation,H0168.txt,6 - Delivery / Customer Care Scam
+C0447,human_validation,H0055.txt,8 - Legacy Telecom Scam
+C0448,yt,dating_romance_scam__mbvqpT8XkH4.txt,7 - Dating / Romance / Sextortion
+C0449,human_validation,H0128.txt,4 - Digital Arrest / Government Impersonation
+C0450,human_validation,H0882.txt,6 - Delivery / Customer Care Scam
+C0451,human_validation,H0529.txt,8 - Legacy Telecom Scam
+C0452,yt,delivery_customer_care_scam__G-dYAbUc9Xc.txt,6 - Delivery / Customer Care Scam
+C0453,human_validation,H0870.txt,8 - Legacy Telecom Scam
+C0454,human_validation,H0111.txt,8 - Legacy Telecom Scam
+C0455,human_validation,H0553.txt,1 - Banking / KYC / OTP Fraud
+C0456,human_validation,H0189.txt,3 - Investment / Task Scam
+C0457,human_validation,H0033.txt,5 - Loan / Credit App Scam
+C0458,human_validation,H0733.txt,4 - Digital Arrest / Government Impersonation
+C0459,human_validation,H0963.txt,4 - Digital Arrest / Government Impersonation
+C0460,human_validation,H0002.txt,6 - Delivery / Customer Care Scam
+C0461,yt,dating_romance_scam__gQx9CN23MuI.txt,7 - Dating / Romance / Sextortion
+C0462,human_validation,H0330.txt,2 - UPI / Wallet Fraud
+C0463,human_validation,H0790.txt,5 - Loan / Credit App Scam
+C0464,human_validation,H0452.txt,8 - Legacy Telecom Scam
+C0465,human_validation,H0513.txt,4 - Digital Arrest / Government Impersonation
+C0466,human_validation,H0658.txt,1 - Banking / KYC / OTP Fraud
+C0467,human_validation,H0783.txt,8 - Legacy Telecom Scam
+C0468,human_validation,H0455.txt,1 - Banking / KYC / OTP Fraud
+C0469,human_validation,H0660.txt,8 - Legacy Telecom Scam
+C0470,human_validation,H0833.txt,5 - Loan / Credit App Scam
+C0471,human_validation,H0075.txt,3 - Investment / Task Scam
+C0472,human_validation,H0277.txt,8 - Legacy Telecom Scam
+C0473,human_validation,H0518.txt,8 - Legacy Telecom Scam
+C0474,human_validation,H0583.txt,4 - Digital Arrest / Government Impersonation
+C0475,human_validation,H0656.txt,6 - Delivery / Customer Care Scam
+C0476,yt,bank_impersonation__CD5e48wKzxc.txt,1 - Banking / KYC / OTP Fraud
+C0477,human_validation,H0370.txt,2 - UPI / Wallet Fraud
+C0478,yt,lottery_prize_scam__2o7DkPelnrM.txt,8 - Legacy Telecom Scam
+C0479,human_validation,H0916.txt,8 - Legacy Telecom Scam
+C0480,human_validation,H0450.txt,5 - Loan / Credit App Scam
+C0481,human_validation,H0398.txt,1 - Banking / KYC / OTP Fraud
+C0482,human_validation,H0462.txt,2 - UPI / Wallet Fraud
+C0483,human_validation,H0396.txt,4 - Digital Arrest / Government Impersonation
+C0484,human_validation,H0416.txt,3 - Investment / Task Scam
+C0485,human_validation,H0901.txt,2 - UPI / Wallet Fraud
+C0486,human_validation,H0217.txt,3 - Investment / Task Scam
+C0487,human_validation,H0937.txt,4 - Digital Arrest / Government Impersonation
+C0488,human_validation,H0647.txt,7 - Dating / Romance / Sextortion
+C0489,human_validation,H0332.txt,5 - Loan / Credit App Scam
+C0490,human_validation,H0796.txt,8 - Legacy Telecom Scam
+C0491,human_validation,H0434.txt,5 - Loan / Credit App Scam
+C0492,human_validation,H0005.txt,8 - Legacy Telecom Scam
+C0493,yt,government_police_scam__soui0UOca_E.txt,4 - Digital Arrest / Government Impersonation
+C0494,human_validation,H0383.txt,8 - Legacy Telecom Scam
+C0495,human_validation,H0649.txt,6 - Delivery / Customer Care Scam
+C0496,human_validation,H0199.txt,7 - Dating / Romance / Sextortion
+C0497,human_validation,H0069.txt,3 - Investment / Task Scam
+C0498,human_validation,H0183.txt,1 - Banking / KYC / OTP Fraud
+C0499,human_validation,H0147.txt,7 - Dating / Romance / Sextortion
+C0500,human_validation,H0278.txt,1 - Banking / KYC / OTP Fraud
+C0501,human_validation,H0580.txt,8 - Legacy Telecom Scam
+C0502,human_validation,H0875.txt,1 - Banking / KYC / OTP Fraud
+C0503,human_validation,H0834.txt,7 - Dating / Romance / Sextortion
+C0504,human_validation,H0084.txt,8 - Legacy Telecom Scam
+C0505,human_validation,H0098.txt,8 - Legacy Telecom Scam
+C0506,human_validation,H0404.txt,8 - Legacy Telecom Scam
+C0507,human_validation,H0340.txt,6 - Delivery / Customer Care Scam
+C0508,human_validation,H0304.txt,1 - Banking / KYC / OTP Fraud
+C0509,yt,investment_money_scam__Bxq74EBn1Yw.txt,3 - Investment / Task Scam
+C0510,human_validation,H0022.txt,4 - Digital Arrest / Government Impersonation
+C0511,human_validation,H0840.txt,6 - Delivery / Customer Care Scam
+C0512,human_validation,H0763.txt,7 - Dating / Romance / Sextortion
+C0513,human_validation,H0342.txt,7 - Dating / Romance / Sextortion
+C0514,human_validation,H0628.txt,3 - Investment / Task Scam
+C0515,human_validation,H0948.txt,8 - Legacy Telecom Scam
+C0516,human_validation,H0088.txt,7 - Dating / Romance / Sextortion
+C0517,human_validation,H0108.txt,6 - Delivery / Customer Care Scam
+C0518,human_validation,H0162.txt,5 - Loan / Credit App Scam
+C0519,human_validation,H0390.txt,4 - Digital Arrest / Government Impersonation
+C0520,human_validation,H0403.txt,8 - Legacy Telecom Scam
+C0521,human_validation,H0848.txt,6 - Delivery / Customer Care Scam
+C0522,human_validation,H0315.txt,8 - Legacy Telecom Scam
+C0523,human_validation,H0223.txt,8 - Legacy Telecom Scam
+C0524,human_validation,H0019.txt,6 - Delivery / Customer Care Scam
+C0525,human_validation,H0683.txt,8 - Legacy Telecom Scam
+C0526,human_validation,H0818.txt,5 - Loan / Credit App Scam
+C0527,human_validation,H0564.txt,6 - Delivery / Customer Care Scam
+C0528,human_validation,H0382.txt,3 - Investment / Task Scam
+C0529,human_validation,H0307.txt,8 - Legacy Telecom Scam
+C0530,human_validation,H0820.txt,1 - Banking / KYC / OTP Fraud
+C0531,human_validation,H0177.txt,2 - UPI / Wallet Fraud
+C0532,human_validation,H0566.txt,1 - Banking / KYC / OTP Fraud
+C0533,human_validation,H0419.txt,6 - Delivery / Customer Care Scam
+C0534,human_validation,H0853.txt,1 - Banking / KYC / OTP Fraud
+C0535,human_validation,H0712.txt,5 - Loan / Credit App Scam
+C0536,human_validation,H0497.txt,1 - Banking / KYC / OTP Fraud
+C0537,human_validation,H0780.txt,3 - Investment / Task Scam
+C0538,human_validation,H0421.txt,4 - Digital Arrest / Government Impersonation
+C0539,human_validation,H0163.txt,8 - Legacy Telecom Scam
+C0540,human_validation,H0193.txt,8 - Legacy Telecom Scam
+C0541,human_validation,H0320.txt,1 - Banking / KYC / OTP Fraud
+C0542,human_validation,H0486.txt,6 - Delivery / Customer Care Scam
+C0543,human_validation,H0887.txt,6 - Delivery / Customer Care Scam
+C0544,human_validation,H0471.txt,5 - Loan / Credit App Scam
+C0545,human_validation,H0368.txt,3 - Investment / Task Scam
+C0546,human_validation,H0631.txt,8 - Legacy Telecom Scam
+C0547,human_validation,H0206.txt,2 - UPI / Wallet Fraud
+C0548,human_validation,H0352.txt,8 - Legacy Telecom Scam
+C0549,human_validation,H0283.txt,4 - Digital Arrest / Government Impersonation
+C0550,human_validation,H0771.txt,4 - Digital Arrest / Government Impersonation
+C0551,human_validation,H0905.txt,1 - Banking / KYC / OTP Fraud
+C0552,yt,bank_impersonation__Bonvxng8ZCw.txt,1 - Banking / KYC / OTP Fraud
+C0553,human_validation,H0155.txt,1 - Banking / KYC / OTP Fraud
+C0554,human_validation,H0521.txt,8 - Legacy Telecom Scam
+C0555,human_validation,H0228.txt,8 - Legacy Telecom Scam
+C0556,human_validation,H0854.txt,1 - Banking / KYC / OTP Fraud
+C0557,yt,bank_impersonation__0lZwAXgaFu4.txt,1 - Banking / KYC / OTP Fraud
+C0558,human_validation,H0249.txt,8 - Legacy Telecom Scam
+C0559,human_validation,H0012.txt,1 - Banking / KYC / OTP Fraud
+C0560,human_validation,H0635.txt,7 - Dating / Romance / Sextortion
+C0561,human_validation,H0326.txt,8 - Legacy Telecom Scam
+C0562,human_validation,H0778.txt,1 - Banking / KYC / OTP Fraud
+C0563,yt,loan_credit_scam__CqzHMYpU4Xs.txt,5 - Loan / Credit App Scam
+C0564,human_validation,H0272.txt,8 - Legacy Telecom Scam
+C0565,human_validation,H0527.txt,1 - Banking / KYC / OTP Fraud
+C0566,human_validation,H0604.txt,7 - Dating / Romance / Sextortion
+C0567,human_validation,H0567.txt,2 - UPI / Wallet Fraud
+C0568,human_validation,H0184.txt,1 - Banking / KYC / OTP Fraud
+C0569,yt,loan_credit_scam__2XfbZFkREG4.txt,5 - Loan / Credit App Scam
+C0570,human_validation,H0745.txt,8 - Legacy Telecom Scam
+C0571,human_validation,H0645.txt,1 - Banking / KYC / OTP Fraud
+C0572,human_validation,H0682.txt,3 - Investment / Task Scam
+C0573,human_validation,H0928.txt,2 - UPI / Wallet Fraud
+C0574,human_validation,H0873.txt,8 - Legacy Telecom Scam
+C0575,human_validation,H0689.txt,7 - Dating / Romance / Sextortion
+C0576,human_validation,H0669.txt,8 - Legacy Telecom Scam
+C0577,human_validation,H0017.txt,8 - Legacy Telecom Scam
+C0578,human_validation,H0652.txt,8 - Legacy Telecom Scam
+C0579,human_validation,H0234.txt,7 - Dating / Romance / Sextortion
+C0580,human_validation,H0152.txt,8 - Legacy Telecom Scam
+C0581,human_validation,H0262.txt,6 - Delivery / Customer Care Scam
+C0582,human_validation,H0407.txt,5 - Loan / Credit App Scam
+C0583,human_validation,H0569.txt,3 - Investment / Task Scam
+C0584,human_validation,H0555.txt,2 - UPI / Wallet Fraud
+C0585,human_validation,H0599.txt,8 - Legacy Telecom Scam
+C0586,human_validation,H0772.txt,8 - Legacy Telecom Scam
+C0587,human_validation,H0877.txt,2 - UPI / Wallet Fraud
+C0588,human_validation,H0668.txt,6 - Delivery / Customer Care Scam
+C0589,human_validation,H0225.txt,8 - Legacy Telecom Scam
+C0590,human_validation,H0432.txt,1 - Banking / KYC / OTP Fraud
+C0591,human_validation,H0246.txt,2 - UPI / Wallet Fraud
+C0592,human_validation,H0387.txt,6 - Delivery / Customer Care Scam
+C0593,human_validation,H0394.txt,8 - Legacy Telecom Scam
+C0594,human_validation,H0727.txt,4 - Digital Arrest / Government Impersonation
+C0595,human_validation,H0626.txt,2 - UPI / Wallet Fraud
+C0596,human_validation,H0130.txt,1 - Banking / KYC / OTP Fraud
+C0597,human_validation,H0593.txt,8 - Legacy Telecom Scam
+C0598,human_validation,H0435.txt,4 - Digital Arrest / Government Impersonation
+C0599,human_validation,H0030.txt,1 - Banking / KYC / OTP Fraud
+C0600,human_validation,H0310.txt,8 - Legacy Telecom Scam
+C0601,human_validation,H0363.txt,2 - UPI / Wallet Fraud
+C0602,human_validation,H0907.txt,1 - Banking / KYC / OTP Fraud
+C0603,human_validation,H0129.txt,8 - Legacy Telecom Scam
+C0604,human_validation,H0640.txt,2 - UPI / Wallet Fraud
+C0605,human_validation,H0122.txt,5 - Loan / Credit App Scam
+C0606,human_validation,H0619.txt,8 - Legacy Telecom Scam
+C0607,human_validation,H0167.txt,7 - Dating / Romance / Sextortion
+C0608,human_validation,H0116.txt,5 - Loan / Credit App Scam
+C0609,human_validation,H0058.txt,8 - Legacy Telecom Scam
+C0610,human_validation,H0648.txt,8 - Legacy Telecom Scam
+C0611,human_validation,H0203.txt,7 - Dating / Romance / Sextortion
+C0612,human_validation,H0351.txt,8 - Legacy Telecom Scam
+C0613,human_validation,H0556.txt,1 - Banking / KYC / OTP Fraud
+C0614,human_validation,H0751.txt,6 - Delivery / Customer Care Scam
+C0615,yt,upi_wallet_fraud__bFOiLi3z5IA.txt,2 - UPI / Wallet Fraud
+C0616,human_validation,H0327.txt,6 - Delivery / Customer Care Scam
+C0617,human_validation,H0427.txt,8 - Legacy Telecom Scam
+C0618,human_validation,H0305.txt,8 - Legacy Telecom Scam
+C0619,human_validation,H0650.txt,8 - Legacy Telecom Scam
+C0620,human_validation,H0297.txt,8 - Legacy Telecom Scam
+C0621,human_validation,H0708.txt,7 - Dating / Romance / Sextortion
+C0622,human_validation,H0289.txt,2 - UPI / Wallet Fraud
+C0623,human_validation,H0025.txt,2 - UPI / Wallet Fraud
+C0624,human_validation,H0448.txt,8 - Legacy Telecom Scam
+C0625,human_validation,H0060.txt,4 - Digital Arrest / Government Impersonation
+C0626,human_validation,H0676.txt,1 - Banking / KYC / OTP Fraud
+C0627,human_validation,H0666.txt,1 - Banking / KYC / OTP Fraud
+C0628,yt,lottery_prize_scam__Dhi3QdG8uWM.txt,8 - Legacy Telecom Scam
+C0629,human_validation,H0934.txt,8 - Legacy Telecom Scam
+C0630,human_validation,H0926.txt,4 - Digital Arrest / Government Impersonation
+C0631,human_validation,H0384.txt,8 - Legacy Telecom Scam
+C0632,human_validation,H0719.txt,3 - Investment / Task Scam
+C0633,human_validation,H0437.txt,8 - Legacy Telecom Scam
+C0634,human_validation,H0474.txt,6 - Delivery / Customer Care Scam
+C0635,human_validation,H0609.txt,8 - Legacy Telecom Scam
+C0636,human_validation,H0221.txt,3 - Investment / Task Scam
+C0637,human_validation,H0623.txt,1 - Banking / KYC / OTP Fraud
+C0638,human_validation,H0324.txt,1 - Banking / KYC / OTP Fraud
+C0639,human_validation,H0414.txt,8 - Legacy Telecom Scam
+C0640,human_validation,H0039.txt,8 - Legacy Telecom Scam
+C0641,human_validation,H0630.txt,7 - Dating / Romance / Sextortion
+C0642,human_validation,H0641.txt,8 - Legacy Telecom Scam
+C0643,human_validation,H0622.txt,4 - Digital Arrest / Government Impersonation
+C0644,human_validation,H0467.txt,8 - Legacy Telecom Scam
+C0645,human_validation,H0944.txt,8 - Legacy Telecom Scam
+C0646,human_validation,H0359.txt,2 - UPI / Wallet Fraud
+C0647,human_validation,H0591.txt,4 - Digital Arrest / Government Impersonation
+C0648,human_validation,H0575.txt,4 - Digital Arrest / Government Impersonation
+C0649,human_validation,H0715.txt,8 - Legacy Telecom Scam
+C0650,human_validation,H0126.txt,2 - UPI / Wallet Fraud
+C0651,human_validation,H0318.txt,8 - Legacy Telecom Scam
+C0652,yt,lottery_prize_scam__y8IAJEFq6tw.txt,8 - Legacy Telecom Scam
+C0653,human_validation,H0241.txt,7 - Dating / Romance / Sextortion
+C0654,human_validation,H0837.txt,2 - UPI / Wallet Fraud
+C0655,human_validation,H0059.txt,8 - Legacy Telecom Scam
+C0656,human_validation,H0016.txt,4 - Digital Arrest / Government Impersonation
+C0657,human_validation,H0737.txt,8 - Legacy Telecom Scam
+C0658,human_validation,H0264.txt,8 - Legacy Telecom Scam
+C0659,human_validation,H0810.txt,5 - Loan / Credit App Scam
+C0660,human_validation,H0881.txt,8 - Legacy Telecom Scam
+C0661,human_validation,H0065.txt,3 - Investment / Task Scam
+C0662,human_validation,H0263.txt,1 - Banking / KYC / OTP Fraud
+C0663,human_validation,H0268.txt,2 - UPI / Wallet Fraud
+C0664,yt,lottery_prize_scam__eYQgZ48gO88.txt,8 - Legacy Telecom Scam
+C0665,human_validation,H0323.txt,8 - Legacy Telecom Scam
+C0666,human_validation,H0299.txt,2 - UPI / Wallet Fraud
+C0667,human_validation,H0872.txt,5 - Loan / Credit App Scam
+C0668,human_validation,H0826.txt,6 - Delivery / Customer Care Scam
+C0669,human_validation,H0284.txt,8 - Legacy Telecom Scam
+C0670,human_validation,H0322.txt,8 - Legacy Telecom Scam
+C0671,yt,bank_impersonation__oSxcny7iw9k.txt,1 - Banking / KYC / OTP Fraud
+C0672,human_validation,H0743.txt,5 - Loan / Credit App Scam
+C0673,human_validation,H0646.txt,5 - Loan / Credit App Scam
+C0674,human_validation,H0709.txt,1 - Banking / KYC / OTP Fraud
+C0675,human_validation,H0190.txt,3 - Investment / Task Scam
+C0676,human_validation,H0365.txt,1 - Banking / KYC / OTP Fraud
+C0677,human_validation,H0062.txt,2 - UPI / Wallet Fraud
+C0678,human_validation,H0815.txt,8 - Legacy Telecom Scam
+C0679,human_validation,H0176.txt,7 - Dating / Romance / Sextortion
+C0680,human_validation,H0447.txt,4 - Digital Arrest / Government Impersonation
+C0681,human_validation,H0867.txt,1 - Banking / KYC / OTP Fraud
+C0682,human_validation,H0271.txt,8 - Legacy Telecom Scam
+C0683,human_validation,H0104.txt,3 - Investment / Task Scam
+C0684,human_validation,H0136.txt,4 - Digital Arrest / Government Impersonation
+C0685,human_validation,H0692.txt,2 - UPI / Wallet Fraud
+C0686,human_validation,H0845.txt,4 - Digital Arrest / Government Impersonation
+C0687,human_validation,H0577.txt,8 - Legacy Telecom Scam
+C0688,human_validation,H0918.txt,2 - UPI / Wallet Fraud
+C0689,human_validation,H0584.txt,8 - Legacy Telecom Scam
+C0690,human_validation,H0714.txt,2 - UPI / Wallet Fraud
+C0691,human_validation,H0582.txt,4 - Digital Arrest / Government Impersonation
+C0692,human_validation,H0570.txt,1 - Banking / KYC / OTP Fraud
+C0693,human_validation,H0288.txt,8 - Legacy Telecom Scam
+C0694,human_validation,H0849.txt,1 - Banking / KYC / OTP Fraud
+C0695,human_validation,H0113.txt,3 - Investment / Task Scam
+C0696,human_validation,H0222.txt,4 - Digital Arrest / Government Impersonation
+C0697,human_validation,H0552.txt,8 - Legacy Telecom Scam
+C0698,human_validation,H0587.txt,7 - Dating / Romance / Sextortion
+C0699,human_validation,H0576.txt,5 - Loan / Credit App Scam
+C0700,human_validation,H0702.txt,4 - Digital Arrest / Government Impersonation
+C0701,human_validation,H0161.txt,8 - Legacy Telecom Scam
+C0702,human_validation,H0361.txt,2 - UPI / Wallet Fraud
+C0703,human_validation,H0028.txt,7 - Dating / Romance / Sextortion
+C0704,human_validation,H0187.txt,8 - Legacy Telecom Scam
+C0705,human_validation,H0954.txt,8 - Legacy Telecom Scam
+C0706,human_validation,H0829.txt,2 - UPI / Wallet Fraud
+C0707,human_validation,H0418.txt,3 - Investment / Task Scam
+C0708,human_validation,H0339.txt,1 - Banking / KYC / OTP Fraud
+C0709,human_validation,H0749.txt,8 - Legacy Telecom Scam
+C0710,human_validation,H0466.txt,6 - Delivery / Customer Care Scam
+C0711,human_validation,H0096.txt,6 - Delivery / Customer Care Scam
+C0712,human_validation,H0839.txt,1 - Banking / KYC / OTP Fraud
+C0713,human_validation,H0237.txt,2 - UPI / Wallet Fraud
+C0714,human_validation,H0220.txt,8 - Legacy Telecom Scam
+C0715,human_validation,H0097.txt,6 - Delivery / Customer Care Scam
+C0716,human_validation,H0281.txt,8 - Legacy Telecom Scam
+C0717,yt,bank_impersonation__IG_rnyN7aQU.txt,1 - Banking / KYC / OTP Fraud
+C0718,human_validation,H0540.txt,8 - Legacy Telecom Scam
+C0719,human_validation,H0123.txt,8 - Legacy Telecom Scam
+C0720,human_validation,H0456.txt,8 - Legacy Telecom Scam
+C0721,human_validation,H0947.txt,7 - Dating / Romance / Sextortion
+C0722,human_validation,H0532.txt,8 - Legacy Telecom Scam
+C0723,human_validation,H0787.txt,8 - Legacy Telecom Scam
+C0724,human_validation,H0182.txt,4 - Digital Arrest / Government Impersonation
+C0725,human_validation,H0479.txt,7 - Dating / Romance / Sextortion
+C0726,yt,government_police_scam__ajLsjhrKF1A.txt,4 - Digital Arrest / Government Impersonation
+C0727,human_validation,H0426.txt,8 - Legacy Telecom Scam
+C0728,human_validation,H0961.txt,1 - Banking / KYC / OTP Fraud
+C0729,human_validation,H0476.txt,8 - Legacy Telecom Scam
+C0730,human_validation,H0270.txt,6 - Delivery / Customer Care Scam
+C0731,human_validation,H0179.txt,6 - Delivery / Customer Care Scam
+C0732,human_validation,H0353.txt,4 - Digital Arrest / Government Impersonation
+C0733,human_validation,H0192.txt,6 - Delivery / Customer Care Scam
+C0734,human_validation,H0313.txt,2 - UPI / Wallet Fraud
+C0735,human_validation,H0393.txt,1 - Banking / KYC / OTP Fraud
+C0736,human_validation,H0081.txt,2 - UPI / Wallet Fraud
+C0737,human_validation,H0425.txt,8 - Legacy Telecom Scam
+C0738,human_validation,H0546.txt,1 - Banking / KYC / OTP Fraud
+C0739,human_validation,H0876.txt,6 - Delivery / Customer Care Scam
+C0740,human_validation,H0280.txt,7 - Dating / Romance / Sextortion
+C0741,human_validation,H0809.txt,8 - Legacy Telecom Scam
+C0742,human_validation,H0191.txt,8 - Legacy Telecom Scam
+C0743,human_validation,H0678.txt,6 - Delivery / Customer Care Scam
+C0744,human_validation,H0165.txt,4 - Digital Arrest / Government Impersonation
+C0745,human_validation,H0142.txt,2 - UPI / Wallet Fraud
+C0746,human_validation,H0530.txt,7 - Dating / Romance / Sextortion
+C0747,human_validation,H0224.txt,8 - Legacy Telecom Scam
+C0748,human_validation,H0543.txt,8 - Legacy Telecom Scam
+C0749,human_validation,H0798.txt,8 - Legacy Telecom Scam
+C0750,human_validation,H0960.txt,8 - Legacy Telecom Scam
+C0751,human_validation,H0021.txt,1 - Banking / KYC / OTP Fraud
+C0752,yt,bank_impersonation__T6sr_J6N4WM.txt,1 - Banking / KYC / OTP Fraud
+C0753,human_validation,H0729.txt,1 - Banking / KYC / OTP Fraud
+C0754,human_validation,H0496.txt,2 - UPI / Wallet Fraud
+C0755,human_validation,H0194.txt,3 - Investment / Task Scam
+C0756,human_validation,H0657.txt,8 - Legacy Telecom Scam
+C0757,human_validation,H0858.txt,8 - Legacy Telecom Scam
+C0758,human_validation,H0050.txt,4 - Digital Arrest / Government Impersonation
+C0759,human_validation,H0558.txt,8 - Legacy Telecom Scam
+C0760,human_validation,H0664.txt,6 - Delivery / Customer Care Scam
+C0761,human_validation,H0047.txt,6 - Delivery / Customer Care Scam
+C0762,human_validation,H0178.txt,4 - Digital Arrest / Government Impersonation
+C0763,human_validation,H0927.txt,8 - Legacy Telecom Scam
+C0764,yt,lottery_prize_scam__SriJ5mELld8.txt,8 - Legacy Telecom Scam
+C0765,human_validation,H0891.txt,8 - Legacy Telecom Scam
+C0766,yt,upi_wallet_fraud__iCQ8a1IRQTQ.txt,2 - UPI / Wallet Fraud
+C0767,human_validation,H0561.txt,4 - Digital Arrest / Government Impersonation
+C0768,human_validation,H0072.txt,7 - Dating / Romance / Sextortion
+C0769,yt,investment_money_scam__HkpfCQQwDM4.txt,3 - Investment / Task Scam
+C0770,human_validation,H0695.txt,4 - Digital Arrest / Government Impersonation
+C0771,human_validation,H0239.txt,7 - Dating / Romance / Sextortion
+C0772,human_validation,H0824.txt,1 - Banking / KYC / OTP Fraud
+C0773,human_validation,H0955.txt,7 - Dating / Romance / Sextortion
+C0774,human_validation,H0345.txt,8 - Legacy Telecom Scam
+C0775,human_validation,H0639.txt,1 - Banking / KYC / OTP Fraud
+C0776,human_validation,H0894.txt,7 - Dating / Romance / Sextortion
+C0777,human_validation,H0212.txt,8 - Legacy Telecom Scam
+C0778,human_validation,H0807.txt,2 - UPI / Wallet Fraud
+C0779,human_validation,H0606.txt,4 - Digital Arrest / Government Impersonation
+C0780,human_validation,H0158.txt,1 - Banking / KYC / OTP Fraud
+C0781,human_validation,H0175.txt,8 - Legacy Telecom Scam
+C0782,human_validation,H0634.txt,3 - Investment / Task Scam
+C0783,human_validation,H0586.txt,1 - Banking / KYC / OTP Fraud
+C0784,human_validation,H0900.txt,5 - Loan / Credit App Scam
+C0785,human_validation,H0896.txt,6 - Delivery / Customer Care Scam
+C0786,human_validation,H0942.txt,8 - Legacy Telecom Scam
+C0787,human_validation,H0334.txt,7 - Dating / Romance / Sextortion
+C0788,yt,lottery_prize_scam__pHXCgUW5Po8.txt,8 - Legacy Telecom Scam
+C0789,human_validation,H0311.txt,2 - UPI / Wallet Fraud
+C0790,human_validation,H0700.txt,4 - Digital Arrest / Government Impersonation
+C0791,human_validation,H0336.txt,7 - Dating / Romance / Sextortion
+C0792,human_validation,H0488.txt,2 - UPI / Wallet Fraud
+C0793,human_validation,H0523.txt,1 - Banking / KYC / OTP Fraud
+C0794,human_validation,H0795.txt,4 - Digital Arrest / Government Impersonation
+C0795,human_validation,H0027.txt,8 - Legacy Telecom Scam
+C0796,human_validation,H0789.txt,4 - Digital Arrest / Government Impersonation
+C0797,human_validation,H0362.txt,4 - Digital Arrest / Government Impersonation
+C0798,human_validation,H0662.txt,4 - Digital Arrest / Government Impersonation
+C0799,human_validation,H0356.txt,8 - Legacy Telecom Scam
+C0800,human_validation,H0053.txt,8 - Legacy Telecom Scam
+C0801,human_validation,H0076.txt,6 - Delivery / Customer Care Scam
+C0802,human_validation,H0399.txt,8 - Legacy Telecom Scam
+C0803,human_validation,H0109.txt,2 - UPI / Wallet Fraud
+C0804,human_validation,H0861.txt,8 - Legacy Telecom Scam
+C0805,yt,delivery_customer_care_scam__oS84GQj_KpY.txt,6 - Delivery / Customer Care Scam
+C0806,human_validation,H0202.txt,8 - Legacy Telecom Scam
+C0807,human_validation,H0533.txt,5 - Loan / Credit App Scam
+C0808,human_validation,H0153.txt,4 - Digital Arrest / Government Impersonation
+C0809,human_validation,H0400.txt,5 - Loan / Credit App Scam
+C0810,human_validation,H0864.txt,5 - Loan / Credit App Scam
+C0811,human_validation,H0520.txt,8 - Legacy Telecom Scam
+C0812,human_validation,H0314.txt,4 - Digital Arrest / Government Impersonation
+C0813,human_validation,H0601.txt,1 - Banking / KYC / OTP Fraud
+C0814,human_validation,H0802.txt,5 - Loan / Credit App Scam
+C0815,human_validation,H0803.txt,8 - Legacy Telecom Scam
+C0816,human_validation,H0830.txt,3 - Investment / Task Scam
+C0817,human_validation,H0164.txt,4 - Digital Arrest / Government Impersonation
+C0818,human_validation,H0844.txt,4 - Digital Arrest / Government Impersonation
+C0819,human_validation,H0428.txt,8 - Legacy Telecom Scam
+C0820,human_validation,H0087.txt,8 - Legacy Telecom Scam
+C0821,yt,upi_wallet_fraud__HqnzrLsIDqc.txt,2 - UPI / Wallet Fraud
+C0822,human_validation,H0517.txt,4 - Digital Arrest / Government Impersonation
+C0823,human_validation,H0902.txt,5 - Loan / Credit App Scam
+C0824,human_validation,H0613.txt,8 - Legacy Telecom Scam
+C0825,human_validation,H0135.txt,1 - Banking / KYC / OTP Fraud
+C0826,human_validation,H0603.txt,5 - Loan / Credit App Scam
+C0827,human_validation,H0485.txt,3 - Investment / Task Scam
+C0828,human_validation,H0229.txt,3 - Investment / Task Scam
+C0829,human_validation,H0935.txt,3 - Investment / Task Scam
+C0830,human_validation,H0139.txt,3 - Investment / Task Scam
+C0831,human_validation,H0738.txt,5 - Loan / Credit App Scam
+C0832,human_validation,H0707.txt,8 - Legacy Telecom Scam
+C0833,human_validation,H0504.txt,4 - Digital Arrest / Government Impersonation
+C0834,human_validation,H0788.txt,3 - Investment / Task Scam
+C0835,yt,lottery_prize_scam__U2dKr51bdis.txt,8 - Legacy Telecom Scam
+C0836,human_validation,H0598.txt,8 - Legacy Telecom Scam
+C0837,human_validation,H0681.txt,1 - Banking / KYC / OTP Fraud
+C0838,human_validation,H0321.txt,7 - Dating / Romance / Sextortion
+C0839,yt,lottery_prize_scam__gEX_mh07Mzg.txt,8 - Legacy Telecom Scam
+C0840,human_validation,H0159.txt,1 - Banking / KYC / OTP Fraud
+C0841,yt,dating_romance_scam__KneVwismXaM.txt,7 - Dating / Romance / Sextortion
+C0842,human_validation,H0651.txt,8 - Legacy Telecom Scam
+C0843,human_validation,H0776.txt,8 - Legacy Telecom Scam
+C0844,human_validation,H0685.txt,8 - Legacy Telecom Scam
+C0845,human_validation,H0275.txt,1 - Banking / KYC / OTP Fraud
+C0846,human_validation,H0856.txt,7 - Dating / Romance / Sextortion
+C0847,human_validation,H0770.txt,6 - Delivery / Customer Care Scam
+C0848,human_validation,H0046.txt,6 - Delivery / Customer Care Scam
+C0849,human_validation,H0636.txt,3 - Investment / Task Scam
+C0850,human_validation,H0124.txt,7 - Dating / Romance / Sextortion
+C0851,human_validation,H0254.txt,8 - Legacy Telecom Scam
+C0852,human_validation,H0204.txt,7 - Dating / Romance / Sextortion
+C0853,human_validation,H0813.txt,4 - Digital Arrest / Government Impersonation
+C0854,human_validation,H0625.txt,8 - Legacy Telecom Scam
+C0855,human_validation,H0086.txt,7 - Dating / Romance / Sextortion
+C0856,human_validation,H0560.txt,1 - Banking / KYC / OTP Fraud
+C0857,human_validation,H0595.txt,2 - UPI / Wallet Fraud
+C0858,human_validation,H0463.txt,8 - Legacy Telecom Scam
+C0859,human_validation,H0001.txt,7 - Dating / Romance / Sextortion
+C0860,human_validation,H0095.txt,4 - Digital Arrest / Government Impersonation
+C0861,human_validation,H0015.txt,3 - Investment / Task Scam
+C0862,human_validation,H0461.txt,8 - Legacy Telecom Scam
+C0863,human_validation,H0150.txt,8 - Legacy Telecom Scam
+C0864,human_validation,H0422.txt,5 - Loan / Credit App Scam
+C0865,human_validation,H0766.txt,8 - Legacy Telecom Scam
+C0866,human_validation,H0200.txt,8 - Legacy Telecom Scam
+C0867,human_validation,H0099.txt,4 - Digital Arrest / Government Impersonation
+C0868,human_validation,H0380.txt,6 - Delivery / Customer Care Scam
+C0869,yt,upi_wallet_fraud__MsjMrsuemPs.txt,2 - UPI / Wallet Fraud
+C0870,human_validation,H0273.txt,8 - Legacy Telecom Scam
+C0871,human_validation,H0665.txt,3 - Investment / Task Scam
+C0872,human_validation,H0066.txt,4 - Digital Arrest / Government Impersonation
+C0873,human_validation,H0924.txt,8 - Legacy Telecom Scam
+C0874,human_validation,H0746.txt,3 - Investment / Task Scam
+C0875,human_validation,H0863.txt,5 - Loan / Credit App Scam
+C0876,yt,bank_impersonation__ssNvbOrLQS0.txt,1 - Banking / KYC / OTP Fraud
+C0877,human_validation,H0188.txt,6 - Delivery / Customer Care Scam
+C0878,human_validation,H0464.txt,8 - Legacy Telecom Scam
+C0879,human_validation,H0266.txt,2 - UPI / Wallet Fraud
+C0880,human_validation,H0528.txt,8 - Legacy Telecom Scam
+C0881,human_validation,H0804.txt,6 - Delivery / Customer Care Scam
+C0882,yt,investment_money_scam__fnOtSNbhNqs.txt,3 - Investment / Task Scam
+C0883,human_validation,H0706.txt,2 - UPI / Wallet Fraud
+C0884,human_validation,H0449.txt,4 - Digital Arrest / Government Impersonation
+C0885,human_validation,H0101.txt,4 - Digital Arrest / Government Impersonation
+C0886,human_validation,H0832.txt,1 - Banking / KYC / OTP Fraud
+C0887,yt,government_police_scam___oVglnnTY_A.txt,4 - Digital Arrest / Government Impersonation
+C0888,human_validation,H0325.txt,7 - Dating / Romance / Sextortion
+C0889,human_validation,H0298.txt,4 - Digital Arrest / Government Impersonation
+C0890,human_validation,H0917.txt,8 - Legacy Telecom Scam
+C0891,human_validation,H0035.txt,8 - Legacy Telecom Scam
+C0892,human_validation,H0680.txt,4 - Digital Arrest / Government Impersonation
+C0893,human_validation,H0572.txt,8 - Legacy Telecom Scam
+C0894,human_validation,H0445.txt,8 - Legacy Telecom Scam
+C0895,human_validation,H0828.txt,2 - UPI / Wallet Fraud
+C0896,human_validation,H0510.txt,8 - Legacy Telecom Scam
+C0897,human_validation,H0847.txt,2 - UPI / Wallet Fraud
+C0898,human_validation,H0786.txt,8 - Legacy Telecom Scam
+C0899,human_validation,H0524.txt,4 - Digital Arrest / Government Impersonation
+C0900,human_validation,H0478.txt,8 - Legacy Telecom Scam
+C0901,human_validation,H0498.txt,8 - Legacy Telecom Scam
+C0902,human_validation,H0710.txt,2 - UPI / Wallet Fraud
+C0903,human_validation,H0267.txt,8 - Legacy Telecom Scam
+C0904,human_validation,H0205.txt,2 - UPI / Wallet Fraud
+C0905,human_validation,H0369.txt,4 - Digital Arrest / Government Impersonation
+C0906,human_validation,H0502.txt,5 - Loan / Credit App Scam
+C0907,human_validation,H0956.txt,3 - Investment / Task Scam
+C0908,human_validation,H0823.txt,6 - Delivery / Customer Care Scam
+C0909,human_validation,H0470.txt,2 - UPI / Wallet Fraud
+C0910,human_validation,H0612.txt,8 - Legacy Telecom Scam
+C0911,yt,lottery_prize_scam__lJiPZgY8P48.txt,8 - Legacy Telecom Scam
+C0912,human_validation,H0672.txt,7 - Dating / Romance / Sextortion
+C0913,human_validation,H0154.txt,8 - Legacy Telecom Scam
+C0914,human_validation,H0034.txt,8 - Legacy Telecom Scam
+C0915,human_validation,H0010.txt,3 - Investment / Task Scam
+C0916,human_validation,H0276.txt,2 - UPI / Wallet Fraud
+C0917,human_validation,H0852.txt,8 - Legacy Telecom Scam
+C0918,human_validation,H0302.txt,1 - Banking / KYC / OTP Fraud
+C0919,human_validation,H0208.txt,8 - Legacy Telecom Scam
+C0920,human_validation,H0444.txt,5 - Loan / Credit App Scam
+C0921,human_validation,H0932.txt,8 - Legacy Telecom Scam
+C0922,human_validation,H0946.txt,6 - Delivery / Customer Care Scam
+C0923,human_validation,H0965.txt,7 - Dating / Romance / Sextortion
+C0924,human_validation,H0968.txt,8 - Legacy Telecom Scam
+C0925,human_validation,H0716.txt,3 - Investment / Task Scam
+C0926,human_validation,H0514.txt,2 - UPI / Wallet Fraud
+C0927,human_validation,H0663.txt,1 - Banking / KYC / OTP Fraud
+C0928,human_validation,H0819.txt,5 - Loan / Credit App Scam
+C0929,human_validation,H0562.txt,6 - Delivery / Customer Care Scam
+C0930,human_validation,H0316.txt,5 - Loan / Credit App Scam
+C0931,human_validation,H0686.txt,6 - Delivery / Customer Care Scam
+C0932,human_validation,H0412.txt,8 - Legacy Telecom Scam
+C0933,human_validation,H0574.txt,8 - Legacy Telecom Scam
+C0934,human_validation,H0258.txt,2 - UPI / Wallet Fraud
+C0935,human_validation,H0559.txt,7 - Dating / Romance / Sextortion
+C0936,human_validation,H0732.txt,5 - Loan / Credit App Scam
+C0937,human_validation,H0481.txt,8 - Legacy Telecom Scam
+C0938,human_validation,H0691.txt,3 - Investment / Task Scam
+C0939,human_validation,H0468.txt,5 - Loan / Credit App Scam
+C0940,human_validation,H0718.txt,8 - Legacy Telecom Scam
+C0941,human_validation,H0642.txt,7 - Dating / Romance / Sextortion
+C0942,human_validation,H0125.txt,8 - Legacy Telecom Scam
+C0943,human_validation,H0908.txt,5 - Loan / Credit App Scam
+C0944,human_validation,H0871.txt,2 - UPI / Wallet Fraud
+C0945,human_validation,H0235.txt,4 - Digital Arrest / Government Impersonation
+C0946,human_validation,H0906.txt,1 - Banking / KYC / OTP Fraud
+C0947,human_validation,H0494.txt,1 - Banking / KYC / OTP Fraud
+C0948,human_validation,H0146.txt,3 - Investment / Task Scam
+C0949,human_validation,H0482.txt,5 - Loan / Credit App Scam
+C0950,human_validation,H0440.txt,8 - Legacy Telecom Scam
+C0951,human_validation,H0638.txt,1 - Banking / KYC / OTP Fraud
+C0952,human_validation,H0735.txt,6 - Delivery / Customer Care Scam
+C0953,human_validation,H0106.txt,8 - Legacy Telecom Scam
+C0954,human_validation,H0687.txt,6 - Delivery / Customer Care Scam
+C0955,human_validation,H0909.txt,8 - Legacy Telecom Scam
+C0956,human_validation,H0536.txt,3 - Investment / Task Scam
+C0957,human_validation,H0722.txt,1 - Banking / KYC / OTP Fraud
+C0958,human_validation,H0051.txt,8 - Legacy Telecom Scam
+C0959,human_validation,H0838.txt,8 - Legacy Telecom Scam
+C0960,human_validation,H0133.txt,3 - Investment / Task Scam
+C0961,human_validation,H0785.txt,6 - Delivery / Customer Care Scam
+C0962,human_validation,H0230.txt,6 - Delivery / Customer Care Scam
+C0963,human_validation,H0590.txt,6 - Delivery / Customer Care Scam
+C0964,yt,investment_money_scam__OVU4i3z2Ie8.txt,3 - Investment / Task Scam
+C0965,yt,dating_romance_scam__82uErc1otvE.txt,7 - Dating / Romance / Sextortion
+C0966,human_validation,H0531.txt,4 - Digital Arrest / Government Impersonation
+C0967,yt,delivery_customer_care_scam__O2GEfNya3og.txt,6 - Delivery / Customer Care Scam
+C0968,human_validation,H0491.txt,8 - Legacy Telecom Scam
+C0969,human_validation,H0949.txt,8 - Legacy Telecom Scam
+C0970,human_validation,H0578.txt,1 - Banking / KYC / OTP Fraud
+C0971,yt,lottery_prize_scam__IkNhJpbkYgA.txt,8 - Legacy Telecom Scam
+C0972,human_validation,H0865.txt,2 - UPI / Wallet Fraud
+C0973,human_validation,H0265.txt,5 - Loan / Credit App Scam
+C0974,human_validation,H0538.txt,8 - Legacy Telecom Scam
+C0975,human_validation,H0939.txt,7 - Dating / Romance / Sextortion
+C0976,human_validation,H0408.txt,8 - Legacy Telecom Scam
+C0977,human_validation,H0503.txt,2 - UPI / Wallet Fraud
+C0978,human_validation,H0897.txt,8 - Legacy Telecom Scam
+C0979,human_validation,H0615.txt,5 - Loan / Credit App Scam
+C0980,human_validation,H0888.txt,7 - Dating / Romance / Sextortion
+C0981,human_validation,H0769.txt,7 - Dating / Romance / Sextortion
+C0982,human_validation,H0822.txt,4 - Digital Arrest / Government Impersonation
+C0983,human_validation,H0519.txt,5 - Loan / Credit App Scam
+C0984,human_validation,H0436.txt,1 - Banking / KYC / OTP Fraud
+C0985,human_validation,H0120.txt,8 - Legacy Telecom Scam
+C0986,human_validation,H0889.txt,3 - Investment / Task Scam
+C0987,human_validation,H0511.txt,8 - Legacy Telecom Scam
+C0988,human_validation,H0568.txt,6 - Delivery / Customer Care Scam
+C0989,human_validation,H0600.txt,2 - UPI / Wallet Fraud
+C0990,human_validation,H0913.txt,1 - Banking / KYC / OTP Fraud
+C0991,human_validation,H0409.txt,8 - Legacy Telecom Scam
+C0992,human_validation,H0093.txt,1 - Banking / KYC / OTP Fraud
+C0993,human_validation,H0433.txt,7 - Dating / Romance / Sextortion
+C0994,human_validation,H0473.txt,8 - Legacy Telecom Scam
+C0995,human_validation,H0373.txt,2 - UPI / Wallet Fraud
+C0996,human_validation,H0378.txt,1 - Banking / KYC / OTP Fraud
+C0997,human_validation,H0728.txt,6 - Delivery / Customer Care Scam
+C0998,human_validation,H0869.txt,6 - Delivery / Customer Care Scam
+C0999,human_validation,H0026.txt,2 - UPI / Wallet Fraud
+C1000,human_validation,H0317.txt,1 - Banking / KYC / OTP Fraud
+C1001,human_validation,H0592.txt,8 - Legacy Telecom Scam
+C1002,human_validation,H0734.txt,1 - Banking / KYC / OTP Fraud
+C1003,human_validation,H0721.txt,8 - Legacy Telecom Scam
+C1004,human_validation,H0661.txt,7 - Dating / Romance / Sextortion
+C1005,human_validation,H0898.txt,4 - Digital Arrest / Government Impersonation
+C1006,human_validation,H0145.txt,3 - Investment / Task Scam
+C1007,human_validation,H0469.txt,3 - Investment / Task Scam
+C1008,human_validation,H0295.txt,4 - Digital Arrest / Government Impersonation
+C1009,human_validation,H0300.txt,2 - UPI / Wallet Fraud
+C1010,human_validation,H0551.txt,7 - Dating / Romance / Sextortion
+C1011,human_validation,H0571.txt,3 - Investment / Task Scam
+C1012,human_validation,H0092.txt,4 - Digital Arrest / Government Impersonation
+C1013,human_validation,H0349.txt,5 - Loan / Credit App Scam
+C1014,human_validation,H0741.txt,8 - Legacy Telecom Scam
+C1015,human_validation,H0079.txt,7 - Dating / Romance / Sextortion
+C1016,human_validation,H0654.txt,8 - Legacy Telecom Scam
+C1017,human_validation,H0526.txt,5 - Loan / Credit App Scam
+C1018,human_validation,H0764.txt,8 - Legacy Telecom Scam
+C1019,human_validation,H0386.txt,8 - Legacy Telecom Scam
+C1020,human_validation,H0825.txt,1 - Banking / KYC / OTP Fraud
+C1021,human_validation,H0366.txt,1 - Banking / KYC / OTP Fraud
+C1022,human_validation,H0952.txt,5 - Loan / Credit App Scam
+C1023,yt,investment_money_scam__hg-5XMPJJfY.txt,3 - Investment / Task Scam
+C1024,human_validation,H0713.txt,4 - Digital Arrest / Government Impersonation
+C1025,human_validation,H0516.txt,8 - Legacy Telecom Scam
+C1026,human_validation,H0814.txt,5 - Loan / Credit App Scam
+C1027,human_validation,H0431.txt,8 - Legacy Telecom Scam
+C1028,human_validation,H0644.txt,1 - Banking / KYC / OTP Fraud
+C1029,yt,investment_money_scam__jgZLmQr_b7o.txt,3 - Investment / Task Scam
+C1030,human_validation,H0024.txt,8 - Legacy Telecom Scam
+C1031,human_validation,H0921.txt,4 - Digital Arrest / Government Impersonation
+C1032,human_validation,H0201.txt,8 - Legacy Telecom Scam
+C1033,human_validation,H0589.txt,8 - Legacy Telecom Scam
+C1034,human_validation,H0227.txt,2 - UPI / Wallet Fraud
+C1035,human_validation,H0166.txt,8 - Legacy Telecom Scam
+C1036,human_validation,H0006.txt,6 - Delivery / Customer Care Scam
+C1037,human_validation,H0492.txt,8 - Legacy Telecom Scam
+C1038,human_validation,H0904.txt,8 - Legacy Telecom Scam
+C1039,yt,investment_money_scam__ySlUUI7VELE.txt,3 - Investment / Task Scam
+C1040,human_validation,H0862.txt,1 - Banking / KYC / OTP Fraud
+C1041,human_validation,H0458.txt,3 - Investment / Task Scam
+C1042,human_validation,H0211.txt,6 - Delivery / Customer Care Scam
+C1043,yt,lottery_prize_scam__PcQWjwe4Atk.txt,8 - Legacy Telecom Scam
+C1044,human_validation,H0655.txt,2 - UPI / Wallet Fraud
+C1045,human_validation,H0244.txt,4 - Digital Arrest / Government Impersonation

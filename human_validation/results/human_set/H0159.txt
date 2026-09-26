@@ -1,0 +1,9 @@
+caller: Namaste, sir. Main ICICI Bank ka security department se Rahul bol raha hoon. Aapke account mein kuch suspicious activity detect hui hai.
+receiver: Kya suspicious activity? Mujhe toh kuch pata nahi hai.
+caller: Sir, ek online transaction attempt hua hai Nepal mein ₹18,000 ka. Aapne kiya tha yeh transaction?
+receiver: Nepal? Nahi, maine toh kabhi Nepal se transaction nahi kiya. Yeh fraud hai!
+caller: Haan sir, shayad. Isliye hum verify kar rahe hain. Aapka PAN card number aur ek OTP bataiye jo aapke registered number pe aaega, taaki hum account block kar sakein aur aapka paisa safe kar sakein. Jaldi karo, sir, transaction pending hai.
+receiver: PAN card number? Aur OTP bhi? Abhi nahi, mujhe yeh theek nahi lag raha. Main ICICI Bank branch mein jaake check karunga.
+caller: Sir, branch mein time lagega aur aapka paisa risk mein rahega. OTP se verification seedha ho jayega aur transaction block ho jayega. Aapka trust hamara responsibility hai, sir. Please cooperate.
+receiver: Theek hai, theek hai. Mera PAN card number [Receiver’s PAN Card Number] hai. OTP check karta hoon.
+caller: Thank you sir. Ab OTP bataiye.

@@ -1,0 +1,7 @@
+caller: Namaste, Madam! This is Rahul Sharma calling from Zepto customer care. We've noticed some unusual activity on your account and a pending payment of ₹799 for a recent order.
+receiver: Oh really? I don’t recall any such order. What was the order ID?
+caller: The order ID is ZP87654. It appears to be a grocery delivery. To secure your account and process the refund for the incorrect charge, we need to verify your OTP.
+receiver: OTP? Why would I need to give you an OTP for a refund? That sounds suspicious.
+caller: Madam, it's a standard security protocol. Without verifying the OTP linked to your account, we cannot process the refund and prevent further fraudulent activity. It's for your safety. Please share the OTP so we can resolve this quickly.
+receiver: No, I'm not comfortable sharing an OTP over the phone. I'll call Zepto directly to confirm this.
+caller: Madam, please understand, time is of the essence. If you don’t provide the OTP within the next few minutes, your account may be temporarily suspended due to the alleged fraudulent activity. Just give me the OTP, please.

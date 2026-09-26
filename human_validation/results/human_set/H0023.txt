@@ -1,0 +1,8 @@
+caller: Namaste! This is Rakesh calling from ‘QuickCash Solutions’. We've reviewed your application and you’re pre-approved for a business loan of ₹75,000! A great opportunity to expand your shop! To activate it, we just need a quick confirmation. Are you there?
+receiver: Haan, bolo. QuickCash Solutions? Loan? Kitna interest rate hai?
+caller: Fantastic! The interest rate is only 8% for the first three months, then it adjusts slightly. Now, to finalize, we require a small processing fee of ₹2,500 to be deposited into this account: 1234567890. It’s refundable upon loan disbursement.
+receiver: ₹2,500? Processing fee? Loan toh approve ho gaya hai? Yeh fees refundable hai really?
+caller: Yes, absolutely refundable! This is standard procedure. We need to verify your commitment. Once the fee is received, we’ll send you the loan agreement within an hour. Don’t miss out; this offer is only valid for the next 30 minutes! Just send the screenshot of the transaction to this number.
+receiver: Wait a minute. This doesn’t sound right. I’ve heard about these scams. Why can’t I pay the processing fee later?
+caller: Look, sir, you are being very difficult. This is a genuine offer, and we are losing money on this! If you don't pay the ₹2,500 now, I will have to cancel your loan application. And I will have to report you for wasting our time and resources. Do you understand? We are already sending messages to your contacts about your inability to secure the loan.
+receiver: What?! You’re threatening me? And sending messages to my contacts? This is ridiculous! I’m reporting you to the cybercrime

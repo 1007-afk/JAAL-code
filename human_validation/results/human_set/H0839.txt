@@ -1,0 +1,7 @@
+caller: Namaste, calling from Axis Bank security department. We’ve noticed some unusual activity on your Axis Bank credit card. A transaction of Rs. 2800 was attempted from an unknown website.
+receiver: Hello? Haan, what happened? Which website was it?
+caller: The transaction originated from a shopping site called 'Deals4U'. To prevent further unauthorized charges, we need to verify some details. Can you please confirm the last three digits of your credit card number for security purposes?
+receiver: Last three digits? Why can’t you just verify it on your end? That’s sensitive information.
+caller: Sir, our system is undergoing maintenance. We need to quickly confirm your identity to block the card and issue a new one. Otherwise, there's a risk of more fraudulent transactions.  We are trying to protect your money.
+receiver: Wait a minute. This sounds fishy. Can you give me a callback number from Axis Bank so I can call and verify this myself?
+caller: Just one moment, sir.  I’ll provide you with a reference number.  Please note, for security reasons, I cannot share a direct callback number at this time.  Your reference number is AX4567.  Now, regarding the card verification...

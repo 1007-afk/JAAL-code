@@ -1,0 +1,8 @@
+caller: Namaste sir, main Axis Bank se Rohit bol raha hoon. Aapke account mein kuch suspicious activity detect hui hai. Security ke liye verify karna hai.
+receiver: Suspicious activity? Kya hua? Main toh aajkal itna bhi online nahi karta.
+caller: Ji sir, hamari system ne dikhaya hai ki Gujarat se ₹8000 ka ek transaction hua hai. Aapne kiya ya nahin?
+receiver: ₹8000 Gujarat se? Nahin, maine toh aisa kuch bhi nahi kiya. Koi fraud toh nahi?
+caller: Sir, fraud hone ki sambhavna hai. Verify karne ke liye aapka bank account number aur OTP bataiye jo aapko SMS mein milega.
+receiver: OTP? Account number bhi?! Sir, aise kyun? Aapko toh abhi bank number aur OTP ki zarurat nahi honi chahiye. Yeh theek nahi lag raha hai.
+caller: Sir, zaroorat hai. Hamara system automatic hai. OTP de dijiye, warna aapka account block ho sakta hai. Jaldi de dijiye.
+receiver: Account block kar denge? Sir, main police mein report kar dunga. Aap fraudster ho!

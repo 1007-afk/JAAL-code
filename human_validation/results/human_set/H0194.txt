@@ -1,0 +1,8 @@
+caller: Namaste! Main CryptoGain se Rahul bolta hoon. Aapka naam Rajesh Sharma hai, correct? Humare platform pe ek limited-time investment opportunity hai jismein aap sirf ₹3000 invest karke ₹12000 tak kama sakte hain.
+receiver: CryptoGain? Mainne kabhi suna nahi. ₹3000 se ₹12000? It sounds too good to be true.
+caller: Sir, yeh ek exclusive offer hai sirf select customers ke liye. Humara algorithm currently trending cryptocurrencies ko identify karta hai aur automatic trading karta hai. Risk bahut kam hai. Aap website par register karke start kar sakte hain: cryptogain.live
+receiver: Okay, cryptogain.live. I’ll check it out. But what’s the catch? I've seen so many scams online.
+caller: Sir, koi catch nahi hai! Bas ₹3000 invest karein aur paisa kamaen.  Aap apne wallet se deposit kar sakte hain. Jaldi karein, offer limited hai aur seats fast ho rahi hain.
+receiver: Fine, I’ll deposit ₹3000. But I want a guarantee of the ₹12000 profit.
+caller: Sir, guarantee toh koi nahi de sakta, market fluctuate karta hai, lekin humara track record bahut acha hai.  Deposit karne ke baad, aapko ek small verification fee, ₹500, bharne ke ho sakta hai, security ke liye.
+receiver: ₹500 verification fee? I didn't see that mentioned before.

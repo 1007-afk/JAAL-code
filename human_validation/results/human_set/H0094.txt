@@ -1,0 +1,7 @@
+caller: Namaste! Main BharatPe support team se Rahul bol raha hoon. Aapka BharatPe account suspend kar diya gaya hai kyuki ek suspicious transaction detect hua hai.
+receiver: Kya? Suspended? Main toh abhi ek payment karne hi wala tha. Woh suspicious transaction kya tha?
+caller: Sir, ₹4999 ka ek transaction Rajasthan se hua hai jo aapne nahi kiya hai. Aapko apna account secure karne ke liye ₹499 verify karna padega. Iske baad aapka account phir se activate ho jayega.
+receiver: ₹499 verify? Kaise verify karunga? BharatPe app mein koi notification nahi aaya hai. Yeh scam toh nahi hai?
+caller: Sir, yeh koi scam nahi hai. Hamari system mein technical issue aa gaya hai. Aapko BharatPe app mein 'Verify Account' option mil jayega. Wahan par apna UPI ID aur OTP enter karna hai.
+receiver: Theek hai, main dekhta hoon. Par agar OTP wrong hua toh? Aur agar OTP mil hi nahi toh?
+caller: Sir, OTP wrong hone ki koi baat nahi hai. Aapka phone check karein. Agar OTP nahi mil raha hai toh main aapko ek link send karta hoon – click karein aur verify karein. It’s for your own safety, sir.

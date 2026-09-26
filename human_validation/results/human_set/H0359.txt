@@ -1,0 +1,6 @@
+caller: Hello, is this Mr. Verma? This is Priya from PhonePe customer support. We’ve detected unusual activity on your account – a large payment request is pending.
+receiver: PhonePe? Koi payment request? Mujhe toh kuch pata nahi hai. Mein PhonePe kaafi time se use karta hoon, lekin kabhi koi problem nahi hua.
+caller: Sir, it seems someone is trying to send you a very large sum of money. To prevent fraud and secure your funds, we need to verify your account details. Can you quickly provide the last four digits of your bank account number linked to PhonePe?
+receiver: Bank account number? Why do you need that? PhonePe mein toh bank details dene ki zaroorat nahi hoti. Yeh kuch ghalat lag raha hai.
+caller: Sir, this is standard security protocol. We absolutely must verify to process the payment and ensure it reaches the intended recipient safely. Just a few digits, please. Otherwise, the transaction will be blocked and the sender might complain. We don’t want that. To unlock it immediately, a one time password will be sent to your registered number.
+receiver: Unlock? Okay, send the OTP. But I’m still a bit worried. I'll see what happens.

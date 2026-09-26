@@ -1,0 +1,8 @@
+caller: Namaste, aapko sabse mahatvapoorn call mil rhi hai. Is bar, 'Shubh Yatra' travel agency se baat ho rahi hai. Humein pata chala hai ki aapke naam par ek special deal hai - Nepal jaane ke liye ek flight ticket poori tarah free mein mil ja sakti hai! Aapse yeh deal batane mein kami nahin hogi.
+receiver: Oh, hello! Koi problem nahi, mere paas time hai. 'Shubh Yatra'? Free flight ticket Nepal mein? Wo toh bahut acha lagta hai! Bataiye, kaise?
+caller: Achcha, [Receiver’s Name], aapki interest dekhkar khushi hui. Sirf verification ke liye humein aapki mobile number chahiye. Iske badle mein aapko free ticket milegi. Kya aap apna number bata sakte hain? Aur abhi koi extra charge bhi nahi lagega.
+receiver: Haan, mera number hai [Caller says their number, e.g., 8765432109].  Koi extra charge nahi, theek hai.  Bata deta hun.
+caller: Shukriya, [Receiver's Name] ji.  Aapka number [Receiver's Number] hai.  Ab, is offer ko activate karne ke liye, humein ek small OTP verify karna hoga jo aapke same number pe ayega.  Kya aap ready hain?
+receiver: Haan, OTP.  Bhej dijiye. Main ready hoon.  Jald se jald ho jaaye toh good hai.
+caller: Excellent! OTP bhej diya hai, [Receiver’s Name] ji. Aapko ek 6 digit code milega. Woh code dekho aur mujhe bataiye.
+receiver: Okay, OTP aa gaya. [Reads out OTP]. Yeh hai mera OTP. Ab fir kya?

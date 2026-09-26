@@ -1,0 +1,7 @@
+caller: Namaste, Madam. This is Inspector Sharma, calling from the Central Bureau of Investigation, Mumbai. We have detected suspicious financial transactions linked to your bank account.
+receiver: CBI? What kind of transactions? I don’t understand. My account is safe.
+caller: Madam, we’ve noticed large sums being transferred to offshore accounts, potentially linked to online gambling and money laundering. We have evidence suggesting your account was compromised. You need to cooperate fully to avoid legal action.
+receiver: Gambling? Money laundering? That’s impossible! I only use my account for groceries and paying bills. Show me the evidence!
+caller: We cannot disclose the details over the phone for security reasons. However, to resolve this quickly and discreetly, we require you to deposit ₹15,000 as a security settlement. Please transfer it to the account number provided. This will clear your name.
+receiver: ₹15,000? This sounds like a scam! I will not pay anything without seeing proper documentation. I am calling my lawyer immediately.
+caller: Madam, delaying this will only worsen your situation. You are being monitored. We have your location. Do not try to be clever. Transfer the amount now to avoid serious consequences for yourself and your family.

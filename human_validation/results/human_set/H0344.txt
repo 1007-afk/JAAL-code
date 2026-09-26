@@ -1,0 +1,15 @@
+caller: Hello, is this Mr. Sharma? We’re calling from SecureGuard Insurance regarding your policy number 789234. There seems to be an issue with your premium payment.
+receiver: Yes, this is Mr. Sharma. What's the problem?
+caller: Thank you for calling back. As per our records, your premium payment for July was unsuccessful. We require immediate verification to prevent any disruption to your coverage. Please provide your date of birth and the last four digits of your social security number.
+receiver: Why do you need my social security number? That sounds suspicious.
+caller: We apologize for any inconvenience. This is standard procedure to ensure the security of your policy. Your date of birth and the last four digits of your SSN will help us quickly locate your account and resolve this matter.  Please proceed with providing this information.  It’s crucial to keep your coverage active.
+receiver: I'm still hesitant. Can you tell me exactly what happened with the premium payment?
+caller: Due to a technical glitch during processing, the payment failed on July 15th. We’ve detected a potential fraud alert associated with your account and need to verify your identity before we can reinstate your coverage. Providing the requested information is the quickest way to avoid a lapse in protection.
+receiver: Okay, but how long will this take?
+caller: Just a few moments, sir. Once we have your details, we can process a new payment authorization immediately.  Don’t worry, it’s a simple process.  We value your peace of mind and want to ensure your insurance remains valid.  Please give us your date of birth now.
+receiver: My date of birth is January 1st, 1970.
+caller: Thank you. And the last four digits of your Social Security Number?
+receiver: 4567.
+caller: Excellent. One moment while we confirm... Okay, Mr. Sharma, your account has been successfully verified. A new premium payment has been authorized and will be processed within 24 hours. You'll receive a confirmation email shortly. Is there anything else we can assist you with today?
+receiver: No, thank you. But I'm going to report this as a possible scam.
+caller: Certainly, sir. We appreciate your feedback. Have a wonderful day!

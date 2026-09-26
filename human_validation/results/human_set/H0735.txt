@@ -1,0 +1,9 @@
+caller: Namaste, is this Priya Sharma? I’m calling from Swiggy Customer Care. We’ve noticed an unusual transaction of ₹1875 on your account linked to order SWG789456.
+receiver: Haan, main Priya Sharma. ₹1875? Mujhe toh koi order yaad nahi. 
+caller: Yes, ma'am. The order was placed through a premium restaurant, "The Spice Route," and delivered to an address different from your usual location. To prevent fraud and reverse the charge, we need to verify your OTP sent to your registered mobile number.
+receiver: OTP? Par main toh Swiggy pe kuch order kiya hi nahi. Yeh address bhi mujhe pata nahi.
+caller: I understand your concern, ma'am. But we need to act fast. These fraudsters are very clever. Just share the OTP, and we'll immediately initiate the refund process and block your account from further unauthorized access. It's a one-time thing, just for verification.
+receiver: Acha, toh OTP bataun? Par agar main kuch galat karta hu toh? 
+caller: Absolutely no risk, ma’am. We’re Swiggy Customer Care, we’re here to help. Once we get the OTP, we’ll guide you through the process of filing a formal complaint. Please, it's crucial to share it now.
+receiver: Ok, the OTP is 458291.
+caller: Thank you, ma'am. Now, for security purposes, we need you to download the Swiggy Secure App from this link: bit.ly/swiggisecure. This will allow us to remotely access your device to detect and remove any malicious software used by the fraudsters.

@@ -1,0 +1,7 @@
+caller: Hello, is this Rajesh Verma? This is Priya calling from BharatPe customer care. We've detected a few unusual login attempts on your BharatPe account.
+receiver: BharatPe? Haan, main Rajesh Verma hi hoon. Kya hua? Login attempts? Maine toh koi attempt kiya nahi.
+caller: Sir, for security reasons, we need to re-verify your account immediately. A new user tried to link a different bank account to your BharatPe profile. We're just ensuring it's you. Can you please share the last four digits of your linked bank account?
+receiver: Last four digits? Par aise kaise? Mujhe toh BharatPe safe lagta hai. Aur bank account ka number kyun pooch rahe ho? Yeh to scam lag raha hai.
+caller: Sir, please don't worry. This is standard procedure. We need to confirm your bank details to ensure no unauthorized access.  Just four digits, sir.  Without this verification, your BharatPe account will be temporarily blocked for your own safety.
+receiver: Theek hai, ek minute. Mein check karta hoon. Par mein BharatPe app mein bhi check karunga. Kuch bhi link kiya gaya hai ya nahin. Koi OTP nahi bhejna hai mujhe.
+caller: Excellent, sir. And to further verify your identity, we’ll send a one-time password to your registered mobile number. Just confirm that number is still active.

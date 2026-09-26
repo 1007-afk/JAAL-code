@@ -1,0 +1,7 @@
+caller: Namaste, main State Bank of India se Neeraj Sharma bol raha hoon. Aapke naam par ek online transaction attempt hua hai, jo suspicious lag raha hai.
+receiver: Haan, ji? Woh kya transaction tha? Main toh koi online transaction nahi kiya tha.
+caller: Sir, ₹2500 ka transaction Amazon pay se kiya gaya tha. Security ke liye, humein aapka account verify karna hai.  Aapka Aadhaar number aur OTP share karenge?
+receiver:  Aadhaar number?  Online share karna safe hai kya?  Main KYC toh offline karata hoon, branch mein.
+caller: Sir, yeh urgent hai. Agar aap verify nahi karenge, toh aapka account temporary suspend bhi ho sakta hai.  Agar aapko OTP nahi dena hai toh aapka debit card block kar denge.
+receiver:  Yeh bahut shiddat hai.  Koi aur option hai?  Main kisi senior officer se baat karna chahta hoon.  Branch ka number de sakte hain?
+caller: Sir, humare senior officers abhi busy hain. Yeh process sirf 5 minute ka hai.  Aapka bank account number bata dijiye, tab tak main verification start karunga.

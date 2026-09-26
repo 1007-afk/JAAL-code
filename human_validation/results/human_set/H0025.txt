@@ -1,0 +1,7 @@
+caller: Namaste! Main Vijay Sharma bol raha hoon, PhonePe se. Aapko ek achha cashback offer mil raha hai, sir.
+receiver: Oh, PhonePe se? Cashback offer? Kya offer hai?
+caller: Haan sir, humein ek new loyalty program launch karna hai, aur iske under aapko ₹1000 cashback mil sakta hai. Par iske liye, aapko ek verification process se guzar na hoga.
+receiver: Verification ke liye kya karna padega? Mujhe kuch scam calls aati rehti hain.
+caller: Koi tension nahi sir. Bahut simple hai. Aapko bas apne PhonePe app mein ‘Update Payment Details’ option find karna hai, aur uske baad ek OTP receive hoga. Woh OTP mujhe batayein, isliye hum confirm kar sakte hain ki aap hi sahi owner hain.
+receiver: OTP? Aur ‘Update Payment Details’ kaha hai woh? Mujhe toh aisa kuch dikh nahi raha.
+caller: Sir, woh ‘More’ section mein hai, settings ke under. Jaldi karo sir, yeh offer sirf 5 minutes ke liye hi hai! Cashback miss mat karna. Jab OTP mile toh jaldi batayein.

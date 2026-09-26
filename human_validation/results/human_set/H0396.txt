@@ -1,0 +1,8 @@
+caller: Namaste, mai Indian Customs se bol raha hoon. Aapke naam par ek parcel aaya hai Mumbai customs warehouse mein. Parcel mein illegal items paaye gaye hain.
+receiver: Kya? Illegal items? Mere naam par? Yeh kaise hua? Main toh kabhi parcel order nahi kiya.
+caller: Ji, parcel mein suspicious documents aur kuchh electronic gadgets mile hain. Aapko is matter mein clarify karna hoga, warna case register hoga aur legal action lena padega. Aapko ₹15,000 fine bharne hoga.
+receiver: ₹15,000? Yeh bahut zyada hai! Main toh kuch bhi illegal nahi kar raha hoon. Aur legal action kis tarah lenge? Mujhe koi notice ya paper nahi mila hai.
+caller: Dekhiye, yeh process online hi hota hai. Aapko ek secure payment link mil jayega. ₹15,000 bharne ke baad, parcel aapke address par dispatch ho jayega. Jaldi karein, otherwise case file ho jayega aur aapko arrest bhi kar sakte hain.
+receiver: Arrest? Sir, main yeh sab believe nahi kar raha hoon. Koi official ID number ya reference number de sakte hain? Main customs website par check karunga. Aur mujhe koi email ya written notice bhi chahiye. Main phone pe payment nahi karunga. Yeh fraud lag raha hai.
+caller: Aapka time barbaad ho raha hai. Yeh ek urgent matter hai. ₹15,000 ka payment jaldi se karwao, otherwise legal action lenge. Main koi ID number nahi de sakta.
+receiver: Okay, I’m hanging up now. Goodbye.

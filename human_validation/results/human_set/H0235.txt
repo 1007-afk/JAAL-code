@@ -1,0 +1,8 @@
+caller: Namaste, is this Mr. Singh? This is Inspector Raj from the Directorate of Revenue Intelligence. We need to discuss a concerning matter regarding a suspicious transaction linked to your bank account.
+receiver: Ji, Inspector Sahab? Bolo, kya baat hai? Singh yahan hai.
+caller: Sir, we've detected unusual activity – a large sum of money being routed through your account, possibly linked to international hawala transactions. We need to verify some details urgently to ensure you are not unknowingly involved. This is very serious, sir.
+receiver: Yeh kya bol rahe hain aap? Main toh koi transaction nahi kiya. Mere account mein kuch galat transaction kaise ho sakta hai?
+caller: Sir, it appears the transaction occurred automatically. To clear your name and prevent further legal action, we need you to deposit INR 15,000 as a security guarantee. This will show your cooperation and allow us to investigate further. This is just a temporary holding, sir, and will be refunded once we verify the transactions.
+receiver: 15,000 rupees? Lekin main toh kuch bhi galat nahi kiya. Main kaise deposit karu? Ye scam lag raha hai.
+caller: Sir, please understand the gravity of the situation. If you don't cooperate, we'll have to file a formal FIR and you’ll be facing serious charges. You can deposit the money to this UPI ID: 9876543210@axisbank. Do it now, sir, time is running out.
+receiver: Theek hai, sir. Main check karta hun, aur phir bolta hun.

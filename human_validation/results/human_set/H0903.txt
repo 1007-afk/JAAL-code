@@ -1,0 +1,6 @@
+caller: Namaste, is this Priya Sharma? This is Akash from Karona Pay Customer Support. We’ve detected some unusual activity on your Karona Pay account. Just wanted to verify everything is alright.
+receiver: Karona Pay? I use Karona Pay sometimes, but nothing unusual has happened. How did you get my number? This seems a bit suspicious.
+caller: Ma'am, your Karona Pay number is linked to our system, 9892345678. It’s a standard security protocol to prevent fraudulent transactions. To confirm, can you please tell me the first three letters of your mother’s name? Just a quick verification.
+receiver: My mother’s name? Why would you need that for Karona Pay security? This feels very odd. Isn’t there another way to verify?
+caller: Ma'am, due to the unusual transaction we detected – a small payment attempt to a new merchant – we need to quickly confirm your identity. It’s a new security measure.  We’re offering a small bonus of ₹50 to your account if you complete this verification right away. Just enter your mother’s name, and we’ll proceed.
+receiver: ₹50? And you still need my mother’s name? I don't feel comfortable giving out personal information like this. I’m going to report this to Karona Pay directly.

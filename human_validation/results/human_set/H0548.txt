@@ -1,0 +1,6 @@
+caller: Namaste! Sir/Madam, your FreeCharge wallet has a security alert. There's been an unusual login attempt from an unknown device. For your safety, please verify immediately.
+receiver: Kya? Ek login attempt? Unknown device se? Kaise hua ye? FreeCharge mein to maine kuch nahi kiya.
+caller: Haan sir, exactly. To prevent unauthorized access and protect your funds, we need you to quickly confirm your wallet details. We'll guide you through a simple verification process. Just need you to pay a small ₹99 as a security verification fee.
+receiver: ₹99? Verification fee? FreeCharge toh kabhi koi fee nahi leta. Yeh scam lag raha hai! Main call nahi karunga.
+caller: Sir, please don't worry! This is a standard security protocol. The ₹99 is just to authenticate you, like an OTP. After verification, it will be credited back to your wallet, guaranteed. Tumko ₹1000 cashback bhi milega! Tumhari security meri zimmedari hai.
+receiver: ₹1000 cashback? Okay, ₹99 bahut kam hai. Tumhara naam batao aur tumhare agent ID number bhi do. Check kar leta hoon. Aur main kaise pay karoon ₹99?

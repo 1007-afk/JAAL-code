@@ -1,0 +1,9 @@
+caller: Hello, is this Mr. Sharma? We've detected unusual activity on your Flipkart account. There's a pending delivery of a high-value item, and we need to verify your details to prevent fraud.
+receiver: Oh really? What item is it? And what kind of unusual activity?
+caller: It's a Samsung Galaxy S24 Ultra, sir. The system flagged it because the shipping address seems different from your usual one. We just need a one-time password (OTP) sent to your registered mobile number to confirm you authorized this delivery.
+receiver: A Samsung phone? I didn’t order anything like that.  Are you sure you have the right number?
+caller: Yes sir, we have verified the number. Just provide the OTP so we can secure your account and ensure the delivery is held until we can resolve this. It's a safety precaution, sir, nothing to worry about. Once you give the OTP, we will send you a link to confirm the delivery details.
+receiver: Okay, hold on a second. Can you give me a reference number for this delivery? And what's the name of the sender? I want to double-check before I give you anything.
+caller: The reference number is FLP-789456. The sender is listed as "Global Tech Solutions." Just the OTP, sir, please. We’re holding the delivery at the moment and can't release it without the verification. It's going to expire soon.
+receiver:  Global Tech Solutions? I've never heard of them. And why didn't I get any email about this delivery? This is starting to feel a little suspicious. I think I'll just contact Flipkart directly through their website.
+caller: Sir, please don’t delay. Security protocols prevent us from sharing delivery information via website inquiries. The OTP is crucial to prevent

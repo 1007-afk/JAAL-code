@@ -1,0 +1,7 @@
+caller: Namaste! I'm Rohan from 'AlphaTrade Solutions'. We're looking for motivated individuals to assist with verifying online advertisements for a new AI platform. It’s very simple work, just clicking and rating ads - pays well!
+receiver: AlphaTrade Solutions? I haven't heard of them. What kind of ads would I be rating? And what's the payment structure like?
+caller: It's a fairly new venture, still growing. The ads are related to cryptocurrency and stock market platforms – mainly for market research. We pay ₹500 per 100 ads verified. You'll receive your payment via Paytm every week.  A great opportunity to earn some extra money!
+receiver: ₹500 for 100? That doesn't sound too bad. How do I get started? Do I need any specific software or account setup?
+caller: Wonderful! First, you need to make a small deposit of ₹1,500 as a security deposit and to unlock the verification portal. This ensures you're serious about the work and covers initial system access. We'll return it to you with your first payment.
+receiver: ₹1,500 deposit? That seems a bit odd for just clicking ads. Can I see a sample of the ads first, or talk to someone else who’s done this before?
+caller: Absolutely! But the deposit is essential. We need to activate your account quickly, so please send the ₹1,500 to the provided UPI ID. Once it reflects, I’ll send you the verification link and login details. This is a limited-time offer for new recruits.

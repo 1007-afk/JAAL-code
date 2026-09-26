@@ -1,0 +1,7 @@
+caller: Hello, this is Priya calling from QuickCash Loans. We’ve noticed you recently applied for a personal loan on our platform. There's a small verification fee of ₹2500 to finalize the approval process and disburse the funds immediately.
+receiver: ₹2500? But I haven't received any loan approval yet. I only filled out a basic application form. And why do I need to pay before getting the loan?
+caller: Yes, sir. It’s a standard security protocol. Many applicants try to exploit the system. This fee ensures you are a genuine applicant and prevents fraudulent activity. You can easily pay it via UPI - 9876543210@ybl. Please confirm the payment.
+receiver: Hold on. This sounds suspicious. I checked QuickCash Loans online, and there are many negative reviews claiming they ask for upfront fees. Are you sure you’re representing the official QuickCash Loans?
+caller: Sir, those are fake reviews posted by competitors. We are a legitimate company, fully registered with the RBI. If you don’t pay the verification fee, we will be forced to reject your application, and you'll lose the opportunity to get a quick loan. We can process it right away!
+receiver: Look, I'm not comfortable with this. You're asking me to pay before I even get the loan. That's a huge red flag. I'm reporting this number and I won’t be paying anything. Goodbye.
+caller: Sir, please, don't be hasty! As a special gesture, we can reduce the fee to ₹1500. This is a one-time offer! Think about it.

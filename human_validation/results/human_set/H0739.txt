@@ -1,0 +1,9 @@
+caller: Namaste, sir? This is Inspector Verma speaking from the Directorate of Enforcement, Delhi. We've detected some unusual activity linked to your bank account - a large sum being transferred through cryptocurrency exchanges.
+receiver: Cryptocurrency? But I don’t even use cryptocurrency. This must be a mistake.
+caller: Sir, our records show multiple transactions. We suspect you might be unknowingly involved in a money laundering scheme linked to international drug trafficking. We need to verify your details immediately to prevent further complications.
+receiver: This is ridiculous! I’m a simple shopkeeper. Why would I be involved in anything like that? Can you tell me the case number?
+caller: Sir, please don't get agitated. We understand this is concerning.  The case reference is ED/AML/2024/0078. To clear this up quickly and avoid legal action, we need a small compliance fee of ₹15,000 to cover verification costs.  It's a standard procedure.
+receiver: Fifteen thousand rupees? Just like that? I want to speak to your supervisor. I'm not paying anything until I confirm this is legitimate.
+caller: Sir, time is critical here. The more you delay, the more serious the situation becomes. We are currently video conferencing with several other individuals flagged in this same network. To ensure your safety and security, could you please join a video call so we can quickly verify your identity? Our customer support team will assist you with this at 9876543210.
+receiver: I still think this is a scam. I’m going to report this number to the cybercrime cell.
+caller: Sir, reporting to the cybercrime cell will only escalate matters.  These investigations are sensitive.  Cooperation is key.  Just a small fee and a quick video call to ensure your innocence, and you can go

@@ -1,0 +1,9 @@
+caller: Namaste, is this Mr. Verma? My name is Rohan from Axis Bank Secure Services. We’ve detected some unusual login attempts from abroad on your Axis Bank account. For your security, we need to quickly verify your details. It’s a new protocol we’ve introduced to protect our customers.
+receiver: Haan, main Verma hi hoon. Kya hua? Abroad se login attempts?
+caller: Yes sir. Someone tried accessing your account from Canada just now. Don't worry, we'll secure it immediately. To proceed, could you please share the last four digits of your Aadhaar card? Just to confirm it’s you.
+receiver: Aadhaar number? Kyun? Bank se related matter hai toh OTP kyon nahi mang rahe ho?
+caller: Sir, for this specific verification process, we require Aadhaar digits. OTP is used for transactions. This is purely for identity confirmation.  We are trying to prevent a major fraud. It’s a standard security check, sir. Can you quickly provide it?
+receiver: Standard security check? Toh mujhe bank branch mein jaake verify karna chahiye?
+caller: Sir, the branch is currently very busy.  This is a much faster process. We’ve identified several other accounts at risk right now – acting quickly is vital. Just those last four digits, please.  Once confirmed, we’ll immediately block any suspicious activity.
+receiver: Okay, fine. Last four digits are 4872.
+caller: Thank you, Mr. Verma. Now, for the final step of the verification, we need you to confirm your UPI PIN associated with your account. Just the last three digits of your UPI PIN will do.

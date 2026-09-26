@@ -1,0 +1,8 @@
+caller: Hello sir/madam, this is Priya calling from FreeCharge customer care. We have noticed some unusual activity on your FreeCharge wallet.
+receiver: Unusual activity? What kind of activity? Is something wrong?
+caller: Yes sir, a small transaction of ₹500 is pending verification. To secure your account, you need to complete the verification process immediately.
+receiver: Verification? But I didn't initiate any transaction. How do I verify it?
+caller: Just click on the link I’m sending you and enter your FreeCharge OTP and wallet password. It's a simple one-time verification. This is to prevent any fraud.
+receiver: OTP? Wait a minute… sending a password over a link feels risky. Can I call FreeCharge’s official helpline instead?
+caller: Sir, this is urgent. Time is running out! The link is valid for only 5 minutes. Please do it now to avoid your account getting blocked.
+receiver: I don't think I’ll click on that link. It seems suspicious. I’ll call FreeCharge directly.

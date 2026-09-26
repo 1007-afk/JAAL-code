@@ -1,0 +1,16 @@
+caller: Namaste! Aapse baat kar raha hoon Diwali Loot Deals se. Aapne humare Diwali Sale campaign mein registration kiya tha, aur hum ne aapko ek amazing offer mila hai!
+receiver: Diwali Loot Deals? Really? What’s the offer?
+caller: Haan ji, Diwali ke naam par hum ek premium gold coin de rahe hain, 750 rupees ka! Aapke loyalty points ke wajah se, humne aapko yeh gift dekar dhanyavaad de rahe hain.  Aapko bas iss number 9876543210 pe call karna hai, aur yeh coin claim karna hai.  Aapko pata hai, hamare paas sirf 3 gold coins bache hain, isliye jaldi kijiye!
+receiver: 750 rupees gold coin? Wow, that's a nice surprise. But, will there be any charges for receiving this coin? And how long does this offer last? I want to verify everything before I proceed.
+caller: Arre, koi chinta mat karo! Yeh call completely free hai, aapke liye.  Aur yeh offer toh kal subah 8 baje tak chalega.  Jaldi se call kijiye, taaki aap apna gold coin miss na kar dein.  Ham toh chahte hain ki aapki Diwali shandaar ho jaaye!
+receiver: Kal subah 8 baje tak? Okay, no charges. Let me give it a shot then. Thank you for informing me.
+caller: Haan ji, aapko khushi hogi!  Aur main aapko bata doon, yeh offer sirf kal subah 8 baje tak hi chalega. Hamare paas bas 3 gold coins bache hain, isliye aap jaldi se call kar lijiye, taaki aap yeh 750 rupee ka gold coin miss na kar dein. Aapki Diwali shandaar ho jaye, isiliye toh yeh offer hai!
+receiver: Got it! Only 3 left and until tomorrow morning. I'll call that number immediately. Fingers crossed! Thanks again.
+caller: Assalam o Alaikum! Main Kisan Support Helpline se baat kar raha hoon. Hum Maharashtra sarkar ke upar se ek survey karte hue, aur aapko survey mein participate karne ke liye select kiya gaya hai.
+receiver: Oh really? Survey? About what?
+caller: Haan ji, yeh Maharashtra ke farmers ke liye agri-loan scheme ke bare mein hai. Humein aapke farming experience aur requirements ke baare mein kuch questions puchte hain. Agar aap survey mein participate karte hain, toh aapko agri-loan apply karne mein madad milegi aur aapko 10000 rupees ka subsidy bhi mil sakta hai!
+receiver: 10000 rupees subsidy? That sounds interesting. But, is there any cost involved in participating in this survey? And how much time would it take?
+caller: Arre, koi kharcha nahi hai! Yeh survey completely free hai.  Aur yeh survey complete hone mein sirf 15-20 minute ka time lagega.  Aapko bas iss number 8877665544 pe call karna hai, aur hum aapko survey mein join karne ke liye guide karenge.  Aapko pata hai, hamare paas sirf 2 slots bache hain, isliye jaldi kijiye!
+receiver: 15-20 minutes and no cost? Alright, let's see. I'll try calling that number. Thanks for the information.
+caller: Haan ji, aapko khushi hogi!  Aur main aapko bata doon, yeh offer sirf 2 slots ke liye hi available hai. Hamare paas bas 2 slots bache hain, isliye aap jaldi se call kar lijiye, taaki aap yeh subsidy miss na kar dein. Aapki rojganishvatta shandaar ho jaye, isiliye toh yeh offer hai!
+receiver: Okay, understood. Only two slots remaining. I’ll call that number right away. Hopefully, I can get one. Thanks again.

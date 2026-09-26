@@ -1,0 +1,7 @@
+caller: Namaste, main Indian Customs se bol raha hoon. Aapke naam par ek parcel customs clearance ke liye pending hai. Parcel mein illegal items paaye gaye hain.
+receiver: Indian Customs? Illegal items? Mere naam par? Mujhe toh koi parcel order karne ka yaad nahi. Kya koi tracking number hai jo aap de sakte hain?
+caller: Ji, madam. Tracking number XYZ123456789. Parcel Gujarat se aaya hai, aur usmein suspicious documents hain. Aapko yahan pe fine bhar na padega, ya hum case register kar sakte hain. 15,000 rupees ka fine bhar na padega.
+receiver: 15,000 rupees? Yeh bahut zyada hai! Gujarat se parcel? Main toh kabhi Gujarat nahi gayi. Main abhi police mein complaint karungi. Aur aapne mujhe tracking number bhi de diya, woh check karta hoon.
+caller: Madam, police mein complaint karne se kuch nahi hoga. Case already register ho chuka hai. Aapko zyada time nahi hai, otherwise aapko arrest bhi ho sakta hai. 15,000 rupees ka fine online pay kar dijiye, mein aapko payment link send karta hoon. It's for your own safety.
+receiver: Arrest bhi ho sakta hai? Yeh toh shormaani ho gaya! Koi link mat bhejo, main kisi bhi website pe click nahi karungi. Aap logon ka koi trust nahi hai. Main abhi apne lawyer se baat karti hoon.
+caller: Madam, please understand. It is a serious matter, and time is running out. If you don't pay the fine, we have to escalate the case. I am only trying to help you avoid further complications. For your convenience, the link is [suspicious shortened URL]. Please pay now.

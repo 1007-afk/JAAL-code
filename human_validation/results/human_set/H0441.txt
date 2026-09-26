@@ -1,0 +1,8 @@
+caller: Hello sir/madam, I am calling from BharatPe support. We have detected unusual activity on your BharatPe account.
+receiver: Oh really? What kind of unusual activity? Is something wrong?
+caller: Yes, a few failed transaction attempts have been flagged. To secure your account and prevent unauthorized access, we need to verify your details urgently. There’s a one-time security fee of ₹200 to complete the verification process.
+receiver: ₹200? What do I need to do to pay this fee? Why can’t I just do this online?
+caller: You can pay via UPI. Please send ₹200 to this UPI ID: secure-bharatpe@xyz. Once the payment is confirmed, we’ll send you a verification code. This is very important, sir/madam, time is running out.
+receiver: Okay, I'll send the money. Just give me a minute. What happens after I send the money? What verification code will I receive?
+caller: Excellent. Once the payment is received, you will receive a verification code via SMS on your registered mobile number. Please share the code with me immediately so we can finish the process.
+receiver: I sent the money. The UPI transaction is complete. Now, what is the verification code?

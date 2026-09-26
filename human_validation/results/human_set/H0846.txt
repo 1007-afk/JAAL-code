@@ -1,0 +1,18 @@
+caller: Namaste! Kaise haal hai? Main Bharat Telecom se bol raha hun. Tumhara number, 9876543210, humare database mein dikhwa ke chahte hain. Iske liye, tumhare phone par ek special software install karna hoga, jo tumhe free mein video dekhne ka chance dega - "MovieStarPlusHD".
+receiver: Haan, okay.  Kahaan se download karoon?  Iska installation kahan hoga?
+caller: Woh tumhare phone ke store mein milega, Google Play Store ya Apple App Store. Install karne ke baad, tumhare phone par ek notification aaega, jo tumhe MovieStarPlusHD ko activate karne ka istemaal karega.  Yeh process bohat asaan hai, sirf kuch seconds mein complete ho jaega.
+receiver: Okay, main try karunga. Par agar kuchh problem hua toh?
+caller: Agar tumko koi problem hui toh, tum mujhe turant call kar sakte ho. Mein tumhari madad karenge.  Aur yeh batao, tumhara naam kya hai?  Main tumhare name record karna chahta hun.
+receiver: Mera naam Rohan Kumar hai.
+caller: Shukriya Rohan Kumar.  Ab tumhare phone par MovieStarPlusHD install ho jayega aur tum free mein movie dekhna shuru kar denge.  Agar tumko koi suggestion chahiye toh, mujhe batana.  Aur agar tumko kisi bhi tarah ki help chahiye, toh tum mujhe any time call kar sakte ho.  Aapka din khubsurat ho!
+receiver: Thank you.  Bye.
+caller: Bye bye!
+caller: Namaste! Kaise haal hai? Main Airtel Digital Services se bol raha hu. Tumhara mobile number, 7894561234, humare network stability ko test karne ke liye data log karne ke liye humare system mein add karna chahte hain. Iske liye, tumhare phone par ek small app install karna hoga - “SpeedBoostPro”.
+receiver: Haan, okay. App download kar sakta huon? Kaha se laaun?
+caller: Woh aapke phone ki app store mein milega - Google Play Store ya iOS App Store. Install karne ke baad, app ko permission dene ke liye screen par instruction follow karein. Yeh process bohot simple hai, bara kuch minute mein ho jayega.
+receiver: Okay, main download kar leta huon. Par agar kuchh galat hota hai?
+caller: Agar aapko koi difficulty aati hai, toh aap mujhe call kar sakte hain. Mein aapko helpline support dunga. Aur tumhara address bhi pata karna chahte hain, sirf research ke liye.
+receiver: Mera address Delhi mein hai, Hauz Khas.
+caller: Shukriya Hauz Khas. Ab SpeedBoostPro aapke phone par install ho jayega aur hum aapke network speed ko track karenge. Agar aapko koi problem hogi toh, tum mujhe contact kar sakte ho.  Aapka din achcha chalo!
+receiver: Thank you.  Goodbye.
+caller: Goodbye!

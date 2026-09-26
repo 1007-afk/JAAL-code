@@ -1,0 +1,6 @@
+caller: Namaste! Sir/Madam, hum CryptoGain se bol rahe hain. Aapke Bitcoin wallet mein ₹75000 ka pending transaction hai. Security ke liye, kindly aapka wallet address aur verification code bataiye.
+receiver: CryptoGain? Mujhe koi transaction dikh nahi raha. Mera wallet address main khud check karta hoon. Koi verification code share nahi karunga phone pe. Yeh thoda suspicious lag raha hai.
+caller: Ji ji, bilkul. Security hi hamara priority hai. Agar aap apne wallet mein check karenge, toh transaction ka record nazar aayega. Verification code sirf 1 minute ke liye valid hai, agar aap share nahi karenge toh transaction fail ho jayega aur aap ₹75000 se mahrum ho jayenge.
+receiver: ₹75000? Wait karo, wait karo… Mujhe CryptoGain ki official website check karne do. Aur mujhe koi transaction record nahi dikh raha. Yeh koi scam toh nahi hai?
+caller: Sir/Madam, please mat worry. Hamara website CryptoGain.co hai. Jaldi se check karein, offer limited time ke liye hai. Aapka wallet address bataiye, taaki hum transaction ko manually verify kar sakein.
+receiver: CryptoGain.co? I'm checking it now… yeh toh fake lag raha hai. Yeh website toh ekdum new hai. Aur mera wallet address main kabhi kisi ko nahi bataunga. Yeh clear scam hai, sir. Main police mein report karungi.

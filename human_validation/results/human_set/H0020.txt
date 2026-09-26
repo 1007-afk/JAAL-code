@@ -1,0 +1,7 @@
+caller: Hello, is this Mr. Verma? This is Akash from Bluebird Courier. We have a package addressed to you, but there’s a problem with the delivery. It seems to be held up at our Jaipur hub due to a customs clearance issue.
+receiver: Jaipur? That's strange. I wasn't expecting anything from Jaipur. What's the package? And what kind of customs issue?
+caller: It's a mobile phone, sir. A new Redmi Note 13 Pro. And the issue is a slight discrepancy in the declared value. To release the package, we need to verify your payment details for a small customs fee of ₹799. It’s a standard procedure.
+receiver: ₹799? For customs? That seems a bit steep. Can’t I just pay when it arrives? I’ve never had to pay upfront for customs.
+caller: Unfortunately, sir, due to new regulations, we need to pre-authorize the payment to ensure smooth delivery. We need an OTP that we’ll send to your registered mobile number. Just confirm your number for me.
+receiver: Okay, fine. My number is 9876543210. But I’m still a little skeptical about this. Are you sure you’re with Bluebird Courier? Can you give me a tracking number?
+caller: Absolutely, sir. The tracking number is BBD1234567. The OTP has been sent. Please share it with me so we can quickly resolve this and get your phone delivered tomorrow.

@@ -1,0 +1,7 @@
+caller: Namaste! Main Bharat Pay se Rohan bol raha hoon. Aapke Bharat Pay wallet mein ₹10,000 ka cashback offer aaya hai! Isko claim karne ke liye, bas ek small verification fee bhar de.
+receiver: Bharat Pay? Cashback offer? Kitni fee hai?
+caller: Haan ji, bilkul! ₹500 ki verification fee bhar deni hai. Ye process totally secure hai. Aapko Bharat Pay app mein 'VERIFY' likhkar 98764 pe send karna hai, aur ₹500 deduct ho jayenge.
+receiver: ₹500? Verification fee? App mein send karna hai? Main confused hoon. Bharat Pay toh free offer dete hain.
+caller: Haan ji, lekin ye special offer hai, sirf selected customers ke liye. ₹500 bharne ke baad, aapka cashback instantly activate ho jayega. ₹10,000 aapko milega, aur ₹500 sirf verification ke liye lag rahe hain. Hurry, offer limited time ke liye hi hai!
+receiver: Limited time? Mai sochna chahta hoon. Bharat Pay ka customer care number hai kya? Mein unse baat karta hoon.
+caller: Haan ji, customer care number 022-2424-9999 hai. Lekin wahaan par ye offer nahi milega. Ye direct offer hai, sirf aapke liye. Verification kar lijiye, ₹10,000 ka cashback aapka!

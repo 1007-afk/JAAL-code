@@ -1,0 +1,10 @@
+caller: Namaste sir, congratulations!  Aapke naam pe har taraf jitayenge! Aapko ₹5000 ka lottery ticket mila hai aur aapko jeetne ki badi shans hai!  Aapne bahut zyada selected kiya gaya hai!  Jaldi se 09876543210 par call karein, subah 10 baje se shaam 6 baje tak. Call ka charge sirf ₹2 hai.  Yeh ek bahut hi superb offer hai!
+receiver: Hello ji, really? ₹5000 ka lottery ticket? Wow, that’s great news! So, I have to call 09876543210 to get this ticket? And the cost is only ₹2? That sounds wonderful! I am very interested to learn more.
+caller: Haan ji, bilkul sahi! Aapke naam pe har taraf jitayenge, yeh bilkul true hai! Aur haan, claim karne ke liye aapko sirf 09876543210 par call karna hai. Charge bhi sirf ₹2 hai, so koi tension mat le!  Jaldi se call karein, lottery ticket poora khali ho jaayega!  Kya aap abhi call karne waale hain?
+receiver:  Oh no, poora khali ho jaayega? That’s a little concerning. The number is 09876543210, correct? And it’s just ₹2 for the call? Okay, I will call them immediately. Thank you for providing this exciting opportunity!
+caller:  Bahut achcha! Aur haan, number yaad rakhna, 09876543210. Agar aap jaldi call karenge toh aapko pakka lottery ticket milega. Aur agar koi confusion ho toh mujhe batana, main aapki madad karunga. Ab main phone rakhta hoon, jaldi call kijiye!
+receiver: Ji, thank you so much for reminding me! I am heading over to the phone right now to make the call. I truly appreciate your assistance. Let’s see if I can get lucky!
+caller:  Haan ji! Best of luck! Mujhe yakeen hai aapko zarur lottery ticket milega. Aur agar koi problem aaye toh mujhe bata dijiyega, theek hai? Ab main phone rakhta hoon, jaldi call kijiye!  Khushiyaan maniye!
+receiver: Ji, definitely! Thank you! I sincerely hope I win something! Goodbye!
+caller: Haa ji!  Happy winning!  Mujhe yakeen hai aapko bohat mashhoor milega.  Ab main phone rakhta hoon, jaldi call kijiye!  All the best!
+receiver: Ji, bye bye!

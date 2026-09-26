@@ -1,0 +1,9 @@
+caller: Namaste, is this Mrs. Verma? My name is Akash from Axis Bank Security. We've detected unusual activity on your savings account – a login attempt from a device in Kolkata.
+receiver: Haan, main Mrs. Verma hoon. Kolkata se? Mujhe toh koi idea nahi hai. Main toh Delhi mein hoon.
+caller: Yes ma'am, that’s concerning. To secure your account and prevent any unauthorized transactions, we need to quickly verify a few details. There's a potential risk of your account being compromised. We'll need to re-authenticate you.
+receiver: Re-authenticate? Kaise? Mujhe toh koi SMS ya email nahi aaya. Aur Kolkata mein se login kaise hua?
+caller: Ma’am, to protect your funds, we need to confirm your PAN card details and the last four digits of your bank account number. It's a standard security protocol. Don't worry, your information is completely secure.
+receiver: PAN card aur bank account number? Itna zyada information phone pe? Yeh thoda suspicious lag raha hai.
+caller: Ma'am, please understand, this is urgent. If we don’t verify within the next 15 minutes, we’ll have to temporarily suspend your account for your safety. The system is flagging it as high-risk. Just the PAN and last four digits – that's all we need.
+receiver: Suspend karenge? Chalo, okay. PAN card hai... XYZ12345. Aur last four digits... 1234. Par please, yeh sab why?
+caller: Thank you, Mrs. Verma. That confirms your identity. Now, for final verification, could you please provide the OTP sent to your registered mobile number - 9876543210?
