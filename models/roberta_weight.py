@@ -63,7 +63,7 @@ ID2NAME = {v: k for k, v in LABEL_MAP.items()}
 
 # Model & Tokenizer
 MODEL_NAME = "FacebookAI/roberta-base"
-MAX_SEQ_LEN = 2048
+MAX_SEQ_LEN = 512
 
 # Training Hyperparameters
 BATCH_SIZE = 16
